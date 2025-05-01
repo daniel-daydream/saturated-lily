@@ -1,0 +1,110 @@
+[
+  {
+    "HS Code": "94",
+    "Description": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated sign illuminated nameplates and the like; prefabricated buildings",
+    "Subentries": [
+      {
+        "HS Code": "9404",
+        "Description": "Mattress supports; articles of bedding and similar furnishing (for example, mattresses, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs or stuffed or internally fitted with any material or of cellular rubber or plastics, whether or not covered:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Mattresses:",
+            "Subentries": [
+              {
+                "HS Code": "9404.21.00",
+                "Description": "Of cellular rubber or plastics, whether or not covered",
+                "Subentries": [
+                  {
+                    "HS Code": "9404.21.00.10",
+                    "Description": "For use in a crib or toddler bed",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9404.21.00.13",
+                    "Description": "Of a width exceeding 91 cm, of a length exceeding 184 cm, and a depth exceeding 8 cm",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9404.21.00.95",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9404.29",
+                "Description": "Of other materials:",
+                "Subentries": [
+                  {
+                    "HS Code": "9404.29.10",
+                    "Description": "Of cotton",
+                    "Subentries": [
+                      {
+                        "HS Code": "9404.29.10.05",
+                        "Description": "For use in a crib or toddler bed",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9404.29.10.13",
+                        "Description": "Of a width exceeding 91 cm, of a length exceeding 184 cm, and a depth exceeding 8 cm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9404.29.10.95",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9404.29.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9404.29.90.85",
+                            "Description": "For use in a crib or toddler bed",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9404.29.90.87",
+                            "Description": "Of a width exceeding 91 cm, of a length exceeding 184 cm, and a depth exceeding 8 cm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9404.29.90.95",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9404.29.90.05",
+                            "Description": "For use in a crib or toddler bed",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9404.29.90.13",
+                            "Description": "Of a width exceeding 91 cm, of a length exceeding 184 cm, and of a depth exceeding 8 cm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9404.29.90.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

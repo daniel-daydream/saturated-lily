@@ -1,0 +1,1142 @@
+[
+  {
+    "HS Code": "30",
+    "Description": "Pharmaceutical products",
+    "Subentries": [
+      {
+        "HS Code": "3001",
+        "Description": "Glands and other organs for organotherapeutic uses, dried, whether or not powdered; extracts of glands or other organs or of their secretions for organotherapeutic uses; heparin and its salts; other human or animal substances prepared for therapeutic or prophylactic uses, not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "3001.20.00.00",
+            "Description": "Extracts of glands or other organs or of their secretions",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3001.90.01",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Glands and other organs, dried, whether or not powdered:",
+                "Subentries": [
+                  {
+                    "HS Code": "3001.90.01.10",
+                    "Description": "Liver",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3001.90.01.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3001.90.01.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "3002",
+        "Description": "Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; antisera, other blood fractions and immunological products, whether or not modified or obtained by means of biotechnological processes; vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products; cell cultures, whether or not modified:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Antisera, other blood fractions and immunological products, whether or not modified or obtained by means of biotechnological processes:",
+            "Subentries": [
+              {
+                "HS Code": "3002.12.00",
+                "Description": "Antisera and other blood fractions",
+                "Subentries": [
+                  {
+                    "HS Code": "3002.12.00.10",
+                    "Description": "Human blood plasma",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3002.12.00.20",
+                    "Description": "Normal human blood sera, whether or not freeze-dried",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3002.12.00.30",
+                    "Description": "Human immune blood sera",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3002.12.00.40",
+                    "Description": "Fetal Bovine Serum (FBS)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3002.12.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3002.13.00",
+                "Description": "Immunological products, unmixed, not put up in measured doses or in forms or packings for retail sale",
+                "Subentries": [
+                  {
+                    "HS Code": "3002.13.00.10",
+                    "Description": "Monoclonal antibodies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3002.13.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3002.14.00",
+                "Description": "Immunological products, mixed, not put up in measured doses or in forms or packings for retail sale",
+                "Subentries": [
+                  {
+                    "HS Code": "3002.14.00.10",
+                    "Description": "Containing monoclonal antibodies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3002.14.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3002.15.00",
+                "Description": "Immunological products, put up in measured doses or in forms or packings for retail sale",
+                "Subentries": [
+                  {
+                    "HS Code": "3002.15.00.11",
+                    "Description": "Containing monoclonal antibodies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3002.15.00.91",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products:",
+            "Subentries": [
+              {
+                "HS Code": "3002.41.00.00",
+                "Description": "Vaccines for human medicine",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3002.42.00.00",
+                "Description": "Vaccines for veterinary medicine",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3002.49.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3002.49.00.10",
+                    "Description": "Ricin",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3002.49.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Cell cultures, whether or not modified:",
+            "Subentries": [
+              {
+                "HS Code": "3002.51.00.00",
+                "Description": "Cell therapy products",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3002.59.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3002.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3002.90.10.00",
+                "Description": "Ferments",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3002.90.52",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3002.90.52.10",
+                    "Description": "Whole human blood",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3002.90.52.20",
+                    "Description": "Antiallergenic preparations",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3002.90.52.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "3003",
+        "Description": "Medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of two or more constituents which have been mixed together for therapeutic or prophylactic uses, not put up in measured doses or in forms or packings for retail sale:",
+        "Subentries": [
+          {
+            "HS Code": "3003.10.00.00",
+            "Description": "Containing penicillins or derivatives thereof, with a penicillanic acid structure, or streptomycins or their derivatives",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3003.20.00.00",
+            "Description": "Other, containing antibiotics",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other, containing hormones or other products of heading 2937:",
+            "Subentries": [
+              {
+                "HS Code": "3003.31.00.00",
+                "Description": "Containing insulin",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3003.39",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "3003.39.10.00",
+                    "Description": "Artificial mixtures of natural hormones",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3003.39.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other, containing alkaloids or derivatives thereof:",
+            "Subentries": [
+              {
+                "HS Code": "3003.41.00.00",
+                "Description": "Containing ephedrine or its salts",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3003.42.00.00",
+                "Description": "Containing pseudoephedrine (INN) or its salts",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3003.43.00.00",
+                "Description": "Containing norephedrine or its salts",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3003.49.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3003.60.00.00",
+            "Description": "Other, containing antimalarial active principles described in subheading note 2 to this chapter",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3003.90.01",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Anti-infective medicaments:",
+                "Subentries": [
+                  {
+                    "HS Code": "3003.90.01.20",
+                    "Description": "Antivirals",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3003.90.01.40",
+                    "Description": "Antifungals",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3003.90.01.60",
+                    "Description": "Antiprotozoals (excluding goods described in subheading note 2 to this chapter)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3003.90.01.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3003.90.01.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "3004",
+        "Description": "Medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses (including those in the form of transdermal administration systems) or in forms or packings for retail sale:",
+        "Subentries": [
+          {
+            "HS Code": "3004.10",
+            "Description": "Containing penicillins or derivatives thereof, with a penicillanic acid structure, or streptomycins or their derivatives:",
+            "Subentries": [
+              {
+                "HS Code": "3004.10.10",
+                "Description": "Containing penicillin G salts",
+                "Subentries": [
+                  {
+                    "HS Code": "3004.10.10.10",
+                    "Description": "For veterinary use",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3004.10.10.20",
+                        "Description": "Singles",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3004.10.10.45",
+                        "Description": "Combination antibiotics",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "3004.10.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3004.10.50.10",
+                    "Description": "For veterinary use",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3004.10.50.45",
+                        "Description": "Combination antibiotics",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Containing amoxicillin or its salts:",
+                            "Subentries": [
+                              {
+                                "HS Code": "3004.10.50.55",
+                                "Description": "For oral suspension",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "3004.10.50.65",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "3004.10.50.75",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "3004.20.00",
+            "Description": "Other, containing antibiotics",
+            "Subentries": [
+              {
+                "HS Code": "3004.20.00.10",
+                "Description": "For veterinary use",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "3004.20.00.20",
+                    "Description": "Erythromycin, singles or in combination with other antibiotics",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3004.20.00.30",
+                    "Description": "Tetracycline, singles or in combination with other antibiotics",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3004.20.00.45",
+                        "Description": "Containing azithromycin or its salts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3004.20.00.55",
+                        "Description": "Containing clindamycin or its salts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3004.20.00.65",
+                        "Description": "Containing doxycycline or its salts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3004.20.00.75",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other, containing hormones or other products of heading 2937:",
+            "Subentries": [
+              {
+                "HS Code": "3004.31.00.00",
+                "Description": "Containing insulin",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3004.32.00.00",
+                "Description": "Containing corticosteroid hormones, their derivatives or structural analogues",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3004.39.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3004.39.00.10",
+                    "Description": "For veterinary use",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3004.39.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other, containing alkaloids or derivatives thereof:",
+            "Subentries": [
+              {
+                "HS Code": "3004.41.00.00",
+                "Description": "Containing ephedrine or its salts",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3004.42.00.00",
+                "Description": "Containing pseudoephedrine (INN) or its salts",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3004.43.00.00",
+                "Description": "Containing norephedrine or its salts",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3004.49.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3004.49.00.05",
+                    "Description": "For veterinary use",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3004.49.00.10",
+                        "Description": "Cardiovascular medicaments",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Medicaments primarily affecting the central nervous system:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3004.49.00.20",
+                            "Description": "Anticonvulsants, hypnotics, and sedatives",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3004.49.00.30",
+                            "Description": "Antidepressants, tranquilizers and other psychotherapeutic agents",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3004.49.00.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "3004.49.00.50",
+                        "Description": "Dermatological agents and local anesthetics",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3004.49.00.60",
+                        "Description": "Medicaments primarily affecting the eyes, ears or respiratory system",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3004.49.00.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other, containing vitamins or other products of heading 2936:",
+            "Subentries": [
+              {
+                "HS Code": "3004.50",
+                "Description": "Containing vitamins synthesized wholly or in part from aromatic or modified aromatic industrial organic compounds:",
+                "Subentries": [
+                  {
+                    "HS Code": "3004.50.10.00",
+                    "Description": "Vitamin B2",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3004.50.20.00",
+                    "Description": "Vitamin B12",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3004.50.30.00",
+                    "Description": "Vitamin E",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3004.50.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3004.50.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3004.50.50.05",
+                    "Description": "For veterinary use",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Single vitamins",
+                        "Subentries": [
+                          {
+                            "HS Code": "3004.50.50.10",
+                            "Description": "Combined with minerals or other nutrients",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3004.50.50.20",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Multiple vitamins:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3004.50.50.30",
+                            "Description": "Combined with minerals or other nutrients",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3004.50.50.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "3004.60.00.00",
+            "Description": "Other, containing antimalarial active principles described in subheading note 2 to this chapter",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3004.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3004.90.10.00",
+                "Description": "Containing antigens or hyaluronic acid or its sodium salt",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3004.90.92",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3004.90.92.01",
+                    "Description": "For veterinary use",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Anti-infective medicaments:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3004.90.92.02",
+                            "Description": "Antivirals",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Antifungals:",
+                            "Subentries": [
+                              {
+                                "HS Code": "3004.90.92.04",
+                                "Description": "Containing fluconazole or its salts",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "3004.90.92.06",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Antiprotozoals (excluding goods described in subheading note 2 to this chapter):",
+                            "Subentries": [
+                              {
+                                "HS Code": "3004.90.92.08",
+                                "Description": "Containing metronidazole or its salts",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "3004.90.92.12",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "3004.90.92.13",
+                            "Description": "Sulfonamides",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3004.90.92.14",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "3004.90.92.15",
+                        "Description": "Antineoplastic and immunosuppressive medicaments",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Cardiovascular medicaments:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3004.90.92.16",
+                            "Description": "Containing metoprolol or its salts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3004.90.92.17",
+                            "Description": "Containing amiodarone or its salts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3004.90.92.18",
+                            "Description": "Containing diltiazem or its salts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3004.90.92.19",
+                            "Description": "Containing hydralazine or its salts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3004.90.92.21",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Medicaments primarily affecting the central nervous system:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Analgesics, antipyretics and nonhormonal anti-inflammatory agents:",
+                            "Subentries": [
+                              {
+                                "HS Code": "3004.90.92.22",
+                                "Description": "Tolmetin",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "3004.90.92.23",
+                                "Description": "Tolmetin sodium dihyrate",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "3004.90.92.25",
+                                "Description": "Tolmetin sodium (anhydrous)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Containing ibuprofen or its salts:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "3004.90.92.27",
+                                    "Description": "For oral suspension",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "3004.90.92.29",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Containing acetaminophen or its salts:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "3004.90.92.31",
+                                    "Description": "For oral suspension",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "3004.90.92.32",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "3004.90.92.33",
+                                "Description": "Containing O-Acetylsalicylic acid (Aspirin)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "3004.90.92.34",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "3004.90.92.36",
+                            "Description": "Anticonvulsants, hypnotics and sedatives",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Antidepressants, tranquilizers, and other psychotherapeutic agents:",
+                            "Subentries": [
+                              {
+                                "HS Code": "3004.90.92.37",
+                                "Description": "Containing lorazepam or its salts",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "3004.90.92.38",
+                                "Description": "Containing olanzapine or its salts",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "3004.90.92.39",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "3004.90.92.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Dermatological agents and local anesthetics:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3004.90.92.42",
+                            "Description": "Containing lidocaine or its salts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3004.90.92.44",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Medicaments primarily affecting the digestive system:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3004.90.92.50",
+                            "Description": "Laxatives",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3004.90.92.55",
+                            "Description": "Antacids",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3004.90.92.56",
+                            "Description": "Containing famotidine or its salts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3004.90.92.57",
+                            "Description": "Containing pantoprazole or its salts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3004.90.92.59",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Preparations pimarily affecting the electrolytic, caloric or water balance:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Diuretics:",
+                            "Subentries": [
+                              {
+                                "HS Code": "3004.90.92.63",
+                                "Description": "Containing furosemide and its salts",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "3004.90.92.66",
+                                "Description": "Containing hydrochlorothiazide or its salts",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "3004.90.92.68",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "3004.90.92.70",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Medicaments primarily affecting the eyes, ears, or respiratory system:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3004.90.92.76",
+                            "Description": "Cough and cold preparations",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "3004.90.92.80",
+                                "Description": "Antihistamines",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "3004.90.92.84",
+                                "Description": "Containing albuterol sulfate",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "3004.90.92.89",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "3004.90.92.91",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "3005",
+        "Description": "Wadding, gauze, bandages and similar articles (for example, dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes:",
+        "Subentries": [
+          {
+            "HS Code": "3005.10",
+            "Description": "Adhesive dressings and other articles having an adhesive layer:",
+            "Subentries": [
+              {
+                "HS Code": "3005.10.10.00",
+                "Description": "Coated or impregnated with pharmaceutical substances",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3005.10.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3005.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3005.90.10.00",
+                "Description": "Coated or impregnated with pharmaceutical substances",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3005.90.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3005.90.50.10",
+                    "Description": "Laparotomy sponges",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3005.90.50.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "3006",
+        "Description": "Pharmaceutical goods specified in note 4 to this chapter:",
+        "Subentries": [
+          {
+            "HS Code": "3006.10.01.00",
+            "Description": "Sterile surgical catgut, similar sterile suture materials (including sterile absorbable surgical or dental yarns) and sterile tissue adhesives for surgical wound closure; sterile laminaria and sterile laminaria tents; sterile absorbable surgical or dental hemostatics; sterile surgical or dental adhesion barriers, whether or not absorbable",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3006.30",
+            "Description": "Opacifying preparations for X-ray examinations; diagnostic reagents designed to be administered to the patient:",
+            "Subentries": [
+              {
+                "HS Code": "3006.30.10.00",
+                "Description": "Containing antigens or antisera",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3006.30.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3006.40.00.00",
+            "Description": "Dental cements and other dental fillings; bone reconstruction cements",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3006.50.00.00",
+            "Description": "First-aid boxes and kits",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3006.60.00.00",
+            "Description": "Chemical contraceptive preparations based on hormones, on other products of heading 2937 or on spermicides",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3006.70.00.00",
+            "Description": "Gel preparations designed to be used in human or veterinary medicine as a lubricant for parts of the body for surgical operations or physical examinations or as a coupling agent between the body and medical instruments",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3006.91.00.00",
+                "Description": "Appliances identifiable for ostomy use",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3006.92.00.00",
+                "Description": "Waste pharmaceuticals",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3006.93",
+                "Description": "Placebos and blinded (or double-blinded) clinical trial kits for a recognized clinical trial, put up in measured doses:",
+                "Subentries": [
+                  {
+                    "HS Code": "3006.93.10.00",
+                    "Description": "Packaged with medicinal preparations",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3006.93.20.00",
+                    "Description": "Containing over 10 percent by dry weight of sugar",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3006.93.50.00",
+                    "Description": "Containing ingredients having nutritional value, in which starch or other foodstuff predominates by weight",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3006.93.60.00",
+                    "Description": "In liquid form for oral intake",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3006.93.80.00",
+                    "Description": "Placebos and clinical trial kits containing other chemicals other than medicaments",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

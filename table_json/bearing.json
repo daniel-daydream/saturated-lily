@@ -1,0 +1,445 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8482",
+        "Description": "Ball or roller bearings, and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8482.10",
+            "Description": "Ball bearings:",
+            "Subentries": [
+              {
+                "HS Code": "8482.10.10",
+                "Description": "Ball bearings with integral shafts",
+                "Subentries": [
+                  {
+                    "HS Code": "8482.10.10.40",
+                    "Description": "Bearings having an outside diameter not over 30 mm",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8482.10.10.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8482.10.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8482.10.50.04",
+                    "Description": "Unground bearings",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8482.10.50.08",
+                        "Description": "Thrust bearings",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8482.10.50.12",
+                        "Description": "Linear bearings",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Angular contact bearings:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Wheel hub bearings units:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8482.10.50.16",
+                                "Description": "Flanged",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8482.10.50.24",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "8482.10.50.28",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Radial bearings:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Single row bearings:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8482.10.50.32",
+                                "Description": "Maximum or full capacity type",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other bearings, having an outside diameter of:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "8482.10.50.36",
+                                    "Description": "Under 9 mm",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "8482.10.50.44",
+                                    "Description": "9 mm and over but not over 30 mm",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "8482.10.50.48",
+                                    "Description": "Over 30 mm but not over 52 mm",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "8482.10.50.52",
+                                    "Description": "Over 52 mm but not over 100 mm.",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "8482.10.50.56",
+                                    "Description": "Over 100 mm",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "8482.10.50.60",
+                            "Description": "Double row ball bearings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8482.10.50.64",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8482.10.50.68",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8482.20.00",
+            "Description": "Tapered roller bearings, including cone and tapered roller assemblies",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Cup and cone assemblies entered as a set:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Wheel hub units:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8482.20.00.20",
+                        "Description": "Flanged",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8482.20.00.30",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8482.20.00.40",
+                        "Description": "With cups having an outside diameter not exceeding 102 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8482.20.00.61",
+                        "Description": "With cups having an outside diameter exceeding 102 mm but not exceeding 203 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8482.20.00.64",
+                        "Description": "With cups having an outside diameter exceeding 203 mm but not exceeding 305 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8482.20.00.67",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Cone assemblies entered separately:",
+                "Subentries": [
+                  {
+                    "HS Code": "8482.20.00.70",
+                    "Description": "For cups having an outside diameter not exceeding 102 mm",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8482.20.00.81",
+                    "Description": "For cups having an outside diameter exceeding 102 mm but not exceeding 203 mm",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8482.20.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8482.30.00",
+            "Description": "Spherical roller bearings",
+            "Subentries": [
+              {
+                "HS Code": "8482.30.00.40",
+                "Description": "Single row",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8482.30.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8482.40.00.00",
+            "Description": "Needle roller bearings, including cage and needle roller assemblies",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8482.50.00.00",
+            "Description": "Other cylindrical roller bearings, including cage and roller assemblies",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8482.80.00",
+            "Description": "Other, including combined ball/roller bearings",
+            "Subentries": [
+              {
+                "HS Code": "8482.80.00.20",
+                "Description": "Combined ball and spherical roller bearings",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8482.80.00.40",
+                "Description": "Combined ball and needle roller bearings",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8482.80.00.60",
+                "Description": "Combined ball and other cylindrical roller bearings",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8482.80.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Parts:",
+            "Subentries": [
+              {
+                "HS Code": "8482.91.00",
+                "Description": "Balls, needles and rollers",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Balls:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8482.91.00.10",
+                        "Description": "Of alloy steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8482.91.00.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8482.91.00.40",
+                    "Description": "Needles",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8482.91.00.50",
+                    "Description": "Tapered rollers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8482.91.00.70",
+                    "Description": "Spherical rollers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8482.91.00.80",
+                    "Description": "Other cylindrical rollers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8482.91.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8482.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Inner or outer rings or races:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8482.99.05.00",
+                        "Description": "For ball bearings",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8482.99.15",
+                        "Description": "For tapered roller bearings",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Cups:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8482.99.15.50",
+                                "Description": "Having an outside diameter not exceeding 203 mm",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8482.99.15.70",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "8482.99.15.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8482.99.25",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8482.99.25.20",
+                            "Description": "For spherical roller bearings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8482.99.25.40",
+                            "Description": "For needle bearings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8482.99.25.60",
+                            "Description": "For other cylindrical roller bearings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8482.99.25.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8482.99.35.00",
+                        "Description": "Parts of ball bearings (including parts of ball bearings with integral shafts)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8482.99.45.00",
+                        "Description": "Parts of tapered roller bearings",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8482.99.65",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8482.99.65.10",
+                            "Description": "For spherical roller bearings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8482.99.65.30",
+                            "Description": "For needle bearings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8482.99.65.60",
+                            "Description": "For other cylindrical roller bearings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8482.99.65.95",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

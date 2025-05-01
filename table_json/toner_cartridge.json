@@ -1,0 +1,149 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8443",
+        "Description": "Printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442; other printers, copying machines and facsimile machines, whether or not combined; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Parts and accessories:",
+            "Subentries": [
+              {
+                "HS Code": "8443.91",
+                "Description": "Parts and accessories of printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442:",
+                "Subentries": [
+                  {
+                    "HS Code": "8443.91.10.00",
+                    "Description": "Machines for uses ancillary to printing",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8443.91.20.00",
+                    "Description": "Parts for textile printing machinery",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8443.91.30.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8443.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8443.99.10.00",
+                    "Description": "Accessory and auxiliary machines which are intended for attachment to an electrostatic photocopier and which do not operate independently of such photocopier",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Parts and accessories of printers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8443.99.20",
+                        "Description": "Parts of printer units of subheading 8443.32.10 specified in additional U.S. note 2 to this chapter",
+                        "Subentries": [
+                          {
+                            "HS Code": "8443.99.20.10",
+                            "Description": "Ink cartridges",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8443.99.20.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8443.99.25",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8443.99.25.10",
+                            "Description": "Ink cartridges",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8443.99.25.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Parts and accessories of facsimile machines:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8443.99.30.00",
+                        "Description": "Parts of facsimile machines specified in additional U.S. note 3 to this chapter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8443.99.35.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Parts and accessories of copying machines:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8443.99.40.00",
+                        "Description": "Parts of photocopying apparatus of subheading 8443.39.20 specified in additional U.S. note 4 to this chapter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8443.99.45.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8443.99.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "For the goods of subheading 8443.31:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8443.99.50.11",
+                            "Description": "Ink cartridges",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8443.99.50.15",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8443.99.50.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

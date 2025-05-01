@@ -1,0 +1,143 @@
+[
+  {
+    "HS Code": "09",
+    "Description": "Coffee, tea, mat\u00e9 and spices",
+    "Subentries": [
+      {
+        "HS Code": "0901",
+        "Description": "Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Coffee, not roasted:",
+            "Subentries": [
+              {
+                "HS Code": "0901.11.00",
+                "Description": "Not decaffeinated",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0901.11.00.45",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0901.11.00.55",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0901.11.00.15",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0901.11.00.25",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0901.12.00",
+                "Description": "Decaffeinated",
+                "Subentries": [
+                  {
+                    "HS Code": "0901.12.00.15",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0901.12.00.25",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0901.21.00",
+                "Description": "Not decaffeinated",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0901.21.00.55",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0901.21.00.65",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0901.21.00.35",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0901.21.00.45",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0901.22.00",
+                "Description": "Decaffeinated",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "In retail containers weighing 2 kg or less:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0901.22.00.35",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0901.22.00.45",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0901.22.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0901.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "0901.90.10.00",
+                "Description": "Coffee husks and skins",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0901.90.20.00",
+                "Description": "Coffee substitutes containing coffee",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

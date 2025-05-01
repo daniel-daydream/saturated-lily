@@ -1,0 +1,179 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8414",
+        "Description": "Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters; gas-tight biological safety cabinets, whether or not fitted with filters; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8414.80",
+            "Description": "Other, except parts:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Air compressors:",
+                "Subentries": [
+                  {
+                    "HS Code": "8414.80.05.00",
+                    "Description": "Turbochargers and superchargers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8414.80.16",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Stationary:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Reciprocating:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8414.80.16.05",
+                                "Description": "Not exceeding 746 W",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.80.16.15",
+                                "Description": "Exceeding 746 W but not exceeding 4.48 kW",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.80.16.25",
+                                "Description": "Exceeding 4.48 kW but not exceeding 8.21 kW",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.80.16.35",
+                                "Description": "Exceeding 8.21 kW but not exceeding 11.19 kW",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.80.16.40",
+                                "Description": "Exceeding 11.19 kW but not exceeding 19.4 kW",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.80.16.45",
+                                "Description": "Exceeding 19.4 kW but not exceeding 74.6 kW",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.80.16.55",
+                                "Description": "Exceeding 74.6 kW",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Rotary:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8414.80.16.60",
+                                "Description": "Not exceeding 11.19 kW",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.80.16.65",
+                                "Description": "Exceeding 11.19 kW but under 22.38 kW",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.80.16.70",
+                                "Description": "22.38 kW and over but not exceeding 74.6 kW",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.80.16.75",
+                                "Description": "Exceeding 74.6 kW",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "8414.80.16.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Portable:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8414.80.16.85",
+                            "Description": "Under 0.57 cubic meters per minute",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8414.80.16.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8414.80.20",
+                "Description": "Other compressors",
+                "Subentries": [
+                  {
+                    "HS Code": "8414.80.20.05",
+                    "Description": "Refrigerant recovery units",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8414.80.20.15",
+                        "Description": "Centrifugal and axial",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other, including reciprocating and rotary:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8414.80.20.55",
+                            "Description": "Not exceeding 186.5 kW",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8414.80.20.65",
+                            "Description": "Exceeding 186.5 kW but not exceeding 746 kW",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8414.80.20.75",
+                            "Description": "Exceeding 746 kW",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8414.80.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

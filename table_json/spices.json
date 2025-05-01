@@ -1,0 +1,695 @@
+[
+  {
+    "HS Code": "09",
+    "Description": "Coffee, tea, mat\u00e9 and spices",
+    "Subentries": [
+      {
+        "HS Code": "0901",
+        "Description": "Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Coffee, not roasted:",
+            "Subentries": [
+              {
+                "HS Code": "0901.11.00",
+                "Description": "Not decaffeinated",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Arabica:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0901.11.00.15",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0901.11.00.25",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0901.11.00.45",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0901.11.00.55",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0901.12.00",
+                "Description": "Decaffeinated",
+                "Subentries": [
+                  {
+                    "HS Code": "0901.12.00.15",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0901.12.00.25",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Coffee, roasted:",
+            "Subentries": [
+              {
+                "HS Code": "0901.21.00",
+                "Description": "Not decaffeinated",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "In retail containers weighing 2 kg or less:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0901.21.00.35",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0901.21.00.45",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0901.21.00.55",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0901.21.00.65",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0901.22.00",
+                "Description": "Decaffeinated",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "In retail containers weighing 2 kg or less:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0901.22.00.35",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0901.22.00.45",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0901.22.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0901.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "0901.90.10.00",
+                "Description": "Coffee husks and skins",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0901.90.20.00",
+                "Description": "Coffee substitutes containing coffee",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0902",
+        "Description": "Tea, whether or not flavored:",
+        "Subentries": [
+          {
+            "HS Code": "0902.10",
+            "Description": "Green tea (not fermented) in immediate packings of a content not exceeding 3 kg:",
+            "Subentries": [
+              {
+                "HS Code": "0902.10.10",
+                "Description": "Flavored",
+                "Subentries": [
+                  {
+                    "HS Code": "0902.10.10.15",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0902.10.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0902.10.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0902.10.90.15",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0902.10.90.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0902.20",
+            "Description": "Other green tea (not fermented):",
+            "Subentries": [
+              {
+                "HS Code": "0902.20.10.00",
+                "Description": "Flavored",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0902.20.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0902.20.90.15",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0902.20.90.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0902.30.00",
+            "Description": "Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "In tea bags:",
+                "Subentries": [
+                  {
+                    "HS Code": "0902.30.00.15",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0902.30.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0902.30.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "0902.40.00.00",
+            "Description": "Other black tea (fermented) and other partly fermented tea",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "0903.00.00.00",
+        "Description": "Mat\u00e9",
+        "Subentries": []
+      },
+      {
+        "HS Code": "0904",
+        "Description": "Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum (peppers) or of the genus Pimenta (e.g., allspice):",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Pepper of the genus Piper:",
+            "Subentries": [
+              {
+                "HS Code": "0904.11.00",
+                "Description": "Neither crushed nor ground",
+                "Subentries": [
+                  {
+                    "HS Code": "0904.11.00.20",
+                    "Description": "Black",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0904.11.00.40",
+                    "Description": "White",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0904.12.00.00",
+                "Description": "Crushed or ground",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Fruits of the genus Capsicum or of the genus Pimenta:",
+            "Subentries": [
+              {
+                "HS Code": "0904.21",
+                "Description": "Dried, neither crushed nor ground:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of the genusCapsicum(including cayenne pepper, paprika and red pepper):",
+                    "Subentries": [
+                      {
+                        "HS Code": "0904.21.20.00",
+                        "Description": "Paprika",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0904.21.40.00",
+                        "Description": "Anaheim and ancho pepper",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0904.21.60",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "0904.21.60.10",
+                            "Description": "Bell peppers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0904.21.60.20",
+                            "Description": "Jalapeno peppers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0904.21.60.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0904.21.80.00",
+                    "Description": "Of the genus Pimenta (including allspice)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0904.22",
+                "Description": "Crushed or ground:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of the genus Capsicum (including cayenne Pepper, paprika and red pepper):",
+                    "Subentries": [
+                      {
+                        "HS Code": "0904.22.20.00",
+                        "Description": "Paprika",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0904.22.40.00",
+                        "Description": "Anaheim and ancho pepper",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0904.22.73.00",
+                        "Description": "Mixtures of mashed or macerated hot red peppers and salt",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0904.22.76.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0904.22.80.00",
+                    "Description": "Of the genus Pimenta (including allspice)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0905",
+        "Description": "Vanilla:",
+        "Subentries": [
+          {
+            "HS Code": "0905.10.00.00",
+            "Description": "Neither crushed nor ground",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0905.20.00.00",
+            "Description": "Crushed or ground",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "0906",
+        "Description": "Cinnamon and cinnamon-tree flowers:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Neither crushed nor ground:",
+            "Subentries": [
+              {
+                "HS Code": "0906.11.00.00",
+                "Description": "Cinnamon (Cinnamomum zeylanicum Blume)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0906.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "0906.20.00.00",
+            "Description": "Crushed or ground",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "0907",
+        "Description": "Cloves (whole fruit, cloves and stems):",
+        "Subentries": [
+          {
+            "HS Code": "0907.10.00.00",
+            "Description": "Neither crushed nor ground",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0907.20.00.00",
+            "Description": "Crushed or ground",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "0908",
+        "Description": "Nutmeg, mace and cardamoms:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Nutmeg:",
+            "Subentries": [
+              {
+                "HS Code": "0908.11.00.00",
+                "Description": "Neither crushed nor ground",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0908.12.00.00",
+                "Description": "Crushed or ground",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Mace:",
+            "Subentries": [
+              {
+                "HS Code": "0908.21.00.00",
+                "Description": "Neither crushed nor ground",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0908.22",
+                "Description": "Crushed or ground:",
+                "Subentries": [
+                  {
+                    "HS Code": "0908.22.20.00",
+                    "Description": "Bombay or wild mace, ground",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0908.22.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Cardamoms:",
+            "Subentries": [
+              {
+                "HS Code": "0908.31.00.00",
+                "Description": "Neither crushed nor ground",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0908.32.00.00",
+                "Description": "Crushed or ground",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0909",
+        "Description": "Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Seeds of coriander:",
+            "Subentries": [
+              {
+                "HS Code": "0909.21.00.00",
+                "Description": "Neither crushed nor ground",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0909.22.00.00",
+                "Description": "Crushed or ground",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Seeds of cumin:",
+            "Subentries": [
+              {
+                "HS Code": "0909.31.00.00",
+                "Description": "Neither crushed nor ground",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0909.32.00.00",
+                "Description": "Crushed or ground",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Seeds of anise, badian, caraway or fennel; juniper berries:",
+            "Subentries": [
+              {
+                "HS Code": "0909.61.00.00",
+                "Description": "Neither crushed nor ground",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0909.62.00.00",
+                "Description": "Crushed or ground",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0910",
+        "Description": "Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Ginger:",
+            "Subentries": [
+              {
+                "HS Code": "0910.11.00",
+                "Description": "Neither crushed nor ground",
+                "Subentries": [
+                  {
+                    "HS Code": "0910.11.00.10",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0910.11.00.15",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0910.12.00.00",
+                "Description": "Crushed or ground",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "0910.20.00.00",
+            "Description": "Saffron",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0910.30.00.00",
+            "Description": "Turmeric (curcuma)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other spices:",
+            "Subentries": [
+              {
+                "HS Code": "0910.91.00.00",
+                "Description": "Mixtures referred to in note 1(b) to this chapter",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0910.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Thyme; bay leaves:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0910.99.05.00",
+                        "Description": "Crude or not manufactured",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0910.99.06.00",
+                            "Description": "Thyme",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0910.99.07.00",
+                            "Description": "Bay leaves",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0910.99.10.00",
+                    "Description": "Curry",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Origanum (Lippia spp.):",
+                    "Subentries": [
+                      {
+                        "HS Code": "0910.99.20.00",
+                        "Description": "Crude or not manufactured",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0910.99.40.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0910.99.50.00",
+                        "Description": "Dill",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0910.99.60.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

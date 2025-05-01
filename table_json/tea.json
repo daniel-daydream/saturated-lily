@@ -1,0 +1,111 @@
+[
+  {
+    "HS Code": "09",
+    "Description": "Coffee, tea, mat\u00e9 and spices",
+    "Subentries": [
+      {
+        "HS Code": "0902",
+        "Description": "Tea, whether or not flavored:",
+        "Subentries": [
+          {
+            "HS Code": "0902.10",
+            "Description": "Green tea (not fermented) in immediate packings of a content not exceeding 3 kg:",
+            "Subentries": [
+              {
+                "HS Code": "0902.10.10",
+                "Description": "Flavored",
+                "Subentries": [
+                  {
+                    "HS Code": "0902.10.10.15",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0902.10.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0902.10.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0902.10.90.15",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0902.10.90.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0902.20",
+            "Description": "Other green tea (not fermented):",
+            "Subentries": [
+              {
+                "HS Code": "0902.20.10.00",
+                "Description": "Flavored",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0902.20.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0902.20.90.15",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0902.20.90.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0902.30.00",
+            "Description": "Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "In tea bags:",
+                "Subentries": [
+                  {
+                    "HS Code": "0902.30.00.15",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0902.30.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0902.30.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "0902.40.00.00",
+            "Description": "Other black tea (fermented) and other partly fermented tea",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

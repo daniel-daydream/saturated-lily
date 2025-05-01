@@ -1,0 +1,66 @@
+[
+  {
+    "HS Code": "87",
+    "Description": "Vehicles other than railway or tramway rolling stock, and parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "8712.00",
+        "Description": "Bicycles and other cycles (including delivery tricycles), not motorized:",
+        "Subentries": [
+          {
+            "HS Code": "8712.00.15",
+            "Description": "Bicycles having both wheels not exceeding 63.5 cm in diameter",
+            "Subentries": [
+              {
+                "HS Code": "8712.00.15.10",
+                "Description": "Having both wheels not exceeding 50 cm in diameter",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8712.00.15.20",
+                "Description": "Having both wheels exceeding 50 cm but not exceeding 55 cm in diameter",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8712.00.15.50",
+                "Description": "Having both wheels exceeding 55 cm but not exceeding 63.5 cm in diameter",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Bicycles having both wheels exceeding 63.5 cm in diameter:",
+            "Subentries": [
+              {
+                "HS Code": "8712.00.25.00",
+                "Description": "If weighing less than 16.3 kg complete without accessories and not designed for use with tires having a cross-sectional diameter exceeding 4.13 cm",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8712.00.35.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8712.00.44.00",
+            "Description": "Bicycles having a front wheel exceeding 55 cm but not exceeding 63.5 cm in diameter and a rear wheel exceeding 63.5 cm in diameter, weighing less than 16.3 kg complete without accessories and not designed for use with tires having a cross-sectional diameter exceeding 4.13 cm, valued $200 or more each",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8712.00.48.00",
+            "Description": "Other bicycles",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8712.00.50.00",
+            "Description": "Other cycles",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

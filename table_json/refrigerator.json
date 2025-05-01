@@ -1,0 +1,84 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8418",
+        "Description": "Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps, other than the air conditioning machines of heading 8415; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8418.10.00",
+            "Description": "Combined refrigerator-freezers, fitted with separate external doors or drawers, or combinations thereof",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Compression type:",
+                "Subentries": [
+                  {
+                    "HS Code": "8418.10.00.10",
+                    "Description": "Having a refrigerated volume of under 184 liters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8418.10.00.20",
+                    "Description": "Having a refrigerated volume of 184 liters and over but under 269 liters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8418.10.00.30",
+                    "Description": "Having a refrigerated volume of 269 liters and over but under 382 liters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Having a refrigerated volume of 382 liters and over:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "French door refrigerators with a bottom freezer compartment:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Of a width exceeding 87 centimeters but not exceeding 95 centimeters:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8418.10.00.45",
+                                "Description": "Having an external depth (excluding door handles) not exceeding 73 centimeters",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8418.10.00.55",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "8418.10.00.65",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8418.10.00.75",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8418.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

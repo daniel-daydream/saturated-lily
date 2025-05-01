@@ -1,0 +1,57 @@
+[
+  {
+    "HS Code": "35",
+    "Description": "Albuminoidal substances; modified starches; glues; enzymes",
+    "Subentries": [
+      {
+        "HS Code": "3506",
+        "Description": "Prepared glues and other prepared adhesives, not elsewhere specified or included; products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg:",
+        "Subentries": [
+          {
+            "HS Code": "3506.10",
+            "Description": "Products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg:",
+            "Subentries": [
+              {
+                "HS Code": "3506.10.10.00",
+                "Description": "Animal glue, including casein glue, but not including fish glue",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3506.10.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3506.91",
+                "Description": "Adhesives based on polymers of headings 3901 to 3913 or on rubber:",
+                "Subentries": [
+                  {
+                    "HS Code": "3506.91.10.00",
+                    "Description": "Optically clear free-film adhesives and optically clear curable liquid adhesives of a kind used solely or principally for the manufacture of flat panel displays or touch-sensitive screen panels",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3506.91.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3506.99.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

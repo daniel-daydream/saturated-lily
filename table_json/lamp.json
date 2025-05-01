@@ -1,0 +1,100 @@
+[
+  {
+    "HS Code": "94",
+    "Description": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated sign illuminated nameplates and the like; prefabricated buildings",
+    "Subentries": [
+      {
+        "HS Code": "9405",
+        "Description": "Luminaires and lighting fittings including searchlights and spotlights and parts thereof, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like, having a permanently fixed light source, and parts thereof not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Parts:",
+            "Subentries": [
+              {
+                "HS Code": "9405.91",
+                "Description": "Of glass:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Globes and shades:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9405.91.10.00",
+                        "Description": "Of lead crystal",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9405.91.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9405.91.40.00",
+                    "Description": "Chimneys",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9405.91.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9405.91.60.40",
+                        "Description": "Prisms and other glass articles of a kind used in chandeliers and wall brackets, and articles thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9405.91.60.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "9405.92.00.00",
+                "Description": "Of plastics",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9405.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9405.99.20.00",
+                    "Description": "Of brass",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9405.99.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9405.99.40.10",
+                        "Description": "Lampposts and bases for lampposts, of cast iron",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9405.99.40.20",
+                        "Description": "Lampposts and bases for lampposts, of aluminum",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9405.99.40.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

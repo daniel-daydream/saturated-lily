@@ -1,0 +1,3613 @@
+[
+  {
+    "HS Code": "90",
+    "Description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9001",
+        "Description": "Optical fibers and optical fiber bundles; optical fiber cables other than those of heading 8544; sheets and plates of polarizing material; lenses (including contact lenses), prisms, mirrors and other optical elements, of any material, unmounted, other than such elements of glass not optically worked:",
+        "Subentries": [
+          {
+            "HS Code": "9001.10.00",
+            "Description": "Optical fibers, optical fiber bundles and cables",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Optical fibers:",
+                "Subentries": [
+                  {
+                    "HS Code": "9001.10.00.30",
+                    "Description": "For transmission of voice, data or video communications",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9001.10.00.50",
+                        "Description": "Plastic optical fibers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9001.10.00.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Optical fiber bundles and cables:",
+                "Subentries": [
+                  {
+                    "HS Code": "9001.10.00.75",
+                    "Description": "Plastic optical fiber bundles and cables",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9001.10.00.85",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9001.20.00.00",
+            "Description": "Sheets and plates of polarizing material",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9001.30.00.00",
+            "Description": "Contact lenses",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9001.40.00.00",
+            "Description": "Spectacle lenses of glass",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9001.50.00.00",
+            "Description": "Spectacle lenses of other materials",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9001.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9001.90.40.00",
+                "Description": "Lenses",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9001.90.50.00",
+                "Description": "Prisms",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9001.90.60.00",
+                "Description": "Mirrors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9001.90.80.00",
+                    "Description": "Halftone screens designed for use in engraving or photographic processes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9001.90.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9002",
+        "Description": "Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts of or fittings for instruments or apparatus, other than such elements of glass not optically worked; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Objective lenses and parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "9002.11",
+                "Description": "For cameras, projectors or photographic enlargers or reducers:",
+                "Subentries": [
+                  {
+                    "HS Code": "9002.11.40.00",
+                    "Description": "Projection",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9002.11.60.00",
+                        "Description": "Mounted lenses suitable for use in, and entered separately from, closed-circuit television cameras, with or without attached electrical or non-electrical closed-circuit television camera connectors, and with or without attached motors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9002.11.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "9002.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9002.20",
+            "Description": "Filters and parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "9002.20.40.00",
+                "Description": "Photographic",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9002.20.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9002.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9002.90.20.00",
+                "Description": "Prisms",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9002.90.40.00",
+                "Description": "Mirrors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9002.90.70.00",
+                    "Description": "Halftone screens designed for use in engraving or photographic processes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9002.90.85.00",
+                    "Description": "Mounted lenses suitable for use in, and entered separately from, closed-circuit television cameras, with or without attached electrical or non-electrical closed-circuit television camera connectors, and with or without attached motors",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9002.90.95.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9003",
+        "Description": "Frames and mountings for spectacles, goggles or the like, and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Frames and mountings:",
+            "Subentries": [
+              {
+                "HS Code": "9003.11.00.00",
+                "Description": "Of plastics",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9003.19.00.00",
+                "Description": "Of other materials",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9003.90.00.00",
+            "Description": "Parts",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "9004",
+        "Description": "Spectacles, goggles and the like, corrective, protective or other:",
+        "Subentries": [
+          {
+            "HS Code": "9004.10.00.00",
+            "Description": "Sunglasses",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9004.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "9004.90.00.10",
+                "Description": "Safety glasses or safety goggles",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9004.90.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9005",
+        "Description": "Binoculars, monoculars, other optical telescopes, and mountings therefor; other astronomical instruments and mountings therefor, but not including instruments for radio-astronomy; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9005.10.00",
+            "Description": "Binoculars",
+            "Subentries": [
+              {
+                "HS Code": "9005.10.00.20",
+                "Description": "Prism binoculars for use with infrared light",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9005.10.00.40",
+                "Description": "Other prism binoculars",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9005.10.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9005.80",
+            "Description": "Other instruments:",
+            "Subentries": [
+              {
+                "HS Code": "9005.80.40",
+                "Description": "Optical telescopes",
+                "Subentries": [
+                  {
+                    "HS Code": "9005.80.40.20",
+                    "Description": "For use with infrared light",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9005.80.40.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9005.80.60.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9005.90",
+            "Description": "Parts and accessories (including mountings):",
+            "Subentries": [
+              {
+                "HS Code": "9005.90.40.00",
+                "Description": "Incorporating goods of heading 9001 or 9002",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9005.90.80.01",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9006",
+        "Description": "Photographic (other than cinematographic) cameras; photographic flashlight apparatus and flashbulbs other than discharge lamps of heading 8539; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9006.30.00.00",
+            "Description": "Cameras specially designed for underwater use, for aerial survey, or for medical or surgical examination of internal organs; comparison cameras for forensic or criminological purposes",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9006.40",
+            "Description": "Instant print cameras:",
+            "Subentries": [
+              {
+                "HS Code": "9006.40.40.00",
+                "Description": "Fixed focus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other than fixed focus:",
+                "Subentries": [
+                  {
+                    "HS Code": "9006.40.60.00",
+                    "Description": "Valued not over $10 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9006.40.90.00",
+                    "Description": "Valued over $10 each",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other cameras:",
+            "Subentries": [
+              {
+                "HS Code": "9006.53.02",
+                "Description": "For roll film of a width of 35 mm",
+                "Subentries": [
+                  {
+                    "HS Code": "9006.53.02.05",
+                    "Description": "With through-the-lens viewfinder (single lens reflex (SLR))",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "One time use cameras:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9006.53.02.10",
+                            "Description": "With built-in electronic stroboscopic flash",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9006.53.02.20",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9006.53.02.50",
+                            "Description": "With built-in electronic stroboscopic flash",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9006.53.02.70",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "9006.59",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "For roll film of a width less than 35mm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9006.59.01",
+                        "Description": "With through-the-lens viewfinder (single lens reflex (SLR))",
+                        "Subentries": [
+                          {
+                            "HS Code": "9006.59.01.60",
+                            "Description": "For magnetically sensitized roll film of a width of 24 mm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9006.59.01.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Fixed focus:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Hand held:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "9006.59.05",
+                                    "Description": "110 cameras",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "9006.59.05.20",
+                                        "Description": "With built-in electronic stroboscopic flash",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "9006.59.05.40",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "9006.59.08.00",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "9006.59.10.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other than fixed focus:",
+                            "Subentries": [
+                              {
+                                "HS Code": "9006.59.12.00",
+                                "Description": "Valued not over $10 each",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9006.59.15",
+                                "Description": "Valued over $10 each",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Hand held:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "",
+                                        "Description": "110 cameras:",
+                                        "Subentries": [
+                                          {
+                                            "HS Code": "9006.59.15.20",
+                                            "Description": "With built-in electronic stroboscopic flash",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "9006.59.15.40",
+                                            "Description": "Other",
+                                            "Subentries": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "HS Code": "9006.59.15.60",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "9006.59.15.80",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9006.59.20.00",
+                        "Description": "Cameras of a kind used for preparing printing plates or cylinders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9006.59.40",
+                        "Description": "Fixed focus",
+                        "Subentries": [
+                          {
+                            "HS Code": "9006.59.40.40",
+                            "Description": "Disc cameras",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9006.59.40.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other than fixed focus:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9006.59.60.00",
+                            "Description": "Valued not over $10 each",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9006.59.91.00",
+                            "Description": "Valued over $10 each",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Photographic flashlight apparatus and flashbulbs:",
+            "Subentries": [
+              {
+                "HS Code": "9006.61.00",
+                "Description": "Discharge lamp (\"electronic\") flashlight apparatus",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Capable of camera mounting:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9006.61.00.20",
+                        "Description": "Capable of automatically controlling flash duration",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9006.61.00.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9006.61.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9006.69.01",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "9006.69.01.10",
+                    "Description": "Flashbulbs, flashcubes and the like",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9006.69.01.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Parts and accessories:",
+            "Subentries": [
+              {
+                "HS Code": "9006.91.00.01",
+                "Description": "For cameras",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9006.99.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9007",
+        "Description": "Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9007.10.00.00",
+            "Description": "Cameras",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9007.20",
+            "Description": "Projectors:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "For film of less than 16 mm:",
+                "Subentries": [
+                  {
+                    "HS Code": "9007.20.20.00",
+                    "Description": "With sound recording and reproducing systems; and those capable of projecting only sound motion pictures",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9007.20.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9007.20.60",
+                    "Description": "With sound recording and reproducing systems; and those capable of projecting only sound motion pictures",
+                    "Subentries": [
+                      {
+                        "HS Code": "9007.20.60.40",
+                        "Description": "16 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9007.20.60.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9007.20.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Parts and accessories:",
+            "Subentries": [
+              {
+                "HS Code": "9007.91",
+                "Description": "For cameras:",
+                "Subentries": [
+                  {
+                    "HS Code": "9007.91.40.00",
+                    "Description": "Parts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9007.91.80.01",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9007.92.00.00",
+                "Description": "For projectors",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9008",
+        "Description": "Image projectors, other than cinematographic; photographic (other than cinematographic) enlargers and reducers; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9008.50",
+            "Description": "Projectors, enlargers and reducers:",
+            "Subentries": [
+              {
+                "HS Code": "9008.50.10.00",
+                "Description": "Slide projectors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Microfilm, microfiche or other microform readers, whether or not capable of producing copies:",
+                "Subentries": [
+                  {
+                    "HS Code": "9008.50.20.00",
+                    "Description": "Capable of producing copies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9008.50.30.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9008.50.40.00",
+                "Description": "Other image projectors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9008.50.50.00",
+                "Description": "Photographic (other than cinematographic) enlargers and reducers",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9008.90",
+            "Description": "Parts and accessories:",
+            "Subentries": [
+              {
+                "HS Code": "9008.90.40.00",
+                "Description": "Of image projectors, other than cinematographic",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9008.90.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9010",
+        "Description": "Apparatus and equipment for photographic (including cinematographic) laboratories, not specified or included elsewhere in this chapter; negatoscopes; projection screens; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9010.10.00.00",
+            "Description": "Apparatus and equipment for automatically developing photographic (including cinematographic) film or paper in rolls or for automatically exposing developed film to rolls of photographic paper",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9010.50",
+            "Description": "Other apparatus and equipment for photographic (including cinematographic) laboratories; negatoscopes:",
+            "Subentries": [
+              {
+                "HS Code": "9010.50.10.00",
+                "Description": "Contact printers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9010.50.20.00",
+                "Description": "Developing tanks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Photographic film viewers, titlers, splicers and editors, all the foregoing and combinations thereof:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Articles containing an optical lens or designed to contain such a lens:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9010.50.30.00",
+                        "Description": "Editors and combination editor-splicers, for cinematographic film",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9010.50.40.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9010.50.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9010.50.60.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9010.60.00.00",
+            "Description": "Projection screens",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9010.90",
+            "Description": "Parts and accessories:",
+            "Subentries": [
+              {
+                "HS Code": "9010.90.85.00",
+                "Description": "Parts and accessories of articles of subheadings 9010.50 and 9010.60",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9010.90.95.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9011",
+        "Description": "Compound optical microscopes, including those for photomicrography, cinemicrography or microprojection; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9011.10",
+            "Description": "Stereoscopic microscopes:",
+            "Subentries": [
+              {
+                "HS Code": "9011.10.40.00",
+                "Description": "Provided with a means for photographing the image",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9011.10.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9011.20",
+            "Description": "Other microscopes, for photomicrography, cinemicrography or microprojection:",
+            "Subentries": [
+              {
+                "HS Code": "9011.20.40.00",
+                "Description": "Provided with a means for photographing the image",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9011.20.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9011.80.00.00",
+            "Description": "Other microscopes",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9011.90.00.00",
+            "Description": "Parts and accessories",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "9012",
+        "Description": "Microscopes other than optical microscopes; diffraction apparatus; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9012.10.00.00",
+            "Description": "Microscopes other than optical microscopes; diffraction apparatus",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9012.90.00.00",
+            "Description": "Parts and accessories",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "9013",
+        "Description": "Lasers, other than laser diodes; other optical appliances and instruments, not specified or included elsewhere in this chapter:",
+        "Subentries": [
+          {
+            "HS Code": "9013.10",
+            "Description": "Telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this chapter or section XVI:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Telescopic sights for rifles:",
+                "Subentries": [
+                  {
+                    "HS Code": "9013.10.10.00",
+                    "Description": "Not designed for use with infrared light",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9013.10.30.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9013.10.45.00",
+                    "Description": "Telescopes designed to form parts of machines, appliances, instruments or apparatus of this chapter of section XVI",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9013.10.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9013.20.00.00",
+            "Description": "Lasers, other than laser diodes",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9013.80",
+            "Description": "Other devices, appliances and instruments:",
+            "Subentries": [
+              {
+                "HS Code": "9013.80.20.00",
+                "Description": "Hand magnifiers, magnifying glasses, loupes, thread counters and similar apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9013.80.40.00",
+                "Description": "Door viewers (door eyes)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9013.80.91.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9013.90",
+            "Description": "Parts and accessories:",
+            "Subentries": [
+              {
+                "HS Code": "9013.90.20.00",
+                "Description": "Of telescopic sights for rifles",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9013.90.70.00",
+                    "Description": "Other parts and accessories, other than for telescopic sights for fitting to arms or for periscopes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9013.90.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9014",
+        "Description": "Direction finding compasses; other navigational instruments and appliances; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9014.10",
+            "Description": "Direction finding compasses:",
+            "Subentries": [
+              {
+                "HS Code": "9014.10.10.00",
+                "Description": "Optical instruments",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9014.10.60.00",
+                    "Description": "Gyroscopic compasses, other than electrical",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9014.10.70",
+                        "Description": "Electrical",
+                        "Subentries": [
+                          {
+                            "HS Code": "9014.10.70.30",
+                            "Description": "Gyroscopic compasses",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9014.10.70.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "9014.10.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9014.20",
+            "Description": "Instruments and appliances for aeronautical or space navigation (other than compasses):",
+            "Subentries": [
+              {
+                "HS Code": "9014.20.20.00",
+                "Description": "Optical instruments and appliances",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9014.20.40.00",
+                    "Description": "Automatic pilots",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9014.20.60.00",
+                        "Description": "Electrical",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9014.20.80",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "9014.20.80.40",
+                            "Description": "For use in civil aircraft",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9014.20.80.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9014.80",
+            "Description": "Other instruments and appliances:",
+            "Subentries": [
+              {
+                "HS Code": "9014.80.10.00",
+                "Description": "Optical instruments",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9014.80.20.00",
+                    "Description": "Ships' logs and depth-sounding apparatus",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9014.80.40.00",
+                        "Description": "Electrical",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9014.80.50.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9014.90",
+            "Description": "Parts and accessories:",
+            "Subentries": [
+              {
+                "HS Code": "9014.90.10.00",
+                "Description": "Of articles covered by subheading 9014.20.40",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9014.90.20",
+                "Description": "Of articles covered by subheading 9014.20.80",
+                "Subentries": [
+                  {
+                    "HS Code": "9014.90.20.40",
+                    "Description": "For use in civil aircraft",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9014.90.20.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9014.90.40.00",
+                "Description": "Of articles covered by subheading 9014.80.50",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9014.90.60.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9015",
+        "Description": "Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses; rangefinders; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9015.10",
+            "Description": "Rangefinders:",
+            "Subentries": [
+              {
+                "HS Code": "9015.10.40.00",
+                "Description": "Electrical",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9015.10.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9015.20",
+            "Description": "Theodolites and tachymeters (tacheometers):",
+            "Subentries": [
+              {
+                "HS Code": "9015.20.40.00",
+                "Description": "Electrical",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9015.20.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9015.30",
+            "Description": "Levels:",
+            "Subentries": [
+              {
+                "HS Code": "9015.30.40.00",
+                "Description": "Electrical",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9015.30.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9015.40",
+            "Description": "Photogrammetrical surveying instruments and appliances:",
+            "Subentries": [
+              {
+                "HS Code": "9015.40.40.00",
+                "Description": "Electrical",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9015.40.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9015.80",
+            "Description": "Other instruments and appliances:",
+            "Subentries": [
+              {
+                "HS Code": "9015.80.20.00",
+                "Description": "Optical instruments and appliances",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9015.80.60.00",
+                    "Description": "Seismographs",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9015.80.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9015.80.80.40",
+                        "Description": "Geophysical instruments and appliances",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9015.80.80.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9015.90.01",
+            "Description": "Parts and accessories",
+            "Subentries": [
+              {
+                "HS Code": "9015.90.01.10",
+                "Description": "Of rangefinders",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9015.90.01.20",
+                "Description": "Of theodolites and tachymeters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9015.90.01.30",
+                "Description": "Of levels",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9015.90.01.40",
+                "Description": "Of photogrammetrical surveying instruments and apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9015.90.01.50",
+                "Description": "Of seismographs",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9015.90.01.60",
+                "Description": "Of other geophysical instruments and appliances",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9015.90.01.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9016.00",
+        "Description": "Balances of a sensitivity of 5 cg or better, with or without weights; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9016.00.20.00",
+            "Description": "Electrical balances and parts and accessories thereof",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9016.00.40.00",
+                "Description": "Jewelers' balances and parts and accessories thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9016.00.60.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9017",
+        "Description": "Drawing, marking-out or mathematical calculating instruments (for example, drafting machines, pantographs, protractors, drawing sets, slide rules, disc calculators); instruments for measuring length, for use in the hand (for example, measuring rods and tapes, micrometers, calipers), not specified or included elsewhere in this chapter; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9017.10",
+            "Description": "Drafting tables and machines, whether or not automatic:",
+            "Subentries": [
+              {
+                "HS Code": "9017.10.40.00",
+                "Description": "Plotters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9017.10.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9017.20",
+            "Description": "Other drawing, marking-out or mathematical calculating instruments:",
+            "Subentries": [
+              {
+                "HS Code": "9017.20.40.00",
+                "Description": "Disc calculators, slide rules and other mathematical calculating instruments",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9017.20.70.00",
+                "Description": "Plotters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9017.20.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "9017.20.80.40",
+                    "Description": "Hand operated input devices which transmit position data to computer processors or displays (digitizers)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9017.20.80.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9017.30",
+            "Description": "Micrometers, calipers and gauges:",
+            "Subentries": [
+              {
+                "HS Code": "9017.30.40.00",
+                "Description": "Micrometers and calipers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9017.30.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9017.80.00.00",
+            "Description": "Other instruments",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9017.90.01",
+            "Description": "Parts and accessories",
+            "Subentries": [
+              {
+                "HS Code": "9017.90.01.05",
+                "Description": "Of articles of subheading 9017.10.40",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9017.90.01.15",
+                "Description": "Of articles of subheading 9017.10.80",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9017.90.01.20",
+                "Description": "Of articles of subheading 9017.20.40",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9017.90.01.32",
+                "Description": "Of articles of subheading 9017.20.70",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9017.90.01.36",
+                "Description": "Of articles of subheading 9017.20.80",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9017.90.01.40",
+                "Description": "Of articles of subheading 9017.30.40",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9017.90.01.50",
+                "Description": "Of articles of subheading 9017.30.80",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9017.90.01.60",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9018",
+        "Description": "Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters); parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "9018.11",
+                "Description": "Electrocardiographs, and parts and accessories thereof:",
+                "Subentries": [
+                  {
+                    "HS Code": "9018.11.30.00",
+                    "Description": "Electrocardiographs",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9018.11.60.00",
+                    "Description": "Printed circuit assemblies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9018.11.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9018.12.00.00",
+                "Description": "Ultrasonic scanning apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9018.13.00.00",
+                "Description": "Magnetic resonance imaging apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9018.14.00.00",
+                "Description": "Scintigraphic apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9018.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9018.19.40.00",
+                    "Description": "Apparatus for functional exploratory examination, and parts and accessories thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9018.19.55.00",
+                        "Description": "Patient monitoring systems",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9018.19.75.00",
+                        "Description": "Printed circuit assemblies for parameter acquisition modules",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9018.19.95",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "9018.19.95.30",
+                            "Description": "Basal metabolism and blood pressure apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9018.19.95.35",
+                            "Description": "Electroencephalographs (EEG) and electromyographs (EMG)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9018.19.95.50",
+                            "Description": "Other apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9018.19.95.60",
+                            "Description": "Parts and accessories",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9018.20.00",
+            "Description": "Ultraviolet or infrared ray apparatus, and parts and accessories thereof",
+            "Subentries": [
+              {
+                "HS Code": "9018.20.00.40",
+                "Description": "Therapeutic",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9018.20.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Syringes, needles, catheters, cannulae and the like; parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "9018.31.00",
+                "Description": "Syringes, with or without needles; parts and accessories thereof",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Syringes, with or without their needles:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9018.31.00.40",
+                        "Description": "Hypodermic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9018.31.00.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9018.31.00.90",
+                    "Description": "Parts and accessories",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9018.32.00.00",
+                "Description": "Tubular metal needles and needles for sutures and parts and accessories thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9018.39.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Bougies, catheters, drains and sondes, and parts and accessories thereof:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9018.39.00.20",
+                        "Description": "Rubber catheters",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9018.39.00.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9018.39.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other instruments and appliances, used in dental sciences, and parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "9018.41.00.00",
+                "Description": "Dental drill engines, whether or not combined on a single base with other dental equipment, and parts and accessories thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9018.49",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9018.49.40.00",
+                    "Description": "Dental burs",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9018.49.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9018.49.80.40",
+                        "Description": "Dental hand instruments and parts and accessories thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9018.49.80.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9018.50.00.00",
+            "Description": "Other ophthalmic instruments and appliances and parts and accessories thereof",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9018.90",
+            "Description": "Other instruments and appliances and parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Optical instruments and appliances and parts and accessories thereof:",
+                "Subentries": [
+                  {
+                    "HS Code": "9018.90.10.00",
+                    "Description": "Mirrors and reflectors",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9018.90.20.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9018.90.30.00",
+                    "Description": "Anesthetic instruments and appliances and parts and accessories thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9018.90.40.00",
+                    "Description": "Percussion hammers, stethoscopes and parts of stethoscopes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9018.90.50",
+                    "Description": "Sphygmomanometers, tensimeters and oscillometers; all the foregoing and parts and accessories thereof",
+                    "Subentries": [
+                      {
+                        "HS Code": "9018.90.50.40",
+                        "Description": "Sphygmomanometers and parts and accessories thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9018.90.50.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Electro-medical instruments and appliances and parts and accessories thereof:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9018.90.60.00",
+                        "Description": "Electro-surgical instruments and appliances, other than extracorporeal shock wave lithotripters; all the foregoing and parts and accessories thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9018.90.64.00",
+                            "Description": "Defibrillators",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9018.90.68.00",
+                            "Description": "Printed circuit assemblies for the defibrillators of subheading 9018.90.64",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9018.90.75",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "9018.90.75.20",
+                                "Description": "Dialysis instruments and apparatus",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other therapeutic appliances and instruments:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "9018.90.75.40",
+                                    "Description": "Ultrasonic",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "9018.90.75.60",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "9018.90.75.70",
+                                "Description": "Parts and accessories of dialysis instruments and apparatus",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9018.90.75.80",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9018.90.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9019",
+        "Description": "Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus; ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9019.10",
+            "Description": "Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus; parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "9019.10.20",
+                "Description": "Mechano-therapy appliances and massage apparatus; parts and accessories thereof",
+                "Subentries": [
+                  {
+                    "HS Code": "9019.10.20.10",
+                    "Description": "Mechano-therapy appliances",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Massage apparatus:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Electrically operated:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Battery powered:",
+                            "Subentries": [
+                              {
+                                "HS Code": "9019.10.20.20",
+                                "Description": "Handheld",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9019.10.20.30",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "9019.10.20.35",
+                                "Description": "Powered by AC adapter",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9019.10.20.45",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "9019.10.20.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9019.10.20.90",
+                    "Description": "Parts and accessories",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9019.10.40.00",
+                    "Description": "Electrically operated apparatus and parts thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9019.10.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9019.20.00.00",
+            "Description": "Ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus; parts and accessories thereof",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "9020.00",
+        "Description": "Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9020.00.40.00",
+            "Description": "Underwater breathing devices designed as a complete unit to be carried on the person and not requiring attendants",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9020.00.60.00",
+            "Description": "Other breathing appliances and gas masks",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9020.00.90.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "9021",
+        "Description": "Orthopedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9021.10.00",
+            "Description": "Orthopedic or fracture appliances, and parts and accessories thereof",
+            "Subentries": [
+              {
+                "HS Code": "9021.10.00.50",
+                "Description": "Bone plates, screws and nails, and other internal fixation devices or appliances",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9021.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Artificial teeth and dental fittings, and parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "9021.21",
+                "Description": "Artificial teeth and parts and accessories thereof:",
+                "Subentries": [
+                  {
+                    "HS Code": "9021.21.40.00",
+                    "Description": "Of plastics",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9021.21.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9021.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9021.29.40.00",
+                    "Description": "Of plastics",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9021.29.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other artificial parts of the body and parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "9021.31.00.00",
+                "Description": "Artificial joints and parts and accessories thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9021.39.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9021.40.00.00",
+            "Description": "Hearing aids, excluding parts and accessories thereof",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9021.50.00.00",
+            "Description": "Pacemakers for stimulating heart muscles, excluding parts and accessories thereof",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9021.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9021.90.40",
+                "Description": "Parts and accessories for hearing aids and for pacemakers for stimulating heart muscles",
+                "Subentries": [
+                  {
+                    "HS Code": "9021.90.40.40",
+                    "Description": "For hearing aids",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9021.90.40.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9021.90.81.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9022",
+        "Description": "Apparatus based on the use of X-rays or of alpha, beta, gamma or other ionizing radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus, X-ray tubes and other X-ray generators, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and the like; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "9022.12.00.00",
+                "Description": "Computed tomography apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9022.13.00.00",
+                "Description": "Other, for dental uses",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9022.14.00.00",
+                "Description": "Other, for medical, surgical or veterinary uses",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9022.19.00.00",
+                "Description": "For other uses",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Apparatus based on the use of alpha, beta, gamma or other ionizing radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "9022.21.00.00",
+                "Description": "For medical, surgical, dental or veterinary uses",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9022.29",
+                "Description": "For other uses:",
+                "Subentries": [
+                  {
+                    "HS Code": "9022.29.40.00",
+                    "Description": "Smoke detectors, ionization type",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9022.29.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9022.30.00.00",
+            "Description": "X-ray tubes",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9022.90",
+            "Description": "Other, including parts and accessories:",
+            "Subentries": [
+              {
+                "HS Code": "9022.90.05.00",
+                "Description": "Radiation generator units",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9022.90.15.00",
+                "Description": "Radiation beam delivery units",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9022.90.25.00",
+                    "Description": "Other apparatus",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Parts and accessories:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9022.90.40.00",
+                        "Description": "Of X-ray tubes",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9022.90.60.00",
+                            "Description": "Of apparatus based on the use of X-rays",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9022.90.70.00",
+                            "Description": "Of smoke detectors, ionization type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9022.90.95.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9023.00.00.00",
+        "Description": "Instruments, apparatus and models, designed for demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses, and parts and accessories thereof",
+        "Subentries": []
+      },
+      {
+        "HS Code": "9024",
+        "Description": "Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials (for example, metals, wood, textiles, paper, plastics), and parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9024.10.00.00",
+            "Description": "Machines and appliances for testing metals",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9024.80.00.00",
+            "Description": "Other machines and appliances",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9024.90.00",
+            "Description": "Parts and accessories",
+            "Subentries": [
+              {
+                "HS Code": "9024.90.00.40",
+                "Description": "Of machines and appliances for testing metals",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9024.90.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9025",
+        "Description": "Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Thermometers and pyrometers, not combined with other instruments:",
+            "Subentries": [
+              {
+                "HS Code": "9025.11",
+                "Description": "Liquid-filled, for direct reading:",
+                "Subentries": [
+                  {
+                    "HS Code": "9025.11.20.00",
+                    "Description": "Clinical",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.11.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9025.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9025.19.40.00",
+                    "Description": "Pyrometers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.19.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Clinical",
+                        "Subentries": [
+                          {
+                            "HS Code": "9025.19.80.10",
+                            "Description": "Infrared thermometers of a kind described in statistical note 2 of this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9025.19.80.20",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "9025.19.80.60",
+                            "Description": "Infrared thermometers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9025.19.80.85",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9025.80",
+            "Description": "Other instruments:",
+            "Subentries": [
+              {
+                "HS Code": "9025.80.10.00",
+                "Description": "Electrical",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9025.80.15.00",
+                    "Description": "Barometers, not combined with other instruments",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.80.20.00",
+                    "Description": "Hydrometers and similar floating instruments, whether or not incorporating a thermometer, non-recording",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.80.35.00",
+                    "Description": "Hygrometers and psychrometers, non-recording",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.80.40.00",
+                    "Description": "Thermographs, barographs, hygrographs and other recording instruments",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.80.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9025.90.06.00",
+            "Description": "Parts and accessories",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "9026",
+        "Description": "Instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases (for example, flow meters, level gauges, manometers, heat meters), excluding instruments and apparatus of heading 9014, 9015, 9028 or 9032; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9026.10",
+            "Description": "For measuring or checking the flow or level of liquids:",
+            "Subentries": [
+              {
+                "HS Code": "9026.10.20",
+                "Description": "Electrical",
+                "Subentries": [
+                  {
+                    "HS Code": "9026.10.20.40",
+                    "Description": "Flow meters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9026.10.20.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9026.10.40.00",
+                    "Description": "Flow meters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9026.10.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9026.20",
+            "Description": "For measuring or checking pressure:",
+            "Subentries": [
+              {
+                "HS Code": "9026.20.40.00",
+                "Description": "Electrical",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9026.20.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9026.80",
+            "Description": "Other instruments and apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "9026.80.20.00",
+                "Description": "Electrical",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9026.80.40.00",
+                    "Description": "Heat meters incorporating liquid supply meters, and anemometers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9026.80.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9026.90",
+            "Description": "Parts and accessories:",
+            "Subentries": [
+              {
+                "HS Code": "9026.90.20.00",
+                "Description": "Of electrical instruments and apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9026.90.40.00",
+                    "Description": "Of flow meters, heat meters incorporating liquid supply meters and anemometers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9026.90.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9027",
+        "Description": "Instruments and apparatus for physical or chemical analysis (for example, polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus); instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like; instruments and apparatus for measuring or checking quantities of heat, sound or light (including exposure meters); microtomes; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9027.10",
+            "Description": "Gas or smoke analysis apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "9027.10.20.00",
+                "Description": "Electrical",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9027.10.40.00",
+                    "Description": "Optical instruments and apparatus",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9027.10.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9027.20",
+            "Description": "Chromatographs and electrophoresis instruments:",
+            "Subentries": [
+              {
+                "HS Code": "9027.20.50",
+                "Description": "Electrical",
+                "Subentries": [
+                  {
+                    "HS Code": "9027.20.50.30",
+                    "Description": "Electrophoresis instruments",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9027.20.50.50",
+                    "Description": "Gas chromatographs",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9027.20.50.60",
+                    "Description": "Liquid chromatographs",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9027.20.50.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9027.20.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "9027.20.80.30",
+                    "Description": "Gas chromatographs",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9027.20.80.60",
+                    "Description": "Liquid chromatographs",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9027.20.80.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9027.30",
+            "Description": "Spectrometers, spectrophotometers and spectrographs using optical radiations (ultraviolet, visible, infrared):",
+            "Subentries": [
+              {
+                "HS Code": "9027.30.40",
+                "Description": "Electrical",
+                "Subentries": [
+                  {
+                    "HS Code": "9027.30.40.40",
+                    "Description": "Spectrophotometers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9027.30.40.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9027.30.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "9027.30.80.20",
+                    "Description": "Spectroscopes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9027.30.80.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9027.50",
+            "Description": "Other instruments and apparatus using optical radiations (ultraviolet, visible, infrared):",
+            "Subentries": [
+              {
+                "HS Code": "9027.50.10.00",
+                "Description": "Exposure meters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9027.50.40",
+                    "Description": "Electrical",
+                    "Subentries": [
+                      {
+                        "HS Code": "9027.50.40.15",
+                        "Description": "Chemical analysis instruments and apparatus",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9027.50.40.20",
+                        "Description": "Thermal analysis instruments and apparatus",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9027.50.40.50",
+                        "Description": "Photometers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9027.50.40.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9027.50.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9027.50.80.15",
+                        "Description": "Chemical analysis instruments and apparatus",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9027.50.80.20",
+                        "Description": "Thermal analysis instruments and apparatus",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9027.50.80.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other instruments and apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "9027.81.00.00",
+                "Description": "Mass spectrometers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9027.89",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9027.89.25.00",
+                    "Description": "Nuclear magnetic resonance instruments",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9027.89.45",
+                        "Description": "Electrical",
+                        "Subentries": [
+                          {
+                            "HS Code": "9027.89.45.30",
+                            "Description": "Chemical analysis instruments and apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9027.89.45.60",
+                            "Description": "Physical analysis instruments and apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9027.89.45.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "9027.89.80",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "9027.89.80.30",
+                            "Description": "Chemical analysis instruments and apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9027.89.80.60",
+                            "Description": "Physical analysis instruments and apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9027.89.80.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9027.90",
+            "Description": "Microtomes; parts and accessories:",
+            "Subentries": [
+              {
+                "HS Code": "9027.90.20.00",
+                "Description": "Microtomes",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Parts and accessories:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of electrical instruments and apparatus:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9027.90.45.00",
+                        "Description": "Printed circuit assemblies for the goods of subheading 9027.81 or 9027.89",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9027.90.54.00",
+                            "Description": "Of electrophoresis instruments not incorporating an optical or other measuring device",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9027.90.56",
+                            "Description": "Of instruments and apparatus of subheading 9027.20, 9027.30, 9027.50, 9027.81 or 9027.89",
+                            "Subentries": [
+                              {
+                                "HS Code": "9027.90.56.25",
+                                "Description": "Of articles of subheading 9027.20.50",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9027.90.56.30",
+                                "Description": "Of articles of subheading 9027.30.40",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9027.90.56.40",
+                                "Description": "Of articles of subheading 9027.50.10",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9027.90.56.50",
+                                "Description": "Of articles of subheading 9027.50.40",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9027.90.56.95",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "9027.90.59",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "9027.90.59.10",
+                                "Description": "Of articles of subheading 9027.10.20",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9027.90.59.95",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Of optical instruments and apparatus:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9027.90.64.00",
+                            "Description": "Of instruments and apparatus of subheading 9027.20, 9027.30, 9027.50, 9027.81 or 9027.89",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9027.90.68.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9027.90.84.00",
+                            "Description": "Of instruments and apparatus of subheading 9027.20, 9027.30, 9027.50, 9027.81 or 9027.89",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9027.90.88.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9028",
+        "Description": "Gas, liquid or electricity supply or production meters, including calibrating meters thereof; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9028.10.00.00",
+            "Description": "Gas meters",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9028.20.00.00",
+            "Description": "Liquid meters",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9028.30.00.00",
+            "Description": "Electricity meters",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9028.90.00",
+            "Description": "Parts and accessories",
+            "Subentries": [
+              {
+                "HS Code": "9028.90.00.40",
+                "Description": "Of electricity meters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9028.90.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9029",
+        "Description": "Revolution counters, production counters, taximeters, odometers, pedometers and the like; speedometers and tachometers, other than those of heading 9014 or 9015; stroboscopes; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9029.10",
+            "Description": "Revolution counters, production counters, taximeters, odometers, pedometers and the like:",
+            "Subentries": [
+              {
+                "HS Code": "9029.10.40.00",
+                "Description": "Taximeters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9029.10.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9029.20",
+            "Description": "Speedometers and tachometers; stroboscopes:",
+            "Subentries": [
+              {
+                "HS Code": "9029.20.20.00",
+                "Description": "Bicycle speedometers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9029.20.40",
+                "Description": "Other speedometers and tachometers",
+                "Subentries": [
+                  {
+                    "HS Code": "9029.20.40.40",
+                    "Description": "For use in civil aircraft",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9029.20.40.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9029.20.60.00",
+                "Description": "Stroboscopes",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9029.90",
+            "Description": "Parts and accessories:",
+            "Subentries": [
+              {
+                "HS Code": "9029.90.20.00",
+                "Description": "Of taximeters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9029.90.40.00",
+                "Description": "Of bicycle speedometers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9029.90.60.00",
+                "Description": "Of stroboscopes",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9029.90.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "9029.90.80.40",
+                    "Description": "Of speedometers and tachometers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9029.90.80.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9030",
+        "Description": "Oscilloscopes, spectrum analyzers and other instruments and apparatus for measuring or checking electrical quantities, excluding meters of heading 9028; instruments and apparatus for measuring or detecting alpha, beta, gamma, X-ray, cosmic or other ionizing radiations; parts and accessories thereof:\u200b",
+        "Subentries": [
+          {
+            "HS Code": "9030.10.00.00",
+            "Description": "Instruments and apparatus for measuring or detecting ionizing radiations",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9030.20",
+            "Description": "Oscilloscopes and oscillographs:",
+            "Subentries": [
+              {
+                "HS Code": "9030.20.05.00",
+                "Description": "Specially designed for telecommunications",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9030.20.10.00",
+                "Description": "Other oscilloscopes and oscillographs",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):",
+            "Subentries": [
+              {
+                "HS Code": "9030.31.00.00",
+                "Description": "Multimeters, without a recording device",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9030.32.00.00",
+                "Description": "Multimeters, with a recording device",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9030.33",
+                "Description": "Other, without a recording device:",
+                "Subentries": [
+                  {
+                    "HS Code": "9030.33.34.00",
+                    "Description": "Resistance measuring instruments",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9030.33.38.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9030.39.01.00",
+                "Description": "Other, with a recording device",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9030.40.00.00",
+            "Description": "Other instruments and apparatus, specially designed for telecommunications (for example, cross-talk meters, gain measuring instruments, distortion factor meters, psophometers)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other instruments and apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "9030.82.00.00",
+                "Description": "For measuring or checking semiconductor wafers or devices (including integrated circuits)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9030.84.00.00",
+                "Description": "Other, with a recording device",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9030.89.01.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9030.90",
+            "Description": "Parts and accessories:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "For articles of subheading 9030.10:",
+                "Subentries": [
+                  {
+                    "HS Code": "9030.90.25.00",
+                    "Description": "Printed circuit assemblies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9030.90.46.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Printed circuit assemblies:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9030.90.66.00",
+                        "Description": "Of instruments and apparatus of subheading 9030.40 or 9030.82",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9030.90.68.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9030.90.84.00",
+                        "Description": "Of instruments and apparatus of subheading 9030.82",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9030.90.89",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "9030.90.89.11",
+                            "Description": "Of articles of subheading 9030.20",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9030.90.89.21",
+                            "Description": "Of articles of subheading 9030.31",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9030.90.89.22",
+                            "Description": "Of articles of subheading 9030.32",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9030.90.89.23",
+                            "Description": "Of articles of subheading 9030.33",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9030.90.89.31",
+                            "Description": "Of articles of subheading 9030.39",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9030.90.89.40",
+                            "Description": "Of articles of subheading 9030.40",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9030.90.89.56",
+                            "Description": "Of articles of subheading 9030.84",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9030.90.89.61",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9031",
+        "Description": "Measuring or checking instruments, appliances and machines, not specified or included elsewhere in this chapter; profile projectors; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9031.10.00.00",
+            "Description": "Machines for balancing mechanical parts",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9031.20.00.00",
+            "Description": "Test benches",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other optical instruments and appliances:",
+            "Subentries": [
+              {
+                "HS Code": "9031.41.00",
+                "Description": "For inspecting semiconductor wafers or devices (including integrated circuits) or for inspecting photomasks or reticles used in manufacturing semiconductor devices (including integrated circuits)",
+                "Subentries": [
+                  {
+                    "HS Code": "9031.41.00.20",
+                    "Description": "For inspecting photomasks or reticles used in manufacturing semiconductor devices",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "For inspecting semiconductor wafers or devices:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9031.41.00.40",
+                        "Description": "For wafers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9031.41.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "9031.49",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9031.49.10.00",
+                    "Description": "Profile projectors",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9031.49.40.00",
+                    "Description": "Coordinate-measuring machines",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9031.49.70.00",
+                    "Description": "For inspecting masks (other than photomasks) used in manufacturing semiconductor devices; for measuring surface particulate contamination on semiconductor devices",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9031.49.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9031.80",
+            "Description": "Other instruments, appliances and machines:",
+            "Subentries": [
+              {
+                "HS Code": "9031.80.40.00",
+                "Description": "Electron beam microscopes fitted with equipment specifically designed for the handling and transport of semiconductor wafers or reticles",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9031.80.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Equipment for testing the characteristics of internal combustion engines:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9031.80.80.60",
+                        "Description": "For testing electrical characteristics",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9031.80.80.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9031.80.80.85",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9031.90",
+            "Description": "Parts and accessories:",
+            "Subentries": [
+              {
+                "HS Code": "9031.90.21.00",
+                "Description": "Of profile projectors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Of other optical instruments and appliances, other than test benches:",
+                "Subentries": [
+                  {
+                    "HS Code": "9031.90.45.00",
+                    "Description": "Bases and frames for the coordinate-measuring machines of subheading 9031.49.40",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9031.90.54.00",
+                    "Description": "Of optical instruments and appliances of subheading 9031.41 or 9031.49.70",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9031.90.59.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9031.90.70.00",
+                    "Description": "Of articles of subheading 9031.80.40",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9031.90.91",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9031.90.91.30",
+                        "Description": "Of machines for balancing mechanical parts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9031.90.91.60",
+                        "Description": "Of test benches",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9031.90.91.95",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9032",
+        "Description": "Automatic regulating or controlling instruments and apparatus; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9032.10.00",
+            "Description": "Thermostats",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "For air conditioning, refrigeration or heating systems:",
+                "Subentries": [
+                  {
+                    "HS Code": "9032.10.00.30",
+                    "Description": "Designed for wall mounting",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9032.10.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9032.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9032.20.00.00",
+            "Description": "Manostats",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other instruments and apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "9032.81.00",
+                "Description": "Hydraulic and pneumatic",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Industrial process control instruments and apparatus:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9032.81.00.20",
+                        "Description": "Hydraulic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9032.81.00.60",
+                        "Description": "Pneumatic",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9032.81.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9032.89",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Automatic voltage and voltage-current regulators:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9032.89.20.00",
+                        "Description": "Designed for use in a 6, 12 or 24 V system",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9032.89.40.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9032.89.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Control instruments for air conditioning, refrigeration or heating systems:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9032.89.60.15",
+                            "Description": "Complete systems",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9032.89.60.25",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Process control instruments and apparatus:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9032.89.60.30",
+                            "Description": "Complete systems",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "9032.89.60.40",
+                                "Description": "Temperature control instruments",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9032.89.60.50",
+                                "Description": "Pressure and draft control instruments",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9032.89.60.60",
+                                "Description": "Flow and liquid level control instruments",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9032.89.60.70",
+                                "Description": "Humidity control instruments",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9032.89.60.75",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "9032.89.60.85",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9032.90",
+            "Description": "Parts and accessories:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Of automatic voltage and voltage-current regulators:",
+                "Subentries": [
+                  {
+                    "HS Code": "9032.90.21.00",
+                    "Description": "Designed for use in a 6, 12 or 24 V system",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9032.90.41.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9032.90.61",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "9032.90.61.20",
+                    "Description": "Of thermostats",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9032.90.61.40",
+                    "Description": "Of manostats",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9032.90.61.60",
+                    "Description": "Of instruments and apparatus of subheading 9032.81",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9032.90.61.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9033.00",
+        "Description": "Parts and accessories (not specified or included elsewhere in this chapter) for machines, appliances, instruments or apparatus of chapter 90:",
+        "Subentries": [
+          {
+            "HS Code": "9033.00.20.00",
+            "Description": "Light-emitting diode (LED) backlights modules, the foregoing which are lighting sources that consist of one or more LEDs and one or more connectors and are mounted on a printed circuit or other similar substrate, and other passive components, whether or not combined with optical components or protective diodes, and used as backlights illumination for liquid crystal displays (LCDs)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9033.00.30.00",
+            "Description": "Touch-sensitive data input devices (so-called \u201ctouch screens\u201d) without display capabilities, for incorporation into apparatus having a display, which function by detecting the presence and location of a touch within the display area (such sensing may be obtained by means of resistance, electrostatic capacity, acoustic pulse recognition, infrared lights or other touch-sensitive technology)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9033.00.90.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

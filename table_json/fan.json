@@ -1,0 +1,106 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8414",
+        "Description": "Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters; gas-tight biological safety cabinets, whether or not fitted with filters; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Fans:",
+            "Subentries": [
+              {
+                "HS Code": "8414.51",
+                "Description": "Table, floor, wall, window, ceiling or roof fans, with a self-contained electric motor of an output not exceeding 125 W:",
+                "Subentries": [
+                  {
+                    "HS Code": "8414.51.30.00",
+                    "Description": "Ceiling fans for permanent installation",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8414.51.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8414.51.90.60",
+                        "Description": "For permanent installation",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8414.51.90.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8414.59",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8414.59.10.00",
+                    "Description": "Blowers for pipe organs",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8414.59.15.00",
+                    "Description": "Fans of a kind used solely or principally for cooling microprocessors, telecommunications apparatus, automatic data processing machines or units of automatic data processing machines",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8414.59.30.00",
+                        "Description": "Turbochargers and superchargers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8414.59.65",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8414.59.65.40",
+                            "Description": "Suitable for use with motor vehicles",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8414.59.65.60",
+                                "Description": "Centrifugal",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.59.65.90",
+                                "Description": "Axial",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.59.65.95",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

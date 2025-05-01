@@ -1,0 +1,35 @@
+[
+  {
+    "HS Code": "33",
+    "Description": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+    "Subentries": [
+      {
+        "HS Code": "3303.00",
+        "Description": "Perfumes and toilet waters:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Not containing alcohol:",
+            "Subentries": [
+              {
+                "HS Code": "3303.00.10.00",
+                "Description": "Floral or flower waters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3303.00.20.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3303.00.30.00",
+            "Description": "Containing alcohol",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

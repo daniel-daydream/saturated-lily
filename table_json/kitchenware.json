@@ -1,0 +1,181 @@
+[
+  {
+    "HS Code": "82",
+    "Description": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",
+    "Subentries": [
+      {
+        "HS Code": "8215",
+        "Description": "Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware; and base metal parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8215.10.00.00",
+            "Description": "Sets of assorted articles containing at least one article plated with precious metal",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8215.20.00.00",
+            "Description": "Other sets of assorted articles",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "8215.91",
+                "Description": "Plated with precious metal:",
+                "Subentries": [
+                  {
+                    "HS Code": "8215.91.30.00",
+                    "Description": "Forks",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8215.91.60.00",
+                    "Description": "Spoons and ladles",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8215.91.90.00",
+                    "Description": "Other (including parts)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8215.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Forks:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "With stainless steel handles:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "With handles containing nickel or containing over 10 percent by weight of manganese:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8215.99.01.00",
+                                "Description": "Valued under 25\u00a2 each, not over 25.9 cm in overall length",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8215.99.05.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8215.99.10.00",
+                                "Description": "Valued under 25\u00a2 each",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8215.99.15.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8215.99.20.00",
+                        "Description": "With rubber or plastic handles",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8215.99.22.00",
+                            "Description": "Without their handles",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8215.99.24.00",
+                                "Description": "Table forks (including table serving forks) and barbecue forks with wooden handles",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8215.99.26.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Spoons and ladles:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "With stainless steel handles:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8215.99.30.00",
+                            "Description": "Spoons valued under 25\u00a2 each",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8215.99.35.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8215.99.40",
+                        "Description": "With base metal (except stainless steel) or nonmetal handles",
+                        "Subentries": [
+                          {
+                            "HS Code": "8215.99.40.30",
+                            "Description": "Tablespoons and table ladles",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8215.99.40.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8215.99.45.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8215.99.50.00",
+                    "Description": "Other (including parts)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

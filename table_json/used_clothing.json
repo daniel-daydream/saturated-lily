@@ -1,0 +1,24 @@
+[
+  {
+    "HS Code": "63",
+    "Description": "Other made up textile articles; sets; worn clothing and worn textile articles; rags",
+    "Subentries": [
+      {
+        "HS Code": "6309.00.00",
+        "Description": "Worn clothing and other worn articles",
+        "Subentries": [
+          {
+            "HS Code": "6309.00.00.10",
+            "Description": "Worn clothing",
+            "Subentries": []
+          },
+          {
+            "HS Code": "6309.00.00.20",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

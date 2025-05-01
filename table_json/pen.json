@@ -1,0 +1,61 @@
+[
+  {
+    "HS Code": "96",
+    "Description": "Miscellaneous manufactured articles",
+    "Subentries": [
+      {
+        "HS Code": "9608",
+        "Description": "Ball point pens; felt tipped and other porous-tipped pens and markers; fountain pens, stylograph pens and other pens; duplicating styli; propelling or sliding pencils (for example, mechanical pencils); pen-holders, pencil-holders and similar holders; parts (including caps and clips) of the foregoing articles, other than those of heading 9609:",
+        "Subentries": [
+          {
+            "HS Code": "9608.10.00.00",
+            "Description": "Ball point pens",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9608.20.00.00",
+            "Description": "Felt tipped and other porous-tipped pens and markers",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9608.30.00",
+            "Description": "Fountain pens, stylograph pens and other pens",
+            "Subentries": [
+              {
+                "HS Code": "9608.30.00.31",
+                "Description": "India ink drawing pens",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9608.30.00.39",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9608.40",
+            "Description": "Propelling or sliding pencils (for example, mechanical pencils):",
+            "Subentries": [
+              {
+                "HS Code": "9608.40.40.00",
+                "Description": "With a mechanical action for extending, or for extending and retracting, the lead",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9608.40.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9608.50.00.00",
+            "Description": "Sets of articles from two or more of the subheadings 9608.10, 9608.20, 9608.30 or 9608.40",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

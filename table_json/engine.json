@@ -1,0 +1,308 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8407",
+        "Description": "Spark-ignition reciprocating or rotary internal combustion piston engines:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Marine propulsion engines:",
+            "Subentries": [
+              {
+                "HS Code": "8407.21.00",
+                "Description": "Outboard motors",
+                "Subentries": [
+                  {
+                    "HS Code": "8407.21.00.40",
+                    "Description": "Less than 22.38 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8407.21.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8407.29.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8407.29.00.10",
+                    "Description": "Inboard engines with outboard drive",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Inboard engines with inboard drive:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8407.29.00.20",
+                        "Description": "Less than 746 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8407.29.00.30",
+                        "Description": "746 W or greater, but not exceeding 18.65 kW",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8407.29.00.40",
+                        "Description": "Exceeding 18.65 kW",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8408",
+        "Description": "Compression-ignition internal combustion piston engines (diesel or semi-diesel engines):",
+        "Subentries": [
+          {
+            "HS Code": "8408.10.00",
+            "Description": "Marine propulsion engines",
+            "Subentries": [
+              {
+                "HS Code": "8408.10.00.05",
+                "Description": "Not exceeding 111.9 kW",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.10.00.15",
+                "Description": "Exceeding 111.9 kW but not exceeding 149.2 kW",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.10.00.20",
+                "Description": "Exceeding 149.2 kW but not exceeding 223.8 kW",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.10.00.30",
+                "Description": "Exceeding 223.8 kW but not exceeding 373 kW",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.10.00.40",
+                "Description": "Exceeding 373 kW but not exceeding 746 kW",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.10.00.50",
+                "Description": "Exceeding 746 kW",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8408.20",
+            "Description": "Engines of a kind used for the propulsion of vehicles of chapter 87:",
+            "Subentries": [
+              {
+                "HS Code": "8408.20.10",
+                "Description": "To be installed in tractors suitable for agricultural use",
+                "Subentries": [
+                  {
+                    "HS Code": "8408.20.10.40",
+                    "Description": "Not exceeding 37.3 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8408.20.10.80",
+                    "Description": "Exceeding 37.3 kW",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8408.20.20.00",
+                "Description": "To be installed in vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29, or heading 8702, 8703 or 8704",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.20.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8408.90",
+            "Description": "Other engines:",
+            "Subentries": [
+              {
+                "HS Code": "8408.90.10",
+                "Description": "To be installed in agricultural or horticultural machinery or equipment",
+                "Subentries": [
+                  {
+                    "HS Code": "8408.90.10.40",
+                    "Description": "Not exceeding 37.3 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8408.90.10.80",
+                    "Description": "Exceeding 37.3 kW",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8408.90.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8408.90.90.10",
+                    "Description": "Not exceeding 149.2 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8408.90.90.20",
+                    "Description": "Exceeding 149.2 kW but not exceeding 373 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8408.90.90.30",
+                    "Description": "Exceeding 373 kW but not exceeding 746 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8408.90.90.40",
+                    "Description": "Exceeding 746 kW but not exceeding 1,119 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8408.90.90.50",
+                    "Description": "Exceeding 1,119 kW",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8412",
+        "Description": "Other engines and motors, and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8412.10.00",
+            "Description": "Reaction engines other than turbojets",
+            "Subentries": [
+              {
+                "HS Code": "8412.10.00.10",
+                "Description": "Missile and rocket engines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8412.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Hydraulic power engines and motors:",
+            "Subentries": [
+              {
+                "HS Code": "8412.21.00",
+                "Description": "Linear acting (cylinders)",
+                "Subentries": [
+                  {
+                    "HS Code": "8412.21.00.15",
+                    "Description": "Tie-rod type",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8412.21.00.30",
+                    "Description": "Weld fused type",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8412.21.00.45",
+                        "Description": "Telescoping",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8412.21.00.60",
+                        "Description": "Rodless",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8412.21.00.75",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8412.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8412.29.40.00",
+                    "Description": "Hydrojet engines for marine propulsion",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8412.29.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Unlimited rotary acting:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8412.29.80.15",
+                            "Description": "Gear type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8412.29.80.30",
+                            "Description": "Radial piston type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8412.29.80.45",
+                            "Description": "Axial piston type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8412.29.80.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8412.29.80.75",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

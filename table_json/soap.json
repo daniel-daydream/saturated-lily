@@ -1,0 +1,46 @@
+[
+  {
+    "HS Code": "34",
+    "Description": "Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modeling pastes, dental waxes and dental preparations with a basis of plaster",
+    "Subentries": [
+      {
+        "HS Code": "3401",
+        "Description": "Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, molded pieces or shapes, whether or not containing soap; organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Soap and organic surface-active products and preparations, in the form of bars, cakes, molded pieces or shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent:",
+            "Subentries": [
+              {
+                "HS Code": "3401.11",
+                "Description": "For toilet use (including medicated products):",
+                "Subentries": [
+                  {
+                    "HS Code": "3401.11.10.00",
+                    "Description": "Castile soap",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3401.11.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3401.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3401.20.00.00",
+            "Description": "Soap in other forms",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

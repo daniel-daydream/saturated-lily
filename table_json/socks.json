@@ -1,0 +1,169 @@
+[
+  {
+    "HS Code": "61",
+    "Description": "Articles of apparel and clothing accessories, knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6115",
+        "Description": "Panty hose, tights, stockings, socks and other hosiery, including graduated compression hosiery (for example, stockings for varicose veins) and footwear without applied soles, knitted or crocheted:",
+        "Subentries": [
+          {
+            "HS Code": "6115.10",
+            "Description": "Graduated compression hosiery (for example, stockings for varicose veins):",
+            "Subentries": [
+              {
+                "HS Code": "6115.10.05.00",
+                "Description": "Surgical panty hose and surgical stockings with graduated compression for orthopedic treatment",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other graduated compression panty hose and tights:",
+                "Subentries": [
+                  {
+                    "HS Code": "6115.10.10.00",
+                    "Description": "Of synthetic fibers (659)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6115.10.15",
+                    "Description": "Of other textile materials",
+                    "Subentries": [
+                      {
+                        "HS Code": "6115.10.15.10",
+                        "Description": "Of cotton (359)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6115.10.15.20",
+                        "Description": "Of wool or fine animal hair (459)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6115.10.15.40",
+                        "Description": "Other (859)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other graduated compression hosiery:",
+                "Subentries": [
+                  {
+                    "HS Code": "6115.10.30.00",
+                    "Description": "Of cotton (332)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6115.10.40.00",
+                    "Description": "Of synthetic fibers (632)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6115.10.55.00",
+                    "Description": "Of artificial fibers (632)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6115.10.60.00",
+                    "Description": "Of other textile materials (832)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other panty hose and tights:",
+            "Subentries": [
+              {
+                "HS Code": "6115.21.00",
+                "Description": "Of synthetic fibers, measuring per single yarn less than 67 decitex",
+                "Subentries": [
+                  {
+                    "HS Code": "6115.21.00.10",
+                    "Description": "Tights (659)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6115.21.00.20",
+                    "Description": "Other (632)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "6115.22.00.00",
+                "Description": "Of synthetic fibers, measuring per single yarn 67 decitex or more (659)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6115.29",
+                "Description": "Of other textile materials:",
+                "Subentries": [
+                  {
+                    "HS Code": "6115.29.40.00",
+                    "Description": "Containing 70 percent or more by weight of silk or silk waste",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6115.29.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6115.29.80.10",
+                        "Description": "Of cotton (359)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6115.29.80.20",
+                        "Description": "Of wool or fine animal hair (459)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6115.29.80.40",
+                        "Description": "Other (859)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "6115.30",
+            "Description": "Other women's full-length or knee-length hosiery, measuring per single yarn less than 67 decitex:",
+            "Subentries": [
+              {
+                "HS Code": "6115.30.10.00",
+                "Description": "Containing 70 percent or more by weight of silk or silk waste",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6115.30.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "6115.30.90.10",
+                    "Description": "Of man-made fibers (632)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6115.30.90.30",
+                    "Description": "Other (832)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,658 @@
+[
+  {
+    "HS Code": "61",
+    "Description": "Articles of apparel and clothing accessories, knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6109",
+        "Description": "T-shirts, singlets, tank tops and similar garments, knitted or crocheted:",
+        "Subentries": [
+          {
+            "HS Code": "6109.10.00",
+            "Description": "Of cotton",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Men's or boys':",
+                "Subentries": [
+                  {
+                    "HS Code": "6109.10.00.04",
+                    "Description": "T-shirts, all white, short hemmed sleeves, hemmed bottom, crew or round neckline, or V-neck with a mitered seam at the center of the V, without pockets, trim or embroidery (352)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6109.10.00.07",
+                    "Description": "Singlets, all white, without pockets, trim or embroidery (352)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6109.10.00.11",
+                    "Description": "Thermal undershirts (352)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other T-shirts:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6109.10.00.12",
+                        "Description": "Men's (338)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6109.10.00.14",
+                        "Description": "Boys' (338)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Tank tops and other singlets:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6109.10.00.18",
+                        "Description": "Men's (338)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6109.10.00.23",
+                        "Description": "Boys' (338)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "6109.10.00.27",
+                    "Description": "Other (338)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Women's or girls':",
+                "Subentries": [
+                  {
+                    "HS Code": "6109.10.00.37",
+                    "Description": "Underwear (352)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "T-shirts:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6109.10.00.40",
+                            "Description": "Women's (339)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6109.10.00.45",
+                            "Description": "Girls' (339)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Tank tops:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6109.10.00.60",
+                            "Description": "Women's (339)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6109.10.00.65",
+                            "Description": "Girls' (339)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6109.10.00.70",
+                        "Description": "Other (339)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "6109.90",
+            "Description": "Of other textile materials:",
+            "Subentries": [
+              {
+                "HS Code": "6109.90.10",
+                "Description": "Of man-made fibers",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Men's or boys':",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "T-shirts:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6109.90.10.07",
+                            "Description": "Men's (638)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6109.90.10.09",
+                            "Description": "Boys' (638)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Tank tops and singlets:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6109.90.10.13",
+                            "Description": "Men's (638)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6109.90.10.25",
+                            "Description": "Boys' (638)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6109.90.10.47",
+                        "Description": "Thermal undershirts (652)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6109.90.10.49",
+                        "Description": "Other (638)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Women's or girls':",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "T-shirts:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6109.90.10.50",
+                            "Description": "Women's (639)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6109.90.10.60",
+                            "Description": "Girls' (639)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Tank tops and singlets:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6109.90.10.65",
+                            "Description": "Women's (639)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6109.90.10.70",
+                            "Description": "Girls' (639)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6109.90.10.75",
+                        "Description": "Thermal undershirts (652)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6109.90.10.90",
+                        "Description": "Other (639)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6109.90.15",
+                "Description": "Of wool, with long sleeves",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Men's or boys':",
+                    "Subentries": [
+                      {
+                        "HS Code": "6109.90.15.10",
+                        "Description": "Underwear (459)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6109.90.15.20",
+                        "Description": "Other (438)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Women's or girls':",
+                    "Subentries": [
+                      {
+                        "HS Code": "6109.90.15.30",
+                        "Description": "Underwear (459)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6109.90.15.40",
+                        "Description": "Other (438)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6109.90.40",
+                "Description": "Containing 70 percent or more by weight of silk or silk waste",
+                "Subentries": [
+                  {
+                    "HS Code": "6109.90.40.10",
+                    "Description": "Men's or boys' (738)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6109.90.40.20",
+                    "Description": "Women's or girls' (739)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "6109.90.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "6109.90.80.10",
+                    "Description": "Men's or boys' (838)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Women's or girls':",
+                    "Subentries": [
+                      {
+                        "HS Code": "6109.90.80.20",
+                        "Description": "Of wool (438)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6109.90.80.30",
+                        "Description": "Other (838)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "62",
+    "Description": "Articles of apparel and clothing accessories, not knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6206",
+        "Description": "Women's or girls' blouses, shirts and shirt-blouses:",
+        "Subentries": [
+          {
+            "HS Code": "6206.10.00",
+            "Description": "Of silk or silk waste",
+            "Subentries": [
+              {
+                "HS Code": "6206.10.00.10",
+                "Description": "Subject to cotton restraints (341)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6206.10.00.20",
+                "Description": "Subject to wool restraints (440)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6206.10.00.30",
+                "Description": "Subject to man-made fiber restraints (641)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "6206.10.00.40",
+                    "Description": "Containing 70 percent or more by weight of silk or silk waste (741)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6206.10.00.50",
+                    "Description": "Other (840)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "6206.20",
+            "Description": "Of wool or fine animal hair:",
+            "Subentries": [
+              {
+                "HS Code": "6206.20.10.00",
+                "Description": "Certified hand-loomed and folklore products (440)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "6206.20.20",
+                    "Description": "Containing 30 percent or more by weight of silk or silk waste",
+                    "Subentries": [
+                      {
+                        "HS Code": "6206.20.20.10",
+                        "Description": "Women's (440)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6206.20.20.20",
+                        "Description": "Girls' (440)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "6206.20.30",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6206.20.30.10",
+                        "Description": "Women's (440)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6206.20.30.20",
+                        "Description": "Girls' (440)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "6206.30",
+            "Description": "Of cotton:",
+            "Subentries": [
+              {
+                "HS Code": "6206.30.10.00",
+                "Description": "Certified hand-loomed and folklore products (341)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "6206.30.20.00",
+                    "Description": "Containing 36 percent or more by weight of flax fibers (341)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6206.30.30",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6206.30.30.03",
+                        "Description": "Containing compact yarns described in statistical reporting numbers 5205.42.0021, 5205.43.0021,   5205.44.0021,5205.46.0021or 5205.47.0021 (341)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "With two or more colors in the warp and/or the filling:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6206.30.30.11",
+                                "Description": "Women's (341)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Girls':",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6206.30.30.21",
+                                    "Description": "Imported as parts of playsuits (237)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6206.30.30.31",
+                                    "Description": "Other (341)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Women's:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6206.30.30.43",
+                                    "Description": "Designed for use in hospitals, clinics, laboratories or contaminated areas (341)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6206.30.30.45",
+                                    "Description": "Other (341)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Girls':",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6206.30.30.51",
+                                    "Description": "Imported as parts of playsuits (237)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6206.30.30.61",
+                                    "Description": "Other (341)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "6206.40",
+            "Description": "Of man-made fibers:",
+            "Subentries": [
+              {
+                "HS Code": "6206.40.10.00",
+                "Description": "Certified hand-loomed and folklore products (641)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "6206.40.20.00",
+                    "Description": "Containing 30 percent or more by weight of silk or silk waste (641)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6206.40.25",
+                    "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
+                    "Subentries": [
+                      {
+                        "HS Code": "6206.40.25.10",
+                        "Description": "Women's (440)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6206.40.25.20",
+                        "Description": "Girls' (440)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "6206.40.30",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "With two or more colors in the warp and/or the filling:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6206.40.30.10",
+                            "Description": "Women's (641)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Girls':",
+                            "Subentries": [
+                              {
+                                "HS Code": "6206.40.30.20",
+                                "Description": "Imported as parts of playsuits (237)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6206.40.30.25",
+                                "Description": "Other (641)",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Women's:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6206.40.30.33",
+                                "Description": "Designed for use in hospitals, clinics, laboratories or contaminated areas (641)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6206.40.30.35",
+                                "Description": "Other (641)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Girls':",
+                            "Subentries": [
+                              {
+                                "HS Code": "6206.40.30.40",
+                                "Description": "Imported as parts of playsuits (237)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6206.40.30.50",
+                                "Description": "Other (641)",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "6206.90.00",
+            "Description": "Of other textile materials",
+            "Subentries": [
+              {
+                "HS Code": "6206.90.00.10",
+                "Description": "Subject to cotton restraints (341)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6206.90.00.20",
+                "Description": "Subject to wool restraints (440)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6206.90.00.30",
+                "Description": "Subject to man-made fiber restraints (641)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6206.90.00.40",
+                "Description": "Other (840)",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

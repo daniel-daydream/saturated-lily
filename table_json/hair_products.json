@@ -1,0 +1,34 @@
+[
+  {
+    "HS Code": "33",
+    "Description": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+    "Subentries": [
+      {
+        "HS Code": "3305",
+        "Description": "Preparations for use on the hair:",
+        "Subentries": [
+          {
+            "HS Code": "3305.10.00.00",
+            "Description": "Shampoos",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3305.20.00.00",
+            "Description": "Preparations for permanent waving or straightening",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3305.30.00.00",
+            "Description": "Hair lacquers",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3305.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

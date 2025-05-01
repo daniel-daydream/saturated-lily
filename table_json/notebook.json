@@ -1,0 +1,72 @@
+[
+  {
+    "HS Code": "48",
+    "Description": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+    "Subentries": [
+      {
+        "HS Code": "4820",
+        "Description": "Registers, account books, notebooks, order books, receipt books, letter pads, memorandum pads, diaries and similar articles, exercise books, blotting pads, binders (looseleaf or other), folders, file covers, manifold business forms, interleaved carbon sets and other articles of stationery, of paper or paperboard; albums for samples or for collections and book covers (including cover boards and book jackets) of paper or paperboard:",
+        "Subentries": [
+          {
+            "HS Code": "4820.10",
+            "Description": "Registers, account books, notebooks, order books, receipt books, letter pads, memorandum pads, diaries and similar articles:",
+            "Subentries": [
+              {
+                "HS Code": "4820.10.20",
+                "Description": "Diaries, notebooks and address books, bound; memorandum pads, letter pads and similar articles",
+                "Subentries": [
+                  {
+                    "HS Code": "4820.10.20.10",
+                    "Description": "Diaries and address books",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4820.10.20.20",
+                    "Description": "Memorandum pads, letter pads and similar articles",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4820.10.20.30",
+                    "Description": "Sewn composition books with dimensions of 152.4-381 mm (6\" - 15\"), inclusive (small side) X 222.5-381 mm (8.75\" -15\"), inclusive (large side)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4820.10.20.40",
+                    "Description": "Other note books with dimensions of 152.4-381 mm (6\" - 15\"), inclusive (small side) X 222.5-381 mm (8.75\" -15\"), inclusive (large side)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4820.10.20.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "4820.10.40.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "4820.30.00",
+            "Description": "Binders (other than book covers), folders and file covers",
+            "Subentries": [
+              {
+                "HS Code": "4820.30.00.20",
+                "Description": "Looseleaf binders",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4820.30.00.40",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8518",
+        "Description": "Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers; audio-frequency electric amplifiers; electric sound amplifier sets; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Loudspeakers, whether or not mounted in their enclosures:",
+            "Subentries": [
+              {
+                "HS Code": "8518.21.00.00",
+                "Description": "Single loudspeakers, mounted in their enclosures",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8518.22.00.00",
+                "Description": "Multiple loudspeakers, mounted in the same enclosure",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8518.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8518.29.40.00",
+                    "Description": "Without housing, having a frequency range of 300 Hz to 3.4 kHz with a diameter of not exceeding 50 mm, for telecommunication use",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8518.29.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

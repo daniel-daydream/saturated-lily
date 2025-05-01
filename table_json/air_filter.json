@@ -1,0 +1,95 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8421",
+        "Description": "Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus, for liquids or gases; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Filtering or purifying machinery and apparatus for gases:",
+            "Subentries": [
+              {
+                "HS Code": "8421.31.00.00",
+                "Description": "Intake air filters for internal combustion engines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8421.32.00.00",
+                "Description": "Catalytic converters or particulate filters, whether or not combined, for purifying or filtering exhaust gases from internal combustion engines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8421.39.01",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Dust collection and air purification equipment:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8421.39.01.05",
+                        "Description": "For machine tools of headings 8456 through 8465, inclusive",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8421.39.01.15",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Industrial gas cleaning equipment:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8421.39.01.20",
+                            "Description": "Electrostatic precipitators",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8421.39.01.30",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8421.39.01.40",
+                        "Description": "Gas separation equipment",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8421.39.01.60",
+                            "Description": "Pneumatic fluid power filters, rated at 550 kPa or greater",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8421.39.01.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

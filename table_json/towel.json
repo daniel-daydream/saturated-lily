@@ -1,0 +1,154 @@
+[
+  {
+    "HS Code": "63",
+    "Description": "Other made up textile articles; sets; worn clothing and worn textile articles; rags",
+    "Subentries": [
+      {
+        "HS Code": "6302",
+        "Description": "Bed linen, table linen, toilet linen and kitchen linen:",
+        "Subentries": [
+          {
+            "HS Code": "6302.60.00",
+            "Description": "Toilet linen and kitchen linen, of terry toweling or similar terry fabrics, of cotton",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Towels:",
+                "Subentries": [
+                  {
+                    "HS Code": "6302.60.00.10",
+                    "Description": "Dish (369)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6302.60.00.20",
+                    "Description": "Other (363)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "6302.60.00.30",
+                "Description": "Other (369)",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "6302.91.00",
+                "Description": "Of cotton",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Towels:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6302.91.00.35",
+                            "Description": "Jacquard figured (363)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6302.91.00.45",
+                                "Description": "Dish (369)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6302.91.00.50",
+                                "Description": "Other (369)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6302.91.00.05",
+                            "Description": "Dish (369)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6302.91.00.15",
+                            "Description": "Other (363)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6302.91.00.60",
+                        "Description": "Other (369)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6302.91.00.25",
+                        "Description": "Other (369)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6302.93",
+                "Description": "Of man-made fibers:",
+                "Subentries": [
+                  {
+                    "HS Code": "6302.93.10.00",
+                    "Description": "Pile or tufted construction (666)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6302.93.20.00",
+                    "Description": "Other (666)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "6302.99",
+                "Description": "Of other textile materials:",
+                "Subentries": [
+                  {
+                    "HS Code": "6302.99.10.00",
+                    "Description": "Containing 85 percent or more by weight of silk or silk waste",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6302.99.15",
+                    "Description": "Of flax",
+                    "Subentries": [
+                      {
+                        "HS Code": "6302.99.15.10",
+                        "Description": "Towels (863)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6302.99.15.20",
+                        "Description": "Other (899)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "6302.99.20.00",
+                    "Description": "Other (899)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

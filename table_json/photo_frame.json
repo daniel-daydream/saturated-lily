@@ -1,0 +1,79 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3924",
+        "Description": "Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics:",
+        "Subentries": [
+          {
+            "HS Code": "3924.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3924.90.05.00",
+                "Description": "Nursing nipples and finger cots",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3924.90.10",
+                "Description": "Curtains and drapes, including panels and valances; napkins, table covers, mats, scarves, runners, doilies, centerpieces, antimacassars and furniture slipcovers; and like furnishings",
+                "Subentries": [
+                  {
+                    "HS Code": "3924.90.10.10",
+                    "Description": "Curtains and drapes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3924.90.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3924.90.20.00",
+                "Description": "Picture frames",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3924.90.56",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3924.90.56.10",
+                    "Description": "Gates for confining children or pets",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3924.90.56.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "83",
+    "Description": "Miscellaneous articles of base metal",
+    "Subentries": [
+      {
+        "HS Code": "8306",
+        "Description": "Bells, gongs and the like, nonelectric, of base metal; statuettes and other ornaments, of base metal; photograph, picture or similar frames, of base metal; mirrors of base metal; and base metal parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8306.30.00.00",
+            "Description": "Photograph, picture or similar frames; mirrors; and parts thereof",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

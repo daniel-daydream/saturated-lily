@@ -1,0 +1,232 @@
+[
+  {
+    "HS Code": "40",
+    "Description": "Rubber and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "4009",
+        "Description": "Tubes, pipes and hoses, of vulcanized rubber other than hard rubber, with or without their fittings (for example, joints, elbows, flanges):",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Not reinforced or otherwise combined with other materials:",
+            "Subentries": [
+              {
+                "HS Code": "4009.11.00.00",
+                "Description": "Without fittings",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4009.12.00",
+                "Description": "With fittings",
+                "Subentries": [
+                  {
+                    "HS Code": "4009.12.00.20",
+                    "Description": "Brake hoses for the vehicles of subheadings 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or headings 8702, 8703, 8704, 8705 or 8711",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4009.12.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "4009.21.00.00",
+                "Description": "Without fittings",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4009.22.00",
+                "Description": "With fittings",
+                "Subentries": [
+                  {
+                    "HS Code": "4009.22.00.20",
+                    "Description": "Brake hoses for the vehicles of subheadings 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or headings 8702, 8703, 8704, 8705 or 8711",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4009.22.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3917",
+        "Description": "Tubes, pipes and hoses and fittings therefor (for example, joints, elbows, flanges), of plastics:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Tubes, pipes and hoses, rigid:",
+            "Subentries": [
+              {
+                "HS Code": "3917.21.00.00",
+                "Description": "Of polymers of ethylene",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3917.22.00.00",
+                "Description": "Of polymers of propylene",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3917.23.00.00",
+                "Description": "Of polymers of vinyl chloride",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3917.29.00",
+                "Description": "Of other plastics",
+                "Subentries": [
+                  {
+                    "HS Code": "3917.29.00.50",
+                    "Description": "Less than 200 mm in length",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3917.29.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "73",
+    "Description": "Articles of iron or steel",
+    "Subentries": [
+      {
+        "HS Code": "7307",
+        "Description": "Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or steel:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Cast fittings:",
+            "Subentries": [
+              {
+                "HS Code": "7307.11.00",
+                "Description": "Of nonmalleable cast iron",
+                "Subentries": [
+                  {
+                    "HS Code": "7307.11.00.30",
+                    "Description": "For threaded pipe",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7307.11.00.45",
+                        "Description": "For cast-iron soil pipe",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7307.11.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7307.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7307.19.30",
+                    "Description": "Ductile fittings",
+                    "Subentries": [
+                      {
+                        "HS Code": "7307.19.30.40",
+                        "Description": "Grooved-end fittings (including grooved couplings)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7307.19.30.60",
+                            "Description": "Threaded",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7307.19.30.70",
+                            "Description": "With mechanical, push-on (rubber compression) or flanged joints attached",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7307.19.30.85",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7307.19.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7307.19.90.30",
+                        "Description": "Unions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7307.19.90.40",
+                            "Description": "Grooved-end fittings (including grooved couplings)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7307.19.90.60",
+                                "Description": "Threaded",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7307.19.90.80",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

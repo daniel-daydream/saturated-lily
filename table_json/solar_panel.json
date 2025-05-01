@@ -1,0 +1,111 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8541",
+        "Description": "Semiconductor devices (for example, diodes, transistors, semiconductor-based transducers); photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes (LED), whether or not assembled with other light-emitting diodes (LED); mounted piezo-electric crystals; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes (LED):",
+            "Subentries": [
+              {
+                "HS Code": "8541.41.00.00",
+                "Description": "Light-emitting diodes (LED)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8541.42.00",
+                "Description": "Photovoltaic cells not assembled in modules or made up into panels",
+                "Subentries": [
+                  {
+                    "HS Code": "8541.42.00.10",
+                    "Description": "Crystalline silicon photovoltaic cells of a kind described in statistical note 10 to this chapter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8541.42.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8541.43.00",
+                "Description": "Photovoltaic cells assembled in modules or made up into panels",
+                "Subentries": [
+                  {
+                    "HS Code": "8541.43.00.10",
+                    "Description": "Crystalline silicon photovoltaic cells of a kind described in statistical note 10 to this chapter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8541.43.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8541.49",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8541.49.10",
+                    "Description": "Other diodes",
+                    "Subentries": [
+                      {
+                        "HS Code": "8541.49.10.10",
+                        "Description": "Unmounted chips, dice and wafers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8541.49.10.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8541.49.70",
+                    "Description": "Transistors",
+                    "Subentries": [
+                      {
+                        "HS Code": "8541.49.70.40",
+                        "Description": "Unmounted chips, dice and wafers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8541.49.70.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8541.49.80.00",
+                        "Description": "Optical coupled isolators",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8541.49.95.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

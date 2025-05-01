@@ -1,0 +1,35 @@
+[
+  {
+    "HS Code": "66",
+    "Description": "Umbrellas, sun umbrellas, walking sticks, seatsticks, whips, riding-crops and parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "6601",
+        "Description": "Umbrellas and sun umbrellas (including walking-stick umbrellas, garden umbrellas and similar umbrellas):",
+        "Subentries": [
+          {
+            "HS Code": "6601.10.00.00",
+            "Description": "Garden or similar umbrellas",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "6601.91.00.00",
+                "Description": "Having a telescopic shaft",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6601.99.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

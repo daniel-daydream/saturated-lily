@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3923",
+        "Description": "Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other closures, of plastics:",
+        "Subentries": [
+          {
+            "HS Code": "3923.30.00",
+            "Description": "Carboys, bottles, flasks and similar articles",
+            "Subentries": [
+              {
+                "HS Code": "3923.30.00.10",
+                "Description": "Of a capacity not exceeding 50 ml",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3923.30.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8534.00.00",
+        "Description": "Printed circuits",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Plastics impregnated, not flexible type:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Having a base wholly of impregnated glass:",
+                "Subentries": [
+                  {
+                    "HS Code": "8534.00.00.20",
+                    "Description": "With 3 or more layers of conducting materials",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8534.00.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8534.00.00.50",
+                "Description": "Having a base wholly of impregnated paper",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8534.00.00.70",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "8534.00.00.80",
+                "Description": "Flexible type",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8534.00.00.85",
+                "Description": "Other, having a ceramic base",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8534.00.00.95",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

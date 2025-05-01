@@ -1,0 +1,115 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8536",
+        "Description": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp-holders and other connectors, junction boxes), for a voltage not exceeding 1,000 V; connectors for optical fibers, optical fiber bundles or cables:",
+        "Subentries": [
+          {
+            "HS Code": "8536.50",
+            "Description": "Other switches:",
+            "Subentries": [
+              {
+                "HS Code": "8536.50.40.00",
+                "Description": "Motor starters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8536.50.70.00",
+                    "Description": "Electronic AC switches consisting of optically coupled input and output circuits (insulated thyristor AC switches); electronic switches, including temperature protected switches, consisting of a transistor and a logic chip (chip-on-chip technology); electromechanical snap-action switches for a current not exceeding 11 amps",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8536.50.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Rotary:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8536.50.90.20",
+                            "Description": "Rated at not over 5 A",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8536.50.90.25",
+                            "Description": "Rated at over 5 A",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Push-button:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Rated at not over 5 A",
+                            "Subentries": [
+                              {
+                                "HS Code": "8536.50.90.31",
+                                "Description": "Momentary contact",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8536.50.90.32",
+                                "Description": "Other, gang switches",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8536.50.90.33",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "8536.50.90.35",
+                            "Description": "Rated at over 5 A",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8536.50.90.40",
+                        "Description": "Snap-action, other than limit",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.50.90.45",
+                        "Description": "Knife",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.50.90.50",
+                        "Description": "Slide",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.50.90.55",
+                        "Description": "Limit",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.50.90.65",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

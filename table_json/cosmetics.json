@@ -1,0 +1,558 @@
+[
+  {
+    "HS Code": "33",
+    "Description": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+    "Subentries": [
+      {
+        "HS Code": "3301",
+        "Description": "Essential oils (terpeneless or not), including concretes and absolutes; resinoids; extracted oleoresins; concentrates of essential oils in fats, in fixed oils, in waxes or the like, obtained by enfleurage or maceration; terpenic by products of the deterpenation of essential oils; aqueous distillates and aqueous solutions of essential oils:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Essential oils of citrus fruit:",
+            "Subentries": [
+              {
+                "HS Code": "3301.12.00.00",
+                "Description": "Of orange",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3301.13.00.00",
+                "Description": "Of lemon",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3301.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "3301.19.10.00",
+                    "Description": "Of grapefruit",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3301.19.51",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "3301.19.51.10",
+                        "Description": "Bergamot",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.19.51.20",
+                        "Description": "Lime",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.19.51.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Essential oils other than those of citrus fruit:",
+            "Subentries": [
+              {
+                "HS Code": "3301.24.00.00",
+                "Description": "Of peppermint (Mentha piperita)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3301.25.00",
+                "Description": "Of other mints",
+                "Subentries": [
+                  {
+                    "HS Code": "3301.25.00.10",
+                    "Description": "Of cornmint, including \"peppermint\" derived from Mentha arvensis",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3301.25.00.20",
+                    "Description": "Of spearmint",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3301.25.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3301.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "3301.29.10.00",
+                    "Description": "Of eucalyptus",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3301.29.20.00",
+                    "Description": "Of orris",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3301.29.51",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "3301.29.51.03",
+                        "Description": "Of anise",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.05",
+                        "Description": "Of caraway",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.07",
+                        "Description": "Of cassia",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.09",
+                        "Description": "Of cedarwood",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.11",
+                        "Description": "Of citronella",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.13",
+                        "Description": "Of clove",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.15",
+                        "Description": "Of garlic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.16",
+                        "Description": "Of geranium",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.17",
+                        "Description": "Of jasmine",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.18",
+                        "Description": "Of lavender or lavandin",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.19",
+                        "Description": "Of lemongrass",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.21",
+                        "Description": "Of linaloe or bois de rose",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.25",
+                        "Description": "Of nutmeg",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.28",
+                        "Description": "Of onion",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.29",
+                        "Description": "Of patchouli",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.33",
+                        "Description": "Of petitgrain",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.35",
+                        "Description": "Of rose (attar of roses)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.37",
+                        "Description": "Of rosemary",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.39",
+                        "Description": "Of sandalwood",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.41",
+                        "Description": "Of sassafras including Ocotea cymbarum",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.42",
+                        "Description": "Of vetiver",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.43",
+                        "Description": "Of ylang ylang or cananga",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3301.29.51.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "3301.30.00.00",
+            "Description": "Resinoids",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3301.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3301.90.10",
+                "Description": "Extracted oleoresins",
+                "Subentries": [
+                  {
+                    "HS Code": "3301.90.10.10",
+                    "Description": "Paprika",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3301.90.10.20",
+                    "Description": "Black pepper",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3301.90.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3301.90.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "3302",
+        "Description": "Mixtures of odoriferous substances and mixtures (including alcoholic solutions) with a basis of one or more of these substances, of a kind used as raw materials in industry; other preparations based on odoriferous substances, of a kind used for the manufacture of beverages:",
+        "Subentries": [
+          {
+            "HS Code": "3302.10",
+            "Description": "Of a kind used in the food or drink industries:",
+            "Subentries": [
+              {
+                "HS Code": "3302.10.10.00",
+                "Description": "Not containing alcohol",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Containing alcohol:",
+                "Subentries": [
+                  {
+                    "HS Code": "3302.10.20.00",
+                    "Description": "Containing not over 20 percent of alcohol by weight",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Containing over 20 percent of alcohol by weight:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Preparations requiring only the addition of ethyl alcohol or water to produce a beverage suitable for human consumption:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3302.10.40.00",
+                            "Description": "Containing over 20 percent but not over 50 percent of alcohol by weight",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3302.10.50.00",
+                            "Description": "Containing over 50 percent of alcohol by weight",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "3302.10.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "3302.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3302.90.10",
+                "Description": "Containing no alcohol or not over 10 percent of alcohol by weight",
+                "Subentries": [
+                  {
+                    "HS Code": "3302.90.10.10",
+                    "Description": "Perfume oil mixtures and blends, consisting of products ready for use as finished perfume bases",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3302.90.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3302.90.20",
+                "Description": "Containing over 10 percent of alcohol by weight",
+                "Subentries": [
+                  {
+                    "HS Code": "3302.90.20.10",
+                    "Description": "Perfume oil mixtures and blends, consisting of products ready for use as finished perfume bases",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3302.90.20.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "3303.00",
+        "Description": "Perfumes and toilet waters:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Not containing alcohol:",
+            "Subentries": [
+              {
+                "HS Code": "3303.00.10.00",
+                "Description": "Floral or flower waters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3303.00.20.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3303.00.30.00",
+            "Description": "Containing alcohol",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "3304",
+        "Description": "Beauty or make-up preparations and preparations for the care of the skin (other than medicaments), including sunscreen or sun tan preparations; manicure or pedicure preparations:",
+        "Subentries": [
+          {
+            "HS Code": "3304.10.00.00",
+            "Description": "Lip make-up preparations",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3304.20.00.00",
+            "Description": "Eye make-up preparations",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3304.30.00.00",
+            "Description": "Manicure or pedicure preparations",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3304.91.00",
+                "Description": "Powders, whether or not compressed",
+                "Subentries": [
+                  {
+                    "HS Code": "3304.91.00.10",
+                    "Description": "Rouges",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3304.91.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "3304.99.10.00",
+                    "Description": "Petroleum jelly put up for retail sale",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3304.99.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "3305",
+        "Description": "Preparations for use on the hair:",
+        "Subentries": [
+          {
+            "HS Code": "3305.10.00.00",
+            "Description": "Shampoos",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3305.20.00.00",
+            "Description": "Preparations for permanent waving or straightening",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3305.30.00.00",
+            "Description": "Hair lacquers",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3305.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "3306",
+        "Description": "Preparations for oral or dental hygiene, including denture fixative pastes and powders; yarn used to clean between the teeth (dental floss), in individual retail packages:",
+        "Subentries": [
+          {
+            "HS Code": "3306.10.00.00",
+            "Description": "Dentifrices",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3306.20.00.00",
+            "Description": "Yarn used to clean between the teeth (dental floss)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3306.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "3307",
+        "Description": "Pre-shave, shaving or after-shave preparations, personal deodorants, bath preparations, depilatories and other perfumery, cosmetic or toilet preparations, not elsewhere specified or included; prepared room deodorizers, whether or not perfumed or having disinfectant properties:",
+        "Subentries": [
+          {
+            "HS Code": "3307.10",
+            "Description": "Pre-shave, shaving or after-shave preparations:",
+            "Subentries": [
+              {
+                "HS Code": "3307.10.10.00",
+                "Description": "Not containing alcohol",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3307.10.20.00",
+                "Description": "Containing alcohol",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3307.20.00.00",
+            "Description": "Personal deodorants and antiperspirants",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3307.30",
+            "Description": "Perfumed bath salts and other bath preparations:",
+            "Subentries": [
+              {
+                "HS Code": "3307.30.10.00",
+                "Description": "Bath salts, whether or not perfumed",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3307.30.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Preparations for perfuming or deodorizing rooms, including odoriferous preparations used during religious rites:",
+            "Subentries": [
+              {
+                "HS Code": "3307.41.00.00",
+                "Description": "\"Agarbatti\" and other odoriferous preparations which operate by burning",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3307.49.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3307.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3919",
+        "Description": "Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls:",
+        "Subentries": [
+          {
+            "HS Code": "3919.10",
+            "Description": "In rolls of a width not exceeding 20 cm:",
+            "Subentries": [
+              {
+                "HS Code": "3919.10.10",
+                "Description": "Having a light-reflecting surface produced in whole or in part by glass grains (ballotini)",
+                "Subentries": [
+                  {
+                    "HS Code": "3919.10.10.10",
+                    "Description": "Pavement marking tape",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3919.10.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3919.10.20",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3919.10.20.10",
+                    "Description": "Filament reinforced tape",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3919.10.20.20",
+                    "Description": "Electrical tape",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Transparent tape, not exceeding 55 m in length:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3919.10.20.30",
+                            "Description": "Not exceeding 5 cm in width",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3919.10.20.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "3919.10.20.55",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "3919.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3919.90.10.00",
+                "Description": "Having a light-reflecting surface produced in whole or in part by glass grains (ballotini)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3919.90.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3919.90.50.10",
+                    "Description": "Reflectorized sheeting",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3919.90.50.20",
+                    "Description": "Filament reinforced tape",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3919.90.50.30",
+                    "Description": "Electrical tape",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3919.90.50.40",
+                    "Description": "Transparent tape",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3919.90.50.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "48",
+    "Description": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+    "Subentries": [
+      {
+        "HS Code": "4811",
+        "Description": "Paper, paperboard, cellulose wadding and webs of cellulose fibers, coated, impregnated, covered, surface-colored, surface-decorated or printed, in rolls or rectangular (including square) sheets, of any size, other than goods of the kind described in heading 4803, 4809 or 4810:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Gummed or adhesive paper and paperboard:",
+            "Subentries": [
+              {
+                "HS Code": "4811.41",
+                "Description": "Self-adhesive:",
+                "Subentries": [
+                  {
+                    "HS Code": "4811.41.10.00",
+                    "Description": "In strips or rolls of a width exceeding 15 cm or in rectangular (including square) sheets with one side exceeding 36 cm and the other side exceeding 15 cm in the unfolded state",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4811.41.21.00",
+                        "Description": "In strips or rolls",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4811.41.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "4811.49",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "4811.49.10.00",
+                    "Description": "In strips or rolls of a width exceeding 15 cm or in rectangular (including square) sheets with one side exceeding 36 cm and the other side exceeding 15 cm in the unfolded state",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4811.49.21.00",
+                        "Description": "In strips or rolls",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4811.49.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "59",
+    "Description": "Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",
+    "Subentries": [
+      {
+        "HS Code": "5906",
+        "Description": "Rubberized textile fabrics, other than those of heading 5902:",
+        "Subentries": [
+          {
+            "HS Code": "5906.10.00.00",
+            "Description": "Adhesive tape of a width not exceeding 20 cm",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8450",
+        "Description": "Household- or laundry-type washing machines, including machines which both wash and dry; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Machines, each of a dry linen capacity not exceeding 10 kg:",
+            "Subentries": [
+              {
+                "HS Code": "8450.11.00",
+                "Description": "Fully automatic machines",
+                "Subentries": [
+                  {
+                    "HS Code": "8450.11.00.10",
+                    "Description": "Coin operated",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8450.11.00.40",
+                        "Description": "Top Loading",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8450.11.00.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8450.12.00.00",
+                "Description": "Other machines with built-in centrifugal dryer",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8450.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

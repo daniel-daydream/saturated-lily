@@ -1,0 +1,304 @@
+[
+  {
+    "HS Code": "40",
+    "Description": "Rubber and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "4011",
+        "Description": "New pneumatic tires, of rubber:",
+        "Subentries": [
+          {
+            "HS Code": "4011.10",
+            "Description": "Of a kind used on motor cars (including station wagons and racing cars):",
+            "Subentries": [
+              {
+                "HS Code": "4011.10.10",
+                "Description": "Radial",
+                "Subentries": [
+                  {
+                    "HS Code": "4011.10.10.10",
+                    "Description": "Having a rim diameter of 33.02 cm (13 inches) or less",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4011.10.10.20",
+                    "Description": "Having a rim diameter greater than 33.02 cm (13 inches) but not more than 35.56 cm (14 inches)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4011.10.10.30",
+                    "Description": "Having a rim diameter greater than 35.56 cm (14 inches) but not more than 38.10 cm (15 inches)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4011.10.10.40",
+                    "Description": "Having a rim diameter greater than 38.10 cm (15 inches) but not more than 40.64 cm (16 inches)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4011.10.10.50",
+                    "Description": "Having a rim diameter greater than 40.64 cm (16 inches) but not more than 43.18 cm (17 inches)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4011.10.10.60",
+                    "Description": "Having a rim diameter greater than 43.18 cm (17 inches) but not more than 45.72 cm (18 inches)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4011.10.10.70",
+                    "Description": "Having a rim diameter greater than 45.72 cm (18 inches)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "4011.10.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "4011.20",
+            "Description": "Of a kind used on buses or trucks:",
+            "Subentries": [
+              {
+                "HS Code": "4011.20.10",
+                "Description": "Radial",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "On-the-highway:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4011.20.10.05",
+                        "Description": "Light truck",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4011.20.10.15",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Off-the-highway:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4011.20.10.25",
+                        "Description": "For use on a rim measuring 40.6 cm or more in diameter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4011.20.10.35",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "4011.20.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "On-the-highway:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4011.20.50.10",
+                        "Description": "Light truck",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4011.20.50.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Off-the-highway:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4011.20.50.30",
+                        "Description": "For use on a rim measuring 40.6 cm or more in diameter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4011.20.50.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "4011.30.00",
+            "Description": "Of a kind used on aircraft",
+            "Subentries": [
+              {
+                "HS Code": "4011.30.00.10",
+                "Description": "For use in civil aircraft",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4011.30.00.50",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "4011.40.00.00",
+            "Description": "Of a kind used on motorcycles",
+            "Subentries": []
+          },
+          {
+            "HS Code": "4011.50.00.00",
+            "Description": "Of a kind used on bicycles",
+            "Subentries": []
+          },
+          {
+            "HS Code": "4011.70.00",
+            "Description": "Of a kind used on agricultural or forestry vehicles and machines",
+            "Subentries": [
+              {
+                "HS Code": "4011.70.00.10",
+                "Description": "Having a \"herring-bone\" or similar tread",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4011.70.00.50",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "4011.80",
+            "Description": "Of a kind used on construction, mining or industrial handling vehicles and machines:",
+            "Subentries": [
+              {
+                "HS Code": "4011.80.10",
+                "Description": "Having a \"herring-bone\" or similar tread",
+                "Subentries": [
+                  {
+                    "HS Code": "4011.80.10.10",
+                    "Description": "Having a rim size not exceeding 61 cm",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4011.80.10.20",
+                    "Description": "Having a rim size exceeding 61 cm",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "4011.80.20",
+                    "Description": "Radial",
+                    "Subentries": [
+                      {
+                        "HS Code": "4011.80.20.10",
+                        "Description": "Having a rim size not exceeding 61 cm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4011.80.20.20",
+                        "Description": "Having a rim size exceeding 61 cm",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "4011.80.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "4011.80.80.10",
+                        "Description": "Having a rim size not exceeding 61 cm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4011.80.80.20",
+                        "Description": "Having a rim size exceeding 61 cm",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "4011.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "4011.90.10",
+                "Description": "Having a \"herring-bone\" or similar tread",
+                "Subentries": [
+                  {
+                    "HS Code": "4011.90.10.10",
+                    "Description": "Of a kind used on golf carts, all-terrain vehicles, and for turf, lawn and garden, and trailer applications",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4011.90.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "4011.90.20",
+                "Description": "Radial",
+                "Subentries": [
+                  {
+                    "HS Code": "4011.90.20.10",
+                    "Description": "Of a kind used on golf carts, all-terrain vehicles, and for turf, lawn and garden, and trailer applications",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4011.90.20.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "4011.90.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "4011.90.80.10",
+                    "Description": "Of a kind used on golf carts, all-terrain vehicles, and for turf, lawn and garden, and trailer applications",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4011.90.80.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

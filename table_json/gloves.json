@@ -1,0 +1,530 @@
+[
+  {
+    "HS Code": "40",
+    "Description": "Rubber and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "4015",
+        "Description": "Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanized rubber other than hard rubber:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Gloves, mittens and mitts:",
+            "Subentries": [
+              {
+                "HS Code": "4015.12",
+                "Description": "Of a kind used for medical, surgical, dental or veterinary purposes:",
+                "Subentries": [
+                  {
+                    "HS Code": "4015.12.10",
+                    "Description": "Of a kind used for medical or surgical purposes",
+                    "Subentries": [
+                      {
+                        "HS Code": "4015.12.10.10",
+                        "Description": "Medical gloves, mittens and mitts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4015.12.10.20",
+                        "Description": "Surgical gloves, mittens and mitts",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "4015.12.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "4015.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "4015.19.11",
+                    "Description": "Seamless",
+                    "Subentries": [
+                      {
+                        "HS Code": "4015.19.11.10",
+                        "Description": "Disposable",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4015.19.11.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "4015.19.51.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "61",
+    "Description": "Articles of apparel and clothing accessories, knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6116",
+        "Description": "Gloves, mittens and mitts, knitted or crocheted:",
+        "Subentries": [
+          {
+            "HS Code": "6116.10",
+            "Description": "Impregnated, coated, covered or laminated with plastics or rubber:",
+            "Subentries": [
+              {
+                "HS Code": "6116.10.05.00",
+                "Description": "Ice hockey gloves and field hockey gloves",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6116.10.08.00",
+                "Description": "Other gloves, mittens and mitts, all the foregoing specially designed for use in sports, including ski and snowmobile gloves, mittens and mitts",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Without fourchettes:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Cut and sewn from preexisting machine knit fabric that is impregnated, coated, covered or laminated with plastics or rubber:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Of vegetable fibers:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6116.10.13.00",
+                                "Description": "Containing over 50 percent by weight of plastics or rubber",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6116.10.17",
+                                "Description": "Other",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6116.10.17.20",
+                                    "Description": "Subject to cotton restraints (331)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6116.10.17.30",
+                                    "Description": "Subject to man-made fiber restraints (631)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6116.10.17.40",
+                                    "Description": "Other (831)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6116.10.44.00",
+                                "Description": "Containing over 50 percent by weight of plastics or rubber",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6116.10.48",
+                                "Description": "Other",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6116.10.48.10",
+                                    "Description": "Subject to cotton restraints (331)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6116.10.48.20",
+                                    "Description": "Subject to man-made fiber re- straints (631)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6116.10.48.30",
+                                    "Description": "Other (831)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6116.10.55",
+                            "Description": "Containing 50 percent or more by weight of cotton, man-made fibers or other textile fibers, or any combination thereof",
+                            "Subentries": [
+                              {
+                                "HS Code": "6116.10.55.10",
+                                "Description": "Subject to cotton restraints (331)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6116.10.55.20",
+                                "Description": "Subject to man-made fiber restraints (631)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6116.10.55.30",
+                                "Description": "Other (831)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6116.10.65.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "With fourchettes:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6116.10.75",
+                        "Description": "Containing 50 percent or more by weight of cotton, man-made fibers or other textile fibers, or any combination thereof",
+                        "Subentries": [
+                          {
+                            "HS Code": "6116.10.75.10",
+                            "Description": "Subject to cotton restraints (331)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6116.10.75.20",
+                            "Description": "Subject to man-made fiber restraints (631)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6116.10.75.30",
+                            "Description": "Other (831)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6116.10.95.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "62",
+    "Description": "Articles of apparel and clothing accessories, not knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6216.00",
+        "Description": "Gloves, mittens and mitts:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Impregnated, coated or covered with plastics or rubber:",
+            "Subentries": [
+              {
+                "HS Code": "6216.00.05.00",
+                "Description": "Ice hockey gloves and field hockey gloves",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6216.00.08.00",
+                "Description": "Other gloves, mittens and mitts, all the foregoing specially designed for use in sports, including   ski and snowmobile gloves, mittens and mitts",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Without fourchettes:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Cut and sewn from pre-existing machine- woven fabric that is impregnated, coated or covered with   plastics or rubber:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Of vegetable fibers:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6216.00.13.00",
+                                "Description": "Containing over 50 percent by weight of plastics or rubber",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6216.00.17",
+                                "Description": "Other",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6216.00.17.20",
+                                    "Description": "Subject to cotton restraints (331)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6216.00.17.30",
+                                    "Description": "Subject to man-made fiber restraints (631)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6216.00.17.40",
+                                    "Description": "Other (831)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6216.00.19.00",
+                                "Description": "Containing over 50 percent by weight of plastics or rubber",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6216.00.21",
+                                "Description": "Other",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6216.00.21.10",
+                                    "Description": "Subject to cotton restraints (331)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6216.00.21.20",
+                                    "Description": "Subject to man-made fiber restraints (631)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6216.00.21.30",
+                                    "Description": "Other (831)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6216.00.24",
+                            "Description": "Containing 50 per cent or more by weight of cotton, man-made fibers or any combination thereof",
+                            "Subentries": [
+                              {
+                                "HS Code": "6216.00.24.10",
+                                "Description": "Subject to cotton restraints (331)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6216.00.24.25",
+                                "Description": "Subject to man-made fiber restraints (631)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6216.00.24.30",
+                                "Description": "Other (831)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6216.00.26.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "With fourchettes:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6216.00.29",
+                        "Description": "Containing 50 percent or more by weight of cotton, man-made fibers or any combi- nation thereof",
+                        "Subentries": [
+                          {
+                            "HS Code": "6216.00.29.10",
+                            "Description": "Subject to cotton restraints (331)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6216.00.29.25",
+                            "Description": "Subject to man-made fiber restraints (631)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6216.00.29.30",
+                            "Description": "Other (831)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6216.00.31.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Of cotton:",
+                "Subentries": [
+                  {
+                    "HS Code": "6216.00.33.00",
+                    "Description": "Ice hockey and field hockey gloves",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6216.00.35.00",
+                    "Description": "Other gloves, mittens and mitts, all the fore- going specially designed for use in sports, including   ski and snowmobile gloves, mittens and mitts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6216.00.38.00",
+                        "Description": "Without fourchettes (331)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6216.00.41.00",
+                        "Description": "With fourchettes (331)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Of man-made fibers:",
+                "Subentries": [
+                  {
+                    "HS Code": "6216.00.43.00",
+                    "Description": "Ice hockey and field hockey gloves",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6216.00.46.00",
+                    "Description": "Other gloves, mittens and mitts, all the fore- going specially designed for use in sports, including   ski and snowmobile gloves, mittens and mitts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6216.00.54",
+                        "Description": "Without fourchettes",
+                        "Subentries": [
+                          {
+                            "HS Code": "6216.00.54.10",
+                            "Description": "Containing 36 percent or more by weight of wool or fine animal hair (431)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6216.00.54.20",
+                            "Description": "Other (631)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6216.00.58",
+                        "Description": "With fourchettes",
+                        "Subentries": [
+                          {
+                            "HS Code": "6216.00.58.10",
+                            "Description": "Containing 36 percent or more by weight of wool or fine animal hair (431)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6216.00.58.20",
+                            "Description": "Other (631)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "6216.00.80.00",
+                    "Description": "Of wool or fine animal hair (431)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6216.00.90.00",
+                    "Description": "Other (831)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

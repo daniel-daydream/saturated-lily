@@ -1,0 +1,158 @@
+[
+  {
+    "HS Code": "10",
+    "Description": "Cereals",
+    "Subentries": [
+      {
+        "HS Code": "1006",
+        "Description": "Rice:",
+        "Subentries": [
+          {
+            "HS Code": "1006.10.00.00",
+            "Description": "Rice in the husk (paddy or rough)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1006.20",
+            "Description": "Husked (brown) rice:",
+            "Subentries": [
+              {
+                "HS Code": "1006.20.20",
+                "Description": "Basmati",
+                "Subentries": [
+                  {
+                    "HS Code": "1006.20.20.10",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1006.20.20.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1006.20.40",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Long grain:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1006.20.40.25",
+                        "Description": "Jasmine",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1006.20.40.35",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1006.20.40.40",
+                    "Description": "Medium grain",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1006.20.40.60",
+                    "Description": "Short grain",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1006.20.40.80",
+                    "Description": "Mixtures of any of the above",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "1006.30",
+            "Description": "Semi-milled or wholly milled rice, whether or not polished or glazed:",
+            "Subentries": [
+              {
+                "HS Code": "1006.30.10",
+                "Description": "Parboiled",
+                "Subentries": [
+                  {
+                    "HS Code": "1006.30.10.20",
+                    "Description": "Long grain",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1006.30.10.40",
+                    "Description": "Other, including mixtures",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1006.30.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1006.30.90.15",
+                    "Description": "Certified Organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Long grain:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1006.30.90.57",
+                            "Description": "Jasmine",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1006.30.90.59",
+                            "Description": "Basmati",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1006.30.90.61",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "1006.30.90.65",
+                        "Description": "Medium grain",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1006.30.90.75",
+                        "Description": "Short grain",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1006.30.90.85",
+                        "Description": "Mixtures of any of the above",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "1006.40.00.00",
+            "Description": "Broken rice",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

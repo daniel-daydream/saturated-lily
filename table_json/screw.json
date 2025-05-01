@@ -1,0 +1,362 @@
+[
+  {
+    "HS Code": "73",
+    "Description": "Articles of iron or steel",
+    "Subentries": [
+      {
+        "HS Code": "7318",
+        "Description": "Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter pins, washers (including spring washers) and similar articles, of iron or steel:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Threaded articles:",
+            "Subentries": [
+              {
+                "HS Code": "7318.11.00.00",
+                "Description": "Coach screws",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7318.12.00.00",
+                "Description": "Other wood screws",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7318.13.00",
+                "Description": "Screw hooks and screw rings",
+                "Subentries": [
+                  {
+                    "HS Code": "7318.13.00.30",
+                    "Description": "Having shanks or threads with a diameter of less than 6 mm",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7318.13.00.60",
+                    "Description": "Having shanks or threads with a diameter of 6 mm or more",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7318.14",
+                "Description": "Self-tapping screws:",
+                "Subentries": [
+                  {
+                    "HS Code": "7318.14.10",
+                    "Description": "Having shanks or threads with a diameter of less than 6 mm",
+                    "Subentries": [
+                      {
+                        "HS Code": "7318.14.10.30",
+                        "Description": "Of stainless steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7318.14.10.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7318.14.50",
+                    "Description": "Having shanks or threads with a diameter of 6 mm or more",
+                    "Subentries": [
+                      {
+                        "HS Code": "7318.14.50.20",
+                        "Description": "Of stainless steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7318.14.50.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7318.15",
+                "Description": "Other screws and bolts, whether or not with their nuts or washers:",
+                "Subentries": [
+                  {
+                    "HS Code": "7318.15.20",
+                    "Description": "Bolts and bolts and their nuts or washers entered or exported in the same shipment",
+                    "Subentries": [
+                      {
+                        "HS Code": "7318.15.20.10",
+                        "Description": "Having shanks or threads with a diameter of less than 6 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Having shanks or threads with a diameter of 6 mm or more:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7318.15.20.20",
+                            "Description": "Track bolts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7318.15.20.30",
+                            "Description": "Structural bolts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "7318.15.20.91",
+                                    "Description": "Of stainless steel",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7318.15.20.95",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7318.15.20.51",
+                                    "Description": "Of stainless steel",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7318.15.20.55",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7318.15.20.61",
+                                    "Description": "Of stainless steel",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7318.15.20.65",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "7318.15.20.41",
+                                "Description": "Right-angle anchor bolts",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7318.15.20.46",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7318.15.40.00",
+                    "Description": "Machine screws 9.5 mm or more in length and 3.2 mm or more in diameter (not including cap screws)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7318.15.50",
+                    "Description": "Studs",
+                    "Subentries": [
+                      {
+                        "HS Code": "7318.15.50.30",
+                        "Description": "Of stainless steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Continuously threaded rod:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7318.15.50.51",
+                                "Description": "Of alloy steel",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7318.15.50.56",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "7318.15.50.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7318.15.60",
+                        "Description": "Having shanks or threads with a diameter of less than 6 mm",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7318.15.60.70",
+                                "Description": "Of stainless steel",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7318.15.60.80",
+                                "Description": "Other",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7318.15.60.10",
+                                "Description": "Of stainless steel",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7318.15.60.40",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7318.15.80",
+                        "Description": "Having shanks or threads with a diameter of 6 mm or more",
+                        "Subentries": [
+                          {
+                            "HS Code": "7318.15.80.20",
+                            "Description": "Set screws",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "7318.15.80.82",
+                                        "Description": "Of stainless steel",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "7318.15.80.85",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "7318.15.80.55",
+                                        "Description": "Of stainless steel",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "",
+                                        "Description": "Other:",
+                                        "Subentries": [
+                                          {
+                                            "HS Code": "7318.15.80.66",
+                                            "Description": "Cap screws",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "7318.15.80.69",
+                                            "Description": "Other",
+                                            "Subentries": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "7318.15.80.30",
+                                    "Description": "Of stainless steel",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7318.15.80.45",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7318.16.00",
+                "Description": "Nuts",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7318.16.00.60",
+                        "Description": "Of stainless steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7318.16.00.85",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7318.16.00.15",
+                        "Description": "Non-locking chrome-plated",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7318.16.00.30",
+                        "Description": "Locking",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7318.16.00.45",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7318.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
