@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "48",
+    "Description": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+    "Subentries": [
+      {
+        "HS Code": "4819",
+        "Description": "Cartons, boxes, cases, bags and other packing containers, of paper, paperboard, cellulose wadding or webs of cellulose fibers; box files, letter trays and similar articles, of paper or paperboard of a kind used in offices, shops or the like:",
+        "Subentries": [
+          {
+            "HS Code": "4819.30.00",
+            "Description": "Sacks and bags, having a base of a width of 40 cm or more",
+            "Subentries": [
+              {
+                "HS Code": "4819.30.00.20",
+                "Description": "Shipping sacks and multiwall bags, other than grocers' bags",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4819.30.00.40",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

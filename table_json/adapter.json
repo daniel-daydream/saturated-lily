@@ -1,0 +1,550 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8536",
+        "Description": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp-holders and other connectors, junction boxes), for a voltage not exceeding 1,000 V; connectors for optical fibers, optical fiber bundles or cables:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Lamp-holders, plugs and sockets:",
+            "Subentries": [
+              {
+                "HS Code": "8536.61.00.00",
+                "Description": "Lamp-holders",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8536.69",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8536.69.40",
+                    "Description": "Coaxial connectors; cylindrical multicontact connectors; rack and panel connectors; printed circuit connectors; ribbon or flat cable connectors",
+                    "Subentries": [
+                      {
+                        "HS Code": "8536.69.40.10",
+                        "Description": "Coaxial connectors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.69.40.20",
+                        "Description": "Cylindrical multicontact connectors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.69.40.30",
+                        "Description": "Rack and panel connectors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.69.40.40",
+                        "Description": "Printed circuit connectors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.69.40.51",
+                        "Description": "Ribbon or flat cable connectors",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8536.69.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8504",
+        "Description": "Electrical transformers, static converters (for example, rectifiers) and inductors; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8504.40",
+            "Description": "Static converters:",
+            "Subentries": [
+              {
+                "HS Code": "8504.40.40.00",
+                "Description": "Speed drive controllers for electric motors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Power supplies for automatic data processing machines or units thereof of heading 8471; power supplies for goods of subheading 8443.31 or 8443.32; power supplies for monitors of subheading 8528.42 or 8528.52 or projectors of subheading 8528.62:",
+                "Subentries": [
+                  {
+                    "HS Code": "8504.40.60",
+                    "Description": "Suitable for physical incorporation into automatic data processing machines or units thereof of heading 8471",
+                    "Subentries": [
+                      {
+                        "HS Code": "8504.40.60.01",
+                        "Description": "With a power output not exceeding 50 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.60.07",
+                        "Description": "With a power output exceeding 50 W but not exceeding 150 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.60.12",
+                        "Description": "With a power output exceeding 150 W but not exceeding 500 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.60.18",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8504.40.70",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8504.40.70.01",
+                        "Description": "With a power output not exceeding 50 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.70.07",
+                        "Description": "With a power output exceeding 50 W but not exceeding 150 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.70.12",
+                        "Description": "With a power output exceeding 150 W but not exceeding 500 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.70.18",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8504.40.85.00",
+                "Description": "For telecommunication apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8504.40.95",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Rectifiers and rectifying apparatus:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Power supplies:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8504.40.95.10",
+                            "Description": "With a power output not exceeding 50 W",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.40.95.20",
+                            "Description": "With a power output exceeding 50 W but not exceeding 150 W",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.40.95.30",
+                            "Description": "With a power output exceeding 150 W but not exceeding 500 W",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.40.95.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8504.40.95.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8504.40.95.70",
+                    "Description": "Inverters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8504.40.95.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8529",
+        "Description": "Parts suitable for use solely or principally with the apparatus of headings 8524 to 8528:",
+        "Subentries": [
+          {
+            "HS Code": "8529.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Printed circuit assemblies:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of television apparatus:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8529.90.04.00",
+                        "Description": "Tuners",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other, comprising printed circuit boards and ceramic substrates with components assembled thereon, for color television receivers; subassemblies containing one or more of such boards or substrates, except tuners or convergence assemblies:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8529.90.05.00",
+                            "Description": "Entered with components enumerated in additional U.S. note 4 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8529.90.06.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8529.90.09.00",
+                            "Description": "For television cameras",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8529.90.13.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of radar, radio navigational aid or radio remote control apparatus:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8529.90.16",
+                        "Description": "Assemblies and subassemblies, consisting of 2 or more parts or pieces fastened or joined together",
+                        "Subentries": [
+                          {
+                            "HS Code": "8529.90.16.20",
+                            "Description": "Of radar apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8529.90.16.40",
+                            "Description": "Of radio navigational aid apparatus (except radar)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8529.90.16.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8529.90.19",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8529.90.19.20",
+                            "Description": "Of radar apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8529.90.19.40",
+                            "Description": "Of radio navigational aid apparatus (except radar)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8529.90.19.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8529.90.21.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8529.90.24.01",
+                "Description": "Transceiver assemblies for the apparatus of subheading 8526.10, other than printed circuit assemblies",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Parts of television receivers specified in additional U.S. note 9 to this chapter, other than printed circuit assemblies:",
+                "Subentries": [
+                  {
+                    "HS Code": "8529.90.29.00",
+                    "Description": "Tuners",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Subassemblies, for color television receivers, containing two or more printed circuit boards or ceramic substrates with components assembled thereon, except tuners or convergence assemblies:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8529.90.33.00",
+                        "Description": "Entered with components enumerated in additional U.S. note 4 to this chapter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8529.90.36.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8529.90.39.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Combinations of parts specified in additional U.S. note 9 to this chapter:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Subassemblies, for color television receivers, containing two or more printed circuit boards or ceramic substrates with components assembled thereon, except tuners or convergence assemblies:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8529.90.43.00",
+                        "Description": "Entered with components enumerated in additional U.S. note 4 to this chapter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8529.90.46.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8529.90.49.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8529.90.55.00",
+                "Description": "Flat panel screen assemblies for the apparatus of subheadings 8528.59.15, 8528.59.23, 8528.59.25, 8528.59.33, 8528.69.35, 8525.69.40, 8528.69.45, 8528.69.50, 8528.72.62, 8528.72.64, 8528.72.68 and 8528.72.72",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other, parts of printed circuit assemblies, including face plates and lock latches:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of television apparatus:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8529.90.63.00",
+                        "Description": "For television cameras",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8529.90.68.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8529.90.73.00",
+                    "Description": "Of radar, radio navigational aid or radio remote control apparatus",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8529.90.77.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other parts of articles of headings 8525 and 8527:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of television apparatus:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "For television cameras:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8529.90.78.00",
+                            "Description": "Mounted lenses suitable for use in, and entered separately from, closed-circuit television cameras, with or without attached electrical or non-electrical closed-circuit television camera connectors, and with or without attached motors",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8529.90.81.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8529.90.83.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8529.90.87.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of television receivers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Subassemblies, for color television receivers, containing two or more printed circuit boards or ceramic substrates with components assembled thereon, except tuners or convergence assemblies:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8529.90.88.00",
+                            "Description": "Entered with components enumerated in additional U.S. note 4 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8529.90.89.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8529.90.93",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8529.90.93.45",
+                            "Description": "Convergence assemblies, focus coils and degaussing coils",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8529.90.93.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of radar, radio navigational aid or radio remote control apparatus:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8529.90.95",
+                        "Description": "Assemblies and subassemblies, consisting of 2 or more parts or pieces fastened or joined together",
+                        "Subentries": [
+                          {
+                            "HS Code": "8529.90.95.20",
+                            "Description": "Of radar apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8529.90.95.40",
+                            "Description": "Of radio navigational aid apparatus (except radar)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8529.90.95.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8529.90.97",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8529.90.97.20",
+                            "Description": "Of radar apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8529.90.97.40",
+                            "Description": "Of radio navigational aid apparatus (except radar)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8529.90.97.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8529.90.98.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

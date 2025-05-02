@@ -1,0 +1,177 @@
+[
+  {
+    "HS Code": "22",
+    "Description": "Beverages, spirits and vinegar",
+    "Subentries": [
+      {
+        "HS Code": "2202",
+        "Description": "Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavored, and other non-alcoholic beverages, not including fruit, nut or vegetable juices of heading 2009:",
+        "Subentries": [
+          {
+            "HS Code": "2202.10.00",
+            "Description": "Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavored",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Carbonated soft drinks:",
+                "Subentries": [
+                  {
+                    "HS Code": "2202.10.00.20",
+                    "Description": "Containing high-intensity sweeteners (e.g., aspartame and/or saccharin)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2202.10.00.45",
+                        "Description": "In aluminum containers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2202.10.00.55",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "2202.10.00.65",
+                    "Description": "In aluminum containers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2202.10.00.75",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "2202.91.00",
+                "Description": "Non-alcoholic beer",
+                "Subentries": [
+                  {
+                    "HS Code": "2202.91.00.10",
+                    "Description": "In aluminum containers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2202.91.00.20",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "2202.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Milk-based drinks:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2202.99.10.00",
+                        "Description": "Chocolate milk drink",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2202.99.22.00",
+                            "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2202.99.24.00",
+                            "Description": "Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2202.99.28.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Fruit or vegetable juices, fortified with vitamins or minerals:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Orange juice:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2202.99.30.00",
+                            "Description": "Not made from a juice having a degree of concentration of 1.5 or more (as determined before correction to the nearest 0.5 degree)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2202.99.35.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2202.99.36.00",
+                            "Description": "Juice of any single fruit or vegetable",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2202.99.37.00",
+                            "Description": "Mixtures of juices",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "2202.99.91",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "2202.99.91.10",
+                        "Description": "In aluminum containers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2202.99.91.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

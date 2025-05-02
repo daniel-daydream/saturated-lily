@@ -1,0 +1,79 @@
+[
+  {
+    "HS Code": "62",
+    "Description": "Articles of apparel and clothing accessories, not knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6214",
+        "Description": "Shawls, scarves, mufflers, mantillas, veils and the like:",
+        "Subentries": [
+          {
+            "HS Code": "6214.20.00.00",
+            "Description": "Of wool or fine animal hair (459)",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "61",
+    "Description": "Articles of apparel and clothing accessories, knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6117",
+        "Description": "Other made up clothing accessories, knitted or crocheted; knitted or crocheted parts of garments or of clothing accessories:",
+        "Subentries": [
+          {
+            "HS Code": "6117.10",
+            "Description": "Shawls, scarves, mufflers, mantillas, veils and the like:",
+            "Subentries": [
+              {
+                "HS Code": "6117.10.10.00",
+                "Description": "Of wool or fine animal hair (459)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6117.10.20",
+                "Description": "Of man-made fibers",
+                "Subentries": [
+                  {
+                    "HS Code": "6117.10.20.10",
+                    "Description": "Containing 23 percent or more by weight of wool or fine animal hair (459)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6117.10.20.30",
+                    "Description": "Other (659)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "6117.10.40.00",
+                "Description": "Containing 70 percent or more by weight of silk or silk waste",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6117.10.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "6117.10.60.10",
+                    "Description": "Of cotton (359)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6117.10.60.20",
+                    "Description": "Other (859)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

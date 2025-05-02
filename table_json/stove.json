@@ -1,0 +1,159 @@
+[
+  {
+    "HS Code": "73",
+    "Description": "Articles of iron or steel",
+    "Subentries": [
+      {
+        "HS Code": "7321",
+        "Description": "Stoves, ranges, grates, cookers (including those with subsidiary boilers for central heating), barbecues, braziers, gas rings, plate warmers and similar nonelectric domestic appliances, and parts thereof, of iron or steel:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Cooking appliances and plate warmers:",
+            "Subentries": [
+              {
+                "HS Code": "7321.11",
+                "Description": "For gas fuel or for both gas and other fuels:",
+                "Subentries": [
+                  {
+                    "HS Code": "7321.11.10",
+                    "Description": "Portable",
+                    "Subentries": [
+                      {
+                        "HS Code": "7321.11.10.30",
+                        "Description": "Stoves or ranges",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7321.11.10.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7321.11.30",
+                        "Description": "Stoves or ranges:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7321.11.30.10",
+                            "Description": "Of a maximum width not exceeding 70 centimeters",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7321.11.30.20",
+                            "Description": "Of a maximum width exceeding 70 but not exceeding 80 centimeters",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7321.11.30.50",
+                            "Description": "Of a maximum width exceeding 80 centimeters",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7321.11.60.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7321.12.00.00",
+                "Description": "For liquid fuel",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7321.19.00",
+                "Description": "Other, including appliances for solid fuel",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7321.19.00.60",
+                        "Description": "Of cast iron",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7321.19.00.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7321.19.00.20",
+                        "Description": "Hibachis",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7321.19.00.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7321.81",
+                "Description": "For gas fuel or for both gas and other fuels:",
+                "Subentries": [
+                  {
+                    "HS Code": "7321.81.10.00",
+                    "Description": "Portable",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7321.81.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7321.82",
+                "Description": "For liquid fuel:",
+                "Subentries": [
+                  {
+                    "HS Code": "7321.82.10.00",
+                    "Description": "Portable",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7321.82.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7321.89.00",
+                "Description": "Other, including appliances for solid fuel",
+                "Subentries": [
+                  {
+                    "HS Code": "7321.89.00.10",
+                    "Description": "Fireplace grates of cast iron",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7321.89.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

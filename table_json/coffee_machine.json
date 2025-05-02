@@ -1,0 +1,62 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8516",
+        "Description": "Electric instantaneous or storage water heaters and immersion heaters; electric space heating apparatus and soil heating apparatus; electrothermic hairdressing apparatus (for example, hair dryers, hair curlers, curling tong heaters) and hand dryers; electric flatirons; other electrothermic appliances of a kind used for domestic purposes; electric heating resistors, other than those of heading 8545; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other electrothermic appliances:",
+            "Subentries": [
+              {
+                "HS Code": "8516.71.00",
+                "Description": "Coffee or tea makers",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Coffee makers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8516.71.00.20",
+                        "Description": "Automatic drip and pump type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8516.71.00.40",
+                        "Description": "Percolator",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8516.71.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8516.71.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8516.72.00.00",
+                "Description": "Toasters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.79.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "HS Code": "83",
+    "Description": "Miscellaneous articles of base metal",
+    "Subentries": [
+      {
+        "HS Code": "8311",
+        "Description": "Wire, rods, tubes, plates, electrodes and similar products of base metal or of metal carbides, coated or cored with flux material, of a kind used for soldering, brazing, welding or deposition of metal or of metal carbides; wire and rods, of agglomerated base metal powder, used for metal spraying; base metal parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8311.10.00.00",
+            "Description": "Coated electrodes of base metal, for electric arc-welding",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8311.20.00.00",
+            "Description": "Cored wire of base metal, for electric arc-welding",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8311.30",
+            "Description": "Coated rods and cored wire, of base metal, for soldering, brazing or welding by flame:",
+            "Subentries": [
+              {
+                "HS Code": "8311.30.30.00",
+                "Description": "Lead-tin solders",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8311.30.60.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8311.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

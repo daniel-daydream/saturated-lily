@@ -1,0 +1,80 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8468",
+        "Description": "Machinery and apparatus for soldering, brazing or welding, whether or not capable of cutting, other than those of heading 8515; gas-operated surface tempering machines and appliances; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8468.20",
+            "Description": "Other gas-operated machinery and apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "8468.20.10.00",
+                "Description": "Hand-directed or -controlled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8468.20.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8515",
+        "Description": "Electric (including electrically heated gas), laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutting; electric machines and apparatus for hot spraying of metals or cermets; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Machines and apparatus for arc (including plasma arc) welding of metals:",
+            "Subentries": [
+              {
+                "HS Code": "8515.31.00.00",
+                "Description": "Fully or partly automatic",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8515.39.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Non-rotating type:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8515.39.00.20",
+                        "Description": "AC transformer type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8515.39.00.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8515.39.00.60",
+                    "Description": "Rotating type",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

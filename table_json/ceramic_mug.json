@@ -1,0 +1,127 @@
+[
+  {
+    "HS Code": "69",
+    "Description": "Ceramic products",
+    "Subentries": [
+      {
+        "HS Code": "6912.00",
+        "Description": "Ceramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Tableware and kitchenware:",
+            "Subentries": [
+              {
+                "HS Code": "6912.00.10.00",
+                "Description": "Of coarse-grained earthenware, or of coarse- grained stoneware; of fine-grained earthenware, whether or not decorated, having a reddish-colored body and a lustrous glaze which, on teapots, may be any color, but which, on other articles, must be mottled, streaked or solidly colored brown to black with metallic oxide or salt",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "6912.00.20.00",
+                    "Description": "Hotel or restaurant ware and other ware not household ware",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Available in specified sets:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6912.00.35",
+                            "Description": "In any pattern for which the aggregate value of the articles listed in additional U.S. note 6(b) of this chapter is not over $38",
+                            "Subentries": [
+                              {
+                                "HS Code": "6912.00.35.10",
+                                "Description": "Plates not over 27.9 cm in maximum dimension; teacups and saucers; mugs; soups, fruits and cereals, the foregoing not over 22.9 cm in maximum dimension",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6912.00.35.50",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6912.00.39",
+                            "Description": "In any pattern for which the aggregate value of the articles listed in additional U.S. note 6(b) of this chapter is over $38",
+                            "Subentries": [
+                              {
+                                "HS Code": "6912.00.39.10",
+                                "Description": "Plates not over 27.9 cm in maximum dimension; teacups and saucers; mugs; soups, fruits and cereals, the foregoing not over 22.9 cm in maximum dimension",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6912.00.39.50",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6912.00.41.00",
+                            "Description": "Steins with permanently attached pewter lids; candy boxes, decanters, punch bowls, pretzel dishes, tidbit dishes, tiered servers, bonbon dishes, egg cups, spoons and spoon rests, oil and vinegar sets, tumblers and salt and pepper shaker sets",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6912.00.44.00",
+                            "Description": "Mugs and other steins",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6912.00.45.00",
+                            "Description": "Cups valued over $5.25 per dozen; saucers valued over $3 per dozen; soups, oatmeals and cereals valued over $6 per dozen; plates not over 22.9 cm in maximum diameter and valued over $6 per dozen; plates over 22.9 but not over 27.9 cm in maximum diameter and valued over $8.50 per dozen; platters or chop dishes valued over $35 per dozen; sugars valued over $21 per dozen; creamers valued over $15 per dozen; and beverage servers valued over $42 per dozen",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6912.00.46.00",
+                            "Description": "Serviette rings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6912.00.48",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "6912.00.48.10",
+                                "Description": "Suitable for food or drink contact",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6912.00.48.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "6912.00.50.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

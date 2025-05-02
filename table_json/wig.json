@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "67",
+    "Description": "Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair",
+    "Subentries": [
+      {
+        "HS Code": "6704",
+        "Description": "Wigs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair or of textile materials; articles of human hair not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of synthetic textile materials:",
+            "Subentries": [
+              {
+                "HS Code": "6704.11.00.00",
+                "Description": "Complete wigs",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6704.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

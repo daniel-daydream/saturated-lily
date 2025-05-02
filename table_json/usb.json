@@ -1,0 +1,193 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8471",
+        "Description": "Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "8471.80",
+            "Description": "Other units of automatic data processing machines:",
+            "Subentries": [
+              {
+                "HS Code": "8471.80.10.00",
+                "Description": "Control or adapter units",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.80.40.00",
+                    "Description": "Units suitable for physical incorporation into automatic data processing machines",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.80.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8473",
+        "Description": "Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings 8470 to 8472:",
+        "Subentries": [
+          {
+            "HS Code": "8473.30",
+            "Description": "Parts and accessories of the machines of heading 8471:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Not incorporating a cathode ray tube:",
+                "Subentries": [
+                  {
+                    "HS Code": "8473.30.11",
+                    "Description": "Printed circuit assemblies",
+                    "Subentries": [
+                      {
+                        "HS Code": "8473.30.11.40",
+                        "Description": "Memory modules suitable for use solely or principally with machines of heading 8471",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8473.30.11.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8473.30.20.00",
+                    "Description": "Parts and accessories, including face plates and lock latches, of printed circuit assemblies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8473.30.51.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8473.30.91.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8523",
+        "Description": "Discs, tapes, solid-state non-volatile storage devices, \"smart cards\" and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Semiconductor media:",
+            "Subentries": [
+              {
+                "HS Code": "8523.51.00.00",
+                "Description": "Solid-state non-volatile storage devices",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8523.52.00",
+                "Description": "\"Smart cards\"",
+                "Subentries": [
+                  {
+                    "HS Code": "8523.52.00.10",
+                    "Description": "Unrecorded",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8523.52.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8523.59.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8536",
+        "Description": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp-holders and other connectors, junction boxes), for a voltage not exceeding 1,000 V; connectors for optical fibers, optical fiber bundles or cables:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Lamp-holders, plugs and sockets:",
+            "Subentries": [
+              {
+                "HS Code": "8536.61.00.00",
+                "Description": "Lamp-holders",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8536.69",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8536.69.40",
+                    "Description": "Coaxial connectors; cylindrical multicontact connectors; rack and panel connectors; printed circuit connectors; ribbon or flat cable connectors",
+                    "Subentries": [
+                      {
+                        "HS Code": "8536.69.40.10",
+                        "Description": "Coaxial connectors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.69.40.20",
+                        "Description": "Cylindrical multicontact connectors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.69.40.30",
+                        "Description": "Rack and panel connectors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.69.40.40",
+                        "Description": "Printed circuit connectors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.69.40.51",
+                        "Description": "Ribbon or flat cable connectors",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8536.69.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

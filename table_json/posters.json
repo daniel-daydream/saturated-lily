@@ -1,0 +1,118 @@
+[
+  {
+    "HS Code": "49",
+    "Description": "Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",
+    "Subentries": [
+      {
+        "HS Code": "4911",
+        "Description": "Other printed matter, including printed pictures and photographs:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "4911.91",
+                "Description": "Pictures, designs and photographs:",
+                "Subentries": [
+                  {
+                    "HS Code": "4911.91.10.00",
+                    "Description": "Printed over 20 years at time of importation",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Printed not over 20 years at time of importation:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4911.91.15.00",
+                        "Description": "Suitable for use in the production of articles of heading 4901",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Lithographs on paper or paperboard:",
+                            "Subentries": [
+                              {
+                                "HS Code": "4911.91.20",
+                                "Description": "Not over 0.51 mm in thickness",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "4911.91.20.20",
+                                    "Description": "Posters",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "4911.91.20.40",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "4911.91.30.00",
+                                "Description": "Over 0.51 mm in thickness",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "4911.91.40",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "4911.91.40.20",
+                                "Description": "Posters",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4911.91.40.40",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "4911.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "4911.99.20.00",
+                    "Description": "International customs forms (carnets) and parts thereof, in English or French (whether or not in additional languages)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4911.99.60.00",
+                        "Description": "Printed on paper in whole or in part by a lithographic process",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4911.99.80.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

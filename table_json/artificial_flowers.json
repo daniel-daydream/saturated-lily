@@ -1,0 +1,57 @@
+[
+  {
+    "HS Code": "67",
+    "Description": "Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair",
+    "Subentries": [
+      {
+        "HS Code": "6702",
+        "Description": "Artificial flowers, foliage and fruit and parts thereof; articles made of artificial flowers, foliage or fruit:",
+        "Subentries": [
+          {
+            "HS Code": "6702.10",
+            "Description": "Of plastics:",
+            "Subentries": [
+              {
+                "HS Code": "6702.10.20.00",
+                "Description": "Assembled by binding with flexible materials such as wire, paper, textile materials, or foil, or by gluing or by similar methods",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6702.10.40.00",
+                "Description": "Other, including parts",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "6702.90",
+            "Description": "Of other materials:",
+            "Subentries": [
+              {
+                "HS Code": "6702.90.10.00",
+                "Description": "Of feathers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "6702.90.35.00",
+                    "Description": "Of man-made fibers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6702.90.65.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

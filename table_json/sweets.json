@@ -1,0 +1,150 @@
+[
+  {
+    "HS Code": "17",
+    "Description": "Sugars and sugar confectionery",
+    "Subentries": [
+      {
+        "HS Code": "1704",
+        "Description": "Sugar confectionery (including white chocolate), not containing cocoa:",
+        "Subentries": [
+          {
+            "HS Code": "1704.10.00.00",
+            "Description": "Chewing gum, whether or not sugar-coated",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1704.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Confections or sweetmeats ready for consumption:",
+                "Subentries": [
+                  {
+                    "HS Code": "1704.90.10.00",
+                    "Description": "Candied nuts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1704.90.25.00",
+                        "Description": "Cough drops",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1704.90.35",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Put up for retail sale:",
+                            "Subentries": [
+                              {
+                                "HS Code": "1704.90.35.20",
+                                "Description": "Containing peanuts, peanut butter or peanut paste",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "1704.90.35.50",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "1704.90.35.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "1704.90.52.00",
+                    "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Dairy products described in additional U.S. note 1 to chapter 4:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1704.90.54.00",
+                            "Description": "Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1704.90.58.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:",
+                            "Subentries": [
+                              {
+                                "HS Code": "1704.90.64.00",
+                                "Description": "Described in additional U.S. note 7 to this chapter and entered pursuant to its provisions",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "1704.90.68.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Articles containing over 10 percent by dry weight of sugar described in additional U.S. note 3 to chapter 17:",
+                            "Subentries": [
+                              {
+                                "HS Code": "1704.90.74.00",
+                                "Description": "Described in additional U.S. note 8 to this chapter and entered pursuant to its provisions",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "1704.90.78.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "1704.90.90.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

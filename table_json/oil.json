@@ -1,0 +1,984 @@
+[
+  {
+    "HS Code": "15",
+    "Description": "Animal or vegetable fats and oils and their cleavage products prepared edible fats; animal or vegetable waxes",
+    "Subentries": [
+      {
+        "HS Code": "1501",
+        "Description": "Pig fat (including lard) and poultry fat, other than that of heading 0209 or 1503:",
+        "Subentries": [
+          {
+            "HS Code": "1501.10.00.00",
+            "Description": "Lard",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1501.20.00",
+            "Description": "Other pig fat",
+            "Subentries": [
+              {
+                "HS Code": "1501.20.00.40",
+                "Description": "Choice white grease",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1501.20.00.60",
+                "Description": "Yellow grease",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1501.20.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "1501.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "1502",
+        "Description": "Fats of bovine animals, sheep or goats, other than those of heading 1503:",
+        "Subentries": [
+          {
+            "HS Code": "1502.10.00",
+            "Description": "Tallow",
+            "Subentries": [
+              {
+                "HS Code": "1502.10.00.20",
+                "Description": "Edible",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1502.10.00.40",
+                "Description": "Inedible",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "1502.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "1503.00.00.00",
+        "Description": "Lard stearin, lard oil, oleostearin, oleo-oil and tallow oil, not emulsified or mixed or otherwise prepared",
+        "Subentries": []
+      },
+      {
+        "HS Code": "1504",
+        "Description": "Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified:",
+        "Subentries": [
+          {
+            "HS Code": "1504.10",
+            "Description": "Fish-liver oils and their fractions:",
+            "Subentries": [
+              {
+                "HS Code": "1504.10.20.00",
+                "Description": "Cod",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1504.10.40.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "1504.20",
+            "Description": "Fats and oils and their fractions, of fish, other than liver oils:",
+            "Subentries": [
+              {
+                "HS Code": "1504.20.20.00",
+                "Description": "Cod",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1504.20.40.00",
+                "Description": "Herring",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1504.20.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1504.20.60.20",
+                    "Description": "Menhaden",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1504.20.60.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "1504.30.00.00",
+            "Description": "Fats and oils and their fractions, of marine mammals",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "1505.00",
+        "Description": "Wool grease and fatty substances derived therefrom (including lanolin):",
+        "Subentries": [
+          {
+            "HS Code": "1505.00.10.00",
+            "Description": "Wool grease, crude",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1505.00.90.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "1506.00.00.00",
+        "Description": "Other animal fats and oils and their fractions, whether or not refined, but not chemically modified",
+        "Subentries": []
+      },
+      {
+        "HS Code": "1507",
+        "Description": "Soybean oil and its fractions, whether or not refined, but not chemically modified:",
+        "Subentries": [
+          {
+            "HS Code": "1507.10.00.00",
+            "Description": "Crude oil, whether or not degummed",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1507.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1507.90.20.00",
+                "Description": "Pharmaceutical Grade meeting FDA requirements for use in intravenous fat emulsions, valued over $5/kg",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1507.90.40",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1507.90.40.20",
+                    "Description": "Once-refined (subjected to alkali or caustic wash, but not bleached or deodorized)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1507.90.40.40",
+                    "Description": "Other (fully refined, washed, bleached or deodorized)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1508",
+        "Description": "Peanut (ground-nut) oil and its fractions, whether or not refined, but not chemically modified:",
+        "Subentries": [
+          {
+            "HS Code": "1508.10.00.00",
+            "Description": "Crude oil",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1508.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "1509",
+        "Description": "Olive oil and its fractions, whether or not refined, but not chemically modified:",
+        "Subentries": [
+          {
+            "HS Code": "1509.20",
+            "Description": "Extra virgin olive oil:",
+            "Subentries": [
+              {
+                "HS Code": "1509.20.20",
+                "Description": "Weighing with the immediate container under 18 kg",
+                "Subentries": [
+                  {
+                    "HS Code": "1509.20.20.30",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1509.20.20.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1509.20.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1509.20.90.30",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1509.20.90.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "1509.30",
+            "Description": "Virgin olive oil:",
+            "Subentries": [
+              {
+                "HS Code": "1509.30.20",
+                "Description": "Weighing with the immediate container under 18 kg",
+                "Subentries": [
+                  {
+                    "HS Code": "1509.30.20.30",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1509.30.20.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1509.30.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1509.30.90.30",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1509.30.90.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "1509.40",
+            "Description": "Other virgin olive oils:",
+            "Subentries": [
+              {
+                "HS Code": "1509.40.20",
+                "Description": "Weighing with the immediate container under 18 kg",
+                "Subentries": [
+                  {
+                    "HS Code": "1509.40.20.30",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1509.40.20.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1509.40.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1509.40.90.30",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1509.40.90.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "1509.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1509.90.20.00",
+                "Description": "Weighing with the immediate container under 18 kg",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1509.90.40.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1510",
+        "Description": "Other oils and their fractions, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils and fractions with oils or fractions of heading 1509:",
+        "Subentries": [
+          {
+            "HS Code": "1510.10",
+            "Description": "Crude olive pomace oil:",
+            "Subentries": [
+              {
+                "HS Code": "1510.10.10.00",
+                "Description": "Weighing with the immediate container under 18 kg",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1510.10.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "1510.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1510.90.10.00",
+                "Description": "Rendered unfit for use as food",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "1510.90.20.00",
+                    "Description": "Weighing with the immediate container under 18 kg",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1510.90.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1511",
+        "Description": "Palm oil and its fractions, whether or not refined, but not chemically modified:",
+        "Subentries": [
+          {
+            "HS Code": "1511.10.00.00",
+            "Description": "Crude oil",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1511.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "1512",
+        "Description": "Sunflower-seed, safflower or cottonseed oil, and fractions thereof, whether or not refined, but not chemically modified:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Sunflower-seed or safflower oil and fractions thereof:",
+            "Subentries": [
+              {
+                "HS Code": "1512.11.00",
+                "Description": "Crude oil",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Sunflower-seed oil:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1512.11.00.25",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1512.11.00.35",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1512.11.00.40",
+                    "Description": "Safflower oil",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1512.19.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Sunflower-seed oil:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1512.19.00.25",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1512.19.00.35",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1512.19.00.40",
+                    "Description": "Safflower oil",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Cottonseed oil and its fractions:",
+            "Subentries": [
+              {
+                "HS Code": "1512.21.00.00",
+                "Description": "Crude oil, whether or not gossypol has been removed",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1512.29.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1512.29.00.20",
+                    "Description": "Once-refined (subjected to alkalai or caustic wash, but not bleached or deodorized)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1512.29.00.40",
+                    "Description": "Other (fully refined, washed, bleached or deodorized)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1513",
+        "Description": "Coconut (copra), palm kernel or babassu oil, and fractions thereof, whether or not refined, but not chemically modified:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Coconut (copra) oil and its fractions:",
+            "Subentries": [
+              {
+                "HS Code": "1513.11.00.00",
+                "Description": "Crude oil",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1513.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Palm kernel or babassu oil and fractions thereof:",
+            "Subentries": [
+              {
+                "HS Code": "1513.21.00.00",
+                "Description": "Crude oil",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1513.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1514",
+        "Description": "Rapeseed, colza or mustard oil, and fractions thereof, whether or not refined, but not chemically modified:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Low erucic acid rape or colza oil and its fractions:",
+            "Subentries": [
+              {
+                "HS Code": "1514.11.00.00",
+                "Description": "Crude oil",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1514.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1514.91",
+                "Description": "Crude oil:",
+                "Subentries": [
+                  {
+                    "HS Code": "1514.91.10.00",
+                    "Description": "Imported to be used in the manufacture of rubber substitutes or lubricating oil",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1514.91.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1514.91.90.10",
+                        "Description": "Rape or colza oil and its fractions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1514.91.90.20",
+                        "Description": "Mustard seed oil and its fractions",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1514.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "1514.99.10.00",
+                    "Description": "Imported to be used in the manufacture of rubber substitutes or lubricating oil",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1514.99.50",
+                        "Description": "Denatured",
+                        "Subentries": [
+                          {
+                            "HS Code": "1514.99.50.10",
+                            "Description": "Rape or colza oil and its fractions",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1514.99.50.20",
+                            "Description": "Mustard seed oil and its fractions",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "1514.99.90",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "1514.99.90.10",
+                            "Description": "Rape or colza oil and its fractions",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1514.99.90.20",
+                            "Description": "Mustard seed oil and its fractions",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1515",
+        "Description": "Other fixed vegetable or microbial fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Linseed oil and its fractions:",
+            "Subentries": [
+              {
+                "HS Code": "1515.11.00.00",
+                "Description": "Crude oil",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1515.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Corn (maize) oil and its fractions:",
+            "Subentries": [
+              {
+                "HS Code": "1515.21.00.00",
+                "Description": "Crude oil",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1515.29.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1515.29.00.20",
+                    "Description": "Once-refined (subjected to alkalai or caustic wash, but not bleached or deodorized)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1515.29.00.40",
+                    "Description": "Other (fully refined, washed, bleached or deodorized)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "1515.30.00.00",
+            "Description": "Castor oil and its fractions",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1515.50.00.00",
+            "Description": "Sesame oil and its fractions",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1515.60.05.00",
+            "Description": "Microbial fats and oils and their fractions",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1515.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1515.90.21.00",
+                "Description": "Nut oils",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1515.90.60.00",
+                "Description": "Jojoba oil and its fractions",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1515.90.81",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1515.90.81.10",
+                    "Description": "Hemp oil",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1515.90.81.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1516",
+        "Description": "Animal, vegetable or microbial fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinized, whether or not refined, but not further prepared:",
+        "Subentries": [
+          {
+            "HS Code": "1516.10.00.00",
+            "Description": "Animal fats and oils and their fractions",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1516.20",
+            "Description": "Vegetable fats and oils and their fractions:",
+            "Subentries": [
+              {
+                "HS Code": "1516.20.10.00",
+                "Description": "Rapeseed oil",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1516.20.91.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "1516.30.00.00",
+            "Description": "Microbial fats and oils and their fractions",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "1517",
+        "Description": "Margarine; edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this chapter, other than edible fats or oils or their fractions of heading 1516:",
+        "Subentries": [
+          {
+            "HS Code": "1517.10.00.00",
+            "Description": "Margarine, excluding liquid margarine",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1517.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Artificial mixtures of two or more of the products provided for in headings 1501 to 1515, inclusive:",
+                "Subentries": [
+                  {
+                    "HS Code": "1517.90.10",
+                    "Description": "Containing 5 percent or more by weight of soybean oil or any fraction thereof",
+                    "Subentries": [
+                      {
+                        "HS Code": "1517.90.10.20",
+                        "Description": "Salad and cooking oils",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Baking or frying fats:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1517.90.10.40",
+                            "Description": "Wholly of vegetable oils",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1517.90.10.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "1517.90.10.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1517.90.20",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1517.90.20.20",
+                        "Description": "Salad and cooking oils",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Baking or frying fats:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1517.90.20.40",
+                            "Description": "Wholly of vegetable oils",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1517.90.20.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "1517.90.20.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Dairy products described in additional U.S. note 1 to chapter 4:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1517.90.45.00",
+                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1517.90.50.00",
+                        "Description": "Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1517.90.60.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1517.90.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1517.90.90.15",
+                        "Description": "Partially hydrogenated salad and cooking oil",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1517.90.90.25",
+                        "Description": "Soybean oil, wholly hydrogenated",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1517.90.90.85",
+                        "Description": "Cottonseed oil, wholly hydrogenated",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1517.90.90.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1518.00",
+        "Description": "Animal, vegetable or microbial fats and oils and their fractions, boiled, oxidized, dehydrated, sulfurized, blown, polymerized by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516; inedible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this chapter, not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "1518.00.20.00",
+            "Description": "Of linseed or flaxseed oil",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1518.00.40.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "1520.00.00.00",
+        "Description": "Glycerol, crude; glycerol waters and glycerol lyes",
+        "Subentries": []
+      },
+      {
+        "HS Code": "1521",
+        "Description": "Vegetable waxes (other than triglycerides), beeswax, other insect waxes and spermaceti, whether or not refined or colored:",
+        "Subentries": [
+          {
+            "HS Code": "1521.10.00",
+            "Description": "Vegetable waxes",
+            "Subentries": [
+              {
+                "HS Code": "1521.10.00.20",
+                "Description": "Candelilla",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1521.10.00.40",
+                "Description": "Carnauba",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1521.10.00.60",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "1521.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1521.90.20.00",
+                "Description": "Bleached beeswax",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1521.90.40.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1522.00.00.00",
+        "Description": "Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes",
+        "Subentries": []
+      }
+    ]
+  }
+]

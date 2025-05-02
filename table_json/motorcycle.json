@@ -1,0 +1,125 @@
+[
+  {
+    "HS Code": "87",
+    "Description": "Vehicles other than railway or tramway rolling stock, and parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "8711",
+        "Description": "Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars:",
+        "Subentries": [
+          {
+            "HS Code": "8711.10.00.00",
+            "Description": "With internal combustion piston engine of a cylinder capacity not exceeding 50 cc",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8711.20.00",
+            "Description": "With internal combustion piston engine of a cylinder capacity exceeding 50 cc but not exceeding 250 cc",
+            "Subentries": [
+              {
+                "HS Code": "8711.20.00.30",
+                "Description": "Exceeding 50 cc but not exceeding 90 cc",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8711.20.00.60",
+                "Description": "Exceeding 90 cc but not exceeding 190 cc",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8711.20.00.90",
+                "Description": "Exceeding 190 cc but not exceeding 250 cc",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8711.30.00",
+            "Description": "With internal combustion piston engine of a cylinder capacity exceeding 250 cc but not exceeding 500 cc",
+            "Subentries": [
+              {
+                "HS Code": "8711.30.00.30",
+                "Description": "Exceeding 250 cc but not exceeding 290 cc",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8711.30.00.60",
+                "Description": "Exceeding 290 cc but not exceeding 490 cc",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8711.30.00.90",
+                "Description": "Exceeding 490 cc but not exceeding 500 cc",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8711.40",
+            "Description": "With internal combustion piston engine of a cylinder capacity exceeding 500 cc but not exceeding 800 cc:",
+            "Subentries": [
+              {
+                "HS Code": "8711.40.30.00",
+                "Description": "Exceeding 500 cc but not exceeding 700 cc",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8711.40.60",
+                "Description": "Exceeding 700 cc but not exceeding 800 cc",
+                "Subentries": [
+                  {
+                    "HS Code": "8711.40.60.30",
+                    "Description": "Exceeding 700 cc but not exceeding 790 cc",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8711.40.60.60",
+                    "Description": "Exceeding 790 cc but not exceeding 800 cc",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8711.50.00",
+            "Description": "With internal combustion piston engine of a cylinder capacity exceeding 800 cc",
+            "Subentries": [
+              {
+                "HS Code": "8711.50.00.30",
+                "Description": "Exceeding 800 cc but not exceeding 970 cc",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8711.50.00.60",
+                "Description": "Exceeding 970 cc",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8711.60.00",
+            "Description": "With electric motor for propulsion",
+            "Subentries": [
+              {
+                "HS Code": "8711.60.00.50",
+                "Description": "Of an output not exceeding 250 W",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8711.60.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8711.90.01.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

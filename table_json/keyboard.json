@@ -1,0 +1,156 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8471",
+        "Description": "Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "8471.60",
+            "Description": "Input or output units, whether or not containing storage units in the same housing:",
+            "Subentries": [
+              {
+                "HS Code": "8471.60.10",
+                "Description": "Combined input/output units",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.60.10.10",
+                    "Description": "With cathode-ray tube (CRT)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.60.20.00",
+                    "Description": "Keyboards",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.70.00",
+                    "Description": "Units suitable for physical incorporation into automatic data processing machines or units thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.80.00",
+                    "Description": "Optical scanners and magnetic ink recognition devices",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8471.60.90.30",
+                        "Description": "Card key and magnetic media entry devices",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8471.60.90.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "92",
+    "Description": "Musical instruments; parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "9207",
+        "Description": "Musical instruments, the sound of which is produced, or must be amplified, electrically (for example, organs, guitars, accordions):",
+        "Subentries": [
+          {
+            "HS Code": "9207.10.00",
+            "Description": "Keyboard instruments, other than accordions",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Music synthesizers:",
+                "Subentries": [
+                  {
+                    "HS Code": "9207.10.00.05",
+                    "Description": "Valued under $100 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9207.10.00.10",
+                    "Description": "Valued $100 or over each",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "With more than one keyboard:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9207.10.00.45",
+                        "Description": "Valued under $200 each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9207.10.00.55",
+                        "Description": "Valued $200 or over each",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "With one keyboard:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9207.10.00.60",
+                        "Description": "Hand-held",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9207.10.00.65",
+                            "Description": "Valued under $100 each",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9207.10.00.75",
+                            "Description": "Valued $100 or over each",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

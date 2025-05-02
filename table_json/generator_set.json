@@ -1,0 +1,93 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8502",
+        "Description": "Electric generating sets and rotary converters:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Generating sets with compression-ignition internal combustion piston engines (diesel or semi-diesel engines):",
+            "Subentries": [
+              {
+                "HS Code": "8502.11.00.00",
+                "Description": "Of an output not exceeding 75 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8502.12.00.00",
+                "Description": "Of an output exceeding 75 kVA but not exceeding 375 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8502.13.00",
+                "Description": "Of an output exceeding 375 kVA",
+                "Subentries": [
+                  {
+                    "HS Code": "8502.13.00.20",
+                    "Description": "Exceeding 375 kVA but not exceeding 1,000 kVA",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8502.13.00.40",
+                    "Description": "Exceeding 1,000 kVA",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8502.31.00.00",
+                "Description": "Wind-powered",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8502.39.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8502.39.00.40",
+                    "Description": "Powered by steam turbine",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8502.39.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8502.20.00",
+            "Description": "Generating sets with spark-ignition internal combustion piston engines",
+            "Subentries": [
+              {
+                "HS Code": "8502.20.00.30",
+                "Description": "Of an output not exceeding 1.875 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8502.20.00.60",
+                "Description": "Of an output exceeding 1.875 kVA but not exceeding 6.25 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8502.20.00.70",
+                "Description": "Of an output exceeding 6.25 kVA but not exceeding 75 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8502.20.00.85",
+                "Description": "Of an output exceeding 75 kVA",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "HS Code": "62",
+    "Description": "Articles of apparel and clothing accessories, not knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6204",
+        "Description": "Women's or girls' suits, ensembles, suit-type jackets, blazers, dresses, skirts, divided skirts,   trousers, bib and brace overalls, breeches and shorts (other than swimwear):",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Skirts and divided skirts:",
+            "Subentries": [
+              {
+                "HS Code": "6204.51.00",
+                "Description": "Of wool or fine animal hair",
+                "Subentries": [
+                  {
+                    "HS Code": "6204.51.00.10",
+                    "Description": "Women's (442)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6204.51.00.20",
+                    "Description": "Girls' (442)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "6204.52",
+                "Description": "Of cotton:",
+                "Subentries": [
+                  {
+                    "HS Code": "6204.52.10.00",
+                    "Description": "Certified hand-loomed and folklore products (342)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6204.52.20",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6204.52.20.70",
+                            "Description": "Women's (342)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6204.52.20.80",
+                            "Description": "Girls' (342)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6204.52.20.10",
+                            "Description": "Women's (342)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6204.52.20.20",
+                            "Description": "Girls' (342)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6204.52.20.30",
+                            "Description": "Women's (342)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6204.52.20.40",
+                            "Description": "Girls' (342)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6204.53",
+                "Description": "Of synthetic fibers:",
+                "Subentries": [
+                  {
+                    "HS Code": "6204.53.10.00",
+                    "Description": "Certified hand-loomed products and folklore products (642)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6204.53.20",
+                        "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
+                        "Subentries": [
+                          {
+                            "HS Code": "6204.53.20.10",
+                            "Description": "Women's (442)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6204.53.20.20",
+                            "Description": "Girls' (442)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6204.53.30",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "6204.53.30.10",
+                            "Description": "Women's (642)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6204.53.30.20",
+                            "Description": "Girls' (642)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6204.59",
+                "Description": "Of other textile materials:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of artificial fibers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6204.59.10.00",
+                        "Description": "Certified hand-loomed and folklore products (642)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6204.59.20",
+                            "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
+                            "Subentries": [
+                              {
+                                "HS Code": "6204.59.20.10",
+                                "Description": "Women's (442)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6204.59.20.20",
+                                "Description": "Girls' (442)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6204.59.30",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "6204.59.30.10",
+                                "Description": "Women's (642)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6204.59.30.20",
+                                "Description": "Girls' (642)",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "6204.59.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6204.59.40.10",
+                        "Description": "Subject to cotton restraints (342)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6204.59.40.20",
+                        "Description": "Subject to wool restraints (442)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6204.59.40.30",
+                        "Description": "Subject to man-made fiber restraints (642)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Of silk:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6204.59.40.40",
+                                "Description": "Containing 70 percent or more by weight of silk or silk waste (742)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6204.59.40.50",
+                                "Description": "Other (842)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6204.59.40.60",
+                            "Description": "Other (842)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

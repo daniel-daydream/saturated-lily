@@ -1,0 +1,63 @@
+[
+  {
+    "HS Code": "63",
+    "Description": "Other made up textile articles; sets; worn clothing and worn textile articles; rags",
+    "Subentries": [
+      {
+        "HS Code": "6306",
+        "Description": "Tarpaulins, awnings and sunblinds; tents (including temporary canopies and similar articles); sails for boats, sailboards or landcraft; camping goods:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Tents (including temporary canopies and similar articles):",
+            "Subentries": [
+              {
+                "HS Code": "6306.22",
+                "Description": "Of synthetic fibers:",
+                "Subentries": [
+                  {
+                    "HS Code": "6306.22.10.00",
+                    "Description": "Backpacking tents",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6306.22.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6306.22.90.10",
+                        "Description": "Screen houses",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6306.22.90.30",
+                        "Description": "Other (669)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6306.29",
+                "Description": "Of other textile materials:",
+                "Subentries": [
+                  {
+                    "HS Code": "6306.29.11.00",
+                    "Description": "Of cotton",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6306.29.21.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

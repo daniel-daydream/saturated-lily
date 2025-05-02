@@ -1,0 +1,173 @@
+[
+  {
+    "HS Code": "96",
+    "Description": "Miscellaneous manufactured articles",
+    "Subentries": [
+      {
+        "HS Code": "9619.00",
+        "Description": "Sanitary pads (towels) and tampons, diapers (napkins), diaper liners and similar articles, of any material:",
+        "Subentries": [
+          {
+            "HS Code": "9619.00.05.00",
+            "Description": "Of plastics",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9619.00.11.00",
+            "Description": "Of paper pulp",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9619.00.15",
+            "Description": "Of paper, cellulose wadding or webs of cellulose fibers",
+            "Subentries": [
+              {
+                "HS Code": "9619.00.15.10",
+                "Description": "Sanitary napkins and tampons",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9619.00.15.30",
+                "Description": "Diapers and diaper liners",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9619.00.15.60",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Of textile wadding:",
+            "Subentries": [
+              {
+                "HS Code": "9619.00.21.00",
+                "Description": "Of cotton (369)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9619.00.25.00",
+                "Description": "Other (669)",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Diapers of other textile materials:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Of cotton:",
+                "Subentries": [
+                  {
+                    "HS Code": "9619.00.31.00",
+                    "Description": "Of knitted or crocheted textile fabric (239)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9619.00.33.00",
+                    "Description": "Other (239)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9619.00.41.00",
+                "Description": "Of synthetic fibers (239)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9619.00.43.00",
+                "Description": "Of artificial fibers (239)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Of other textile fibers:",
+                "Subentries": [
+                  {
+                    "HS Code": "9619.00.46.00",
+                    "Description": "Of knitted or crocheted textile fabric (839)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9619.00.48.00",
+                    "Description": "Other (839)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other, of textile materials:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Knitted or crocheted:",
+                "Subentries": [
+                  {
+                    "HS Code": "9619.00.61.00",
+                    "Description": "Of cotton",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9619.00.64.00",
+                    "Description": "Of man-made fibers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9619.00.68.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9619.00.71.00",
+                    "Description": "Of cotton",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9619.00.74.00",
+                    "Description": "Of man-made fibers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9619.00.78.00",
+                        "Description": "Men\u02bcs or boys\u02bc",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9619.00.79.00",
+                        "Description": "Women\u02bcs or girls\u02bc",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9619.00.90.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "HS Code": "82",
+    "Description": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",
+    "Subentries": [
+      {
+        "HS Code": "8207",
+        "Description": "Interchangeable tools for handtools, whether or not power operated, or for machine-tools (for example, for pressing, stamping, punching, tapping, threading, drilling, boring, broaching, milling, turning or screwdriving), including dies for drawing or extruding metal, and rock drilling or earth boring tools; base metal parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8207.50",
+            "Description": "Tools for drilling, other than for rock drilling, and parts thereof:",
+            "Subentries": [
+              {
+                "HS Code": "8207.50.20",
+                "Description": "With cutting part containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium",
+                "Subentries": [
+                  {
+                    "HS Code": "8207.50.20.30",
+                    "Description": "Masonry drills",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Twist drills:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8207.50.20.45",
+                        "Description": "Brad point",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8207.50.20.55",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8207.50.20.70",
+                        "Description": "For woodworking",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8207.50.20.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8207.50.40",
+                    "Description": "Suitable for cutting metal, and parts thereof",
+                    "Subentries": [
+                      {
+                        "HS Code": "8207.50.40.30",
+                        "Description": "Twist drills",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8207.50.40.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Not suitable for cutting metal, and parts thereof:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8207.50.60.00",
+                        "Description": "For handtools, and parts thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8207.50.80.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

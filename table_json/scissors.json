@@ -1,0 +1,35 @@
+[
+  {
+    "HS Code": "82",
+    "Description": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",
+    "Subentries": [
+      {
+        "HS Code": "8213.00",
+        "Description": "Scissors, tailors' shears and similar shears, and blades and other base metal parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8213.00.30.00",
+            "Description": "Valued not over $1.75/dozen",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Valued over $1.75/dozen:",
+            "Subentries": [
+              {
+                "HS Code": "8213.00.60.00",
+                "Description": "Pinking shears, valued over $30/dozen",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8213.00.90.00",
+                "Description": "Other (including parts)",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

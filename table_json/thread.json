@@ -1,0 +1,346 @@
+[
+  {
+    "HS Code": "54",
+    "Description": "Man-made filaments",
+    "Subentries": [
+      {
+        "HS Code": "5401",
+        "Description": "Sewing thread of man-made filaments, whether or not put up for retail sale:",
+        "Subentries": [
+          {
+            "HS Code": "5401.10.00.00",
+            "Description": "Of synthetic filaments (200)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "5401.20.00.00",
+            "Description": "Of artificial filaments (200)",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "5402",
+        "Description": "Synthetic filament yarn (other than sewing thread), not put up for retail sale, including synthetic monofilament of less than 67 decitex:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "High tenacity yarn of nylon or other polyamides, whether or not textured:",
+            "Subentries": [
+              {
+                "HS Code": "5402.11",
+                "Description": "Of aramids:",
+                "Subentries": [
+                  {
+                    "HS Code": "5402.11.30",
+                    "Description": "Single yarn",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "More than 920 decitex:",
+                        "Subentries": [
+                          {
+                            "HS Code": "5402.11.30.50",
+                            "Description": "Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5402.11.30.70",
+                            "Description": "Multifilament, with twist of 5 turns or more per meter (606)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5402.11.30.10",
+                            "Description": "Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5402.11.30.30",
+                            "Description": "Multifilament, with twist of 5 turns or more per meter (606)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5402.11.60.00",
+                    "Description": "Multiple (folded) or cabled (606)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5402.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "5402.19.30",
+                    "Description": "Single yarn",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "More than 920 decitex:",
+                        "Subentries": [
+                          {
+                            "HS Code": "5402.19.30.50",
+                            "Description": "Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5402.19.30.70",
+                            "Description": "Multifilament, with twist of 5 turns or more per meter (606)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5402.19.30.10",
+                            "Description": "Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5402.19.30.30",
+                            "Description": "Multifilament, with twist of 5 turns or more per meter (606)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5402.19.60.00",
+                    "Description": "Multiple (folded) or cabled (606)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5402.31",
+                "Description": "Of nylon or other polyamides, measuring per single yarn not more than 500 decitex:",
+                "Subentries": [
+                  {
+                    "HS Code": "5402.31.30.00",
+                    "Description": "Single yarn (600)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5402.31.60.00",
+                    "Description": "Multiple (folded) or cabled yarn (600)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5402.32",
+                "Description": "Of nylon or other polyamides, measuring per single yarn more than 500 decitex:",
+                "Subentries": [
+                  {
+                    "HS Code": "5402.32.30.00",
+                    "Description": "Single yarn (600)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5402.32.60.00",
+                    "Description": "Multiple (folded) or cabled yarn (600)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5402.33",
+                "Description": "Of polyesters:",
+                "Subentries": [
+                  {
+                    "HS Code": "5402.33.30.00",
+                    "Description": "Single yarn (600)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5402.33.60.00",
+                    "Description": "Multiple (folded) or cabled yarn (600)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5402.34",
+                "Description": "Of polypropylene:",
+                "Subentries": [
+                  {
+                    "HS Code": "5402.34.30.00",
+                    "Description": "Single yarn (600)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5402.34.60.00",
+                    "Description": "Multiple (folded) or cabled yarn (600)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5402.39",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "5402.39.31",
+                    "Description": "Single yarn",
+                    "Subentries": [
+                      {
+                        "HS Code": "5402.39.31.10",
+                        "Description": "Of polyethylene (600)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5402.39.31.90",
+                        "Description": "Other (600)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5402.39.61",
+                    "Description": "Multiple (folded) or cabled yarn",
+                    "Subentries": [
+                      {
+                        "HS Code": "5402.39.61.10",
+                        "Description": "Of polyethylene (600)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5402.39.61.90",
+                        "Description": "Other (600)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "5402.51.00.00",
+                "Description": "Of nylon or other polyamides (606)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5402.52",
+                "Description": "Of polyesters:",
+                "Subentries": [
+                  {
+                    "HS Code": "5402.52.10.00",
+                    "Description": "Wholly of polyester, measuring not less than 75 decitex but not more than 80 decitex, and having 24 filaments per yarn (606)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5402.52.90.00",
+                    "Description": "Other (606)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5402.53.00.00",
+                "Description": "Of polypropylene (606)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5402.59.01.00",
+                "Description": "Other (606)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5402.61.00.00",
+                "Description": "Of nylon or other polyamides (606)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5402.62.00.00",
+                "Description": "Of polyesters (606)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5402.63.00.00",
+                "Description": "Of polypropylene (606)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5402.69.01.00",
+                "Description": "Other (606)",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "5402.20",
+            "Description": "High tenacity yarn of polyesters, whether or not textured:",
+            "Subentries": [
+              {
+                "HS Code": "5402.20.30",
+                "Description": "Single yarn",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Not more than 920 decitex:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5402.20.30.10",
+                        "Description": "Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5402.20.30.30",
+                        "Description": "Multifilament, with twist of 5 turns or more per meter (606)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "More than 920 decitex:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5402.20.30.50",
+                        "Description": "Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5402.20.30.70",
+                        "Description": "Multifilament, with twist of 5 turns or more per meter (606)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "5402.20.60.00",
+                "Description": "Multiple (folded) or cabled (606)",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "55",
+    "Description": "Man-made staple fibers",
+    "Subentries": [
+      {
+        "HS Code": "5508",
+        "Description": "Sewing thread of man-made staple fibers, whether or not put up for retail sale:",
+        "Subentries": [
+          {
+            "HS Code": "5508.10.00.00",
+            "Description": "Of synthetic staple fibers (200)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "5508.20.00.00",
+            "Description": "Of artificial staple fibers (200)",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

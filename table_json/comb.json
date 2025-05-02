@@ -1,0 +1,90 @@
+[
+  {
+    "HS Code": "96",
+    "Description": "Miscellaneous manufactured articles",
+    "Subentries": [
+      {
+        "HS Code": "9615",
+        "Description": "Combs, hair-slides and the like; hairpins, curling pins, curling grips, hair-curlers and the like, other than those of heading 8516, and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Combs, hair-slides and the like:",
+            "Subentries": [
+              {
+                "HS Code": "9615.11",
+                "Description": "Of hard rubber or plastics:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9615.11.40.00",
+                        "Description": "Not set with imitation pearls or imitation gemstones",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9615.11.50.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9615.11.10.00",
+                        "Description": "Valued not over $4.50 per gross",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Valued over $4.50 per gross:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9615.11.20.00",
+                            "Description": "Of hard rubber",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9615.11.30.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "9615.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Combs:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9615.19.20.00",
+                        "Description": "Valued not over $4.50 per gross",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9615.19.40.00",
+                        "Description": "Valued over $4.50 per gross",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9615.19.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

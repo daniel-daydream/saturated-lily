@@ -1,0 +1,121 @@
+[
+  {
+    "HS Code": "03",
+    "Description": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+    "Subentries": [
+      {
+        "HS Code": "0305",
+        "Description": "Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process:",
+        "Subentries": [
+          {
+            "HS Code": "0305.20",
+            "Description": "Livers, roes and milt of fish, dried, smoked, salted or in brine:",
+            "Subentries": [
+              {
+                "HS Code": "0305.20.20.00",
+                "Description": "Sturgeon roe",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0305.20.40",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0305.20.40.20",
+                    "Description": "Salmon roe",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0305.20.40.40",
+                    "Description": "Herring roe",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0305.20.40.65",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Smoked fish, including fillets, other than edible fish offal:",
+            "Subentries": [
+              {
+                "HS Code": "0305.41.00.00",
+                "Description": "Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus),Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0305.42.00",
+                "Description": "Herrings (Clupea harengus, Clupea pallasii)",
+                "Subentries": [
+                  {
+                    "HS Code": "0305.42.00.20",
+                    "Description": "Whole or beheaded but not otherwise processed",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0305.42.00.50",
+                        "Description": "Boneless",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0305.42.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0305.43.00.00",
+                "Description": "Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0305.44.01.00",
+                "Description": "Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0305.49",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0305.49.20.00",
+                    "Description": "Mackerel",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0305.49.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0305.49.40.20",
+                        "Description": "Cod, cusk, haddock, hake (Urophycis spp.) and pollock",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0305.49.40.45",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

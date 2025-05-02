@@ -1,0 +1,416 @@
+[
+  {
+    "HS Code": "27",
+    "Description": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",
+    "Subentries": [
+      {
+        "HS Code": "2710",
+        "Description": "Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70 percent or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Petroleum oils and oils obtained from bituminous minerals (other than crude) and preparations not elsewhere specified or included, containing by weight 70 percent or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, other than those containing biodiesel and other than waste oils:",
+            "Subentries": [
+              {
+                "HS Code": "2710.12",
+                "Description": "Light oils and preparations:",
+                "Subentries": [
+                  {
+                    "HS Code": "2710.12.15",
+                    "Description": "Motor fuel",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Gasoline:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2710.12.15.10",
+                            "Description": "Leaded",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Unleaded:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2710.12.15.14",
+                                "Description": "Reformulated",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2710.12.15.19",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "2710.12.15.20",
+                        "Description": "Jet fuel, naphtha-type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2710.12.15.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "2710.12.18",
+                    "Description": "Motor fuel blending stock",
+                    "Subentries": [
+                      {
+                        "HS Code": "2710.12.18.05",
+                        "Description": "Reformulated blendstock for oxygenate blending (RBOB)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2710.12.18.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "2710.12.25.00",
+                    "Description": "Naphthas (except motor fuel or motor fuel blending stock)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2710.12.45",
+                        "Description": "Mixtures of hydrocarbons not elsewhere specified or included, which contain by weight not over 50 percent of any single hydrocarbon compound",
+                        "Subentries": [
+                          {
+                            "HS Code": "2710.12.45.45",
+                            "Description": "Insulating or transformer oils",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2710.12.45.60",
+                            "Description": "Renewable fuels blends containing not less than 51 percent by volume of biofuel, as described in statistical note 1 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2710.12.45.95",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "2710.12.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "2710.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Distillate and residual fuel oils (including blended fuel oils):",
+                    "Subentries": [
+                      {
+                        "HS Code": "2710.19.06",
+                        "Description": "Testing under 25 degrees A.P.I.",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Having a Saybolt Universal viscosity at 37.8\u02daC of 45 seconds or more but not more than 125 seconds (No. 4-type fuel oils):",
+                            "Subentries": [
+                              {
+                                "HS Code": "2710.19.06.05",
+                                "Description": "Containing not more than 500 ppm of sulfur",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2710.19.06.15",
+                                "Description": "Containing more than 500 ppm of sulfur",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Having a Saybolt Universal viscosity at 37.8\u02daC of more than 125 seconds (heavy fuel oils):",
+                            "Subentries": [
+                              {
+                                "HS Code": "2710.19.06.25",
+                                "Description": "Fuel oil No. 5",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2710.19.06.30",
+                                "Description": "Fuel oil No. 6",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2710.19.06.35",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "2710.19.06.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "2710.19.11",
+                        "Description": "Testing 25 degrees A.P.I. or more",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Having a Saybolt Universal viscosity at 37.8\u02daC of less than 45 seconds (light fuel oils):",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Fuel oils Nos. 2 and 3:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Diesel oil:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "2710.19.11.02",
+                                        "Description": "Containing not more than 15 ppm of sulfur",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "2710.19.11.03",
+                                        "Description": "Containing more than 15 ppm but not more than 500 ppm of sulfur",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "2710.19.11.04",
+                                        "Description": "Containing more than 500 ppm of sulfur",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "2710.19.11.05",
+                                        "Description": "Containing not more than 15 ppm of sulfur",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "2710.19.11.07",
+                                        "Description": "Containing more than 15 ppm but not more than 500 ppm of sulfur",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "2710.19.11.08",
+                                        "Description": "Containing more than 500 ppm of sulfur",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2710.19.11.11",
+                                    "Description": "Containing not more than 15 ppm of sulfur",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2710.19.11.13",
+                                    "Description": "Containing more than 15 ppm but not more than 500 ppm of sulfur",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2710.19.11.14",
+                                    "Description": "Containing more than 500 ppm of sulfur",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Having a Saybolt Universal viscosity at 37.8\u02daC of 45 seconds or more but not more than 125 seconds (No. 4-type fuel oils):",
+                            "Subentries": [
+                              {
+                                "HS Code": "2710.19.11.15",
+                                "Description": "Containing not more than 500 ppm of sulfur",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2710.19.11.25",
+                                "Description": "Containing more than 500 ppm of sulfur",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "2710.19.11.50",
+                            "Description": "Having a Saybolt Universal viscosity at 37.8\u02daC of more than 125 seconds (heavy fuel oils)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "2710.19.16.00",
+                    "Description": "Kerosene-type jet fuel",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Kerosene (except kerosene-type jet fuel):",
+                    "Subentries": [
+                      {
+                        "HS Code": "2710.19.24.00",
+                        "Description": "Motor fuel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2710.19.25.00",
+                        "Description": "Motor fuel blending stock",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2710.19.26.00",
+                        "Description": "Kerosene (except kerosene-type jet fuel",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Lubricating oils and greases, with or without additives:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2710.19.30",
+                        "Description": "Oils",
+                        "Subentries": [
+                          {
+                            "HS Code": "2710.19.30.10",
+                            "Description": "Aviation engine lubricating oils",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2710.19.30.20",
+                            "Description": "Automotive, diesel or marine engine lubricating oils",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2710.19.30.30",
+                            "Description": "Turbine lubricating oil, including marine",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2710.19.30.40",
+                            "Description": "Automotive gear oils",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2710.19.30.50",
+                            "Description": "Steam cylinder oils",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2710.19.30.70",
+                            "Description": "Quenching or cutting oils",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2710.19.30.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Greases:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2710.19.35.00",
+                            "Description": "Containing not over 10 percent by weight of salts of fatty acids of animal (including marine animal) or vegetable origin",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2710.19.40.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2710.19.45",
+                        "Description": "Mixtures of hydrocarbons not elsewhere specified or included, which contain by weight not over 50 percent of any single hydrocarbon compound",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "White mineral oil:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2710.19.45.30",
+                                "Description": "Medicinal grade",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2710.19.45.40",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "2710.19.45.45",
+                            "Description": "Insulating or transformer oils",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2710.19.45.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "2710.19.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

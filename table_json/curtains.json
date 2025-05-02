@@ -1,0 +1,63 @@
+[
+  {
+    "HS Code": "63",
+    "Description": "Other made up textile articles; sets; worn clothing and worn textile articles; rags",
+    "Subentries": [
+      {
+        "HS Code": "6303",
+        "Description": "Curtains (including drapes) and interior blinds; curtain or bed valances:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Knitted or crocheted:",
+            "Subentries": [
+              {
+                "HS Code": "6303.12.00",
+                "Description": "Of synthetic fibers",
+                "Subentries": [
+                  {
+                    "HS Code": "6303.12.00.10",
+                    "Description": "Window shades and window blinds (666)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6303.12.00.90",
+                    "Description": "Other (666)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "6303.19",
+                "Description": "Of other textile materials:",
+                "Subentries": [
+                  {
+                    "HS Code": "6303.19.11.00",
+                    "Description": "Of cotton (369)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6303.19.21",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6303.19.21.10",
+                        "Description": "Of artificial fibers (666)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6303.19.21.20",
+                        "Description": "Other (899)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

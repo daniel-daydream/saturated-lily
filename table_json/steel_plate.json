@@ -1,0 +1,181 @@
+[
+  {
+    "HS Code": "72",
+    "Description": "Iron and steel",
+    "Subentries": [
+      {
+        "HS Code": "7208",
+        "Description": "Flat-rolled products of iron or nonalloy steel, of a width of 600 mm or more, hot-rolled, not clad, plated or coated:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other, not in coils, not further worked than hot-rolled:",
+            "Subentries": [
+              {
+                "HS Code": "7208.51.00",
+                "Description": "Of a thickness exceeding 10 mm",
+                "Subentries": [
+                  {
+                    "HS Code": "7208.51.00.30",
+                    "Description": "Universal mill plate",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7208.51.00.45",
+                        "Description": "Of high-strength steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7208.51.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7208.52.00.00",
+                "Description": "Of a thickness of 4.75 mm or more but not exceeding 10 mm",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7208.53.00.00",
+                "Description": "Of a thickness of 3 mm or more but less than 4.75 mm",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7208.54.00.00",
+                "Description": "Of a thickness of less than 3 mm",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "7208.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "7211",
+        "Description": "Flat-rolled products of iron or nonalloy steel, of a width of less than 600 mm, not clad, plated or coated:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Not further worked than hot-rolled:",
+            "Subentries": [
+              {
+                "HS Code": "7211.13.00.00",
+                "Description": "Universal mill plate",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7211.14.00",
+                "Description": "Other, of a thickness of 4.75 mm or more",
+                "Subentries": [
+                  {
+                    "HS Code": "7211.14.00.30",
+                    "Description": "Of high-strength steel",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7211.14.00.45",
+                        "Description": "Not in coils",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7211.14.00.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7211.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7211.19.45.00",
+                        "Description": "Of high-strength steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7211.19.60.00",
+                            "Description": "Pickled",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7211.19.75",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "In coils:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "7211.19.75.30",
+                                    "Description": "With untrimmed edges",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7211.19.75.60",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "7211.19.75.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "7211.19.20.00",
+                            "Description": "Of a thickness exceeding 1.25 mm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7211.19.30.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7211.19.15.00",
+                        "Description": "Of high-strength steel",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

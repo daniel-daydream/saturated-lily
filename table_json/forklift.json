@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8427",
+        "Description": "Fork-lift trucks; other works trucks fitted with lifting or handling equipment:",
+        "Subentries": [
+          {
+            "HS Code": "8427.20",
+            "Description": "Other self-propelled trucks:",
+            "Subentries": [
+              {
+                "HS Code": "8427.20.40.00",
+                "Description": "Rider-type, counterbalanced fork-lift trucks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8427.20.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8427.20.80.20",
+                    "Description": "Aerial work platforms of a kind described in statistical note 3 to this chapter.",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8427.20.80.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

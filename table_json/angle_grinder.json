@@ -1,0 +1,157 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8467",
+        "Description": "Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or nonelectric motor, and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "With self-contained electric motor:",
+            "Subentries": [
+              {
+                "HS Code": "8467.21.00",
+                "Description": "Drills of all kinds",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Rotary:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8467.21.00.10",
+                        "Description": "Battery powered",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8467.21.00.30",
+                            "Description": "With a chuck capacity of less than 12.7 mm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8467.21.00.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8467.21.00.70",
+                    "Description": "Other, including hammer drills",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8467.22.00",
+                "Description": "Saws",
+                "Subentries": [
+                  {
+                    "HS Code": "8467.22.00.20",
+                    "Description": "Circular",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8467.22.00.40",
+                    "Description": "Chain",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8467.22.00.70",
+                    "Description": "Reciprocating and jig",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8467.22.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8467.29.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Grinders, polishers and sanders:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8467.29.00.10",
+                        "Description": "Angle grinders, sanders and polishers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8467.29.00.15",
+                        "Description": "Orbital and straight-line sanders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8467.29.00.25",
+                            "Description": "Belt sanders",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8467.29.00.35",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8467.29.00.40",
+                    "Description": "Screwdrivers, nut-runners and impact wrenches",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8467.29.00.55",
+                    "Description": "Routers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8467.29.00.65",
+                    "Description": "Planers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8467.29.00.70",
+                    "Description": "Grass and weed trimmers/edgers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8467.29.00.80",
+                    "Description": "Electropneumatic rotary and percussion hammers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8467.29.00.85",
+                    "Description": "Electric scissors",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8467.29.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

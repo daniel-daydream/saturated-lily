@@ -1,0 +1,241 @@
+[
+  {
+    "HS Code": "22",
+    "Description": "Beverages, spirits and vinegar",
+    "Subentries": [
+      {
+        "HS Code": "2204",
+        "Description": "Wine of fresh grapes, including fortified wines; grape must other than that of heading 2009:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other wine; grape must with fermentation prevented or arrested by the addition of alcohol:",
+            "Subentries": [
+              {
+                "HS Code": "2204.21",
+                "Description": "In containers holding 2 liters or less:",
+                "Subentries": [
+                  {
+                    "HS Code": "2204.21.20.00",
+                    "Description": "Effervescent wine",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Of an alcoholic strength by volume over 14 percent vol.:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2204.21.60.00",
+                            "Description": "If entitled under regulations of the United States Internal Revenue Service to a type designation which includes the name \"Marsala\" and if so designated on the approved label",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2204.21.80",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "2204.21.80.30",
+                                "Description": "Sherry",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2204.21.80.60",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "2204.21.30.00",
+                            "Description": "If entitled under regulations of the United States Internal Revenue Service to a type designation which includes the name \"Tokay\" and if so designated on the approved label",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2204.21.50",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Valued not over $1.05/liter:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2204.21.50.05",
+                                    "Description": "Red",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2204.21.50.15",
+                                    "Description": "White",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2204.21.50.25",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Valued over $1.05/liter:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2204.21.50.28",
+                                    "Description": "Icewine",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "",
+                                        "Description": "Red:",
+                                        "Subentries": [
+                                          {
+                                            "HS Code": "2204.21.50.35",
+                                            "Description": "Certified organic",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "2204.21.50.40",
+                                            "Description": "Not certified organic",
+                                            "Subentries": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "HS Code": "",
+                                        "Description": "White:",
+                                        "Subentries": [
+                                          {
+                                            "HS Code": "2204.21.50.50",
+                                            "Description": "Certified organic",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "2204.21.50.55",
+                                            "Description": "Not certified organic",
+                                            "Subentries": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "HS Code": "2204.21.50.60",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "2204.22",
+                "Description": "In containers holding more than 2 liters but not more than 10 liters:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "In containers holding over 4 liters but not over 10 liters:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2204.22.60.00",
+                        "Description": "Of an alcoholic strength by volume not over 14 percent vol.",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2204.22.80.00",
+                        "Description": "Of an alcoholic strength by volume over 14 percent vol",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2204.22.20",
+                        "Description": "Of an alcoholic strength by volume not over 14 percent vol",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Valued not over $1.05/liter:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2204.22.20.05",
+                                "Description": "Red",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2204.22.20.15",
+                                "Description": "White",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2204.22.20.25",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Valued over $1.05/liter:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2204.22.20.30",
+                                "Description": "Red",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2204.22.20.45",
+                                "Description": "White",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2204.22.20.60",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "2204.22.40.00",
+                        "Description": "Of an alcoholic strength by volume over 14 percent vol",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "2204.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "2204.29.61.00",
+                    "Description": "Of an alcoholic strength by volume not over 14 percent vol.",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2204.29.81.00",
+                    "Description": "Of an alcoholic strength by volume over 14 percent vol",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

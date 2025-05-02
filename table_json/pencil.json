@@ -1,0 +1,35 @@
+[
+  {
+    "HS Code": "96",
+    "Description": "Miscellaneous manufactured articles",
+    "Subentries": [
+      {
+        "HS Code": "9609",
+        "Description": "Pencils (other than those pencils of heading 9608), crayons, pencil leads, pastels, drawing charcoals, writing or drawing chalks and tailors' chalks:",
+        "Subentries": [
+          {
+            "HS Code": "9609.10.00.00",
+            "Description": "Pencils and crayons, with leads encased in a sheath",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9609.20",
+            "Description": "Pencil leads, black or colored:",
+            "Subentries": [
+              {
+                "HS Code": "9609.20.20.00",
+                "Description": "Not over 1.5 mm in maximum cross-sectional dimension",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9609.20.40.00",
+                "Description": "Over 1.5 mm in maximum cross-sectional dimension",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

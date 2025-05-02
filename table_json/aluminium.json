@@ -1,0 +1,1136 @@
+[
+  {
+    "HS Code": "76",
+    "Description": "Aluminum and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "7601",
+        "Description": "Unwrought aluminum:",
+        "Subentries": [
+          {
+            "HS Code": "7601.10",
+            "Description": "Aluminum, not alloyed:",
+            "Subentries": [
+              {
+                "HS Code": "7601.10.30.00",
+                "Description": "Of uniform cross section throughout its length, the least cross-sectional dimension of which is not greater than 9.5 mm, in coils",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7601.10.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "7601.10.60.30",
+                    "Description": "Of greater than 99.8 percent aluminum",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7601.10.60.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "7601.20",
+            "Description": "Aluminum alloys:",
+            "Subentries": [
+              {
+                "HS Code": "7601.20.30.00",
+                "Description": "Of uniform cross section throughout its length, the least cross-sectional dimension of which is not greater than 9.5 mm, in coils",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7601.20.60.00",
+                    "Description": "Containing 25 percent or more by weight of silicon",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7601.20.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7601.20.90.30",
+                        "Description": "Aluminum vanadium master alloy",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7601.20.90.45",
+                            "Description": "Of uniform circular cross section throughout its length, the foregoing comprised of billets, not in coils",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7601.20.90.60",
+                            "Description": "Other, containing 0.03 percent or more by weight of lead (secondary aluminum)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7601.20.90.75",
+                                "Description": "Remelt scrap ingot",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7601.20.90.80",
+                                "Description": "Sheet ingot (slab) of a kind described in statistical note 3 to this chapter",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7601.20.90.85",
+                                "Description": "Foundry ingot of a kind described in statistical note 4 to this chapter",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7601.20.90.95",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "7602.00.00",
+        "Description": "Aluminum waste and scrap",
+        "Subentries": [
+          {
+            "HS Code": "7602.00.00.35",
+            "Description": "Recyclable beverage containers",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7602.00.00.95",
+            "Description": "Recyclable aluminum from industrial processes, including turnings, borings, shavings, filings, clippings and chips",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7602.00.00.97",
+            "Description": "Other recyclable aluminum",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7602.00.00.98",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "7603",
+        "Description": "Aluminum powders and flakes:",
+        "Subentries": [
+          {
+            "HS Code": "7603.10.00.00",
+            "Description": "Powders of non-lamellar structure",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7603.20.00.00",
+            "Description": "Powders of lamellar structure; flakes",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "7604",
+        "Description": "Aluminum bars, rods and profiles:",
+        "Subentries": [
+          {
+            "HS Code": "7604.10",
+            "Description": "Of aluminum, not alloyed:",
+            "Subentries": [
+              {
+                "HS Code": "7604.10.10.00",
+                "Description": "Profiles",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Bars and rods:",
+                "Subentries": [
+                  {
+                    "HS Code": "7604.10.30.00",
+                    "Description": "Having a round cross section",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7604.10.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Of aluminum alloys:",
+            "Subentries": [
+              {
+                "HS Code": "7604.21.00",
+                "Description": "Hollow profiles",
+                "Subentries": [
+                  {
+                    "HS Code": "7604.21.00.10",
+                    "Description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7604.21.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7604.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7604.29.10",
+                    "Description": "Other profiles",
+                    "Subentries": [
+                      {
+                        "HS Code": "7604.29.10.10",
+                        "Description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7604.29.10.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Bars and rods:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7604.29.30",
+                        "Description": "Having a round cross section",
+                        "Subentries": [
+                          {
+                            "HS Code": "7604.29.30.30",
+                            "Description": "High-strength heat-treatable alloys of a kind described in statistical note 6 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7604.29.30.60",
+                            "Description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7604.29.30.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7604.29.50",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "7604.29.50.20",
+                            "Description": "High-strength heat-treatable alloys of a kind described in statistical note 6 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7604.29.50.50",
+                            "Description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7604.29.50.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "7605",
+        "Description": "Aluminum wire:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of aluminum, not alloyed:",
+            "Subentries": [
+              {
+                "HS Code": "7605.11.00.00",
+                "Description": "Of which the maximum cross-sectional dimension exceeds 7 mm",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7605.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Of aluminum alloys:",
+            "Subentries": [
+              {
+                "HS Code": "7605.21.00.00",
+                "Description": "Of which the maximum cross-sectional dimension exceeds 7 mm",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7605.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "7606",
+        "Description": "Aluminum plates, sheets and strip, of a thickness exceeding 0.2 mm:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Rectangular (including square):",
+            "Subentries": [
+              {
+                "HS Code": "7606.11",
+                "Description": "Of aluminum, not alloyed:",
+                "Subentries": [
+                  {
+                    "HS Code": "7606.11.30",
+                    "Description": "Not clad",
+                    "Subentries": [
+                      {
+                        "HS Code": "7606.11.30.30",
+                        "Description": "With a thickness of more than 6.3 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7606.11.30.60",
+                        "Description": "With a thickness of 6.3 mm or less",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7606.11.60.00",
+                    "Description": "Clad",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7606.12",
+                "Description": "Of aluminum alloys:",
+                "Subentries": [
+                  {
+                    "HS Code": "7606.12.30",
+                    "Description": "Not clad",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "With a thickness of more than 6.3 mm:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7606.12.30.15",
+                            "Description": "High-strength heat-treatable alloys of a kind described in statistical note 6 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7606.12.30.25",
+                            "Description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7606.12.30.35",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "With a thickness of 6.3 mm or less:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Aluminum can stock:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7606.12.30.45",
+                                "Description": "Body stock",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7606.12.30.55",
+                                "Description": "Lid stock",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7606.12.30.91",
+                                "Description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7606.12.30.96",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7606.12.60.00",
+                    "Description": "Clad",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "7606.91",
+                "Description": "Of aluminum, not alloyed:",
+                "Subentries": [
+                  {
+                    "HS Code": "7606.91.30",
+                    "Description": "Not clad",
+                    "Subentries": [
+                      {
+                        "HS Code": "7606.91.30.55",
+                        "Description": "With a thickness of more than 6.3 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7606.91.30.95",
+                        "Description": "With a thickness of 6.3 mm or less",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7606.91.60",
+                    "Description": "Clad",
+                    "Subentries": [
+                      {
+                        "HS Code": "7606.91.60.55",
+                        "Description": "With a thickness of more than 6.3 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7606.91.60.95",
+                        "Description": "With a thickness of 6.3 mm or less",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7606.92",
+                "Description": "Of aluminum alloys:",
+                "Subentries": [
+                  {
+                    "HS Code": "7606.92.30",
+                    "Description": "Not clad",
+                    "Subentries": [
+                      {
+                        "HS Code": "7606.92.30.25",
+                        "Description": "With a thickness of more than 6.3 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7606.92.30.35",
+                        "Description": "With a thickness of 6.3 mm or less",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7606.92.60",
+                    "Description": "Clad",
+                    "Subentries": [
+                      {
+                        "HS Code": "7606.92.60.55",
+                        "Description": "With a thickness of more than 6.3 mm",
+                        "Subentries": [
+                          {
+                            "HS Code": "7606.92.60.95",
+                            "Description": "With a thickness of 6.3 mm or less",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "7607",
+        "Description": "Aluminum foil (whether or not printed, or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.2 mm:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Not backed:",
+            "Subentries": [
+              {
+                "HS Code": "7607.11",
+                "Description": "Rolled but not further worked:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of a thickness not exceeding 0.15 mm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7607.11.30.00",
+                        "Description": "Of a thickness not exceeding 0.01 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7607.11.60",
+                        "Description": "Of a thickness exceeding 0.01 mm",
+                        "Subentries": [
+                          {
+                            "HS Code": "7607.11.60.10",
+                            "Description": "Boxed aluminum foil weighing not more than 11.3 kg",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7607.11.60.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7607.11.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Aluminum can stock:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7607.11.90.30",
+                            "Description": "Body stock",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7607.11.90.60",
+                            "Description": "Lid stock",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7607.11.90.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7607.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7607.19.10.00",
+                    "Description": "Etched capacitor foil",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7607.19.30.00",
+                        "Description": "Cut to shape, of a thickness not exceeding 0.15 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7607.19.60.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "7607.20",
+            "Description": "Backed:",
+            "Subentries": [
+              {
+                "HS Code": "7607.20.10.00",
+                "Description": "Covered or decorated with a character, design, fancy effect or pattern",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7607.20.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "7608",
+        "Description": "Aluminum tubes and pipes:",
+        "Subentries": [
+          {
+            "HS Code": "7608.10.00",
+            "Description": "Of aluminum, not alloyed",
+            "Subentries": [
+              {
+                "HS Code": "7608.10.00.30",
+                "Description": "Seamless",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7608.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "7608.20.00",
+            "Description": "Of aluminum alloys",
+            "Subentries": [
+              {
+                "HS Code": "7608.20.00.30",
+                "Description": "Seamless",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7608.20.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "7609.00.00.00",
+        "Description": "Aluminum tube or pipe fittings (for example, couplings, elbows, sleeves)",
+        "Subentries": []
+      },
+      {
+        "HS Code": "7610",
+        "Description": "Aluminum structures (excluding prefabricated buildings of heading 9406) and parts of structures (for example, bridges and bridge-sections, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, balustrades, pillars and columns); aluminum plates, rods, profiles, tubes and the like, prepared for use in structures:",
+        "Subentries": [
+          {
+            "HS Code": "7610.10.00",
+            "Description": "Doors, windows and their frames and thresholds for doors",
+            "Subentries": [
+              {
+                "HS Code": "7610.10.00.10",
+                "Description": "Windows and their frames",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7610.10.00.20",
+                "Description": "Thresholds for doors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7610.10.00.30",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "7610.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "7610.90.00.20",
+                "Description": "Sheet-metal roofing, siding, flooring, and roof guttering and drainage equipment",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7610.90.00.40",
+                "Description": "Architectural and ornamental work",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7610.90.00.60",
+                    "Description": "Mobile homes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7610.90.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "7611.00.00",
+        "Description": "Aluminum reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 liters, whether or not lined or heat insulated, but not fitted with mechanical or thermal equipment",
+        "Subentries": [
+          {
+            "HS Code": "7611.00.00.30",
+            "Description": "Tanks",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7611.00.00.90",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "7612",
+        "Description": "Aluminum casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 liters, whether or not lined or heat insulated, but not fitted with mechanical or thermal equipment:",
+        "Subentries": [
+          {
+            "HS Code": "7612.10.00.00",
+            "Description": "Collapsible tubular containers",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7612.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "7612.90.10",
+                "Description": "Of a capacity not exceeding 20 liters",
+                "Subentries": [
+                  {
+                    "HS Code": "7612.90.10.30",
+                    "Description": "Cans of a capacity not exceeding 355 ml",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7612.90.10.60",
+                    "Description": "Cans of a capacity exceeding 355 ml but less than 3.8 liters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7612.90.10.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7612.90.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "7613.00.00.00",
+        "Description": "Aluminum containers for compressed or liquefied gas",
+        "Subentries": []
+      },
+      {
+        "HS Code": "7614",
+        "Description": "Stranded wire, cables, plaited bands and the like, including slings and similar articles, of aluminum, not electrically insulated:",
+        "Subentries": [
+          {
+            "HS Code": "7614.10",
+            "Description": "With steel core:",
+            "Subentries": [
+              {
+                "HS Code": "7614.10.10.00",
+                "Description": "Not fitted with fittings and not made up into articles",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7614.10.50.00",
+                "Description": "Fitted with fittings or made up into articles",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "7614.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Not fitted with fittings and not made up into articles:",
+                "Subentries": [
+                  {
+                    "HS Code": "7614.90.20",
+                    "Description": "Electrical conductors",
+                    "Subentries": [
+                      {
+                        "HS Code": "7614.90.20.30",
+                        "Description": "With a cross-sectional area less than 240 mm\u00b2",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7614.90.20.60",
+                        "Description": "With a cross-sectional area greater than or equal to 240 mm\u00b2",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7614.90.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7614.90.50.00",
+                "Description": "Fitted with fittings or made up into articles",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "7615",
+        "Description": "Table, kitchen or other household articles and parts thereof, of aluminum; pot scourers and scouring or polishing pads, gloves and the like, of aluminum; sanitary ware and parts thereof, of aluminum:",
+        "Subentries": [
+          {
+            "HS Code": "7615.10",
+            "Description": "Table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like:",
+            "Subentries": [
+              {
+                "HS Code": "7615.10.11.00",
+                "Description": "Pot scourers and scouring or polishing pads, gloves and the like",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Cooking and kitchen ware:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Enameled or glazed or containing nonstick interior finishes:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7615.10.20",
+                            "Description": "Cast",
+                            "Subentries": [
+                              {
+                                "HS Code": "7615.10.20.15",
+                                "Description": "Bakeware (cookware not suitable for stove top use)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7615.10.20.25",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "7615.10.30",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "7615.10.30.15",
+                                "Description": "Bakeware (cookware not suitable for stove top use)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7615.10.30.25",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Not enameled or glazed and not containing nonstick interior finishes:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7615.10.50",
+                            "Description": "Cast",
+                            "Subentries": [
+                              {
+                                "HS Code": "7615.10.50.20",
+                                "Description": "Bakeware (cookware not suitable for stove top use)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7615.10.50.40",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "7615.10.71",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "7615.10.71.25",
+                                "Description": "Containers suitable for food preparation, baking, reheating or storage, 0.04 mm or more but not over 0.22 mm in thickness",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other cookware:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "7615.10.71.30",
+                                    "Description": "Bakeware (cookware not suitable for stove top use)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7615.10.71.55",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "7615.10.71.80",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7615.10.91.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "7615.20.00.00",
+            "Description": "Sanitary ware and parts thereof",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "7616",
+        "Description": "Other articles of aluminum:",
+        "Subentries": [
+          {
+            "HS Code": "7616.10",
+            "Description": "Nails, tacks, staples (other than those of heading 8305), screws, bolts, nuts, screw hooks, rivets, cotters, cotter pins, washers and similar articles:",
+            "Subentries": [
+              {
+                "HS Code": "7616.10.10.00",
+                "Description": "Nails, tacks and staples",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7616.10.30.00",
+                "Description": "Rivets",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7616.10.50.00",
+                "Description": "Cotters and cotter pins",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7616.10.70",
+                    "Description": "Having shanks, threads or holes over 6 mm in diameter",
+                    "Subentries": [
+                      {
+                        "HS Code": "7616.10.70.30",
+                        "Description": "Threaded fasteners",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7616.10.70.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7616.10.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7616.10.90.30",
+                        "Description": "Threaded fasteners",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7616.10.90.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "7616.91.00.00",
+                "Description": "Cloth, grill, netting and fencing, of aluminum wire",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7616.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7616.99.10.00",
+                    "Description": "Luggage frames",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7616.99.51",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7616.99.51.20",
+                        "Description": "Laminated goods consisting of 2 or more flat-rolled sheets of aluminum held together with an adhesive or having a core of non-metallic material",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7616.99.51.30",
+                        "Description": "Ladders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7616.99.51.40",
+                        "Description": "Venetian blinds and parts thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7616.99.51.50",
+                        "Description": "Hangers and supports for pipes and tubes",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7616.99.51.60",
+                            "Description": "Castings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7616.99.51.70",
+                            "Description": "Forgings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7616.99.51.75",
+                                "Description": "Articles of wire",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7616.99.51.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

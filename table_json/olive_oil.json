@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "15",
+    "Description": "Animal or vegetable fats and oils and their cleavage products prepared edible fats; animal or vegetable waxes",
+    "Subentries": [
+      {
+        "HS Code": "1509",
+        "Description": "Olive oil and its fractions, whether or not refined, but not chemically modified:",
+        "Subentries": [
+          {
+            "HS Code": "1509.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1509.90.20.00",
+                "Description": "Weighing with the immediate container under 18 kg",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1509.90.40.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

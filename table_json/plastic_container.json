@@ -1,0 +1,83 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3923",
+        "Description": "Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other closures, of plastics:",
+        "Subentries": [
+          {
+            "HS Code": "3923.10",
+            "Description": "Boxes, cases, crates and similar articles:",
+            "Subentries": [
+              {
+                "HS Code": "3923.10.20.00",
+                "Description": "Specially shaped or fitted for the conveyance or packing of semiconductor wafers, masks or reticles of subheadings 3923.10 or 8486.90",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3923.10.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Sacks and bags (including cones):",
+            "Subentries": [
+              {
+                "HS Code": "3923.21.00",
+                "Description": "Of polymers of ethylene",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3923.21.00.80",
+                        "Description": "With no single side exceeding 75 mm in length",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3923.21.00.85",
+                        "Description": "Polyethylene retail carrier bags (PRCBs) with handles (including drawstrings), with no length or width shorter than 6 inches (152.4 mm) or longer than 40 inches (1,016 mm)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3923.21.00.95",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3923.21.00.11",
+                        "Description": "With no single side exceeding 75 mm in length",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3923.21.00.20",
+                        "Description": "Other, with sliders that open or close the seal",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3923.21.00.30",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "3923.29.00.00",
+                "Description": "Of other plastics",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8452",
+        "Description": "Sewing machines, other than book-sewing machines of heading 8440; furniture, bases and covers specially designed for sewing machines; sewing machine needles; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8452.10.00",
+            "Description": "Sewing machines of the household type",
+            "Subentries": [
+              {
+                "HS Code": "8452.10.00.10",
+                "Description": "Valued not over $20 each",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8452.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

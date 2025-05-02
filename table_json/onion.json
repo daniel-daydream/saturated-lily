@@ -1,0 +1,105 @@
+[
+  {
+    "HS Code": "07",
+    "Description": "Edible vegetables and certain roots and tubers",
+    "Subentries": [
+      {
+        "HS Code": "0703",
+        "Description": "Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled:",
+        "Subentries": [
+          {
+            "HS Code": "0703.10",
+            "Description": "Onions and shallots:",
+            "Subentries": [
+              {
+                "HS Code": "0703.10.20.00",
+                "Description": "Onion sets",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0703.10.30.00",
+                    "Description": "Pearl onions not over 16 mm in diameter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0703.10.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Certified organic:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0703.10.40.25",
+                            "Description": "Onions",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0703.10.40.45",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Onions:",
+                            "Subentries": [
+                              {
+                                "HS Code": "0703.10.40.55",
+                                "Description": "Red varieties",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "0703.10.40.60",
+                                "Description": "White varieties",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "0703.10.40.64",
+                                "Description": "Yellow varieties, not marked sweet",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "0703.10.40.66",
+                                "Description": "Yellow varieties, marked sweet",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "0703.10.40.68",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "0703.10.40.70",
+                            "Description": "Shallots",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0703.10.40.75",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

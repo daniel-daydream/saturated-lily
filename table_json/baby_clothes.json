@@ -1,0 +1,159 @@
+[
+  {
+    "HS Code": "61",
+    "Description": "Articles of apparel and clothing accessories, knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6111",
+        "Description": "Babies' garments and clothing accessories, knitted or crocheted:",
+        "Subentries": [
+          {
+            "HS Code": "6111.20",
+            "Description": "Of cotton:",
+            "Subentries": [
+              {
+                "HS Code": "6111.20.10.00",
+                "Description": "Blouses and shirts, except those imported as parts of sets (239)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6111.20.20.00",
+                "Description": "T-shirts, singlets and similar garments, except those imported as parts of sets (239)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6111.20.30.00",
+                "Description": "Sweaters, pullovers, sweatshirts, waistcoats (vests) and similar articles, except those imported as parts of sets (239)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6111.20.40.00",
+                "Description": "Dresses (239)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "6111.20.50.00",
+                    "Description": "Trousers, breeches and shorts, except those imported as parts of sets (239)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6111.20.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6111.20.60.10",
+                        "Description": "Sunsuits, washsuits and similar apparel (239)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6111.20.60.20",
+                        "Description": "Sets (239)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6111.20.60.30",
+                            "Description": "Imported as parts of sets (239)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6111.20.60.50",
+                            "Description": "Babies\u02bc socks and booties (239)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6111.20.60.70",
+                            "Description": "Other (239)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "62",
+    "Description": "Articles of apparel and clothing accessories, not knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6209",
+        "Description": "Babies' garments and clothing accessories:",
+        "Subentries": [
+          {
+            "HS Code": "6209.20",
+            "Description": "Of cotton:",
+            "Subentries": [
+              {
+                "HS Code": "6209.20.10.00",
+                "Description": "Dresses (239)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6209.20.20.00",
+                "Description": "Blouses and shirts, except those imported as parts of sets (239)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "6209.20.30.00",
+                    "Description": "Trousers, breeches and shorts, except those imported as parts of sets (239)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6209.20.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6209.20.50.30",
+                        "Description": "Sunsuits, washsuits and similar apparel (239)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6209.20.50.35",
+                        "Description": "Sets (239)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6209.20.50.45",
+                            "Description": "Imported as parts of sets (239)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6209.20.50.50",
+                            "Description": "Other (239)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
