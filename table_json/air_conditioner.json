@@ -56,49 +56,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "8415.90",
-            "Description": "Parts:",
-            "Subentries": [
-              {
-                "HS Code": "8415.90.40.00",
-                "Description": "Chassis, chassis bases and outer cabinets",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8415.90.80",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8415.90.80.25",
-                    "Description": "Air conditioning evaporator coils",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8415.90.80.45",
-                        "Description": "Of automotive air conditioners",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8415.90.80.65",
-                        "Description": "Of heat pumps",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8415.90.80.85",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Other, except parts:",
             "Subentries": [
@@ -106,11 +63,6 @@
                 "HS Code": "8415.81.01",
                 "Description": "Incorporating a refrigerating unit and a valve for reversal of the cooling/heat cycle (reversible heat pumps)",
                 "Subentries": [
-                  {
-                    "HS Code": "8415.81.01.30",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Self-contained:",
@@ -126,6 +78,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8415.81.01.30",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -133,11 +90,6 @@
                 "HS Code": "8415.82.01",
                 "Description": "Other, incorporating a refrigerating unit",
                 "Subentries": [
-                  {
-                    "HS Code": "8415.82.01.70",
-                    "Description": "Other air conditioning machines incorporating a refrigerating unit",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Dehumidifiers:",
@@ -188,6 +140,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8415.82.01.70",
+                    "Description": "Other air conditioning machines incorporating a refrigerating unit",
+                    "Subentries": []
                   }
                 ]
               },
@@ -196,19 +153,9 @@
                 "Description": "Not incorporating a refrigerating unit",
                 "Subentries": [
                   {
-                    "HS Code": "8415.83.00.90",
-                    "Description": "Other air conditioning machines not incorporating a refrigerating unit",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Heat exchangers including condensing units:",
                     "Subentries": [
-                      {
-                        "HS Code": "8415.83.00.70",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Condensing units:",
@@ -224,6 +171,59 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8415.83.00.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8415.83.00.90",
+                    "Description": "Other air conditioning machines not incorporating a refrigerating unit",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8415.90",
+            "Description": "Parts:",
+            "Subentries": [
+              {
+                "HS Code": "8415.90.40.00",
+                "Description": "Chassis, chassis bases and outer cabinets",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8415.90.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8415.90.80.25",
+                    "Description": "Air conditioning evaporator coils",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8415.90.80.45",
+                        "Description": "Of automotive air conditioners",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8415.90.80.65",
+                        "Description": "Of heat pumps",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8415.90.80.85",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

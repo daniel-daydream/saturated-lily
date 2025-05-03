@@ -12,16 +12,6 @@
             "Description": "Garlic",
             "Subentries": [
               {
-                "HS Code": "0703.20.00.20",
-                "Description": "Fresh whole peeled cloves",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0703.20.00.90",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Fresh whole bulbs:",
                 "Subentries": [
@@ -36,6 +26,16 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0703.20.00.20",
+                "Description": "Fresh whole peeled cloves",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0703.20.00.90",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

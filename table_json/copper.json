@@ -95,16 +95,6 @@
                 "Description": "Of copper alloys:",
                 "Subentries": [
                   {
-                    "HS Code": "7404.00.30.65",
-                    "Description": "Of copper-tin base alloys (bronze)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7404.00.30.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of copper-zinc base alloys (brass):",
                     "Subentries": [
@@ -119,6 +109,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7404.00.30.65",
+                    "Description": "Of copper-tin base alloys (bronze)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7404.00.30.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -138,16 +138,6 @@
                 "Description": "Of copper alloys:",
                 "Subentries": [
                   {
-                    "HS Code": "7404.00.60.65",
-                    "Description": "Of copper-tin base alloys (bronze)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7404.00.60.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of copper-zinc base alloys (brass):",
                     "Subentries": [
@@ -162,6 +152,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7404.00.60.65",
+                    "Description": "Of copper-tin base alloys (bronze)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7404.00.60.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -221,22 +221,6 @@
             "Description": "Of refined copper:",
             "Subentries": [
               {
-                "HS Code": "7407.10.50",
-                "Description": "Bars and rods",
-                "Subentries": [
-                  {
-                    "HS Code": "7407.10.50.10",
-                    "Description": "Having a rectangular cross section",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7407.10.50.50",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
                 "HS Code": "",
                 "Description": "Profiles:",
                 "Subentries": [
@@ -247,6 +231,22 @@
                   },
                   {
                     "HS Code": "7407.10.30.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7407.10.50",
+                "Description": "Bars and rods",
+                "Subentries": [
+                  {
+                    "HS Code": "7407.10.50.10",
+                    "Description": "Having a rectangular cross section",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7407.10.50.50",
                     "Description": "Other",
                     "Subentries": []
                   }
@@ -312,16 +312,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "7407.29.40.00",
-                    "Description": "Bars and rods of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7407.29.50.00",
-                    "Description": "Other bars and rods",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Profiles:",
                     "Subentries": [
@@ -358,6 +348,16 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7407.29.40.00",
+                    "Description": "Bars and rods of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7407.29.50.00",
+                    "Description": "Other bars and rods",
+                    "Subentries": []
                   }
                 ]
               }
@@ -456,71 +456,6 @@
         "HS Code": "7409",
         "Description": "Copper plates, sheets and strip, of a thickness exceeding 0.15 mm:",
         "Subentries": [
-          {
-            "HS Code": "7409.40.00.00",
-            "Description": "Of copper-nickel base alloys (cupro-nickel) or copper- nickel-zinc base alloys (nickel silver)",
-            "Subentries": []
-          },
-          {
-            "HS Code": "7409.90",
-            "Description": "Of other copper alloys:",
-            "Subentries": [
-              {
-                "HS Code": "7409.90.10",
-                "Description": "Of a thickness of 5 mm or more",
-                "Subentries": [
-                  {
-                    "HS Code": "7409.90.10.30",
-                    "Description": "Of beryllium copper",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7409.90.10.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Of a thickness of less than 5 mm:",
-                "Subentries": [
-                  {
-                    "HS Code": "7409.90.50",
-                    "Description": "Of a width of 500 mm or more",
-                    "Subentries": [
-                      {
-                        "HS Code": "7409.90.50.30",
-                        "Description": "Of beryllium copper",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7409.90.50.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "7409.90.90",
-                    "Description": "Of a width of less than 500 mm",
-                    "Subentries": [
-                      {
-                        "HS Code": "7409.90.90.30",
-                        "Description": "Of beryllium copper",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7409.90.90.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
           {
             "HS Code": "",
             "Description": "Of refined copper:",
@@ -744,6 +679,71 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "7409.40.00.00",
+            "Description": "Of copper-nickel base alloys (cupro-nickel) or copper- nickel-zinc base alloys (nickel silver)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7409.90",
+            "Description": "Of other copper alloys:",
+            "Subentries": [
+              {
+                "HS Code": "7409.90.10",
+                "Description": "Of a thickness of 5 mm or more",
+                "Subentries": [
+                  {
+                    "HS Code": "7409.90.10.30",
+                    "Description": "Of beryllium copper",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7409.90.10.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Of a thickness of less than 5 mm:",
+                "Subentries": [
+                  {
+                    "HS Code": "7409.90.50",
+                    "Description": "Of a width of 500 mm or more",
+                    "Subentries": [
+                      {
+                        "HS Code": "7409.90.50.30",
+                        "Description": "Of beryllium copper",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7409.90.50.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7409.90.90",
+                    "Description": "Of a width of less than 500 mm",
+                    "Subentries": [
+                      {
+                        "HS Code": "7409.90.90.30",
+                        "Description": "Of beryllium copper",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7409.90.90.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
@@ -791,11 +791,6 @@
                     "Description": "Copper clad laminates",
                     "Subentries": [
                       {
-                        "HS Code": "7410.21.30.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Having a base wholly of plastics impregnated glass:",
                         "Subentries": [
@@ -810,6 +805,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7410.21.30.60",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -932,11 +932,6 @@
                     "Description": "Of copper-zinc base alloys (brass):",
                     "Subentries": [
                       {
-                        "HS Code": "7412.20.00.45",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Threaded:",
                         "Subentries": [
@@ -951,6 +946,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7412.20.00.45",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -958,11 +958,6 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
-                      {
-                        "HS Code": "7412.20.00.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Threaded:",
@@ -978,6 +973,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7412.20.00.90",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -991,11 +991,6 @@
         "HS Code": "7413.00",
         "Description": "Stranded wire, cables, plaited bands and the like, including slings and similar articles, of copper, not electrically insulated:",
         "Subentries": [
-          {
-            "HS Code": "7413.00.90.00",
-            "Description": "Fitted with fittings or made up into articles",
-            "Subentries": []
-          },
           {
             "HS Code": "",
             "Description": "Not fitted with fittings and not made up into articles:",
@@ -1011,6 +1006,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "7413.00.90.00",
+            "Description": "Fitted with fittings or made up into articles",
+            "Subentries": []
           }
         ]
       },
@@ -1212,29 +1212,9 @@
             "Description": "Other:",
             "Subentries": [
               {
-                "HS Code": "7419.80.15.00",
-                "Description": "Containers of a kind normally carried on the person, in the pocket or in the handbag",
-                "Subentries": []
-              },
-              {
-                "HS Code": "7419.80.16.00",
-                "Description": "Copper springs",
-                "Subentries": []
-              },
-              {
-                "HS Code": "7419.80.17.00",
-                "Description": "Chain and parts thereof",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Cloth (including endless bands), grill and netting, of copper wire; expanded metal of copper:",
                 "Subentries": [
-                  {
-                    "HS Code": "7419.80.09.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Cloth:",
@@ -1261,8 +1241,28 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7419.80.09.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "7419.80.15.00",
+                "Description": "Containers of a kind normally carried on the person, in the pocket or in the handbag",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7419.80.16.00",
+                "Description": "Copper springs",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7419.80.17.00",
+                "Description": "Chain and parts thereof",
+                "Subentries": []
               },
               {
                 "HS Code": "",

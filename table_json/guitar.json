@@ -12,11 +12,6 @@
             "Description": "Other:",
             "Subentries": [
               {
-                "HS Code": "9202.90.60.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Guitars:",
                 "Subentries": [
@@ -31,6 +26,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "9202.90.60.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

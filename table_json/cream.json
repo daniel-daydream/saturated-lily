@@ -257,21 +257,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "0402.99.68.00",
-                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0402.99.70.00",
-                        "Description": "Described in additional U.S. note 10 to this chapter and entered pursuant to its provisions",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0402.99.90.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions:",
                         "Subentries": [
@@ -306,6 +291,21 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0402.99.68.00",
+                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0402.99.70.00",
+                        "Description": "Described in additional U.S. note 10 to this chapter and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0402.99.90.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

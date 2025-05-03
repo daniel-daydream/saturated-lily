@@ -17,48 +17,6 @@
             "Description": "Other seats:",
             "Subentries": [
               {
-                "HS Code": "9401.80.60",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "9401.80.60.24",
-                    "Description": "Stationary activity centers for children",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9401.80.60.25",
-                    "Description": "Other seats for children",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9401.80.60.28",
-                    "Description": "Other household",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9401.80.60.30",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Child safety seats:",
-                    "Subentries": [
-                      {
-                        "HS Code": "9401.80.60.21",
-                        "Description": "With detachable hard-shell seat",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.80.60.23",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
                 "HS Code": "",
                 "Description": "Of rubber or plastics:",
                 "Subentries": [
@@ -107,11 +65,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "9401.80.40.46",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Outdoor:",
                             "Subentries": [
@@ -148,10 +101,57 @@
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "9401.80.40.46",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "9401.80.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Child safety seats:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9401.80.60.21",
+                        "Description": "With detachable hard-shell seat",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.60.23",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9401.80.60.24",
+                    "Description": "Stationary activity centers for children",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9401.80.60.25",
+                    "Description": "Other seats for children",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9401.80.60.28",
+                    "Description": "Other household",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9401.80.60.30",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

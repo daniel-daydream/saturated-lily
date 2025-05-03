@@ -37,6 +37,22 @@
                 "Subentries": []
               },
               {
+                "HS Code": "",
+                "Description": "Beads, bugles and spangles, not strung (except temporarily) and not set; articles thereof, not elsewhere specified or included:",
+                "Subentries": [
+                  {
+                    "HS Code": "3926.90.33.00",
+                    "Description": "Handbags",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3926.90.35.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
                 "HS Code": "3926.90.40.00",
                 "Description": "Imitation gemstones",
                 "Subentries": []
@@ -66,6 +82,97 @@
                 "HS Code": "3926.90.50.00",
                 "Description": "Frames or mounts for photographic slides",
                 "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Belting and belts, for machinery:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Containing textile fibers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3926.90.55.00",
+                        "Description": "V-belts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3926.90.56.00",
+                            "Description": "With textile components in which vegetable fibers predominate by weight over any other textile fiber",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3926.90.57.00",
+                            "Description": "With textile components in which man-made fibers predominate by weight over any other textile fiber",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3926.90.59.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "3926.90.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "3926.90.60.10",
+                        "Description": "Synchronous belts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3926.90.60.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Clothespins:",
+                "Subentries": [
+                  {
+                    "HS Code": "3926.90.65",
+                    "Description": "Spring type",
+                    "Subentries": [
+                      {
+                        "HS Code": "3926.90.65.10",
+                        "Description": "Valued not over 80 cents per gross",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3926.90.65.20",
+                        "Description": "Valued over 80 cents but not over $1.35 per gross",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3926.90.65.30",
+                        "Description": "Valued over $1.35 but not over $1.70 per gross",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3926.90.65.50",
+                        "Description": "Valued over $1.70 per gross",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "3926.90.70.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
               },
               {
                 "HS Code": "3926.90.75.00",
@@ -147,113 +254,6 @@
                     "Subentries": []
                   }
                 ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Beads, bugles and spangles, not strung (except temporarily) and not set; articles thereof, not elsewhere specified or included:",
-                "Subentries": [
-                  {
-                    "HS Code": "3926.90.33.00",
-                    "Description": "Handbags",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "3926.90.35.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Belting and belts, for machinery:",
-                "Subentries": [
-                  {
-                    "HS Code": "3926.90.60",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "3926.90.60.10",
-                        "Description": "Synchronous belts",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3926.90.60.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Containing textile fibers:",
-                    "Subentries": [
-                      {
-                        "HS Code": "3926.90.55.00",
-                        "Description": "V-belts",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "3926.90.56.00",
-                            "Description": "With textile components in which vegetable fibers predominate by weight over any other textile fiber",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "3926.90.57.00",
-                            "Description": "With textile components in which man-made fibers predominate by weight over any other textile fiber",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "3926.90.59.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Clothespins:",
-                "Subentries": [
-                  {
-                    "HS Code": "3926.90.65",
-                    "Description": "Spring type",
-                    "Subentries": [
-                      {
-                        "HS Code": "3926.90.65.10",
-                        "Description": "Valued not over 80 cents per gross",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3926.90.65.20",
-                        "Description": "Valued over 80 cents but not over $1.35 per gross",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3926.90.65.30",
-                        "Description": "Valued over $1.35 but not over $1.70 per gross",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3926.90.65.50",
-                        "Description": "Valued over $1.70 per gross",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "3926.90.70.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
               }
             ]
           }
@@ -277,21 +277,6 @@
                 "HS Code": "8205.51",
                 "Description": "Household tools, and parts thereof:",
                 "Subentries": [
-                  {
-                    "HS Code": "8205.51.45.00",
-                    "Description": "Of copper",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8205.51.60.00",
-                    "Description": "Of aluminum",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8205.51.75.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of iron or steel:",
@@ -318,6 +303,21 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8205.51.45.00",
+                    "Description": "Of copper",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8205.51.60.00",
+                    "Description": "Of aluminum",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8205.51.75.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -356,21 +356,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "8205.59.60.00",
-                        "Description": "Of copper",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8205.59.70.00",
-                        "Description": "Of aluminum",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8205.59.80.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Of iron or steel",
                         "Subentries": [
@@ -383,11 +368,6 @@
                             "HS Code": "8205.59.55",
                             "Description": "Other",
                             "Subentries": [
-                              {
-                                "HS Code": "8205.59.55.60",
-                                "Description": "Other (including parts)",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Edged handtools:",
@@ -403,10 +383,30 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "8205.59.55.60",
+                                "Description": "Other (including parts)",
+                                "Subentries": []
                               }
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8205.59.60.00",
+                        "Description": "Of copper",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8205.59.70.00",
+                        "Description": "Of aluminum",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8205.59.80.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

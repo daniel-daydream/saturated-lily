@@ -21,11 +21,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "8528.69.70.00",
-                    "Description": "Black and white or other monochrome",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Color:",
                     "Subentries": [
@@ -64,16 +59,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "8528.69.55.00",
-                            "Description": "Incorporating video recording or reproducing apparatus",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8528.69.60.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Incorporating video recording or reproducing apparatus:",
                             "Subentries": [
@@ -98,10 +83,25 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8528.69.55.00",
+                            "Description": "Incorporating video recording or reproducing apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.69.60.00",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8528.69.70.00",
+                    "Description": "Black and white or other monochrome",
+                    "Subentries": []
                   }
                 ]
               }

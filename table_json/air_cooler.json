@@ -16,11 +16,6 @@
                 "Description": "Incorporating a refrigerating unit and a valve for reversal of the cooling/heat cycle (reversible heat pumps)",
                 "Subentries": [
                   {
-                    "HS Code": "8415.81.01.30",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Self-contained:",
                     "Subentries": [
@@ -35,6 +30,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8415.81.01.30",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -42,11 +42,6 @@
                 "HS Code": "8415.82.01",
                 "Description": "Other, incorporating a refrigerating unit",
                 "Subentries": [
-                  {
-                    "HS Code": "8415.82.01.70",
-                    "Description": "Other air conditioning machines incorporating a refrigerating unit",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Self-contained machines and remote condenser type air conditioners other than year-round units:",
@@ -115,6 +110,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8415.82.01.70",
+                    "Description": "Other air conditioning machines incorporating a refrigerating unit",
+                    "Subentries": []
                   }
                 ]
               },
@@ -123,19 +123,9 @@
                 "Description": "Not incorporating a refrigerating unit",
                 "Subentries": [
                   {
-                    "HS Code": "8415.83.00.90",
-                    "Description": "Other air conditioning machines not incorporating a refrigerating unit",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Heat exchangers including condensing units:",
                     "Subentries": [
-                      {
-                        "HS Code": "8415.83.00.70",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Condensing units:",
@@ -151,8 +141,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8415.83.00.70",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8415.83.00.90",
+                    "Description": "Other air conditioning machines not incorporating a refrigerating unit",
+                    "Subentries": []
                   }
                 ]
               }

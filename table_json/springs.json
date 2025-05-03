@@ -12,22 +12,6 @@
             "Description": "Leaf springs and leaves therefor:",
             "Subentries": [
               {
-                "HS Code": "7320.10.90",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "7320.10.90.15",
-                    "Description": "Leaf springs having individual leaves with a thickness of 1.6 mm or more and leaves therefor",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7320.10.90.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
                 "HS Code": "",
                 "Description": "Suitable for motor vehicle suspension:",
                 "Subentries": [
@@ -53,6 +37,22 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "7320.10.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "7320.10.90.15",
+                    "Description": "Leaf springs having individual leaves with a thickness of 1.6 mm or more and leaves therefor",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7320.10.90.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
               }
             ]
           },
@@ -70,16 +70,6 @@
                 "Description": "Other",
                 "Subentries": [
                   {
-                    "HS Code": "7320.20.50.45",
-                    "Description": "Helical springs, of wire having a cross-sectional dimension of 5.1 mm or more but less than 12.7 mm",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7320.20.50.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Helical springs, of wire having a cross-sectional dimension of less than 5.1 mm:",
                     "Subentries": [
@@ -94,6 +84,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7320.20.50.45",
+                    "Description": "Helical springs, of wire having a cross-sectional dimension of 5.1 mm or more but less than 12.7 mm",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7320.20.50.60",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -113,11 +113,6 @@
                 "Description": "Other",
                 "Subentries": [
                   {
-                    "HS Code": "7320.90.50.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of wire:",
                     "Subentries": [
@@ -132,6 +127,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7320.90.50.60",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

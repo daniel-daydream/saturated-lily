@@ -30,11 +30,6 @@
                     "Description": "Containing over 20 percent of alcohol by weight:",
                     "Subentries": [
                       {
-                        "HS Code": "3302.10.90.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Preparations requiring only the addition of ethyl alcohol or water to produce a beverage suitable for human consumption:",
                         "Subentries": [
@@ -49,6 +44,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "3302.10.90.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

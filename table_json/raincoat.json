@@ -12,11 +12,6 @@
             "Description": "Having an outer surface impregnated, coated, covered, or laminated with rubber or plastics material which completely obscures the underlying fabric",
             "Subentries": [
               {
-                "HS Code": "6113.00.10.12",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Coats and jackets:",
                 "Subentries": [
@@ -31,6 +26,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "6113.00.10.12",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },

@@ -54,6 +54,22 @@
                 "Description": "Not containing wrapper tobacco, or not containing over 35 percent wrapper tobacco:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Oriental or Turkish type:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2401.10.44.00",
+                        "Description": "Cigarette leaf",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2401.10.48.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "2401.10.53",
                     "Description": "Cigar binder and filler",
                     "Subentries": [
@@ -71,60 +87,8 @@
                   },
                   {
                     "HS Code": "",
-                    "Description": "Oriental or Turkish type:",
-                    "Subentries": [
-                      {
-                        "HS Code": "2401.10.44.00",
-                        "Description": "Cigarette leaf",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "2401.10.48.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
-                      {
-                        "HS Code": "2401.10.95",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "2401.10.95.10",
-                            "Description": "Fire-cured Kentucky and Tennessee",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.10.95.15",
-                            "Description": "Dark-air cured Kentucky and Tennessee",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.10.95.20",
-                            "Description": "Virginia fire-cured",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.10.95.25",
-                            "Description": "Virginia sun-cured",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.10.95.30",
-                            "Description": "Blackfat",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.10.95.60",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
                       {
                         "HS Code": "",
                         "Description": "Flue-cured, burley and other light air-cured leaf:",
@@ -214,6 +178,42 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "2401.10.95",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "2401.10.95.10",
+                            "Description": "Fire-cured Kentucky and Tennessee",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.10.95.15",
+                            "Description": "Dark-air cured Kentucky and Tennessee",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.10.95.20",
+                            "Description": "Virginia fire-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.10.95.25",
+                            "Description": "Virginia sun-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.10.95.30",
+                            "Description": "Blackfat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.10.95.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
                       }
                     ]
                   }
@@ -270,6 +270,22 @@
                         "Description": "Not containing wrapper tobacco, or not containing over 35 percent wrapper tobacco:",
                         "Subentries": [
                           {
+                            "HS Code": "",
+                            "Description": "Oriental or Turkish type:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2401.20.23.00",
+                                "Description": "Cigarette leaf",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.20.26.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
                             "HS Code": "2401.20.29",
                             "Description": "Cigar binder and filler",
                             "Subentries": [
@@ -287,60 +303,8 @@
                           },
                           {
                             "HS Code": "",
-                            "Description": "Oriental or Turkish type:",
-                            "Subentries": [
-                              {
-                                "HS Code": "2401.20.23.00",
-                                "Description": "Cigarette leaf",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "2401.20.26.00",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "",
                             "Description": "Other:",
                             "Subentries": [
-                              {
-                                "HS Code": "2401.20.57",
-                                "Description": "Other",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "2401.20.57.10",
-                                    "Description": "Fire-cured Kentucky and Tennessee",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "2401.20.57.15",
-                                    "Description": "Dark-air cured Kentucky and Tennessee",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "2401.20.57.20",
-                                    "Description": "Virginia fire-cured",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "2401.20.57.25",
-                                    "Description": "Virginia sun-cured",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "2401.20.57.30",
-                                    "Description": "Blackfat",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "2401.20.57.40",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  }
-                                ]
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Flue-cured, burley and other light air-cured leaf:",
@@ -428,6 +392,42 @@
                                         ]
                                       }
                                     ]
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "2401.20.57",
+                                "Description": "Other",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2401.20.57.10",
+                                    "Description": "Fire-cured Kentucky and Tennessee",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.57.15",
+                                    "Description": "Dark-air cured Kentucky and Tennessee",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.57.20",
+                                    "Description": "Virginia fire-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.57.25",
+                                    "Description": "Virginia sun-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.57.30",
+                                    "Description": "Blackfat",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.57.40",
+                                    "Description": "Other",
+                                    "Subentries": []
                                   }
                                 ]
                               }
@@ -648,11 +648,6 @@
                 "Description": "From cigar leaf:",
                 "Subentries": [
                   {
-                    "HS Code": "2401.30.09.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Tobacco stems:",
                     "Subentries": [
@@ -667,6 +662,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "2401.30.09.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -674,11 +674,6 @@
                 "HS Code": "",
                 "Description": "From Oriental or Turkish type tobacco:",
                 "Subentries": [
-                  {
-                    "HS Code": "2401.30.19.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Tobacco stems",
@@ -694,6 +689,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "2401.30.19.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -705,47 +705,6 @@
                     "HS Code": "",
                     "Description": "To be used in products other than cigarettes:",
                     "Subentries": [
-                      {
-                        "HS Code": "2401.30.27",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "2401.30.27.10",
-                            "Description": "Flue-cured",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.30.27.20",
-                            "Description": "Burley",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.30.27.35",
-                            "Description": "Fire-cured Kentucky and Tennessee",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.30.27.40",
-                            "Description": "Dark air-cured Kentucky and Tennessee",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.30.27.50",
-                            "Description": "Virginia fire-cured",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.30.27.60",
-                            "Description": "Virginia sun-cured",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.30.27.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
                       {
                         "HS Code": "",
                         "Description": "Tobacco stems:",
@@ -833,6 +792,47 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "2401.30.27",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "2401.30.27.10",
+                            "Description": "Flue-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.27.20",
+                            "Description": "Burley",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.27.35",
+                            "Description": "Fire-cured Kentucky and Tennessee",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.27.40",
+                            "Description": "Dark air-cured Kentucky and Tennessee",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.27.50",
+                            "Description": "Virginia fire-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.27.60",
+                            "Description": "Virginia sun-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.27.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
                       }
                     ]
                   },
@@ -841,91 +841,9 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "2401.30.70",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "2401.30.70.10",
-                            "Description": "Flue-cured",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.30.70.20",
-                            "Description": "Burley",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.30.70.35",
-                            "Description": "Fire-cured Kentucky and Tennessee",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.30.70.40",
-                            "Description": "Dark air-cured Kentucky and Tennessee",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.30.70.50",
-                            "Description": "Virginia fire-cured",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.30.70.60",
-                            "Description": "Virginia sun-cured",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2401.30.70.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions:",
                         "Subentries": [
-                          {
-                            "HS Code": "2401.30.37",
-                            "Description": "Other",
-                            "Subentries": [
-                              {
-                                "HS Code": "2401.30.37.10",
-                                "Description": "Flue-cured",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "2401.30.37.20",
-                                "Description": "Burley",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "2401.30.37.35",
-                                "Description": "Fire-cured Kentucky and Tennessee",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "2401.30.37.40",
-                                "Description": "Dark air-cured Kentucky and Tennessee",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "2401.30.37.50",
-                                "Description": "Virginia fire-cured",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "2401.30.37.60",
-                                "Description": "Virginia sun-cured",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "2401.30.37.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
                           {
                             "HS Code": "",
                             "Description": "Tobacco stems:",
@@ -1013,6 +931,88 @@
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "2401.30.37",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "2401.30.37.10",
+                                "Description": "Flue-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.37.20",
+                                "Description": "Burley",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.37.35",
+                                "Description": "Fire-cured Kentucky and Tennessee",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.37.40",
+                                "Description": "Dark air-cured Kentucky and Tennessee",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.37.50",
+                                "Description": "Virginia fire-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.37.60",
+                                "Description": "Virginia sun-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.37.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "2401.30.70",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "2401.30.70.10",
+                            "Description": "Flue-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.70.20",
+                            "Description": "Burley",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.70.35",
+                            "Description": "Fire-cured Kentucky and Tennessee",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.70.40",
+                            "Description": "Dark air-cured Kentucky and Tennessee",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.70.50",
+                            "Description": "Virginia fire-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.70.60",
+                            "Description": "Virginia sun-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.70.90",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -1504,11 +1504,6 @@
                 "Description": "Other, containing nicotine:",
                 "Subentries": [
                   {
-                    "HS Code": "2404.12.90.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Mixtures for personal electric or electronic vaporizing devices:",
                     "Subentries": [
@@ -1523,6 +1518,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "2404.12.90.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -1530,11 +1530,6 @@
                 "HS Code": "2404.19",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "2404.19.90.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Mixtures for personal electric or electronic vaporizing devices:",
@@ -1550,6 +1545,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "2404.19.90.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

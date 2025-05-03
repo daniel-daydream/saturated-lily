@@ -543,16 +543,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "0703.10.40.70",
-                            "Description": "Shallots",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0703.10.40.75",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Onions:",
                             "Subentries": [
@@ -582,6 +572,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "0703.10.40.70",
+                            "Description": "Shallots",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0703.10.40.75",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -595,16 +595,6 @@
             "HS Code": "0703.20.00",
             "Description": "Garlic",
             "Subentries": [
-              {
-                "HS Code": "0703.20.00.20",
-                "Description": "Fresh whole peeled cloves",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0703.20.00.90",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Fresh whole bulbs:",
@@ -620,6 +610,16 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0703.20.00.20",
+                "Description": "Fresh whole peeled cloves",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0703.20.00.90",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -696,6 +696,22 @@
                     "Subentries": []
                   },
                   {
+                    "HS Code": "",
+                    "Description": "Broccoli:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0704.90.40.22",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0704.90.40.24",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "0704.90.40.28",
                     "Description": "Collards",
                     "Subentries": []
@@ -714,22 +730,6 @@
                     "HS Code": "0704.90.40.55",
                     "Description": "Other",
                     "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Broccoli:",
-                    "Subentries": [
-                      {
-                        "HS Code": "0704.90.40.22",
-                        "Description": "Certified organic",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0704.90.40.24",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
               }
@@ -848,11 +848,6 @@
             "Description": "Carrots and turnips:",
             "Subentries": [
               {
-                "HS Code": "0706.10.40.00",
-                "Description": "Turnips",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Carrots:",
                 "Subentries": [
@@ -878,6 +873,11 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "0706.10.40.00",
+                "Description": "Turnips",
+                "Subentries": []
               }
             ]
           },
@@ -1382,11 +1382,6 @@
                 "Subentries": []
               },
               {
-                "HS Code": "0708.90.40.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Pigeon peas:",
                 "Subentries": [
@@ -1401,6 +1396,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0708.90.40.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }
@@ -1557,6 +1557,58 @@
             ]
           },
           {
+            "HS Code": "",
+            "Description": "Mushrooms and truffles:",
+            "Subentries": [
+              {
+                "HS Code": "0709.51.01.00",
+                "Description": "Mushrooms of the genus Agaricus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0709.52.05.00",
+                "Description": "Mushrooms of the genus Boletus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0709.53.00.00",
+                "Description": "Mushrooms of the genus Cantharellus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0709.54.00.00",
+                "Description": "Shiitake (Lentinus edodes)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0709.55.00.00",
+                "Description": "Matsutake (Tricholoma matsutake, Tricholoma magnivelare, Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0709.56.00.00",
+                "Description": "Truffles (Tuber spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0709.59",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0709.59.11.00",
+                    "Description": "Truffles",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0709.59.91.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "0709.60",
             "Description": "Fruits of the genus Capsicum (peppers) or of the genus Pimenta (e.g., allspice):",
             "Subentries": [
@@ -1615,11 +1667,6 @@
                     "HS Code": "",
                     "Description": "Greenhouse:",
                     "Subentries": [
-                      {
-                        "HS Code": "0709.60.40.55",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Sweet bell-type peppers (Capsicum annum):",
@@ -1687,6 +1734,11 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0709.60.40.55",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -1694,11 +1746,6 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
-                      {
-                        "HS Code": "0709.60.40.95",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Sweet bell-type peppers (Capsicum annum):",
@@ -1777,6 +1824,11 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0709.60.40.95",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -1788,58 +1840,6 @@
             "HS Code": "0709.70.00.00",
             "Description": "Spinach, New Zealand spinach and orache spinach (garden spinach)",
             "Subentries": []
-          },
-          {
-            "HS Code": "",
-            "Description": "Mushrooms and truffles:",
-            "Subentries": [
-              {
-                "HS Code": "0709.51.01.00",
-                "Description": "Mushrooms of the genus Agaricus",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0709.52.05.00",
-                "Description": "Mushrooms of the genus Boletus",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0709.53.00.00",
-                "Description": "Mushrooms of the genus Cantharellus",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0709.54.00.00",
-                "Description": "Shiitake (Lentinus edodes)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0709.55.00.00",
-                "Description": "Matsutake (Tricholoma matsutake, Tricholoma magnivelare, Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0709.56.00.00",
-                "Description": "Truffles (Tuber spp.)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0709.59",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "0709.59.11.00",
-                    "Description": "Truffles",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0709.59.91.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
           },
           {
             "HS Code": "",
@@ -2040,6 +2040,124 @@
             "Subentries": []
           },
           {
+            "HS Code": "",
+            "Description": "Leguminous vegetables, shelled or unshelled:",
+            "Subentries": [
+              {
+                "HS Code": "0710.21",
+                "Description": "Peas (Pisum sativum):",
+                "Subentries": [
+                  {
+                    "HS Code": "0710.21.20.00",
+                    "Description": "If entered during the period from July 1 to September 30, inclusive, in any year",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0710.21.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0710.22",
+                "Description": "Beans (Vigna spp., Phaseolus spp.):",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Not reduced in size:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Lima beans:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0710.22.10.00",
+                            "Description": "If entered during the period from November 1 in any year to the following May 31, inclusive",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0710.22.15.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "0710.22.20.00",
+                        "Description": "Cowpeas (other than black-eye peas)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0710.22.25.00",
+                        "Description": "String beans (snap beans)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0710.22.37.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0710.22.40",
+                    "Description": "Reduced in size",
+                    "Subentries": [
+                      {
+                        "HS Code": "0710.22.40.10",
+                        "Description": "Green and wax",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0710.22.40.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0710.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0710.29.05.00",
+                    "Description": "Chickpeas (garbanzos)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0710.29.15.00",
+                    "Description": "Lentils",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Pigeon peas:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0710.29.25.00",
+                        "Description": "If entered during the period from July 1 to September 30, inclusive, in any year",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0710.29.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0710.29.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "0710.30.00.00",
             "Description": "Spinach, New Zealand spinach and orache spinach (garden spinach)",
             "Subentries": []
@@ -2144,21 +2262,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "0710.80.97.30",
-                            "Description": "Cauliflower",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0710.80.97.55",
-                            "Description": "Garlic, reduced in size beyond the clove, whether or not individually quick frozen",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0710.80.97.65",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Broccoli:",
                             "Subentries": [
@@ -2184,6 +2287,21 @@
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "0710.80.97.30",
+                            "Description": "Cauliflower",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0710.80.97.55",
+                            "Description": "Garlic, reduced in size beyond the clove, whether or not individually quick frozen",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0710.80.97.65",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -2208,124 +2326,6 @@
                 "Subentries": []
               }
             ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Leguminous vegetables, shelled or unshelled:",
-            "Subentries": [
-              {
-                "HS Code": "0710.21",
-                "Description": "Peas (Pisum sativum):",
-                "Subentries": [
-                  {
-                    "HS Code": "0710.21.20.00",
-                    "Description": "If entered during the period from July 1 to September 30, inclusive, in any year",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0710.21.40.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "0710.22",
-                "Description": "Beans (Vigna spp., Phaseolus spp.):",
-                "Subentries": [
-                  {
-                    "HS Code": "0710.22.40",
-                    "Description": "Reduced in size",
-                    "Subentries": [
-                      {
-                        "HS Code": "0710.22.40.10",
-                        "Description": "Green and wax",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0710.22.40.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Not reduced in size:",
-                    "Subentries": [
-                      {
-                        "HS Code": "0710.22.20.00",
-                        "Description": "Cowpeas (other than black-eye peas)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0710.22.25.00",
-                        "Description": "String beans (snap beans)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0710.22.37.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Lima beans:",
-                        "Subentries": [
-                          {
-                            "HS Code": "0710.22.10.00",
-                            "Description": "If entered during the period from November 1 in any year to the following May 31, inclusive",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0710.22.15.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "0710.29",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "0710.29.05.00",
-                    "Description": "Chickpeas (garbanzos)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0710.29.15.00",
-                    "Description": "Lentils",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0710.29.40.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Pigeon peas:",
-                    "Subentries": [
-                      {
-                        "HS Code": "0710.29.25.00",
-                        "Description": "If entered during the period from July 1 to September 30, inclusive, in any year",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0710.29.30.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
           }
         ]
       },
@@ -2338,19 +2338,9 @@
             "Description": "Olives:",
             "Subentries": [
               {
-                "HS Code": "0711.20.40.00",
-                "Description": "Pitted or stuffed",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Not pitted:",
                 "Subentries": [
-                  {
-                    "HS Code": "0711.20.38.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Green in color, in a saline solution, in containers each holding more than 8 kg, drained weight, certified by the importer to be used for repacking or sale as green olives:",
@@ -2366,8 +2356,18 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0711.20.38.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0711.20.40.00",
+                "Description": "Pitted or stuffed",
+                "Subentries": []
               }
             ]
           },
@@ -2375,32 +2375,6 @@
             "HS Code": "0711.40.00.00",
             "Description": "Cucumbers including gherkins",
             "Subentries": []
-          },
-          {
-            "HS Code": "0711.90",
-            "Description": "Other vegetables; mixtures of vegetables:",
-            "Subentries": [
-              {
-                "HS Code": "0711.90.20.00",
-                "Description": "Leguminous vegetables",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0711.90.30.00",
-                "Description": "Capers",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0711.90.50.00",
-                "Description": "Onions",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0711.90.65.00",
-                "Description": "Other vegetables; mixtures of vegetables",
-                "Subentries": []
-              }
-            ]
           },
           {
             "HS Code": "",
@@ -2428,6 +2402,32 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "0711.90",
+            "Description": "Other vegetables; mixtures of vegetables:",
+            "Subentries": [
+              {
+                "HS Code": "0711.90.20.00",
+                "Description": "Leguminous vegetables",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0711.90.30.00",
+                "Description": "Capers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0711.90.50.00",
+                "Description": "Onions",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0711.90.65.00",
+                "Description": "Other vegetables; mixtures of vegetables",
+                "Subentries": []
+              }
+            ]
           }
         ]
       },
@@ -2448,133 +2448,6 @@
                 "HS Code": "0712.20.40.00",
                 "Description": "Other",
                 "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "0712.90",
-            "Description": "Other vegetables; mixtures of vegetables:",
-            "Subentries": [
-              {
-                "HS Code": "0712.90.10.00",
-                "Description": "Carrots",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0712.90.30.00",
-                "Description": "Potatoes whether or not cut or sliced but not further prepared",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0712.90.40",
-                "Description": "Garlic",
-                "Subentries": [
-                  {
-                    "HS Code": "0712.90.40.20",
-                    "Description": "Powder or flour",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.40.40",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "0712.90.85",
-                "Description": "Other vegetables; mixtures of vegetables",
-                "Subentries": [
-                  {
-                    "HS Code": "0712.90.85.10",
-                    "Description": "Broccoli",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.85.20",
-                    "Description": "Celery stalks",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.85.30",
-                    "Description": "Leeks",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.85.40",
-                    "Description": "Spinach",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.85.50",
-                    "Description": "Sweet corn seeds of a kind used for sowing",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.85.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Olives:",
-                "Subentries": [
-                  {
-                    "HS Code": "0712.90.15.00",
-                    "Description": "Not ripe",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.20.00",
-                    "Description": "Ripe",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Fennel, marjoram, parsley, savory and tarragon:",
-                "Subentries": [
-                  {
-                    "HS Code": "0712.90.60.00",
-                    "Description": "Crude or not manufactured",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "0712.90.65.00",
-                        "Description": "Parsley",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0712.90.70.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Tomatoes:",
-                "Subentries": [
-                  {
-                    "HS Code": "0712.90.74.00",
-                    "Description": "In powder",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.78.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
               }
             ]
           },
@@ -2629,11 +2502,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "0712.39.40.00",
-                    "Description": "Truffles",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Mushrooms:",
                     "Subentries": [
@@ -2648,6 +2516,138 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0712.39.40.00",
+                    "Description": "Truffles",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0712.90",
+            "Description": "Other vegetables; mixtures of vegetables:",
+            "Subentries": [
+              {
+                "HS Code": "0712.90.10.00",
+                "Description": "Carrots",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Olives:",
+                "Subentries": [
+                  {
+                    "HS Code": "0712.90.15.00",
+                    "Description": "Not ripe",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.20.00",
+                    "Description": "Ripe",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0712.90.30.00",
+                "Description": "Potatoes whether or not cut or sliced but not further prepared",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0712.90.40",
+                "Description": "Garlic",
+                "Subentries": [
+                  {
+                    "HS Code": "0712.90.40.20",
+                    "Description": "Powder or flour",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.40.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Fennel, marjoram, parsley, savory and tarragon:",
+                "Subentries": [
+                  {
+                    "HS Code": "0712.90.60.00",
+                    "Description": "Crude or not manufactured",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0712.90.65.00",
+                        "Description": "Parsley",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0712.90.70.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Tomatoes:",
+                "Subentries": [
+                  {
+                    "HS Code": "0712.90.74.00",
+                    "Description": "In powder",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.78.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0712.90.85",
+                "Description": "Other vegetables; mixtures of vegetables",
+                "Subentries": [
+                  {
+                    "HS Code": "0712.90.85.10",
+                    "Description": "Broccoli",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.85.20",
+                    "Description": "Celery stalks",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.85.30",
+                    "Description": "Leeks",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.85.40",
+                    "Description": "Spinach",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.85.50",
+                    "Description": "Sweet corn seeds of a kind used for sowing",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.85.80",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -2682,21 +2682,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "0713.10.40.20",
-                        "Description": "Green peas",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0713.10.40.60",
-                        "Description": "Austrian winter peas",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0713.10.40.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Yellow peas:",
                         "Subentries": [
@@ -2711,6 +2696,21 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0713.10.40.20",
+                        "Description": "Green peas",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0713.10.40.60",
+                        "Description": "Austrian winter peas",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0713.10.40.80",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -2748,152 +2748,6 @@
                       {
                         "HS Code": "0713.20.20.75",
                         "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "0713.40",
-            "Description": "Lentils:",
-            "Subentries": [
-              {
-                "HS Code": "0713.40.10.00",
-                "Description": "Seeds of a kind used for sowing",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0713.40.20",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "",
-                    "Description": "Green lentils, including French green (dark speckled):",
-                    "Subentries": [
-                      {
-                        "HS Code": "0713.40.20.15",
-                        "Description": "Certified organic",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0713.40.20.20",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Red:",
-                    "Subentries": [
-                      {
-                        "HS Code": "0713.40.20.35",
-                        "Description": "Certified organic",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0713.40.20.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "0713.40.20.65",
-                        "Description": "Certified organic",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0713.40.20.85",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "0713.50",
-            "Description": "Broad beans (Vicia faba var. major) and horse beans (Vicia faba var. equina and Vicia faba var. minor):",
-            "Subentries": [
-              {
-                "HS Code": "0713.50.10.00",
-                "Description": "Seeds of a kind used for sowing",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0713.50.20.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "0713.60",
-            "Description": "Pigeon peas (Cajanus cajan):",
-            "Subentries": [
-              {
-                "HS Code": "0713.60.10.00",
-                "Description": "Of a kind used for sowing",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "0713.60.60.00",
-                    "Description": "If entered for consumption during the period from May 1 to August 31, inclusive, in any year",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0713.60.80.00",
-                    "Description": "If entered for consumption outside the above stated period, or if withdrawn for consumption at any time",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "0713.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "0713.90.11.00",
-                "Description": "Seeds of a kind used for sowing",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "0713.90.50.00",
-                    "Description": "Guar seeds",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "0713.90.61.00",
-                        "Description": "If entered for consumption during the period from May 1 to August 31, inclusive, in any year",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0713.90.81.00",
-                        "Description": "If entered for consumption outside the above stated period, or if withdrawn for consumption at any time",
                         "Subentries": []
                       }
                     ]
@@ -3166,6 +3020,152 @@
                             "Subentries": []
                           }
                         ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0713.40",
+            "Description": "Lentils:",
+            "Subentries": [
+              {
+                "HS Code": "0713.40.10.00",
+                "Description": "Seeds of a kind used for sowing",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0713.40.20",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Green lentils, including French green (dark speckled):",
+                    "Subentries": [
+                      {
+                        "HS Code": "0713.40.20.15",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0713.40.20.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Red:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0713.40.20.35",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0713.40.20.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0713.40.20.65",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0713.40.20.85",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0713.50",
+            "Description": "Broad beans (Vicia faba var. major) and horse beans (Vicia faba var. equina and Vicia faba var. minor):",
+            "Subentries": [
+              {
+                "HS Code": "0713.50.10.00",
+                "Description": "Seeds of a kind used for sowing",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0713.50.20.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "0713.60",
+            "Description": "Pigeon peas (Cajanus cajan):",
+            "Subentries": [
+              {
+                "HS Code": "0713.60.10.00",
+                "Description": "Of a kind used for sowing",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0713.60.60.00",
+                    "Description": "If entered for consumption during the period from May 1 to August 31, inclusive, in any year",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0713.60.80.00",
+                    "Description": "If entered for consumption outside the above stated period, or if withdrawn for consumption at any time",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0713.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "0713.90.11.00",
+                "Description": "Seeds of a kind used for sowing",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0713.90.50.00",
+                    "Description": "Guar seeds",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0713.90.61.00",
+                        "Description": "If entered for consumption during the period from May 1 to August 31, inclusive, in any year",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0713.90.81.00",
+                        "Description": "If entered for consumption outside the above stated period, or if withdrawn for consumption at any time",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -3739,11 +3739,6 @@
             "Description": "Dates:",
             "Subentries": [
               {
-                "HS Code": "0804.10.80.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Whole, with or without pits:",
                 "Subentries": [
@@ -3780,6 +3775,11 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "0804.10.80.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -3787,11 +3787,6 @@
             "HS Code": "0804.20",
             "Description": "Figs:",
             "Subentries": [
-              {
-                "HS Code": "0804.20.80.00",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Whole:",
@@ -3807,6 +3802,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0804.20.80.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -3814,11 +3814,6 @@
             "HS Code": "0804.30",
             "Description": "Pineapples:",
             "Subentries": [
-              {
-                "HS Code": "0804.30.60.00",
-                "Description": "Reduced in size",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Not reduced in size:",
@@ -3845,6 +3840,11 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "0804.30.60.00",
+                "Description": "Reduced in size",
+                "Subentries": []
               }
             ]
           },
@@ -3852,11 +3852,6 @@
             "HS Code": "0804.40.00",
             "Description": "Avocados",
             "Subentries": [
-              {
-                "HS Code": "0804.40.00.90",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Hass avocados and avocados determined by the Secretary of Agriculture to be Hass-like:",
@@ -3872,6 +3867,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0804.40.00.90",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -3880,22 +3880,6 @@
             "Description": "Guavas, mangoes and mangosteens:",
             "Subentries": [
               {
-                "HS Code": "0804.50.80",
-                "Description": "Dried",
-                "Subentries": [
-                  {
-                    "HS Code": "0804.50.80.10",
-                    "Description": "Mangoes",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0804.50.80.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
                 "HS Code": "",
                 "Description": "Fresh:",
                 "Subentries": [
@@ -3903,16 +3887,6 @@
                     "HS Code": "0804.50.40",
                     "Description": "If entered during the period from September 1, in any year, to the following May 31, inclusive",
                     "Subentries": [
-                      {
-                        "HS Code": "0804.50.40.65",
-                        "Description": "Mangosteens",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0804.50.40.75",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Mangoes:",
@@ -3928,6 +3902,16 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0804.50.40.65",
+                        "Description": "Mangosteens",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0804.50.40.75",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -3935,16 +3919,6 @@
                     "HS Code": "0804.50.60",
                     "Description": "If entered at any other time",
                     "Subentries": [
-                      {
-                        "HS Code": "0804.50.60.65",
-                        "Description": "Mangosteens",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0804.50.60.75",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Mangoes:",
@@ -3960,8 +3934,34 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0804.50.60.65",
+                        "Description": "Mangosteens",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0804.50.60.75",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0804.50.80",
+                "Description": "Dried",
+                "Subentries": [
+                  {
+                    "HS Code": "0804.50.80.10",
+                    "Description": "Mangoes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0804.50.80.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -3997,6 +3997,38 @@
                     "Subentries": []
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Mandarins (including tangerines and satsumas); clementines, wilkings and similar citrus hybrids:",
+            "Subentries": [
+              {
+                "HS Code": "0805.21.00",
+                "Description": "Mandarins (including tangerines and satsumas)",
+                "Subentries": [
+                  {
+                    "HS Code": "0805.21.00.10",
+                    "Description": "Tangerines",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0805.21.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0805.22.00.00",
+                "Description": "Clementines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0805.29.00.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -4096,38 +4128,6 @@
             "HS Code": "0805.90.01.00",
             "Description": "Other, including kumquats, citrons and bergamots",
             "Subentries": []
-          },
-          {
-            "HS Code": "",
-            "Description": "Mandarins (including tangerines and satsumas); clementines, wilkings and similar citrus hybrids:",
-            "Subentries": [
-              {
-                "HS Code": "0805.21.00",
-                "Description": "Mandarins (including tangerines and satsumas)",
-                "Subentries": [
-                  {
-                    "HS Code": "0805.21.00.10",
-                    "Description": "Tangerines",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0805.21.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "0805.22.00.00",
-                "Description": "Clementines",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0805.29.00.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
           }
         ]
       },
@@ -4257,11 +4257,6 @@
             "Description": "Dried:",
             "Subentries": [
               {
-                "HS Code": "0806.20.90.00",
-                "Description": "Other dried grapes",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Raisins:",
                 "Subentries": [
@@ -4292,6 +4287,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0806.20.90.00",
+                "Description": "Other dried grapes",
+                "Subentries": []
               }
             ]
           }
@@ -4301,11 +4301,6 @@
         "HS Code": "0807",
         "Description": "Melons (including watermelons) and papayas (papaws), fresh:",
         "Subentries": [
-          {
-            "HS Code": "0807.20.00.00",
-            "Description": "Papayas (papaws)",
-            "Subentries": []
-          },
           {
             "HS Code": "",
             "Description": "Melons (including watermelons):",
@@ -4318,11 +4313,6 @@
                     "HS Code": "0807.11.30",
                     "Description": "If entered during the period from December 1, in any year, to the following March 31, inclusive",
                     "Subentries": [
-                      {
-                        "HS Code": "0807.11.30.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Seedless:",
@@ -4360,6 +4350,11 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0807.11.30.90",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -4367,11 +4362,6 @@
                     "HS Code": "0807.11.40",
                     "Description": "If entered at any other time",
                     "Subentries": [
-                      {
-                        "HS Code": "0807.11.40.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Seedless:",
@@ -4409,6 +4399,11 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0807.11.40.90",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -4491,6 +4486,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "0807.20.00.00",
+            "Description": "Papayas (papaws)",
+            "Subentries": []
           }
         ]
       },
@@ -4635,6 +4635,22 @@
             "Subentries": []
           },
           {
+            "HS Code": "",
+            "Description": "Cherries:",
+            "Subentries": [
+              {
+                "HS Code": "0809.21.00.00",
+                "Description": "Sour cherries (Prunus cerasus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0809.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "0809.30",
             "Description": "Peaches, including nectarines:",
             "Subentries": [
@@ -4673,22 +4689,6 @@
               {
                 "HS Code": "0809.40.40.00",
                 "Description": "If entered at any other time",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Cherries:",
-            "Subentries": [
-              {
-                "HS Code": "0809.21.00.00",
-                "Description": "Sour cherries (Prunus cerasus)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0809.29.00.00",
-                "Description": "Other",
                 "Subentries": []
               }
             ]
@@ -4790,11 +4790,6 @@
                 "Description": "Raspberries and loganberries entered during the period from September 1 in any year to June 30 of the following year",
                 "Subentries": [
                   {
-                    "HS Code": "0810.20.10.40",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Raspberries:",
                     "Subentries": [
@@ -4831,6 +4826,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0810.20.10.40",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -4838,11 +4838,6 @@
                 "HS Code": "0810.20.90",
                 "Description": "Other",
                 "Subentries": [
-                  {
-                    "HS Code": "0810.20.90.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Raspberries:",
@@ -4874,6 +4869,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0810.20.90.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -4888,16 +4888,6 @@
             "HS Code": "0810.40.00",
             "Description": "Cranberries, blueberries and other fruits of the genus Vaccinium",
             "Subentries": [
-              {
-                "HS Code": "0810.40.00.30",
-                "Description": "Cranberries",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0810.40.00.40",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Blueberries:",
@@ -4924,6 +4914,16 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "0810.40.00.30",
+                "Description": "Cranberries",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0810.40.00.40",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -5041,11 +5041,6 @@
                 "Description": "In immediate containers each holding more than 1.2 liters:",
                 "Subentries": [
                   {
-                    "HS Code": "0811.10.00.70",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Containing cane and/or beet sugar:",
                     "Subentries": [
@@ -5060,6 +5055,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0811.10.00.70",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -5073,11 +5073,6 @@
                 "HS Code": "0811.20.20",
                 "Description": "Raspberries, loganberries, black currants and gooseberries (other than kiwi fruit)",
                 "Subentries": [
-                  {
-                    "HS Code": "0811.20.20.40",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Raspberries:",
@@ -5093,6 +5088,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0811.20.20.40",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -5195,21 +5195,6 @@
                 "Description": "Other",
                 "Subentries": [
                   {
-                    "HS Code": "0811.90.80.85",
-                    "Description": "Frozen mixes only of combinations of strawberries, blueberries, red raspberries or blackberries",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0811.90.80.90",
-                    "Description": "Peaches",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0811.90.80.97",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Cherries:",
                     "Subentries": [
@@ -5224,6 +5209,21 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0811.90.80.85",
+                    "Description": "Frozen mixes only of combinations of strawberries, blueberries, red raspberries or blackberries",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0811.90.80.90",
+                    "Description": "Peaches",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0811.90.80.97",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -5335,37 +5335,6 @@
                 "Subentries": []
               },
               {
-                "HS Code": "0813.40.30",
-                "Description": "Cherries",
-                "Subentries": [
-                  {
-                    "HS Code": "0813.40.30.10",
-                    "Description": "Tart varieties(Prunus cerasus)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0813.40.30.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "0813.40.40.00",
-                "Description": "Peaches",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0813.40.80.00",
-                "Description": "Tamarinds",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0813.40.90.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Berries:",
                 "Subentries": [
@@ -5396,6 +5365,37 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "0813.40.30",
+                "Description": "Cherries",
+                "Subentries": [
+                  {
+                    "HS Code": "0813.40.30.10",
+                    "Description": "Tart varieties(Prunus cerasus)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0813.40.30.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0813.40.40.00",
+                "Description": "Peaches",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0813.40.80.00",
+                "Description": "Tamarinds",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0813.40.90.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },

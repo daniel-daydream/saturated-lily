@@ -96,6 +96,22 @@
                     ]
                   },
                   {
+                    "HS Code": "",
+                    "Description": "Of artificial fibers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6203.19.20.00",
+                        "Description": "Containing 36 percent or more by weight of wool or fine animal hair (443)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6203.19.30.00",
+                        "Description": "Other (643)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "6203.19.50.00",
                     "Description": "Containing 70 percent or more by weight of silk or silk waste (743)",
                     "Subentries": []
@@ -104,21 +120,6 @@
                     "HS Code": "6203.19.90",
                     "Description": "Other",
                     "Subentries": [
-                      {
-                        "HS Code": "6203.19.90.40",
-                        "Description": "Subject to wool restraints (443)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6203.19.90.50",
-                        "Description": "Subject to man-made fiber restraints (643)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6203.19.90.80",
-                        "Description": "Other (843)",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Subject to cotton restraints:",
@@ -139,21 +140,20 @@
                             "Subentries": []
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Of artificial fibers:",
-                    "Subentries": [
+                      },
                       {
-                        "HS Code": "6203.19.20.00",
-                        "Description": "Containing 36 percent or more by weight of wool or fine animal hair (443)",
+                        "HS Code": "6203.19.90.40",
+                        "Description": "Subject to wool restraints (443)",
                         "Subentries": []
                       },
                       {
-                        "HS Code": "6203.19.30.00",
-                        "Description": "Other (643)",
+                        "HS Code": "6203.19.90.50",
+                        "Description": "Subject to man-made fiber restraints (643)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6203.19.90.80",
+                        "Description": "Other (843)",
                         "Subentries": []
                       }
                     ]
@@ -235,6 +235,22 @@
                 "Description": "Of other textile materials:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Of artificial fibers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6204.19.10.00",
+                        "Description": "Containing 36 percent or more by weight of wool or fine animal hair (444)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6204.19.20.00",
+                        "Description": "Other (644)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "6204.19.40.00",
                     "Description": "Containing 70 percent or more by weight of silk or silk waste (744)",
                     "Subentries": []
@@ -243,21 +259,6 @@
                     "HS Code": "6204.19.80",
                     "Description": "Other",
                     "Subentries": [
-                      {
-                        "HS Code": "6204.19.80.50",
-                        "Description": "Subject to wool restraints (444)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6204.19.80.60",
-                        "Description": "Subject to man-made fiber restraints (644)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6204.19.80.90",
-                        "Description": "Other (844)",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Subject to cotton restraints:",
@@ -283,21 +284,20 @@
                             "Subentries": []
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Of artificial fibers:",
-                    "Subentries": [
+                      },
                       {
-                        "HS Code": "6204.19.10.00",
-                        "Description": "Containing 36 percent or more by weight of wool or fine animal hair (444)",
+                        "HS Code": "6204.19.80.50",
+                        "Description": "Subject to wool restraints (444)",
                         "Subentries": []
                       },
                       {
-                        "HS Code": "6204.19.20.00",
-                        "Description": "Other (644)",
+                        "HS Code": "6204.19.80.60",
+                        "Description": "Subject to man-made fiber restraints (644)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6204.19.80.90",
+                        "Description": "Other (844)",
                         "Subentries": []
                       }
                     ]

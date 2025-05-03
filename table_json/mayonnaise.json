@@ -26,51 +26,9 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "2103.90.90",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "2103.90.90.20",
-                        "Description": "Mayonnaise",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "2103.90.90.40",
-                        "Description": "Other salad dressings",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "2103.90.90.91",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Tomato-based preparations for sauces:",
-                        "Subentries": [
-                          {
-                            "HS Code": "2103.90.90.51",
-                            "Description": "In containers holding less than 1.4 kg",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2103.90.90.59",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Mixed condiments and mixed seasonings:",
                     "Subentries": [
-                      {
-                        "HS Code": "2103.90.80.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Mixed condiments and mixed seasonings described in additional U.S. note 3 to this chapter:",
@@ -91,6 +49,48 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "2103.90.80.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "2103.90.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "2103.90.90.20",
+                        "Description": "Mayonnaise",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2103.90.90.40",
+                        "Description": "Other salad dressings",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Tomato-based preparations for sauces:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2103.90.90.51",
+                            "Description": "In containers holding less than 1.4 kg",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2103.90.90.59",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "2103.90.90.91",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

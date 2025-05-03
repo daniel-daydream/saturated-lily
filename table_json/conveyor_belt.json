@@ -80,22 +80,12 @@
                 "Description": "Endless synchronous belts of an outside circumference exceeding 60 cm but not exceeding 150 cm:",
                 "Subentries": [
                   {
-                    "HS Code": "4010.35.90.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Combined with textile materials:",
                     "Subentries": [
                       {
                         "HS Code": "4010.35.30.00",
                         "Description": "With textile components in which vegetable fibers predominate by weight over any other single textile fiber",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4010.35.50.00",
-                        "Description": "Other",
                         "Subentries": []
                       },
                       {
@@ -113,8 +103,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4010.35.50.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4010.35.90.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -123,22 +123,12 @@
                 "Description": "Endless synchronous belts of an outside circumference exceeding 150 cm but not exceeding 198 cm:",
                 "Subentries": [
                   {
-                    "HS Code": "4010.36.90.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Combined with textile materials:",
                     "Subentries": [
                       {
                         "HS Code": "4010.36.30.00",
                         "Description": "With textile components in which vegetable fibers predominate by weight over any other single textile fiber",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4010.36.50.00",
-                        "Description": "Other",
                         "Subentries": []
                       },
                       {
@@ -156,8 +146,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4010.36.50.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4010.36.90.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -180,22 +180,12 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "4010.39.90.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Combined with textile materials:",
                         "Subentries": [
                           {
                             "HS Code": "4010.39.30.00",
                             "Description": "With textile components in which vegetable fibers predominate by weight over any other single textile fiber",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "4010.39.50.00",
-                            "Description": "Other",
                             "Subentries": []
                           },
                           {
@@ -213,8 +203,18 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "4010.39.50.00",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4010.39.90.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

@@ -131,11 +131,6 @@
                     "Description": "Containing added flavoring matter whether or not containing added coloring:",
                     "Subentries": [
                       {
-                        "HS Code": "1701.91.80.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:",
                         "Subentries": [
@@ -176,6 +171,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "1701.91.80.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

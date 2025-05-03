@@ -8,11 +8,6 @@
         "Description": "Gold (including gold plated with platinum) unwrought or in semimanufactured forms, or in powder form:",
         "Subentries": [
           {
-            "HS Code": "7108.20.00.00",
-            "Description": "Monetary",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Nonmonetary:",
             "Subentries": [
@@ -30,11 +25,6 @@
                     "Description": "Bullion and dore",
                     "Subentries": [
                       {
-                        "HS Code": "7108.12.10.20",
-                        "Description": "Dore",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Bullion:",
                         "Subentries": [
@@ -49,6 +39,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7108.12.10.20",
+                        "Description": "Dore",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -98,6 +93,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "7108.20.00.00",
+            "Description": "Monetary",
+            "Subentries": []
           }
         ]
       }

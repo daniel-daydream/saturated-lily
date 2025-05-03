@@ -59,11 +59,6 @@
                 "Description": "Of stainless steel",
                 "Subentries": [
                   {
-                    "HS Code": "7323.93.00.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Cooking and kitchen ware:",
                     "Subentries": [
@@ -76,11 +71,6 @@
                         "HS Code": "",
                         "Description": "Other:",
                         "Subentries": [
-                          {
-                            "HS Code": "7323.93.00.60",
-                            "Description": "Kitchen ware",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Cooking ware:",
@@ -96,10 +86,20 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "7323.93.00.60",
+                            "Description": "Kitchen ware",
+                            "Subentries": []
                           }
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7323.93.00.80",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -108,19 +108,9 @@
                 "Description": "Of iron (other than cast iron) or steel, enameled",
                 "Subentries": [
                   {
-                    "HS Code": "7323.94.00.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Cooking and kitchen ware:",
                     "Subentries": [
-                      {
-                        "HS Code": "7323.94.00.40",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Of steel:",
@@ -134,11 +124,6 @@
                             "HS Code": "",
                             "Description": "Other:",
                             "Subentries": [
-                              {
-                                "HS Code": "7323.94.00.30",
-                                "Description": "Kitchen ware",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Cooking ware:",
@@ -154,12 +139,27 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "7323.94.00.30",
+                                "Description": "Kitchen ware",
+                                "Subentries": []
                               }
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7323.94.00.40",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7323.94.00.80",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -267,11 +267,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "7615.10.91.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Cooking and kitchen ware:",
                     "Subentries": [
@@ -343,11 +338,6 @@
                                 "Subentries": []
                               },
                               {
-                                "HS Code": "7615.10.71.80",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Other cookware:",
                                 "Subentries": [
@@ -362,12 +352,22 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "7615.10.71.80",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7615.10.91.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

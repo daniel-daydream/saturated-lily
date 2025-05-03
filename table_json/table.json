@@ -45,11 +45,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "9403.20.00.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Foldable mattress foundations with legs, having the characteristics of a bed or bed frame, whether or not mechanically adjustable:",
                         "Subentries": [
@@ -64,6 +59,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "9403.20.00.50",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -73,11 +73,6 @@
                 "HS Code": "",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "9403.20.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Counters, lockers, racks, display cases, shelves, partitions and similar fixtures:",
@@ -103,6 +98,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9403.20.00.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -216,11 +216,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "9403.50.90.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Beds:",
                         "Subentries": [
@@ -240,6 +235,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "9403.50.90.80",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

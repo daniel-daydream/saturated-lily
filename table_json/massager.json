@@ -21,19 +21,9 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "9019.10.20.90",
-                    "Description": "Parts and accessories",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Massage apparatus:",
                     "Subentries": [
-                      {
-                        "HS Code": "9019.10.20.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Electrically operated:",
@@ -71,8 +61,18 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "9019.10.20.50",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9019.10.20.90",
+                    "Description": "Parts and accessories",
+                    "Subentries": []
                   }
                 ]
               },

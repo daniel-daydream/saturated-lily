@@ -13,32 +13,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "4001.30.00",
-            "Description": "Balata, gutta-percha, guayule, chicle and similar natural gums",
-            "Subentries": [
-              {
-                "HS Code": "4001.30.00.05",
-                "Description": "Balata",
-                "Subentries": []
-              },
-              {
-                "HS Code": "4001.30.00.10",
-                "Description": "Gutta-percha and guttas, not elsewhere specified or included",
-                "Subentries": []
-              },
-              {
-                "HS Code": "4001.30.00.20",
-                "Description": "Chicle",
-                "Subentries": []
-              },
-              {
-                "HS Code": "4001.30.00.55",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Natural rubber in other forms:",
             "Subentries": [
@@ -110,6 +84,32 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "4001.30.00",
+            "Description": "Balata, gutta-percha, guayule, chicle and similar natural gums",
+            "Subentries": [
+              {
+                "HS Code": "4001.30.00.05",
+                "Description": "Balata",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4001.30.00.10",
+                "Description": "Gutta-percha and guttas, not elsewhere specified or included",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4001.30.00.20",
+                "Description": "Chicle",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4001.30.00.55",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
           }
         ]
       },
@@ -117,26 +117,6 @@
         "HS Code": "4002",
         "Description": "Synthetic rubber and factice derived from oils, in primary forms or in plates, sheets or strip; mixtures of any product of heading 4001 with any product of this heading, in primary forms or in plates, sheets or strip:",
         "Subentries": [
-          {
-            "HS Code": "4002.20.00.00",
-            "Description": "Butadiene rubber (BR)",
-            "Subentries": []
-          },
-          {
-            "HS Code": "4002.60.00.00",
-            "Description": "Isoprene rubber (IR)",
-            "Subentries": []
-          },
-          {
-            "HS Code": "4002.70.00.00",
-            "Description": "Ethylene-propylene-nonconjugated diene rubber (EPDM)",
-            "Subentries": []
-          },
-          {
-            "HS Code": "4002.80.00.00",
-            "Description": "Mixtures of any product of heading 4001 with any product of this heading",
-            "Subentries": []
-          },
           {
             "HS Code": "",
             "Description": "Styrene-butadiene rubber (SBR); carboxylated styrene-butadiene rubber (XSBR):",
@@ -150,11 +130,6 @@
                 "HS Code": "4002.19.00",
                 "Description": "Other",
                 "Subentries": [
-                  {
-                    "HS Code": "4002.19.00.20",
-                    "Description": "Containing over 50 percent styrene by weight of the dry polymer",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Containing 50 percent or less styrene by weight of the dry polymer:",
@@ -180,10 +155,20 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4002.19.00.20",
+                    "Description": "Containing over 50 percent styrene by weight of the dry polymer",
+                    "Subentries": []
                   }
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "4002.20.00.00",
+            "Description": "Butadiene rubber (BR)",
+            "Subentries": []
           },
           {
             "HS Code": "",
@@ -232,6 +217,21 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "4002.60.00.00",
+            "Description": "Isoprene rubber (IR)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "4002.70.00.00",
+            "Description": "Ethylene-propylene-nonconjugated diene rubber (EPDM)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "4002.80.00.00",
+            "Description": "Mixtures of any product of heading 4001 with any product of this heading",
+            "Subentries": []
           },
           {
             "HS Code": "",
@@ -555,11 +555,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "4010.12.90.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "With textile components in which man-made fibers predominate by weight over any other single textile fiber:",
                     "Subentries": [
@@ -574,6 +569,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4010.12.90.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -582,22 +582,12 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "4010.19.91.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Combined with textile materials:",
                     "Subentries": [
                       {
                         "HS Code": "4010.19.10.00",
                         "Description": "With textile components in which vegetable fibers predominate by weight over any other single textile fiber",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4010.19.80.00",
-                        "Description": "Other",
                         "Subentries": []
                       },
                       {
@@ -615,8 +605,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4010.19.80.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4010.19.91.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -695,22 +695,12 @@
                 "Description": "Endless synchronous belts of an outside circumference exceeding 60 cm but not exceeding 150 cm:",
                 "Subentries": [
                   {
-                    "HS Code": "4010.35.90.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Combined with textile materials:",
                     "Subentries": [
                       {
                         "HS Code": "4010.35.30.00",
                         "Description": "With textile components in which vegetable fibers predominate by weight over any other single textile fiber",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4010.35.50.00",
-                        "Description": "Other",
                         "Subentries": []
                       },
                       {
@@ -728,8 +718,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4010.35.50.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4010.35.90.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -738,22 +738,12 @@
                 "Description": "Endless synchronous belts of an outside circumference exceeding 150 cm but not exceeding 198 cm:",
                 "Subentries": [
                   {
-                    "HS Code": "4010.36.90.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Combined with textile materials:",
                     "Subentries": [
                       {
                         "HS Code": "4010.36.30.00",
                         "Description": "With textile components in which vegetable fibers predominate by weight over any other single textile fiber",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4010.36.50.00",
-                        "Description": "Other",
                         "Subentries": []
                       },
                       {
@@ -771,8 +761,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4010.36.50.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4010.36.90.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -801,22 +801,12 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "4010.39.90.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Combined with textile materials:",
                         "Subentries": [
                           {
                             "HS Code": "4010.39.30.00",
                             "Description": "With textile components in which vegetable fibers predominate by weight over any other single textile fiber",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "4010.39.50.00",
-                            "Description": "Other",
                             "Subentries": []
                           },
                           {
@@ -834,8 +824,18 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "4010.39.50.00",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4010.39.90.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -1146,6 +1146,131 @@
         "Description": "Retreaded or used pneumatic tires of rubber; solid or cushion tires, tire treads and tire flaps, of rubber:",
         "Subentries": [
           {
+            "HS Code": "",
+            "Description": "Retreaded tires:",
+            "Subentries": [
+              {
+                "HS Code": "4012.11",
+                "Description": "Of a kind used on motor cars (including station wagons and racing cars):",
+                "Subentries": [
+                  {
+                    "HS Code": "4012.11.40.00",
+                    "Description": "Radial",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4012.11.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "4012.12",
+                "Description": "Of a kind used on buses or trucks:",
+                "Subentries": [
+                  {
+                    "HS Code": "4012.12.40",
+                    "Description": "Radial",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "On-the-highway truck and bus tires:",
+                        "Subentries": [
+                          {
+                            "HS Code": "4012.12.40.15",
+                            "Description": "Light truck",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4012.12.40.25",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "4012.12.40.35",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "4012.12.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "On-the-highway truck and bus tires:",
+                        "Subentries": [
+                          {
+                            "HS Code": "4012.12.80.19",
+                            "Description": "Light truck",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4012.12.80.29",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "4012.12.80.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "4012.13.00",
+                "Description": "Of a kind used on aircraft",
+                "Subentries": [
+                  {
+                    "HS Code": "4012.13.00.10",
+                    "Description": "For use in civil aircraft",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4012.13.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "4012.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "4012.19.20.00",
+                    "Description": "Designed for tractors provided for in subheadings 8701.91.10, 8701.92.10, 8701.93.10, 8701.94.10 or 8701.95.10 or for agricultural or horticultural machinery or implements provided for in chapter 84 or in subheading 8716.80.10",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4012.19.40.00",
+                        "Description": "Radial",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4012.19.80.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "4012.20",
             "Description": "Used pneumatic tires:",
             "Subentries": [
@@ -1247,131 +1372,6 @@
                 ]
               }
             ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Retreaded tires:",
-            "Subentries": [
-              {
-                "HS Code": "4012.11",
-                "Description": "Of a kind used on motor cars (including station wagons and racing cars):",
-                "Subentries": [
-                  {
-                    "HS Code": "4012.11.40.00",
-                    "Description": "Radial",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4012.11.80.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "4012.12",
-                "Description": "Of a kind used on buses or trucks:",
-                "Subentries": [
-                  {
-                    "HS Code": "4012.12.40",
-                    "Description": "Radial",
-                    "Subentries": [
-                      {
-                        "HS Code": "4012.12.40.35",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "On-the-highway truck and bus tires:",
-                        "Subentries": [
-                          {
-                            "HS Code": "4012.12.40.15",
-                            "Description": "Light truck",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "4012.12.40.25",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "4012.12.80",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "4012.12.80.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "On-the-highway truck and bus tires:",
-                        "Subentries": [
-                          {
-                            "HS Code": "4012.12.80.19",
-                            "Description": "Light truck",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "4012.12.80.29",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "4012.13.00",
-                "Description": "Of a kind used on aircraft",
-                "Subentries": [
-                  {
-                    "HS Code": "4012.13.00.10",
-                    "Description": "For use in civil aircraft",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4012.13.00.50",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "4012.19",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "4012.19.20.00",
-                    "Description": "Designed for tractors provided for in subheadings 8701.91.10, 8701.92.10, 8701.93.10, 8701.94.10 or 8701.95.10 or for agricultural or horticultural machinery or implements provided for in chapter 84 or in subheading 8716.80.10",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "4012.19.40.00",
-                        "Description": "Radial",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4012.19.80.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
           }
         ]
       },
@@ -1461,22 +1461,6 @@
         "Description": "Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanized rubber other than hard rubber:",
         "Subentries": [
           {
-            "HS Code": "4015.90.00",
-            "Description": "Other",
-            "Subentries": [
-              {
-                "HS Code": "4015.90.00.10",
-                "Description": "Aprons",
-                "Subentries": []
-              },
-              {
-                "HS Code": "4015.90.00.50",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Gloves, mittens and mitts:",
             "Subentries": [
@@ -1533,6 +1517,22 @@
                     "Subentries": []
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "4015.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "4015.90.00.10",
+                "Description": "Aprons",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4015.90.00.50",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

@@ -41,16 +41,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "9105.29.40.00",
-                        "Description": "Valued not over $5 each",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9105.29.50.00",
-                        "Description": "Valued over $5 each",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Constructed or designed to operate for over 47 hours without rewinding:",
                         "Subentries": [
@@ -65,6 +55,16 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "9105.29.40.00",
+                        "Description": "Valued not over $5 each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9105.29.50.00",
+                        "Description": "Valued over $5 each",
+                        "Subentries": []
                       }
                     ]
                   }

@@ -20,11 +20,6 @@
                     "Description": "Of cotton (369)",
                     "Subentries": [
                       {
-                        "HS Code": "9404.90.10.90",
-                        "Description": "Other (369)",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Bed pillows (with outer covering of cotton), of a kind described in statistical note 5 to this chapter:",
                         "Subentries": [
@@ -39,6 +34,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "9404.90.10.90",
+                        "Description": "Other (369)",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -46,11 +46,6 @@
                     "HS Code": "9404.90.20",
                     "Description": "Other",
                     "Subentries": [
-                      {
-                        "HS Code": "9404.90.20.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Bed pillows, of a kind described in statistical note 5 to this chapter:",
@@ -66,6 +61,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "9404.90.20.90",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -95,11 +95,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "9404.90.96.70",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "With outer shell of other textile materials:",
                         "Subentries": [
@@ -114,6 +109,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "9404.90.96.70",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

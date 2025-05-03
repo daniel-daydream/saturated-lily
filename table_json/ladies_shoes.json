@@ -25,69 +25,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "6402.91.40",
-                        "Description": "Having uppers of which over 90 percent of the external surface area (including any accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is rubber or plastics except (1) footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and (2) except footwear (other than footwear having uppers which from a point 3 cm above the top of the outer sole are entirely of non- molded construction formed by sewing the parts together and having exposed on the outer surface a substantial portion of functional stitching) designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather",
-                        "Subentries": [
-                          {
-                            "HS Code": "6402.91.40.63",
-                            "Description": "For infants, as described in statistical note 2 to this chapter",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6402.91.40.67",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "For women:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6402.91.40.05",
-                                "Description": "Work footwear",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.91.40.10",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.91.40.40",
-                                "Description": "Work footwear",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.91.40.50",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "6402.91.42",
-                        "Description": "Protective active footwear (except footwear with waterproof molded bottoms, including bottoms comprising an outer sole and all or part of the upper and except footwear with insulation that provides protection against cold weather) whose height from the bottom of the outer sole to the top of the upper does not exceed 15.34 cm",
-                        "Subentries": [
-                          {
-                            "HS Code": "6402.91.42.30",
-                            "Description": "For men",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6402.91.42.60",
-                            "Description": "For women",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6402.91.42.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Other:",
                         "Subentries": [
@@ -95,43 +32,6 @@
                             "HS Code": "6402.91.10.00",
                             "Description": "Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather",
                             "Subentries": []
-                          },
-                          {
-                            "HS Code": "6402.91.50",
-                            "Description": "Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather",
-                            "Subentries": [
-                              {
-                                "HS Code": "6402.91.50.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "For women:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6402.91.50.10",
-                                    "Description": "Work footwear",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6402.91.50.20",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6402.91.50.45",
-                                    "Description": "Work footwear",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6402.91.50.50",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
                           },
                           {
                             "HS Code": "",
@@ -213,11 +113,6 @@
                                     "Description": "Other:",
                                     "Subentries": [
                                       {
-                                        "HS Code": "6402.91.80.91",
-                                        "Description": "Other",
-                                        "Subentries": []
-                                      },
-                                      {
                                         "HS Code": "",
                                         "Description": "For women:",
                                         "Subentries": [
@@ -242,6 +137,11 @@
                                             "Subentries": []
                                           }
                                         ]
+                                      },
+                                      {
+                                        "HS Code": "6402.91.80.91",
+                                        "Description": "Other",
+                                        "Subentries": []
                                       }
                                     ]
                                   }
@@ -260,11 +160,6 @@
                                     "HS Code": "",
                                     "Description": "Other:",
                                     "Subentries": [
-                                      {
-                                        "HS Code": "6402.91.90.95",
-                                        "Description": "Other",
-                                        "Subentries": []
-                                      },
                                       {
                                         "HS Code": "",
                                         "Description": "For women:",
@@ -290,12 +185,117 @@
                                             "Subentries": []
                                           }
                                         ]
+                                      },
+                                      {
+                                        "HS Code": "6402.91.90.95",
+                                        "Description": "Other",
+                                        "Subentries": []
                                       }
                                     ]
                                   }
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "6402.91.50",
+                            "Description": "Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "For women:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6402.91.50.10",
+                                    "Description": "Work footwear",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6402.91.50.20",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6402.91.50.45",
+                                    "Description": "Work footwear",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6402.91.50.50",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "6402.91.50.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6402.91.40",
+                        "Description": "Having uppers of which over 90 percent of the external surface area (including any accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is rubber or plastics except (1) footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and (2) except footwear (other than footwear having uppers which from a point 3 cm above the top of the outer sole are entirely of non- molded construction formed by sewing the parts together and having exposed on the outer surface a substantial portion of functional stitching) designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "For women:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6402.91.40.05",
+                                "Description": "Work footwear",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6402.91.40.10",
+                                "Description": "Other",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6402.91.40.40",
+                                "Description": "Work footwear",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6402.91.40.50",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6402.91.40.63",
+                            "Description": "For infants, as described in statistical note 2 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6402.91.40.67",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6402.91.42",
+                        "Description": "Protective active footwear (except footwear with waterproof molded bottoms, including bottoms comprising an outer sole and all or part of the upper and except footwear with insulation that provides protection against cold weather) whose height from the bottom of the outer sole to the top of the upper does not exceed 15.34 cm",
+                        "Subentries": [
+                          {
+                            "HS Code": "6402.91.42.30",
+                            "Description": "For men",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6402.91.42.60",
+                            "Description": "For women",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6402.91.42.90",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -324,106 +324,6 @@
                             "HS Code": "6402.99.08.00",
                             "Description": "Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather",
                             "Subentries": []
-                          },
-                          {
-                            "HS Code": "6402.99.23",
-                            "Description": "Made on a base or platform of wood",
-                            "Subentries": [
-                              {
-                                "HS Code": "6402.99.23.30",
-                                "Description": "For men",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.99.23.60",
-                                "Description": "For women",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.99.23.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "6402.99.25",
-                            "Description": "Made on a base or platform of cork",
-                            "Subentries": [
-                              {
-                                "HS Code": "6402.99.25.30",
-                                "Description": "For men",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.99.25.60",
-                                "Description": "For women",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.99.25.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "6402.99.32",
-                            "Description": "Protective active footwear",
-                            "Subentries": [
-                              {
-                                "HS Code": "6402.99.32.30",
-                                "Description": "For men",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.99.32.60",
-                                "Description": "For women",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.99.32.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "6402.99.33",
-                            "Description": "Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather",
-                            "Subentries": [
-                              {
-                                "HS Code": "6402.99.33.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "For women:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6402.99.33.10",
-                                    "Description": "Work footwear",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6402.99.33.20",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6402.99.33.45",
-                                    "Description": "Work footwear",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6402.99.33.50",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
                           },
                           {
                             "HS Code": "",
@@ -489,16 +389,6 @@
                                     "Description": "Other:",
                                     "Subentries": [
                                       {
-                                        "HS Code": "6402.99.31.73",
-                                        "Description": "For infants, as described in statistical note 2 to this chapter",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6402.99.31.77",
-                                        "Description": "Other",
-                                        "Subentries": []
-                                      },
-                                      {
                                         "HS Code": "",
                                         "Description": "For men:",
                                         "Subentries": [
@@ -529,6 +419,16 @@
                                             "Subentries": []
                                           }
                                         ]
+                                      },
+                                      {
+                                        "HS Code": "6402.99.31.73",
+                                        "Description": "For infants, as described in statistical note 2 to this chapter",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6402.99.31.77",
+                                        "Description": "Other",
+                                        "Subentries": []
                                       }
                                     ]
                                   }
@@ -564,70 +464,6 @@
                                       },
                                       {
                                         "HS Code": "6402.99.49.80",
-                                        "Description": "Other",
-                                        "Subentries": []
-                                      }
-                                    ]
-                                  }
-                                ]
-                              },
-                              {
-                                "HS Code": "6402.99.80",
-                                "Description": "Valued over $6.50 but not over $12/pair",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6402.99.80.05",
-                                    "Description": "Tennis shoes, basketball shoes, gym shoes, training shoes and the like",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "",
-                                    "Description": "Other:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "6402.99.80.31",
-                                        "Description": "For men",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6402.99.80.61",
-                                        "Description": "For women",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6402.99.80.91",
-                                        "Description": "Other",
-                                        "Subentries": []
-                                      }
-                                    ]
-                                  }
-                                ]
-                              },
-                              {
-                                "HS Code": "6402.99.90",
-                                "Description": "Valued over $12/pair",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6402.99.90.05",
-                                    "Description": "Tennis shoes, basketball shoes, gym shoes, training shoes and the like",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "",
-                                    "Description": "Other:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "6402.99.90.35",
-                                        "Description": "For men",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6402.99.90.65",
-                                        "Description": "For women",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6402.99.90.95",
                                         "Description": "Other",
                                         "Subentries": []
                                       }
@@ -714,6 +550,170 @@
                                     ]
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "6402.99.80",
+                                "Description": "Valued over $6.50 but not over $12/pair",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6402.99.80.05",
+                                    "Description": "Tennis shoes, basketball shoes, gym shoes, training shoes and the like",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "6402.99.80.31",
+                                        "Description": "For men",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6402.99.80.61",
+                                        "Description": "For women",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6402.99.80.91",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "6402.99.90",
+                                "Description": "Valued over $12/pair",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6402.99.90.05",
+                                    "Description": "Tennis shoes, basketball shoes, gym shoes, training shoes and the like",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "6402.99.90.35",
+                                        "Description": "For men",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6402.99.90.65",
+                                        "Description": "For women",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6402.99.90.95",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6402.99.23",
+                            "Description": "Made on a base or platform of wood",
+                            "Subentries": [
+                              {
+                                "HS Code": "6402.99.23.30",
+                                "Description": "For men",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6402.99.23.60",
+                                "Description": "For women",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6402.99.23.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6402.99.25",
+                            "Description": "Made on a base or platform of cork",
+                            "Subentries": [
+                              {
+                                "HS Code": "6402.99.25.30",
+                                "Description": "For men",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6402.99.25.60",
+                                "Description": "For women",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6402.99.25.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6402.99.32",
+                            "Description": "Protective active footwear",
+                            "Subentries": [
+                              {
+                                "HS Code": "6402.99.32.30",
+                                "Description": "For men",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6402.99.32.60",
+                                "Description": "For women",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6402.99.32.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6402.99.33",
+                            "Description": "Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "For women:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6402.99.33.10",
+                                    "Description": "Work footwear",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6402.99.33.20",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6402.99.33.45",
+                                    "Description": "Work footwear",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6402.99.33.50",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "6402.99.33.90",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -753,16 +753,6 @@
                         "Description": "Welt footwear",
                         "Subentries": [
                           {
-                            "HS Code": "6403.51.30.60",
-                            "Description": "For women",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6403.51.30.71",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "For men:",
                             "Subentries": [
@@ -777,6 +767,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "6403.51.30.60",
+                            "Description": "For women",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6403.51.30.71",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       },
@@ -788,11 +788,6 @@
                             "HS Code": "6403.51.60",
                             "Description": "For men, youths and boys",
                             "Subentries": [
-                              {
-                                "HS Code": "6403.51.60.60",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "For men:",
@@ -808,6 +803,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "6403.51.60.60",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           },
@@ -815,11 +815,6 @@
                             "HS Code": "6403.51.90",
                             "Description": "For other persons",
                             "Subentries": [
-                              {
-                                "HS Code": "6403.51.90.41",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "For women:",
@@ -835,6 +830,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "6403.51.90.41",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -883,16 +883,6 @@
                         "Description": "Welt footwear",
                         "Subentries": [
                           {
-                            "HS Code": "6403.59.30.60",
-                            "Description": "For women",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6403.59.30.81",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "For men:",
                             "Subentries": [
@@ -907,6 +897,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "6403.59.30.60",
+                            "Description": "For women",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6403.59.30.81",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       },
@@ -918,11 +918,6 @@
                             "HS Code": "6403.59.60",
                             "Description": "For men, youths and boys",
                             "Subentries": [
-                              {
-                                "HS Code": "6403.59.60.80",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "For men:",
@@ -938,6 +933,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "6403.59.60.80",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           },
@@ -945,11 +945,6 @@
                             "HS Code": "6403.59.90",
                             "Description": "For other persons",
                             "Subentries": [
-                              {
-                                "HS Code": "6403.59.90.61",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "For women:",
@@ -965,6 +960,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "6403.59.90.61",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -1012,16 +1012,6 @@
                             "Description": "Other:",
                             "Subentries": [
                               {
-                                "HS Code": "6403.91.30.80",
-                                "Description": "For women",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6403.91.30.91",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "For men:",
                                 "Subentries": [
@@ -1036,6 +1026,16 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "6403.91.30.80",
+                                "Description": "For women",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6403.91.30.91",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -1095,11 +1095,6 @@
                                     "Description": "Other:",
                                     "Subentries": [
                                       {
-                                        "HS Code": "6403.91.60.90",
-                                        "Description": "Other",
-                                        "Subentries": []
-                                      },
-                                      {
                                         "HS Code": "",
                                         "Description": "For men:",
                                         "Subentries": [
@@ -1114,6 +1109,11 @@
                                             "Subentries": []
                                           }
                                         ]
+                                      },
+                                      {
+                                        "HS Code": "6403.91.60.90",
+                                        "Description": "Other",
+                                        "Subentries": []
                                       }
                                     ]
                                   }
@@ -1135,11 +1135,6 @@
                                 "Description": "Other:",
                                 "Subentries": [
                                   {
-                                    "HS Code": "6403.91.90.51",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "For women:",
                                     "Subentries": [
@@ -1154,6 +1149,11 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "6403.91.90.51",
+                                    "Description": "Other",
+                                    "Subentries": []
                                   }
                                 ]
                               }
@@ -1228,16 +1228,6 @@
                                 "Description": "Other:",
                                 "Subentries": [
                                   {
-                                    "HS Code": "6403.99.40.80",
-                                    "Description": "For women",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6403.99.40.91",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "For men:",
                                     "Subentries": [
@@ -1252,6 +1242,16 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "6403.99.40.80",
+                                    "Description": "For women",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6403.99.40.91",
+                                    "Description": "Other",
+                                    "Subentries": []
                                   }
                                 ]
                               }
@@ -1316,11 +1316,6 @@
                                         "Description": "Other:",
                                         "Subentries": [
                                           {
-                                            "HS Code": "6403.99.60.90",
-                                            "Description": "Other",
-                                            "Subentries": []
-                                          },
-                                          {
                                             "HS Code": "",
                                             "Description": "For men:",
                                             "Subentries": [
@@ -1335,6 +1330,11 @@
                                                 "Subentries": []
                                               }
                                             ]
+                                          },
+                                          {
+                                            "HS Code": "6403.99.60.90",
+                                            "Description": "Other",
+                                            "Subentries": []
                                           }
                                         ]
                                       }
@@ -1360,11 +1360,6 @@
                                         "Description": "Other:",
                                         "Subentries": [
                                           {
-                                            "HS Code": "6403.99.75.90",
-                                            "Description": "Other",
-                                            "Subentries": []
-                                          },
-                                          {
                                             "HS Code": "",
                                             "Description": "For women:",
                                             "Subentries": [
@@ -1379,6 +1374,11 @@
                                                 "Subentries": []
                                               }
                                             ]
+                                          },
+                                          {
+                                            "HS Code": "6403.99.75.90",
+                                            "Description": "Other",
+                                            "Subentries": []
                                           }
                                         ]
                                       }
@@ -1403,11 +1403,6 @@
                                         "Description": "Other:",
                                         "Subentries": [
                                           {
-                                            "HS Code": "6403.99.90.41",
-                                            "Description": "Other tennis shoes, basketball shoes, and the like",
-                                            "Subentries": []
-                                          },
-                                          {
                                             "HS Code": "",
                                             "Description": "Tennis shoes, basketball shoes, and the like, for women:",
                                             "Subentries": [
@@ -1424,14 +1419,14 @@
                                             ]
                                           },
                                           {
+                                            "HS Code": "6403.99.90.41",
+                                            "Description": "Other tennis shoes, basketball shoes, and the like",
+                                            "Subentries": []
+                                          },
+                                          {
                                             "HS Code": "",
                                             "Description": "Other:",
                                             "Subentries": [
-                                              {
-                                                "HS Code": "6403.99.90.71",
-                                                "Description": "Other",
-                                                "Subentries": []
-                                              },
                                               {
                                                 "HS Code": "",
                                                 "Description": "For women:",
@@ -1447,6 +1442,11 @@
                                                     "Subentries": []
                                                   }
                                                 ]
+                                              },
+                                              {
+                                                "HS Code": "6403.99.90.71",
+                                                "Description": "Other",
+                                                "Subentries": []
                                               }
                                             ]
                                           }
@@ -1476,27 +1476,6 @@
             "HS Code": "6404.20",
             "Description": "Footwear with outer soles of leather or composition leather:",
             "Subentries": [
-              {
-                "HS Code": "6404.20.60",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "6404.20.60.40",
-                    "Description": "For men",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "6404.20.60.60",
-                    "Description": "For women",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "6404.20.60.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
               {
                 "HS Code": "",
                 "Description": "Not over 50 percent by weight of rubber or plastics and not over 50 percent by weight of textile materials and rubber or plastics with at least 10 percent by weight being rubber or plastics:",
@@ -1542,6 +1521,27 @@
                         "Subentries": []
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6404.20.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "6404.20.60.40",
+                    "Description": "For men",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6404.20.60.60",
+                    "Description": "For women",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6404.20.60.80",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

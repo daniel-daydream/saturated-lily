@@ -12,11 +12,6 @@
             "Description": "Transmission shafts (including camshafts and crankshafts) and cranks:",
             "Subentries": [
               {
-                "HS Code": "8483.10.50.00",
-                "Description": "Other transmission shafts and cranks",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Camshafts and crankshafts:",
                 "Subentries": [
@@ -24,11 +19,6 @@
                     "HS Code": "8483.10.10",
                     "Description": "Designed for use solely or principally with spark-ignition internal combustion piston engines or rotary engines",
                     "Subentries": [
-                      {
-                        "HS Code": "8483.10.10.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "For vehicles of chapter 87:",
@@ -44,6 +34,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8483.10.10.50",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -64,6 +59,11 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "8483.10.50.00",
+                "Description": "Other transmission shafts and cranks",
+                "Subentries": []
               }
             ]
           },
@@ -197,24 +197,9 @@
                 "Subentries": []
               },
               {
-                "HS Code": "8483.40.80.00",
-                "Description": "Ball or roller screws",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8483.40.90.00",
-                "Description": "Gears and gearing, other than toothed wheels, chain sprockets and other transmission elements entered separately",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Gear boxes and other speed changers:",
                 "Subentries": [
-                  {
-                    "HS Code": "8483.40.70.00",
-                    "Description": "Other speed changers",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Fixed ratio speed changers, multiple and variable ratio speed changers each ratio of which is selected by manual manipulation:",
@@ -252,8 +237,23 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8483.40.70.00",
+                    "Description": "Other speed changers",
+                    "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8483.40.80.00",
+                "Description": "Ball or roller screws",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8483.40.90.00",
+                "Description": "Gears and gearing, other than toothed wheels, chain sprockets and other transmission elements entered separately",
+                "Subentries": []
               }
             ]
           },
@@ -343,22 +343,6 @@
                 ]
               },
               {
-                "HS Code": "8483.90.50",
-                "Description": "Parts of gearing, gear boxes and other speed changers",
-                "Subentries": [
-                  {
-                    "HS Code": "8483.90.50.10",
-                    "Description": "Forged gear blanks",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8483.90.50.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
                 "HS Code": "",
                 "Description": "Parts of bearing housings and plain shaft bearings:",
                 "Subentries": [
@@ -369,6 +353,22 @@
                   },
                   {
                     "HS Code": "8483.90.30.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8483.90.50",
+                "Description": "Parts of gearing, gear boxes and other speed changers",
+                "Subentries": [
+                  {
+                    "HS Code": "8483.90.50.10",
+                    "Description": "Forged gear blanks",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8483.90.50.90",
                     "Description": "Other",
                     "Subentries": []
                   }

@@ -93,34 +93,9 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "1001.99.00.45",
-                            "Description": "White winter wheat",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "1001.99.00.55",
-                            "Description": "\"Canadian\" western red winter wheat",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "1001.99.00.65",
-                            "Description": "Soft white spring wheat",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "1001.99.00.97",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Red spring wheat:",
                             "Subentries": [
-                              {
-                                "HS Code": "1001.99.00.36",
-                                "Description": "Other red spring wheat",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Grade 1:",
@@ -162,8 +137,33 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "1001.99.00.36",
+                                "Description": "Other red spring wheat",
+                                "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "1001.99.00.45",
+                            "Description": "White winter wheat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1001.99.00.55",
+                            "Description": "\"Canadian\" western red winter wheat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1001.99.00.65",
+                            "Description": "Soft white spring wheat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1001.99.00.97",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }

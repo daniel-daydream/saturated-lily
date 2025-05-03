@@ -63,21 +63,6 @@
                     ]
                   },
                   {
-                    "HS Code": "2005.99.80.00",
-                    "Description": "Artichokes",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "2005.99.85.00",
-                    "Description": "Chickpeas (garbanzos)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "2005.99.97.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Fruits of the genus Capsicum (peppers) or of the genus Pimenta (e.g., allspice):",
                     "Subentries": [
@@ -114,6 +99,21 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "2005.99.80.00",
+                    "Description": "Artichokes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2005.99.85.00",
+                    "Description": "Chickpeas (garbanzos)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2005.99.97.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

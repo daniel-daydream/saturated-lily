@@ -13,16 +13,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "7204.30.00.00",
-            "Description": "Waste and scrap of tinned iron or steel",
-            "Subentries": []
-          },
-          {
-            "HS Code": "7204.50.00.00",
-            "Description": "Remelting scrap ingots",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Waste and scrap of alloy steel:",
             "Subentries": [
@@ -100,6 +90,16 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "7204.30.00.00",
+            "Description": "Waste and scrap of tinned iron or steel",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7204.50.00.00",
+            "Description": "Remelting scrap ingots",
+            "Subentries": []
           }
         ]
       }

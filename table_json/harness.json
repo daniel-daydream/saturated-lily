@@ -82,16 +82,6 @@
                 ]
               },
               {
-                "HS Code": "6307.90.75.00",
-                "Description": "Toys for pets, of textile materials",
-                "Subentries": []
-              },
-              {
-                "HS Code": "6307.90.85.00",
-                "Description": "Wall banners, of man-made fibers",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Surgical drapes:",
                 "Subentries": [
@@ -128,6 +118,16 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "6307.90.75.00",
+                "Description": "Toys for pets, of textile materials",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6307.90.85.00",
+                "Description": "Wall banners, of man-made fibers",
+                "Subentries": []
               },
               {
                 "HS Code": "",
@@ -206,11 +206,6 @@
                         "Description": "Face masks, including respirators without replaceable filters:",
                         "Subentries": [
                           {
-                            "HS Code": "6307.90.98.50",
-                            "Description": "Other respirators",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "N95 respirators:",
                             "Subentries": [
@@ -225,6 +220,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "6307.90.98.50",
+                            "Description": "Other respirators",
+                            "Subentries": []
                           },
                           {
                             "HS Code": "",

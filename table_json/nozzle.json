@@ -55,6 +55,27 @@
             "Description": "Parts:",
             "Subentries": [
               {
+                "HS Code": "",
+                "Description": "Of hand operated and check appliances:",
+                "Subentries": [
+                  {
+                    "HS Code": "8481.90.10.00",
+                    "Description": "Of copper",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.90.30.00",
+                    "Description": "Of iron or steel",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.90.50.00",
+                    "Description": "Of other materials",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
                 "HS Code": "8481.90.90",
                 "Description": "Other",
                 "Subentries": [
@@ -100,27 +121,6 @@
                         ]
                       }
                     ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Of hand operated and check appliances:",
-                "Subentries": [
-                  {
-                    "HS Code": "8481.90.10.00",
-                    "Description": "Of copper",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8481.90.30.00",
-                    "Description": "Of iron or steel",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8481.90.50.00",
-                    "Description": "Of other materials",
-                    "Subentries": []
                   }
                 ]
               }

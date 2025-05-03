@@ -134,54 +134,6 @@
                 "Description": "Of other textile materials:",
                 "Subentries": [
                   {
-                    "HS Code": "6204.59.40",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "6204.59.40.10",
-                        "Description": "Subject to cotton restraints (342)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6204.59.40.20",
-                        "Description": "Subject to wool restraints (442)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6204.59.40.30",
-                        "Description": "Subject to man-made fiber restraints (642)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "6204.59.40.60",
-                            "Description": "Other (842)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Of silk:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6204.59.40.40",
-                                "Description": "Containing 70 percent or more by weight of silk or silk waste (742)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6204.59.40.50",
-                                "Description": "Other (842)",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of artificial fibers:",
                     "Subentries": [
@@ -225,6 +177,54 @@
                                 "Subentries": []
                               }
                             ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "6204.59.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6204.59.40.10",
+                        "Description": "Subject to cotton restraints (342)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6204.59.40.20",
+                        "Description": "Subject to wool restraints (442)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6204.59.40.30",
+                        "Description": "Subject to man-made fiber restraints (642)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Of silk:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6204.59.40.40",
+                                "Description": "Containing 70 percent or more by weight of silk or silk waste (742)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6204.59.40.50",
+                                "Description": "Other (842)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6204.59.40.60",
+                            "Description": "Other (842)",
+                            "Subentries": []
                           }
                         ]
                       }

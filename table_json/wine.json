@@ -72,11 +72,6 @@
                                     "Description": "Other:",
                                     "Subentries": [
                                       {
-                                        "HS Code": "2204.21.50.60",
-                                        "Description": "Other",
-                                        "Subentries": []
-                                      },
-                                      {
                                         "HS Code": "",
                                         "Description": "Red:",
                                         "Subentries": [
@@ -107,6 +102,11 @@
                                             "Subentries": []
                                           }
                                         ]
+                                      },
+                                      {
+                                        "HS Code": "2204.21.50.60",
+                                        "Description": "Other",
+                                        "Subentries": []
                                       }
                                     ]
                                   }

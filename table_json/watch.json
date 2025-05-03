@@ -74,11 +74,6 @@
                 "Description": "With opto-electronic display only:",
                 "Subentries": [
                   {
-                    "HS Code": "9102.12.80.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Straps, bands or bracelets entered with watches of subheading 9102.12.80 and classifiable therewith pursuant to additional U.S. note 2 to this chapter; all the foregoing whether or not attached to such watches at the time of entry:",
                     "Subentries": [
@@ -93,6 +88,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9102.12.80.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -179,31 +179,6 @@
                     "Description": "Having over 17 jewels in the movement:",
                     "Subentries": [
                       {
-                        "HS Code": "9102.29.10",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9102.29.15",
-                        "Description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9102.29.20",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9102.29.55",
-                        "Description": "With strap, band or bracelet of textile material or of base metal, whether or not gold-or silver-plated",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9102.29.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated:",
                         "Subentries": [
@@ -214,16 +189,6 @@
                           },
                           {
                             "HS Code": "9102.29.04",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9102.29.45",
-                            "Description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9102.29.50",
                             "Description": "Other",
                             "Subentries": []
                           },
@@ -252,8 +217,43 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "9102.29.45",
+                            "Description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9102.29.50",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "9102.29.10",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9102.29.15",
+                        "Description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9102.29.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9102.29.55",
+                        "Description": "With strap, band or bracelet of textile material or of base metal, whether or not gold-or silver-plated",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9102.29.60",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

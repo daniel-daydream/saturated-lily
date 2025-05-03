@@ -29,16 +29,6 @@
                         "Description": "Of iron or steel, of aluminum or of zinc",
                         "Subentries": [
                           {
-                            "HS Code": "8302.41.60.50",
-                            "Description": "For curtains, draperies and window shades",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8302.41.60.80",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Suitable for interior and exterior doors (except garage, overhead or sliding doors):",
                             "Subentries": [
@@ -53,6 +43,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8302.41.60.50",
+                            "Description": "For curtains, draperies and window shades",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8302.41.60.80",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       },
@@ -60,16 +60,6 @@
                         "HS Code": "8302.41.90",
                         "Description": "Other",
                         "Subentries": [
-                          {
-                            "HS Code": "8302.41.90.50",
-                            "Description": "For curtains, draperies and window shades",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8302.41.90.80",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Suitable for interior and exterior doors (except garage, overhead or sliding doors):",
@@ -85,6 +75,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8302.41.90.50",
+                            "Description": "For curtains, draperies and window shades",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8302.41.90.80",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -185,11 +185,6 @@
                         "Description": "Other",
                         "Subentries": [
                           {
-                            "HS Code": "8302.49.80.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "For railway vehicles, aircraft, vessels and other vehicles (except motor vehicles) of section XVII:",
                             "Subentries": [
@@ -204,6 +199,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8302.49.80.90",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }

@@ -216,11 +216,6 @@
         "Description": "Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared:",
         "Subentries": [
           {
-            "HS Code": "0603.90.00.00",
-            "Description": "Other",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Fresh:",
             "Subentries": [
@@ -431,6 +426,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "0603.90.00.00",
+            "Description": "Other",
+            "Subentries": []
           }
         ]
       },
@@ -455,26 +455,6 @@
               {
                 "HS Code": "0604.20.00.15",
                 "Description": "Eucalyptus",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0604.20.00.72",
-                "Description": "Mosses and lichens",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0604.20.00.82",
-                "Description": "Pittosporum",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0604.20.00.84",
-                "Description": "Ruscus",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0604.20.00.86",
-                "Description": "Other",
                 "Subentries": []
               },
               {
@@ -515,6 +495,11 @@
                 ]
               },
               {
+                "HS Code": "0604.20.00.72",
+                "Description": "Mosses and lichens",
+                "Subentries": []
+              },
+              {
                 "HS Code": "",
                 "Description": "Palms:",
                 "Subentries": [
@@ -529,6 +514,21 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0604.20.00.82",
+                "Description": "Pittosporum",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.84",
+                "Description": "Ruscus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.86",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },

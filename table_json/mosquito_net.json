@@ -89,6 +89,22 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
+                        "HS Code": "",
+                        "Description": "Of vegetable fibers (except cotton):",
+                        "Subentries": [
+                          {
+                            "HS Code": "6304.99.25.00",
+                            "Description": "Wall hangings of jute",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6304.99.35.00",
+                            "Description": "Other (899)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
                         "HS Code": "6304.99.40.00",
                         "Description": "Certified hand-loomed and folklore pillow covers of wool or fine animal hair",
                         "Subentries": []
@@ -122,22 +138,6 @@
                                 "Subentries": []
                               }
                             ]
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Of vegetable fibers (except cotton):",
-                        "Subentries": [
-                          {
-                            "HS Code": "6304.99.25.00",
-                            "Description": "Wall hangings of jute",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6304.99.35.00",
-                            "Description": "Other (899)",
-                            "Subentries": []
                           }
                         ]
                       }

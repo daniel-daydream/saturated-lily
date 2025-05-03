@@ -16,16 +16,6 @@
                 "Description": "Processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",
                 "Subentries": [
                   {
-                    "HS Code": "8542.31.00.70",
-                    "Description": "System on chip (SoCs)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8542.31.00.75",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Programmable logic devices (PLDs):",
                     "Subentries": [
@@ -85,6 +75,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8542.31.00.70",
+                    "Description": "System on chip (SoCs)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8542.31.00.75",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -92,26 +92,6 @@
                 "HS Code": "8542.32.00",
                 "Description": "Memories",
                 "Subentries": [
-                  {
-                    "HS Code": "8542.32.00.41",
-                    "Description": "Static read-write random access (SRAM)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8542.32.00.51",
-                    "Description": "Electrically erasable programmable read-only memory (EEPROM)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8542.32.00.61",
-                    "Description": "Erasable (except electrically) programmable read-only memory (EPROM)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8542.32.00.71",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Dynamic read-write random access (DRAM):",
@@ -142,6 +122,26 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8542.32.00.41",
+                    "Description": "Static read-write random access (SRAM)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8542.32.00.51",
+                    "Description": "Electrically erasable programmable read-only memory (EEPROM)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8542.32.00.61",
+                    "Description": "Erasable (except electrically) programmable read-only memory (EPROM)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8542.32.00.71",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -165,11 +165,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "8542.39.00.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Data converters:",
                     "Subentries": [
@@ -189,6 +184,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8542.39.00.60",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

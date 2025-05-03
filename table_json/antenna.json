@@ -16,11 +16,6 @@
                 "Description": "Television",
                 "Subentries": [
                   {
-                    "HS Code": "8529.10.21.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Antennas:",
                     "Subentries": [
@@ -35,6 +30,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8529.10.21.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -66,24 +66,9 @@
             "Description": "Other:",
             "Subentries": [
               {
-                "HS Code": "8529.90.24.01",
-                "Description": "Transceiver assemblies for the apparatus of subheading 8526.10, other than printed circuit assemblies",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8529.90.55.00",
-                "Description": "Flat panel screen assemblies for the apparatus of subheadings 8528.59.15, 8528.59.23, 8528.59.25, 8528.59.33, 8528.69.35, 8525.69.40, 8528.69.45, 8528.69.50, 8528.72.62, 8528.72.64, 8528.72.68 and 8528.72.72",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Printed circuit assemblies:",
                 "Subentries": [
-                  {
-                    "HS Code": "8529.90.21.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of television apparatus:",
@@ -174,8 +159,18 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8529.90.21.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8529.90.24.01",
+                "Description": "Transceiver assemblies for the apparatus of subheading 8526.10, other than printed circuit assemblies",
+                "Subentries": []
               },
               {
                 "HS Code": "",
@@ -184,11 +179,6 @@
                   {
                     "HS Code": "8529.90.29.00",
                     "Description": "Tuners",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8529.90.39.00",
-                    "Description": "Other",
                     "Subentries": []
                   },
                   {
@@ -206,6 +196,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8529.90.39.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -213,11 +208,6 @@
                 "HS Code": "",
                 "Description": "Combinations of parts specified in additional U.S. note 9 to this chapter:",
                 "Subentries": [
-                  {
-                    "HS Code": "8529.90.49.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Subassemblies, for color television receivers, containing two or more printed circuit boards or ceramic substrates with components assembled thereon, except tuners or convergence assemblies:",
@@ -233,23 +223,23 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8529.90.49.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8529.90.55.00",
+                "Description": "Flat panel screen assemblies for the apparatus of subheadings 8528.59.15, 8528.59.23, 8528.59.25, 8528.59.33, 8528.69.35, 8525.69.40, 8528.69.45, 8528.69.50, 8528.72.62, 8528.72.64, 8528.72.68 and 8528.72.72",
+                "Subentries": []
               },
               {
                 "HS Code": "",
                 "Description": "Other, parts of printed circuit assemblies, including face plates and lock latches:",
                 "Subentries": [
-                  {
-                    "HS Code": "8529.90.73.00",
-                    "Description": "Of radar, radio navigational aid or radio remote control apparatus",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8529.90.77.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of television apparatus:",
@@ -265,6 +255,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8529.90.73.00",
+                    "Description": "Of radar, radio navigational aid or radio remote control apparatus",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8529.90.77.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -273,19 +273,9 @@
                 "Description": "Other parts of articles of headings 8525 and 8527:",
                 "Subentries": [
                   {
-                    "HS Code": "8529.90.87.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of television apparatus:",
                     "Subentries": [
-                      {
-                        "HS Code": "8529.90.83.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "For television cameras:",
@@ -301,8 +291,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8529.90.83.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8529.90.87.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -311,30 +311,9 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "8529.90.98.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of television receivers:",
                     "Subentries": [
-                      {
-                        "HS Code": "8529.90.93",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "8529.90.93.45",
-                            "Description": "Convergence assemblies, focus coils and degaussing coils",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8529.90.93.80",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
                       {
                         "HS Code": "",
                         "Description": "Subassemblies, for color television receivers, containing two or more printed circuit boards or ceramic substrates with components assembled thereon, except tuners or convergence assemblies:",
@@ -346,6 +325,22 @@
                           },
                           {
                             "HS Code": "8529.90.89.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8529.90.93",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8529.90.93.45",
+                            "Description": "Convergence assemblies, focus coils and degaussing coils",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8529.90.93.80",
                             "Description": "Other",
                             "Subentries": []
                           }
@@ -400,6 +395,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8529.90.98.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

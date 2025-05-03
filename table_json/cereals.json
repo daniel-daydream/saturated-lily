@@ -93,34 +93,9 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "1001.99.00.45",
-                            "Description": "White winter wheat",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "1001.99.00.55",
-                            "Description": "\"Canadian\" western red winter wheat",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "1001.99.00.65",
-                            "Description": "Soft white spring wheat",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "1001.99.00.97",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Red spring wheat:",
                             "Subentries": [
-                              {
-                                "HS Code": "1001.99.00.36",
-                                "Description": "Other red spring wheat",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Grade 1:",
@@ -162,8 +137,33 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "1001.99.00.36",
+                                "Description": "Other red spring wheat",
+                                "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "1001.99.00.45",
+                            "Description": "White winter wheat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1001.99.00.55",
+                            "Description": "\"Canadian\" western red winter wheat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1001.99.00.65",
+                            "Description": "Soft white spring wheat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1001.99.00.97",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -361,21 +361,6 @@
                 "Description": "Other",
                 "Subentries": [
                   {
-                    "HS Code": "1006.20.40.40",
-                    "Description": "Medium grain",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "1006.20.40.60",
-                    "Description": "Short grain",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "1006.20.40.80",
-                    "Description": "Mixtures of any of the above",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Long grain:",
                     "Subentries": [
@@ -390,6 +375,21 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "1006.20.40.40",
+                    "Description": "Medium grain",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1006.20.40.60",
+                    "Description": "Short grain",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1006.20.40.80",
+                    "Description": "Mixtures of any of the above",
+                    "Subentries": []
                   }
                 ]
               }
@@ -429,21 +429,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "1006.30.90.65",
-                        "Description": "Medium grain",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1006.30.90.75",
-                        "Description": "Short grain",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1006.30.90.85",
-                        "Description": "Mixtures of any of the above",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Long grain:",
                         "Subentries": [
@@ -463,6 +448,21 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "1006.30.90.65",
+                        "Description": "Medium grain",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1006.30.90.75",
+                        "Description": "Short grain",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1006.30.90.85",
+                        "Description": "Mixtures of any of the above",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -501,6 +501,22 @@
             "HS Code": "1008.10.00.00",
             "Description": "Buckwheat",
             "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Millet:",
+            "Subentries": [
+              {
+                "HS Code": "1008.21.00.00",
+                "Description": "Seed",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1008.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
           },
           {
             "HS Code": "1008.30.00.00",
@@ -544,22 +560,6 @@
               },
               {
                 "HS Code": "1008.90.01.40",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Millet:",
-            "Subentries": [
-              {
-                "HS Code": "1008.21.00.00",
-                "Description": "Seed",
-                "Subentries": []
-              },
-              {
-                "HS Code": "1008.29.00.00",
                 "Description": "Other",
                 "Subentries": []
               }

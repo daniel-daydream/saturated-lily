@@ -8,6 +8,33 @@
         "Description": "Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included:",
         "Subentries": [
           {
+            "HS Code": "",
+            "Description": "Other automatic data processing machines:",
+            "Subentries": [
+              {
+                "HS Code": "8471.41.01",
+                "Description": "Comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.41.01.10",
+                    "Description": "With cathode-ray tube (CRT)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.41.01.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8471.49.00.00",
+                "Description": "Other, entered in the form of systems",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "8471.50.01",
             "Description": "Processing units other than those of subheading 8471.41 or 8471.49, whether or not containing in the same housing one or two of the following types of unit: storage units, input units, output units",
             "Subentries": [
@@ -81,33 +108,6 @@
                 ]
               }
             ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Other automatic data processing machines:",
-            "Subentries": [
-              {
-                "HS Code": "8471.41.01",
-                "Description": "Comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined",
-                "Subentries": [
-                  {
-                    "HS Code": "8471.41.01.10",
-                    "Description": "With cathode-ray tube (CRT)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8471.41.01.50",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "8471.49.00.00",
-                "Description": "Other, entered in the form of systems",
-                "Subentries": []
-              }
-            ]
           }
         ]
       },
@@ -119,11 +119,6 @@
             "HS Code": "8473.30",
             "Description": "Parts and accessories of the machines of heading 8471:",
             "Subentries": [
-              {
-                "HS Code": "8473.30.91.00",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Not incorporating a cathode ray tube:",
@@ -155,6 +150,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8473.30.91.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

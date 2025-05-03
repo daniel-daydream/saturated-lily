@@ -49,11 +49,6 @@
                 "Description": "Other",
                 "Subentries": [
                   {
-                    "HS Code": "8515.39.00.60",
-                    "Description": "Rotating type",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Non-rotating type:",
                     "Subentries": [
@@ -68,6 +63,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8515.39.00.60",
+                    "Description": "Rotating type",
+                    "Subentries": []
                   }
                 ]
               }

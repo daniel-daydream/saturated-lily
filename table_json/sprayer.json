@@ -16,11 +16,6 @@
                 "Description": "Agricultural or horticultural",
                 "Subentries": [
                   {
-                    "HS Code": "8424.82.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Irrigation equipment:",
                     "Subentries": [
@@ -35,6 +30,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8424.82.00.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },

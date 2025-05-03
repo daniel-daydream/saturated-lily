@@ -133,26 +133,6 @@
                 "Description": "Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus)",
                 "Subentries": [
                   {
-                    "HS Code": "0302.13.00.22",
-                    "Description": "Chum (dog)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0302.13.00.32",
-                    "Description": "Pink (humpie)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0302.13.00.42",
-                    "Description": "Sockeye (red)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0302.13.00.62",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Chinook (king):",
                     "Subentries": [
@@ -169,6 +149,21 @@
                     ]
                   },
                   {
+                    "HS Code": "0302.13.00.22",
+                    "Description": "Chum (dog)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.13.00.32",
+                    "Description": "Pink (humpie)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.13.00.42",
+                    "Description": "Sockeye (red)",
+                    "Subentries": []
+                  },
+                  {
                     "HS Code": "",
                     "Description": "Coho (silver):",
                     "Subentries": [
@@ -183,6 +178,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0302.13.00.62",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -190,11 +190,6 @@
                 "HS Code": "0302.14.00",
                 "Description": "Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)",
                 "Subentries": [
-                  {
-                    "HS Code": "0302.14.00.62",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Atlantic:",
@@ -210,6 +205,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0302.14.00.62",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -694,6 +694,53 @@
                     "Description": "Other",
                     "Subentries": [
                       {
+                        "HS Code": "",
+                        "Description": "Fresh-water fish:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0302.89.50.07",
+                            "Description": "Pike",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0302.89.50.10",
+                            "Description": "Pickerel",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Perch:",
+                            "Subentries": [
+                              {
+                                "HS Code": "0302.89.50.13",
+                                "Description": "Pike perch (including yellow pike)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "0302.89.50.25",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "0302.89.50.28",
+                            "Description": "Bass",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0302.89.50.31",
+                            "Description": "Whitefish",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0302.89.50.34",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
                         "HS Code": "0302.89.50.37",
                         "Description": "Smelts",
                         "Subentries": []
@@ -752,53 +799,6 @@
                         "HS Code": "0302.89.50.77",
                         "Description": "Other",
                         "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Fresh-water fish:",
-                        "Subentries": [
-                          {
-                            "HS Code": "0302.89.50.07",
-                            "Description": "Pike",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0302.89.50.10",
-                            "Description": "Pickerel",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0302.89.50.28",
-                            "Description": "Bass",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0302.89.50.31",
-                            "Description": "Whitefish",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0302.89.50.34",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Perch:",
-                            "Subentries": [
-                              {
-                                "HS Code": "0302.89.50.13",
-                                "Description": "Pike perch (including yellow pike)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "0302.89.50.25",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
                       }
                     ]
                   }
@@ -1256,6 +1256,22 @@
                 "Description": "Other",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Smelts:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0303.89.00.01",
+                        "Description": "Sea smelts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.89.00.04",
+                        "Description": "Other smelts",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "0303.89.00.10",
                     "Description": "Cusk",
                     "Subentries": []
@@ -1264,6 +1280,42 @@
                     "HS Code": "0303.89.00.13",
                     "Description": "Shad and sturgeon",
                     "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Fresh-water fish:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0303.89.00.28",
+                        "Description": "Pike and pickerel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.89.00.31",
+                        "Description": "Perch and pike perch (including yellow pike)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.89.00.34",
+                        "Description": "Sauger",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.89.00.37",
+                        "Description": "Whitefish",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.89.00.40",
+                        "Description": "Tilapias, other than Oreochromis spp.",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.89.00.43",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   },
                   {
                     "HS Code": "0303.89.00.46",
@@ -1314,58 +1366,6 @@
                     "HS Code": "0303.89.00.80",
                     "Description": "Other",
                     "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Smelts:",
-                    "Subentries": [
-                      {
-                        "HS Code": "0303.89.00.01",
-                        "Description": "Sea smelts",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0303.89.00.04",
-                        "Description": "Other smelts",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Fresh-water fish:",
-                    "Subentries": [
-                      {
-                        "HS Code": "0303.89.00.28",
-                        "Description": "Pike and pickerel",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0303.89.00.31",
-                        "Description": "Perch and pike perch (including yellow pike)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0303.89.00.34",
-                        "Description": "Sauger",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0303.89.00.37",
-                        "Description": "Whitefish",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0303.89.00.40",
-                        "Description": "Tilapias, other than Oreochromis spp.",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0303.89.00.43",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
               }
@@ -1486,11 +1486,6 @@
                 "Description": "Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus) Atlantic Salmon (Salmo salar) and Danube salmon (Hucho hucho)",
                 "Subentries": [
                   {
-                    "HS Code": "0304.41.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Atlantic Salmon (Salmo salar):",
                     "Subentries": [
@@ -1505,6 +1500,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0304.41.00.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -1549,6 +1549,22 @@
                 "Description": "Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Cod:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.44.00.10",
+                        "Description": "Atlantic Cod",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.44.00.15",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "0304.44.00.20",
                     "Description": "Haddock",
                     "Subentries": []
@@ -1567,22 +1583,6 @@
                     "HS Code": "0304.44.00.90",
                     "Description": "Other",
                     "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Cod:",
-                    "Subentries": [
-                      {
-                        "HS Code": "0304.44.00.10",
-                        "Description": "Atlantic Cod",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0304.44.00.15",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
               },
@@ -1610,21 +1610,6 @@
                 "HS Code": "0304.49.01",
                 "Description": "Other",
                 "Subentries": [
-                  {
-                    "HS Code": "0304.49.01.20",
-                    "Description": "Atlantic ocean perch",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0304.49.01.25",
-                    "Description": "Cusk",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0304.49.01.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Fresh-water fish:",
@@ -1655,6 +1640,21 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0304.49.01.20",
+                    "Description": "Atlantic ocean perch",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.49.01.25",
+                    "Description": "Cusk",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.49.01.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -1700,16 +1700,6 @@
                 "Description": "Salmonidae",
                 "Subentries": [
                   {
-                    "HS Code": "0304.52.00.20",
-                    "Description": "Other salmon",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0304.52.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Atlantic salmon (Salmo salar):",
                     "Subentries": [
@@ -1724,6 +1714,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0304.52.00.20",
+                    "Description": "Other salmon",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.52.00.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -1731,6 +1731,22 @@
                 "HS Code": "0304.53.00",
                 "Description": "Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae",
                 "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Cod:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.53.00.10",
+                        "Description": "Atlantic Cod",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.53.00.15",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
                   {
                     "HS Code": "0304.53.00.20",
                     "Description": "Haddock",
@@ -1750,22 +1766,6 @@
                     "HS Code": "0304.53.00.90",
                     "Description": "Other",
                     "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Cod:",
-                    "Subentries": [
-                      {
-                        "HS Code": "0304.53.00.10",
-                        "Description": "Atlantic Cod",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0304.53.00.15",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
               },
@@ -1794,24 +1794,30 @@
                 "Description": "Other",
                 "Subentries": [
                   {
-                    "HS Code": "0304.59.00.65",
-                    "Description": "Atlantic ocean perch",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0304.59.00.70",
-                    "Description": "Cusk",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0304.59.00.91",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Fresh-water fish:",
                     "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Perch:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0304.59.00.03",
+                            "Description": "Yellow perch",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.59.00.06",
+                            "Description": "Pike perch (including yellow pike)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.59.00.09",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
                       {
                         "HS Code": "0304.59.00.15",
                         "Description": "Pike",
@@ -1836,27 +1842,6 @@
                         "HS Code": "0304.59.00.36",
                         "Description": "Other",
                         "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Perch:",
-                        "Subentries": [
-                          {
-                            "HS Code": "0304.59.00.03",
-                            "Description": "Yellow perch",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0304.59.00.06",
-                            "Description": "Pike perch (including yellow pike)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0304.59.00.09",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
                       }
                     ]
                   },
@@ -1890,6 +1875,21 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0304.59.00.65",
+                    "Description": "Atlantic ocean perch",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.59.00.70",
+                    "Description": "Cusk",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.59.00.91",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -2246,11 +2246,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "0304.89.10.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Perch:",
                         "Subentries": [
@@ -2270,6 +2265,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0304.89.10.90",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -2277,6 +2277,53 @@
                     "HS Code": "0304.89.50",
                     "Description": "Other",
                     "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Fresh-water fish:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Perch:",
+                            "Subentries": [
+                              {
+                                "HS Code": "0304.89.50.03",
+                                "Description": "Yellow perch",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "0304.89.50.06",
+                                "Description": "Pike perch (including yellow pike)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "0304.89.50.09",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "0304.89.50.15",
+                            "Description": "Pickerel",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.89.50.20",
+                            "Description": "Pike",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.89.50.25",
+                            "Description": "Sauger",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.89.50.30",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
                       {
                         "HS Code": "0304.89.50.35",
                         "Description": "Atlantic ocean perch",
@@ -2311,53 +2358,6 @@
                         "HS Code": "0304.89.50.91",
                         "Description": "Other",
                         "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Fresh-water fish:",
-                        "Subentries": [
-                          {
-                            "HS Code": "0304.89.50.15",
-                            "Description": "Pickerel",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0304.89.50.20",
-                            "Description": "Pike",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0304.89.50.25",
-                            "Description": "Sauger",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0304.89.50.30",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Perch:",
-                            "Subentries": [
-                              {
-                                "HS Code": "0304.89.50.03",
-                                "Description": "Yellow perch",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "0304.89.50.06",
-                                "Description": "Pike perch (including yellow pike)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "0304.89.50.09",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
                       }
                     ]
                   }
@@ -2410,11 +2410,6 @@
                     "Description": "In bulk or in immediate containers weighing with their contents over 6.8 kg each",
                     "Subentries": [
                       {
-                        "HS Code": "0304.93.10.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Minced:",
                         "Subentries": [
@@ -2429,6 +2424,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0304.93.10.90",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -2448,11 +2448,6 @@
                     "Description": "In bulk or in immediate containers weighing with their contents over 6.8 kg each",
                     "Subentries": [
                       {
-                        "HS Code": "0304.94.10.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Minced:",
                         "Subentries": [
@@ -2467,6 +2462,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0304.94.10.90",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -2941,11 +2941,6 @@
                 "Description": "Anchovies (Engraulis spp.):",
                 "Subentries": [
                   {
-                    "HS Code": "0305.63.60.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "In immediate containers weighing with their contents 6.8 kg or less each:",
                     "Subentries": [
@@ -2960,6 +2955,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0305.63.60.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -3032,11 +3032,6 @@
                     ]
                   },
                   {
-                    "HS Code": "0305.69.40.00",
-                    "Description": "Salmon",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Mackerel:",
                     "Subentries": [
@@ -3051,6 +3046,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0305.69.40.00",
+                    "Description": "Salmon",
+                    "Subentries": []
                   },
                   {
                     "HS Code": "",
@@ -3171,21 +3171,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "0306.14.40.20",
-                        "Description": "Snow crab",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0306.14.40.30",
-                        "Description": "Dungeness crab",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0306.14.40.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "King crab:",
                         "Subentries": [
@@ -3215,6 +3200,21 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0306.14.40.20",
+                        "Description": "Snow crab",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.14.40.30",
+                        "Description": "Dungeness crab",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.14.40.90",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -3229,11 +3229,6 @@
                 "HS Code": "0306.16.00",
                 "Description": "Cold-water shrimps and prawns (Pandalus spp., Crangon crangon)",
                 "Subentries": [
-                  {
-                    "HS Code": "0306.16.00.40",
-                    "Description": "Peeled, imported in accordance with statistical note 1 to this chapter",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Shell-on, imported in accordance with statistical note 1 to this chapter:",
@@ -3284,6 +3279,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0306.16.00.40",
+                    "Description": "Peeled, imported in accordance with statistical note 1 to this chapter",
+                    "Subentries": []
                   }
                 ]
               },
@@ -3590,11 +3590,6 @@
         "Description": "Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process:",
         "Subentries": [
           {
-            "HS Code": "0307.60.00.00",
-            "Description": "Snails, other than sea snails",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Oysters:",
             "Subentries": [
@@ -3721,11 +3716,6 @@
                 "Description": "Live, fresh or chilled",
                 "Subentries": [
                   {
-                    "HS Code": "0307.42.00.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Squid:",
                     "Subentries": [
@@ -3740,6 +3730,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0307.42.00.60",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -3747,11 +3742,6 @@
                 "HS Code": "0307.43.00",
                 "Description": "Frozen",
                 "Subentries": [
-                  {
-                    "HS Code": "0307.43.00.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Squid:",
@@ -3765,11 +3755,6 @@
                         "HS Code": "",
                         "Description": "Other:",
                         "Subentries": [
-                          {
-                            "HS Code": "0307.43.00.50",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Loligo:",
@@ -3790,10 +3775,20 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "0307.43.00.50",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0307.43.00.60",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -3802,19 +3797,9 @@
                 "Description": "Other",
                 "Subentries": [
                   {
-                    "HS Code": "0307.49.01.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Squid:",
                     "Subentries": [
-                      {
-                        "HS Code": "0307.49.01.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Loligo:",
@@ -3835,8 +3820,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0307.49.01.50",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0307.49.01.60",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -3864,6 +3859,11 @@
             ]
           },
           {
+            "HS Code": "0307.60.00.00",
+            "Description": "Snails, other than sea snails",
+            "Subentries": []
+          },
+          {
             "HS Code": "",
             "Description": "Clams, cockles and ark shells (families Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae and Veneridae):",
             "Subentries": [
@@ -3871,11 +3871,6 @@
                 "HS Code": "0307.71.00",
                 "Description": "Live, fresh or chilled",
                 "Subentries": [
-                  {
-                    "HS Code": "0307.71.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Clams:",
@@ -3891,6 +3886,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0307.71.00.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -3898,11 +3898,6 @@
                 "HS Code": "0307.72.00",
                 "Description": "Frozen",
                 "Subentries": [
-                  {
-                    "HS Code": "0307.72.00.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Clams:",
@@ -3923,6 +3918,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0307.72.00.60",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -3930,11 +3930,6 @@
                 "HS Code": "0307.79.01",
                 "Description": "Other",
                 "Subentries": [
-                  {
-                    "HS Code": "0307.79.01.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Clams:",
@@ -3955,6 +3950,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0307.79.01.60",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -4046,16 +4046,6 @@
         "Description": "Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process:",
         "Subentries": [
           {
-            "HS Code": "0308.30.00.00",
-            "Description": "Jellyfish (Rhopilema spp.)",
-            "Subentries": []
-          },
-          {
-            "HS Code": "0308.90.01.00",
-            "Description": "Other",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Sea cucumbers (Stichopus japonicus, Holothuroidea):",
             "Subentries": [
@@ -4107,6 +4097,16 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "0308.30.00.00",
+            "Description": "Jellyfish (Rhopilema spp.)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0308.90.01.00",
+            "Description": "Other",
+            "Subentries": []
           }
         ]
       },
@@ -4134,11 +4134,6 @@
             "HS Code": "0309.90",
             "Description": "Other:",
             "Subentries": [
-              {
-                "HS Code": "0309.90.90.00",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Of crustaceans:",
@@ -4218,6 +4213,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0309.90.90.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

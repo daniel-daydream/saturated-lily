@@ -17,16 +17,6 @@
                 "Subentries": []
               },
               {
-                "HS Code": "8543.70.60.00",
-                "Description": "Articles designed for connection to telegraphic or telephonic apparatus or instruments or to telegraphic or telephonic networks",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8543.70.71.00",
-                "Description": "Electric luminescent lamps",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Electric synchros and transducers; flight data recorders; defrosters and demisters with electric resistors for aircraft:",
                 "Subentries": [
@@ -41,6 +31,16 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8543.70.60.00",
+                "Description": "Articles designed for connection to telegraphic or telephonic apparatus or instruments or to telegraphic or telephonic networks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8543.70.71.00",
+                "Description": "Electric luminescent lamps",
+                "Subentries": []
               },
               {
                 "HS Code": "",

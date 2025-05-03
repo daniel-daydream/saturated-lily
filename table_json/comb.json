@@ -25,16 +25,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "9615.11.40.00",
-                        "Description": "Not set with imitation pearls or imitation gemstones",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9615.11.50.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Valued over $4.50 per gross:",
                         "Subentries": [
@@ -49,6 +39,16 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "9615.11.40.00",
+                        "Description": "Not set with imitation pearls or imitation gemstones",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9615.11.50.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -58,11 +58,6 @@
                 "HS Code": "9615.19",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "9615.19.60.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Combs:",
@@ -78,6 +73,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9615.19.60.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

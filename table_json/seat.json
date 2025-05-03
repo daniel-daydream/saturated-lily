@@ -29,151 +29,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "9401.80",
-            "Description": "Other seats:",
-            "Subentries": [
-              {
-                "HS Code": "9401.80.60",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "9401.80.60.24",
-                    "Description": "Stationary activity centers for children",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9401.80.60.25",
-                    "Description": "Other seats for children",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9401.80.60.28",
-                    "Description": "Other household",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9401.80.60.30",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Child safety seats:",
-                    "Subentries": [
-                      {
-                        "HS Code": "9401.80.60.21",
-                        "Description": "With detachable hard-shell seat",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.80.60.23",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Of rubber or plastics:",
-                "Subentries": [
-                  {
-                    "HS Code": "9401.80.20",
-                    "Description": "Of reinforced or laminated plastics",
-                    "Subentries": [
-                      {
-                        "HS Code": "9401.80.20.01",
-                        "Description": "Children\u02bcs highchairs and booster seats except for motor vehicle; bath seats, infant walkers, bouncers with seats, swings for children",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.80.20.05",
-                        "Description": "Stationary activity centers for children",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.80.20.11",
-                        "Description": "Other household",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.80.20.31",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "9401.80.40",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "9401.80.40.01",
-                        "Description": "Children\u02bcs highchairs and booster seats except for motor vehicle; bath seats, infant walkers, bouncers with seats, swings for children",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.80.40.04",
-                        "Description": "Stationary activity centers for children",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "9401.80.40.46",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Outdoor:",
-                            "Subentries": [
-                              {
-                                "HS Code": "",
-                                "Description": "With textile covered cushions or textile seating or backing material:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "9401.80.40.06",
-                                    "Description": "Household",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "9401.80.40.15",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  }
-                                ]
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Other:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "9401.80.40.26",
-                                    "Description": "Household",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "9401.80.40.35",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Swivel seats with variable height adjustment:",
             "Subentries": [
@@ -246,32 +101,6 @@
                 "Description": "Upholstered:",
                 "Subentries": [
                   {
-                    "HS Code": "9401.61.60",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "9401.61.60.01",
-                        "Description": "Stationary activity centers for children",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.61.60.05",
-                        "Description": "Other seats for children",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.61.60.11",
-                        "Description": "Other household",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.61.60.31",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Chairs:",
                     "Subentries": [
@@ -335,6 +164,32 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9401.61.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9401.61.60.01",
+                        "Description": "Stationary activity centers for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.61.60.05",
+                        "Description": "Other seats for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.61.60.11",
+                        "Description": "Other household",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.61.60.31",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -362,54 +217,6 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
-                      {
-                        "HS Code": "9401.69.80",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "9401.69.80.01",
-                            "Description": "Stationary activity centers for children",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9401.69.80.05",
-                            "Description": "Other seats for children",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9401.69.80.11",
-                            "Description": "Other household",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Other:",
-                            "Subentries": [
-                              {
-                                "HS Code": "9401.69.80.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Of teak (Tectona spp.):",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "9401.69.80.66",
-                                    "Description": "Of plantation-harvested teak",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "9401.69.80.68",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      },
                       {
                         "HS Code": "",
                         "Description": "Chairs:",
@@ -468,6 +275,54 @@
                               },
                               {
                                 "HS Code": "9401.69.60.31",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "9401.69.80",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "9401.69.80.01",
+                            "Description": "Stationary activity centers for children",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9401.69.80.05",
+                            "Description": "Other seats for children",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9401.69.80.11",
+                            "Description": "Other household",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Of teak (Tectona spp.):",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "9401.69.80.66",
+                                    "Description": "Of plantation-harvested teak",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "9401.69.80.68",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "9401.69.80.90",
                                 "Description": "Other",
                                 "Subentries": []
                               }
@@ -614,6 +469,151 @@
                         ]
                       }
                     ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9401.80",
+            "Description": "Other seats:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Of rubber or plastics:",
+                "Subentries": [
+                  {
+                    "HS Code": "9401.80.20",
+                    "Description": "Of reinforced or laminated plastics",
+                    "Subentries": [
+                      {
+                        "HS Code": "9401.80.20.01",
+                        "Description": "Children\u02bcs highchairs and booster seats except for motor vehicle; bath seats, infant walkers, bouncers with seats, swings for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.20.05",
+                        "Description": "Stationary activity centers for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.20.11",
+                        "Description": "Other household",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.20.31",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9401.80.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9401.80.40.01",
+                        "Description": "Children\u02bcs highchairs and booster seats except for motor vehicle; bath seats, infant walkers, bouncers with seats, swings for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.40.04",
+                        "Description": "Stationary activity centers for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Outdoor:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "With textile covered cushions or textile seating or backing material:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "9401.80.40.06",
+                                    "Description": "Household",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "9401.80.40.15",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "9401.80.40.26",
+                                    "Description": "Household",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "9401.80.40.35",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "9401.80.40.46",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "9401.80.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Child safety seats:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9401.80.60.21",
+                        "Description": "With detachable hard-shell seat",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.60.23",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9401.80.60.24",
+                    "Description": "Stationary activity centers for children",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9401.80.60.25",
+                    "Description": "Other seats for children",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9401.80.60.28",
+                    "Description": "Other household",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9401.80.60.30",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

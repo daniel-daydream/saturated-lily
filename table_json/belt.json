@@ -133,11 +133,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "6117.80.95.70",
-                        "Description": "Other (859)",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Of man-made fibers:",
                         "Subentries": [
@@ -152,6 +147,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6117.80.95.70",
+                        "Description": "Other (859)",
+                        "Subentries": []
                       }
                     ]
                   }

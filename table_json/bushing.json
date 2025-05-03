@@ -110,22 +110,6 @@
                 ]
               },
               {
-                "HS Code": "8483.90.50",
-                "Description": "Parts of gearing, gear boxes and other speed changers",
-                "Subentries": [
-                  {
-                    "HS Code": "8483.90.50.10",
-                    "Description": "Forged gear blanks",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8483.90.50.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
                 "HS Code": "",
                 "Description": "Parts of bearing housings and plain shaft bearings:",
                 "Subentries": [
@@ -136,6 +120,22 @@
                   },
                   {
                     "HS Code": "8483.90.30.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8483.90.50",
+                "Description": "Parts of gearing, gear boxes and other speed changers",
+                "Subentries": [
+                  {
+                    "HS Code": "8483.90.50.10",
+                    "Description": "Forged gear blanks",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8483.90.50.90",
                     "Description": "Other",
                     "Subentries": []
                   }

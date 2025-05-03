@@ -149,11 +149,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "0712.39.40.00",
-                    "Description": "Truffles",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Mushrooms:",
                     "Subentries": [
@@ -168,6 +163,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0712.39.40.00",
+                    "Description": "Truffles",
+                    "Subentries": []
                   }
                 ]
               }

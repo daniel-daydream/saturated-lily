@@ -8,22 +8,6 @@
         "Description": "Printing ink, writing or drawing ink and other inks, whether or not concentrated or solid:",
         "Subentries": [
           {
-            "HS Code": "3215.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "3215.90.10.00",
-                "Description": "Drawing ink",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3215.90.50.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Printing ink:",
             "Subentries": [
@@ -31,6 +15,22 @@
                 "HS Code": "3215.11",
                 "Description": "Black:",
                 "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Solid:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3215.11.10.00",
+                        "Description": "In engineered shapes, for insertion into apparatus of subheadings 8443.31, 8443.32 or 8443.39",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3215.11.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
                   {
                     "HS Code": "3215.11.90",
                     "Description": "Other",
@@ -72,22 +72,6 @@
                         ]
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Solid:",
-                    "Subentries": [
-                      {
-                        "HS Code": "3215.11.10.00",
-                        "Description": "In engineered shapes, for insertion into apparatus of subheadings 8443.31, 8443.32 or 8443.39",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3215.11.30.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
               },
@@ -95,6 +79,22 @@
                 "HS Code": "3215.19",
                 "Description": "Other:",
                 "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Solid:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3215.19.10.00",
+                        "Description": "In engineered shapes, for insertion into apparatus of subheadings 8443.31, 8443.32 or 8443.39",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3215.19.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
                   {
                     "HS Code": "3215.19.90",
                     "Description": "Other",
@@ -136,24 +136,24 @@
                         ]
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Solid:",
-                    "Subentries": [
-                      {
-                        "HS Code": "3215.19.10.00",
-                        "Description": "In engineered shapes, for insertion into apparatus of subheadings 8443.31, 8443.32 or 8443.39",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3215.19.30.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "3215.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3215.90.10.00",
+                "Description": "Drawing ink",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3215.90.50.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

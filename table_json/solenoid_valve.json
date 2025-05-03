@@ -16,16 +16,6 @@
                 "Description": "Hydraulic valves:",
                 "Subentries": [
                   {
-                    "HS Code": "8481.20.00.40",
-                    "Description": "Flow control type",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8481.20.00.50",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Directional control",
                     "Subentries": [
@@ -45,6 +35,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8481.20.00.40",
+                    "Description": "Flow control type",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.20.00.50",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -52,11 +52,6 @@
                 "HS Code": "",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "8481.20.00.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Directional control:",
@@ -72,6 +67,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8481.20.00.80",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

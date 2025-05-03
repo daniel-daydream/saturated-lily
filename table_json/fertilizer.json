@@ -40,6 +40,22 @@
             ]
           },
           {
+            "HS Code": "",
+            "Description": "Ammonium sulfate; double salts and mixtures of ammonium sulfate and ammonium nitrate:",
+            "Subentries": [
+              {
+                "HS Code": "3102.21.00.00",
+                "Description": "Ammonium sulfate",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3102.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "3102.30.00.00",
             "Description": "Ammonium nitrate, whether or not in aqueous solution",
             "Subentries": []
@@ -68,22 +84,6 @@
             "HS Code": "3102.90.01.00",
             "Description": "Other, including mixtures not specified in the foregoing subheadings",
             "Subentries": []
-          },
-          {
-            "HS Code": "",
-            "Description": "Ammonium sulfate; double salts and mixtures of ammonium sulfate and ammonium nitrate:",
-            "Subentries": [
-              {
-                "HS Code": "3102.21.00.00",
-                "Description": "Ammonium sulfate",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3102.29.00.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
           }
         ]
       },
@@ -91,11 +91,6 @@
         "HS Code": "3103",
         "Description": "Mineral or chemical fertilizers, phosphatic:",
         "Subentries": [
-          {
-            "HS Code": "3103.90.01.00",
-            "Description": "Other",
-            "Subentries": []
-          },
           {
             "HS Code": "",
             "Description": "Superphosphates:",
@@ -111,6 +106,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "3103.90.01.00",
+            "Description": "Other",
+            "Subentries": []
           }
         ]
       },
@@ -182,6 +182,22 @@
             ]
           },
           {
+            "HS Code": "",
+            "Description": "Other mineral or chemical fertilizers containing the two fertilizing elements nitrogen and phosphorus:",
+            "Subentries": [
+              {
+                "HS Code": "3105.51.00.00",
+                "Description": "Containing nitrates and phosphates",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3105.59.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "3105.60.00.00",
             "Description": "Mineral or chemical fertilizers containing the two fertilizing elements phosphorus and potassium",
             "Subentries": []
@@ -197,22 +213,6 @@
               },
               {
                 "HS Code": "3105.90.00.50",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Other mineral or chemical fertilizers containing the two fertilizing elements nitrogen and phosphorus:",
-            "Subentries": [
-              {
-                "HS Code": "3105.51.00.00",
-                "Description": "Containing nitrates and phosphates",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3105.59.00.00",
                 "Description": "Other",
                 "Subentries": []
               }

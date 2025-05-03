@@ -16,11 +16,6 @@
                 "Description": "Of cotton:",
                 "Subentries": [
                   {
-                    "HS Code": "6302.51.40.00",
-                    "Description": "Other (369)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Tablecloths and napkins:",
                     "Subentries": [
@@ -46,6 +41,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "6302.51.40.00",
+                    "Description": "Other (369)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -53,11 +53,6 @@
                 "HS Code": "6302.53.00",
                 "Description": "Of man-made fibers",
                 "Subentries": [
-                  {
-                    "HS Code": "6302.53.00.30",
-                    "Description": "Other (666)",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Tablecloths and napkins:",
@@ -73,6 +68,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "6302.53.00.30",
+                    "Description": "Other (666)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -80,22 +80,6 @@
                 "HS Code": "6302.59",
                 "Description": "Of other textile materials:",
                 "Subentries": [
-                  {
-                    "HS Code": "6302.59.30",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "6302.59.30.10",
-                        "Description": "Containing 85 percent or more by weight of silk or silk waste",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6302.59.30.20",
-                        "Description": "Other (899)",
-                        "Subentries": []
-                      }
-                    ]
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of flax:",
@@ -118,6 +102,22 @@
                       },
                       {
                         "HS Code": "6302.59.20.00",
+                        "Description": "Other (899)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "6302.59.30",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6302.59.30.10",
+                        "Description": "Containing 85 percent or more by weight of silk or silk waste",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6302.59.30.20",
                         "Description": "Other (899)",
                         "Subentries": []
                       }

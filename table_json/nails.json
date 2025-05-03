@@ -33,11 +33,6 @@
             "Description": "Other:",
             "Subentries": [
               {
-                "HS Code": "7317.00.75.00",
-                "Description": "Of two or more pieces",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Of one piece construction:",
                 "Subentries": [
@@ -58,21 +53,6 @@
                             "HS Code": "",
                             "Description": "Other:",
                             "Subentries": [
-                              {
-                                "HS Code": "7317.00.55.08",
-                                "Description": "Assembled in a paper strip",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "7317.00.55.11",
-                                "Description": "Assembled in a wire strip",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "7317.00.55.18",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Assembled in a wire coil:",
@@ -104,6 +84,21 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "7317.00.55.08",
+                                "Description": "Assembled in a paper strip",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7317.00.55.11",
+                                "Description": "Assembled in a wire strip",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7317.00.55.18",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -209,6 +204,11 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "7317.00.75.00",
+                "Description": "Of two or more pieces",
+                "Subentries": []
               }
             ]
           }

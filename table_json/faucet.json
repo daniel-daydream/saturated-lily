@@ -12,80 +12,6 @@
             "Description": "Other appliances:",
             "Subentries": [
               {
-                "HS Code": "8481.80.90",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8481.80.90.05",
-                    "Description": "Solenoid valves",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8481.80.90.10",
-                    "Description": "Ballcock mechanisms",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8481.80.90.15",
-                    "Description": "Regulator valves, self-operating, for controlling variables such as temperature, pressure, flow and liquid level",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8481.80.90.30",
-                        "Description": "With hydraulic actuators",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8481.80.90.45",
-                        "Description": "With thermostatic actuators",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8481.80.90.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "With electrical or electro-hydraulic actuators:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8481.80.90.20",
-                            "Description": "Control valves designed for proportional operation by a signal from a control device",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8481.80.90.25",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "With pneumatic actuators:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8481.80.90.35",
-                            "Description": "Control valves designed for proportional operation by a signal from a control device",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8481.80.90.40",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
                 "HS Code": "",
                 "Description": "Hand operated:",
                 "Subentries": [
@@ -251,6 +177,80 @@
                       },
                       {
                         "HS Code": "8481.80.50.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8481.80.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8481.80.90.05",
+                    "Description": "Solenoid valves",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.80.90.10",
+                    "Description": "Ballcock mechanisms",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.80.90.15",
+                    "Description": "Regulator valves, self-operating, for controlling variables such as temperature, pressure, flow and liquid level",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "With electrical or electro-hydraulic actuators:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8481.80.90.20",
+                            "Description": "Control valves designed for proportional operation by a signal from a control device",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.90.25",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8481.80.90.30",
+                        "Description": "With hydraulic actuators",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "With pneumatic actuators:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8481.80.90.35",
+                            "Description": "Control valves designed for proportional operation by a signal from a control device",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.90.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8481.80.90.45",
+                        "Description": "With thermostatic actuators",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8481.80.90.50",
                         "Description": "Other",
                         "Subentries": []
                       }

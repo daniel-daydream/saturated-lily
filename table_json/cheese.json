@@ -146,11 +146,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "0406.10.95.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Cheese, and substitutes for cheese, containing 0.5 percent or less by weight of butterfat:",
                             "Subentries": [
@@ -181,6 +176,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "0406.10.95.00",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -319,11 +319,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "0406.20.54.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Made from cow's milk:",
                         "Subentries": [
@@ -338,6 +333,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0406.20.54.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -487,11 +487,6 @@
                             "Description": "Other:",
                             "Subentries": [
                               {
-                                "HS Code": "0406.20.95.00",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Containing cow's milk:",
                                 "Subentries": [
@@ -506,6 +501,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "0406.20.95.00",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -781,11 +781,6 @@
                             "Description": "Other:",
                             "Subentries": [
                               {
-                                "HS Code": "0406.30.95.00",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Containing cow's milk:",
                                 "Subentries": [
@@ -800,6 +795,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "0406.30.95.00",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -852,11 +852,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "0406.40.70.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions:",
                     "Subentries": [
@@ -887,6 +882,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0406.40.70.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -899,11 +899,6 @@
               {
                 "HS Code": "0406.90.05.00",
                 "Description": "Bryndza cheese",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0406.90.49.00",
-                "Description": "Gammelost and Nokkelost cheeses",
                 "Subentries": []
               },
               {
@@ -989,11 +984,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "0406.90.33.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Made from cow's milk and not in original loaves:",
                         "Subentries": [
@@ -1008,6 +998,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0406.90.33.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -1027,11 +1022,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "0406.90.38.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Made from cow's milk:",
                         "Subentries": [
@@ -1046,6 +1036,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0406.90.38.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -1065,11 +1060,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "0406.90.43.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Made from cow's milk:",
                         "Subentries": [
@@ -1084,6 +1074,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0406.90.43.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -1109,6 +1104,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0406.90.49.00",
+                "Description": "Gammelost and Nokkelost cheeses",
+                "Subentries": []
               },
               {
                 "HS Code": "",
@@ -1297,11 +1297,6 @@
                             "Description": "Other:",
                             "Subentries": [
                               {
-                                "HS Code": "0406.90.99.00",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Containing cow's milk (except soft- ripened cow's milk cheese):",
                                 "Subentries": [
@@ -1316,6 +1311,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "0406.90.99.00",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }

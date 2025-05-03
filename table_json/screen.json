@@ -21,11 +21,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "8528.59.60.00",
-                    "Description": "Black and white or other monochrome",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Color:",
                     "Subentries": [
@@ -138,6 +133,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8528.59.60.00",
+                    "Description": "Black and white or other monochrome",
+                    "Subentries": []
                   }
                 ]
               },
@@ -150,11 +150,6 @@
                 "HS Code": "8528.69",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "8528.69.70.00",
-                    "Description": "Black and white or other monochrome",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Color:",
@@ -262,6 +257,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8528.69.70.00",
+                    "Description": "Black and white or other monochrome",
+                    "Subentries": []
                   }
                 ]
               }

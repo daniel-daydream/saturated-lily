@@ -42,6 +42,32 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Electromechanical appliances with self-contained electric motor:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8479.89.10.00",
+                        "Description": "Air humidifiers or dehumidifiers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.20.00",
+                        "Description": "Floor polishers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.55.00",
+                        "Description": "Trash compactors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.65.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "8479.89.70.00",
                     "Description": "Carpet sweepers",
                     "Subentries": []
@@ -96,32 +122,6 @@
                         "Subentries": []
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Electromechanical appliances with self-contained electric motor:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8479.89.10.00",
-                        "Description": "Air humidifiers or dehumidifiers",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8479.89.20.00",
-                        "Description": "Floor polishers",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8479.89.55.00",
-                        "Description": "Trash compactors",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8479.89.65.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
               }
@@ -147,64 +147,6 @@
                 "HS Code": "8504.40.40.00",
                 "Description": "Speed drive controllers for electric motors",
                 "Subentries": []
-              },
-              {
-                "HS Code": "8504.40.85.00",
-                "Description": "For telecommunication apparatus",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8504.40.95",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8504.40.95.70",
-                    "Description": "Inverters",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8504.40.95.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Rectifiers and rectifying apparatus:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8504.40.95.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Power supplies:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8504.40.95.10",
-                            "Description": "With a power output not exceeding 50 W",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8504.40.95.20",
-                            "Description": "With a power output exceeding 50 W but not exceeding 150 W",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8504.40.95.30",
-                            "Description": "With a power output exceeding 150 W but not exceeding 500 W",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8504.40.95.40",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
               },
               {
                 "HS Code": "",
@@ -261,6 +203,64 @@
                         "Subentries": []
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8504.40.85.00",
+                "Description": "For telecommunication apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8504.40.95",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Rectifiers and rectifying apparatus:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Power supplies:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8504.40.95.10",
+                            "Description": "With a power output not exceeding 50 W",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.40.95.20",
+                            "Description": "With a power output exceeding 50 W but not exceeding 150 W",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.40.95.30",
+                            "Description": "With a power output exceeding 150 W but not exceeding 500 W",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.40.95.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8504.40.95.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8504.40.95.70",
+                    "Description": "Inverters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8504.40.95.80",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

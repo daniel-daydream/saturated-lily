@@ -55,11 +55,6 @@
             "Description": "Other:",
             "Subentries": [
               {
-                "HS Code": "8538.90.40.00",
-                "Description": "Other, for the articles of subheading 8535.90.40, 8536.30.40 or 8536.50.40, of ceramic or metallic materials, electrically or mechanically reactive to changes in temperature",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Printed circuit assemblies:",
                 "Subentries": [
@@ -74,6 +69,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8538.90.40.00",
+                "Description": "Other, for the articles of subheading 8535.90.40, 8536.30.40 or 8536.50.40, of ceramic or metallic materials, electrically or mechanically reactive to changes in temperature",
+                "Subentries": []
               },
               {
                 "HS Code": "",

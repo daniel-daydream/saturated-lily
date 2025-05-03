@@ -21,38 +21,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "8211.91.50",
-                    "Description": "Knives with rubber or plastic handles",
-                    "Subentries": [
-                      {
-                        "HS Code": "8211.91.50.30",
-                        "Description": "Steak knives",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8211.91.50.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "8211.91.80",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "8211.91.80.30",
-                        "Description": "Steak knives",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8211.91.80.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Knives with stainless steel handles:",
                     "Subentries": [
@@ -87,6 +55,38 @@
                             "Subentries": []
                           }
                         ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8211.91.50",
+                    "Description": "Knives with rubber or plastic handles",
+                    "Subentries": [
+                      {
+                        "HS Code": "8211.91.50.30",
+                        "Description": "Steak knives",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8211.91.50.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8211.91.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8211.91.80.30",
+                        "Description": "Steak knives",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8211.91.80.60",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

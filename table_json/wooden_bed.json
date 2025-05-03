@@ -30,11 +30,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "9403.50.90.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Beds:",
                         "Subentries": [
@@ -54,6 +49,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "9403.50.90.80",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

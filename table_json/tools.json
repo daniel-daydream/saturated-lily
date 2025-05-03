@@ -32,21 +32,6 @@
                 "Description": "Household tools, and parts thereof:",
                 "Subentries": [
                   {
-                    "HS Code": "8205.51.45.00",
-                    "Description": "Of copper",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8205.51.60.00",
-                    "Description": "Of aluminum",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8205.51.75.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of iron or steel:",
                     "Subentries": [
@@ -72,6 +57,21 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8205.51.45.00",
+                    "Description": "Of copper",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8205.51.60.00",
+                    "Description": "Of aluminum",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8205.51.75.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -110,21 +110,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "8205.59.60.00",
-                        "Description": "Of copper",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8205.59.70.00",
-                        "Description": "Of aluminum",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8205.59.80.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Of iron or steel",
                         "Subentries": [
@@ -137,11 +122,6 @@
                             "HS Code": "8205.59.55",
                             "Description": "Other",
                             "Subentries": [
-                              {
-                                "HS Code": "8205.59.55.60",
-                                "Description": "Other (including parts)",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Edged handtools:",
@@ -157,10 +137,30 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "8205.59.55.60",
+                                "Description": "Other (including parts)",
+                                "Subentries": []
                               }
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8205.59.60.00",
+                        "Description": "Of copper",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8205.59.70.00",
+                        "Description": "Of aluminum",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8205.59.80.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -179,93 +179,6 @@
         "HS Code": "8207",
         "Description": "Interchangeable tools for handtools, whether or not power operated, or for machine-tools (for example, for pressing, stamping, punching, tapping, threading, drilling, boring, broaching, milling, turning or screwdriving), including dies for drawing or extruding metal, and rock drilling or earth boring tools; base metal parts thereof:",
         "Subentries": [
-          {
-            "HS Code": "8207.90",
-            "Description": "Other interchangeable tools, and parts thereof:",
-            "Subentries": [
-              {
-                "HS Code": "8207.90.15.00",
-                "Description": "Files and rasps, including rotary files and rasps, and parts thereof",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "8207.90.30",
-                    "Description": "Cutting tools with cutting part containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium",
-                    "Subentries": [
-                      {
-                        "HS Code": "8207.90.30.30",
-                        "Description": "Hobs and other gear cutting tools",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8207.90.30.85",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "For woodworking:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8207.90.30.75",
-                            "Description": "Cutterheads with interchangeable tools",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8207.90.30.80",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8207.90.45.00",
-                        "Description": "Suitable for cutting metal, and parts thereof",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Not suitable for cutting metal, and parts thereof:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8207.90.60.00",
-                            "Description": "For handtools, and parts thereof",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8207.90.75",
-                            "Description": "Other",
-                            "Subentries": [
-                              {
-                                "HS Code": "8207.90.75.45",
-                                "Description": "Cutterheads with interchangeable tools",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "8207.90.75.85",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
           {
             "HS Code": "",
             "Description": "Rock drilling or earth boring tools, and parts thereof:",
@@ -320,11 +233,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "8207.19.60.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Rotary rock drill bits, core bits and reamers:",
                             "Subentries": [
@@ -335,6 +243,98 @@
                               },
                               {
                                 "HS Code": "8207.19.60.70",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "8207.19.60.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8207.90",
+            "Description": "Other interchangeable tools, and parts thereof:",
+            "Subentries": [
+              {
+                "HS Code": "8207.90.15.00",
+                "Description": "Files and rasps, including rotary files and rasps, and parts thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8207.90.30",
+                    "Description": "Cutting tools with cutting part containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium",
+                    "Subentries": [
+                      {
+                        "HS Code": "8207.90.30.30",
+                        "Description": "Hobs and other gear cutting tools",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "For woodworking:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8207.90.30.75",
+                            "Description": "Cutterheads with interchangeable tools",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8207.90.30.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8207.90.30.85",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8207.90.45.00",
+                        "Description": "Suitable for cutting metal, and parts thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Not suitable for cutting metal, and parts thereof:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8207.90.60.00",
+                            "Description": "For handtools, and parts thereof",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8207.90.75",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "8207.90.75.45",
+                                "Description": "Cutterheads with interchangeable tools",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8207.90.75.85",
                                 "Description": "Other",
                                 "Subentries": []
                               }

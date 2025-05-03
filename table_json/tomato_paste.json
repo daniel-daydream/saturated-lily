@@ -21,11 +21,6 @@
                 "Description": "Other",
                 "Subentries": [
                   {
-                    "HS Code": "2002.90.80.50",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Paste:",
                     "Subentries": [
@@ -56,6 +51,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "2002.90.80.50",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

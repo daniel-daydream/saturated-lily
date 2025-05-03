@@ -51,11 +51,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "7304.19.10.80",
-                        "Description": "Having an outside diameter exceeding 406.4 mm",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Having an outside diameter of 215.9 mm or more but not exceeding 406.4 mm:",
                         "Subentries": [
@@ -70,6 +65,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7304.19.10.80",
+                        "Description": "Having an outside diameter exceeding 406.4 mm",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -101,11 +101,6 @@
                 "Description": "Drill pipe of stainless steel",
                 "Subentries": [
                   {
-                    "HS Code": "7304.22.00.60",
-                    "Description": "Having an outside diameter exceeding 168.3 mm",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Having an outside diameter not exceeding 168.3 mm:",
                     "Subentries": [
@@ -120,6 +115,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7304.22.00.60",
+                    "Description": "Having an outside diameter exceeding 168.3 mm",
+                    "Subentries": []
                   }
                 ]
               },
@@ -137,11 +137,6 @@
                     "Description": "Of alloy steel",
                     "Subentries": [
                       {
-                        "HS Code": "7304.23.60.60",
-                        "Description": "Having an outside diameter exceeding 168.3 mm",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Having an outside diameter not exceeding 168.3 mm:",
                         "Subentries": [
@@ -156,6 +151,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7304.23.60.60",
+                        "Description": "Having an outside diameter exceeding 168.3 mm",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -166,43 +166,6 @@
                 "Description": "Other, of stainless steel:",
                 "Subentries": [
                   {
-                    "HS Code": "7304.24.60",
-                    "Description": "Tubing",
-                    "Subentries": [
-                      {
-                        "HS Code": "7304.24.60.45",
-                        "Description": "Having an outside diameter exceeding 114.3 mm but less than 215.9 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7304.24.60.60",
-                        "Description": "Having an outside diameter of 215.9 mm or more but not exceeding 406.4 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7304.24.60.75",
-                        "Description": "Having an outside diameter exceeding 406.4 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Having an outside diameter not exceeding 114.3 mm:",
-                        "Subentries": [
-                          {
-                            "HS Code": "7304.24.60.15",
-                            "Description": "Having a wall thickness not exceeding 9.5 mm",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7304.24.60.30",
-                            "Description": "Having a wall thickness exceeding 9.5 mm",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Casing:",
                     "Subentries": [
@@ -210,16 +173,6 @@
                         "HS Code": "7304.24.30",
                         "Description": "Threaded or coupled",
                         "Subentries": [
-                          {
-                            "HS Code": "7304.24.30.45",
-                            "Description": "Having an outside diameter exceeding 285.8 mm but not exceeding 406.4 mm",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7304.24.30.80",
-                            "Description": "Having an outside diameter exceeding 406.4 mm",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Having an outside diameter of 215.9 mm or more but not exceeding 285.8 mm:",
@@ -245,6 +198,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "7304.24.30.45",
+                            "Description": "Having an outside diameter exceeding 285.8 mm but not exceeding 406.4 mm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7304.24.30.80",
+                            "Description": "Having an outside diameter exceeding 406.4 mm",
+                            "Subentries": []
                           }
                         ]
                       },
@@ -252,11 +215,6 @@
                         "HS Code": "7304.24.40",
                         "Description": "Other",
                         "Subentries": [
-                          {
-                            "HS Code": "7304.24.40.80",
-                            "Description": "Having an outside diameter exceeding 406.4 mm",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Having an outside diameter exceeding 285.8 mm but not exceeding 406.4 mm:",
@@ -292,8 +250,50 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "7304.24.40.80",
+                            "Description": "Having an outside diameter exceeding 406.4 mm",
+                            "Subentries": []
                           }
                         ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7304.24.60",
+                    "Description": "Tubing",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Having an outside diameter not exceeding 114.3 mm:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7304.24.60.15",
+                            "Description": "Having a wall thickness not exceeding 9.5 mm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7304.24.60.30",
+                            "Description": "Having a wall thickness exceeding 9.5 mm",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7304.24.60.45",
+                        "Description": "Having an outside diameter exceeding 114.3 mm but less than 215.9 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7304.24.60.60",
+                        "Description": "Having an outside diameter of 215.9 mm or more but not exceeding 406.4 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7304.24.60.75",
+                        "Description": "Having an outside diameter exceeding 406.4 mm",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -308,80 +308,6 @@
                     "Description": "Tubing:",
                     "Subentries": [
                       {
-                        "HS Code": "7304.29.50",
-                        "Description": "Of iron or nonalloy steel",
-                        "Subentries": [
-                          {
-                            "HS Code": "7304.29.50.45",
-                            "Description": "Having an outside diameter exceeding 114.3 mm but less than 215.9 mm",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7304.29.50.60",
-                            "Description": "Having an outside diameter of 215.9 mm or more but not exceeding 406.4 mm",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7304.29.50.75",
-                            "Description": "Having an outside diameter exceeding 406.4 mm",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Having an outside diameter not exceeding 114.3 mm:",
-                            "Subentries": [
-                              {
-                                "HS Code": "7304.29.50.15",
-                                "Description": "Having a wall thickness not exceeding 9.5 mm",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "7304.29.50.30",
-                                "Description": "Having a wall thickness exceeding 9.5 mm",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "7304.29.61",
-                        "Description": "Of other alloy steel",
-                        "Subentries": [
-                          {
-                            "HS Code": "7304.29.61.45",
-                            "Description": "Having an outside diameter exceeding 114.3 mm but less than 215.9 mm",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7304.29.61.60",
-                            "Description": "Having an outside diameter of 215.9 mm or more but not exceeding 406.4 mm",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7304.29.61.75",
-                            "Description": "Having an outside diameter exceeding 406.4 mm",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Having an outside diameter not exceeding 114.3 mm:",
-                            "Subentries": [
-                              {
-                                "HS Code": "7304.29.61.15",
-                                "Description": "Having a wall thickness not exceeding 9.5 mm",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "7304.29.61.30",
-                                "Description": "Having a wall thickness exceeding 9.5 mm",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Of iron or nonalloy steel:",
                         "Subentries": [
@@ -389,11 +315,6 @@
                             "HS Code": "7304.29.10",
                             "Description": "Threaded or coupled",
                             "Subentries": [
-                              {
-                                "HS Code": "7304.29.10.80",
-                                "Description": "Having an outside diameter exceeding 406.4 mm",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Having an outside diameter exceeding 285.8 mm but not exceeding 406.4 mm:",
@@ -429,6 +350,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "7304.29.10.80",
+                                "Description": "Having an outside diameter exceeding 406.4 mm",
+                                "Subentries": []
                               }
                             ]
                           },
@@ -436,11 +362,6 @@
                             "HS Code": "7304.29.20",
                             "Description": "Other",
                             "Subentries": [
-                              {
-                                "HS Code": "7304.29.20.80",
-                                "Description": "Having an outside diameter exceeding 406.4 mm",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Having an outside diameter exceeding 285.8 mm but not exceeding 406.4 mm:",
@@ -476,6 +397,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "7304.29.20.80",
+                                "Description": "Having an outside diameter exceeding 406.4 mm",
+                                "Subentries": []
                               }
                             ]
                           },
@@ -483,11 +409,6 @@
                             "HS Code": "7304.29.31",
                             "Description": "Threaded or coupled",
                             "Subentries": [
-                              {
-                                "HS Code": "7304.29.31.80",
-                                "Description": "Having an outside diameter exceeding 406.4 mm",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Having an outside diameter exceeding 285.8 mm but not exceeding 406.4 mm:",
@@ -523,6 +444,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "7304.29.31.80",
+                                "Description": "Having an outside diameter exceeding 406.4 mm",
+                                "Subentries": []
                               }
                             ]
                           },
@@ -530,11 +456,6 @@
                             "HS Code": "7304.29.41",
                             "Description": "Other",
                             "Subentries": [
-                              {
-                                "HS Code": "7304.29.41.80",
-                                "Description": "Having an outside diameter exceeding 406.4 mm",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Having an outside diameter exceeding 285.8 mm but not exceeding 406.4 mm:",
@@ -570,8 +491,87 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "7304.29.41.80",
+                                "Description": "Having an outside diameter exceeding 406.4 mm",
+                                "Subentries": []
                               }
                             ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7304.29.50",
+                        "Description": "Of iron or nonalloy steel",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Having an outside diameter not exceeding 114.3 mm:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7304.29.50.15",
+                                "Description": "Having a wall thickness not exceeding 9.5 mm",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7304.29.50.30",
+                                "Description": "Having a wall thickness exceeding 9.5 mm",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "7304.29.50.45",
+                            "Description": "Having an outside diameter exceeding 114.3 mm but less than 215.9 mm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7304.29.50.60",
+                            "Description": "Having an outside diameter of 215.9 mm or more but not exceeding 406.4 mm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7304.29.50.75",
+                            "Description": "Having an outside diameter exceeding 406.4 mm",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7304.29.61",
+                        "Description": "Of other alloy steel",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Having an outside diameter not exceeding 114.3 mm:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7304.29.61.15",
+                                "Description": "Having a wall thickness not exceeding 9.5 mm",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7304.29.61.30",
+                                "Description": "Having a wall thickness exceeding 9.5 mm",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "7304.29.61.45",
+                            "Description": "Having an outside diameter exceeding 114.3 mm but less than 215.9 mm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7304.29.61.60",
+                            "Description": "Having an outside diameter of 215.9 mm or more but not exceeding 406.4 mm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7304.29.61.75",
+                            "Description": "Having an outside diameter exceeding 406.4 mm",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -650,22 +650,6 @@
                 "Description": "Welded of stainless steel:",
                 "Subentries": [
                   {
-                    "HS Code": "7306.21.80",
-                    "Description": "Tubing",
-                    "Subentries": [
-                      {
-                        "HS Code": "7306.21.80.10",
-                        "Description": "Imported with coupling",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7306.21.80.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Casing:",
                     "Subentries": [
@@ -676,6 +660,22 @@
                       },
                       {
                         "HS Code": "7306.21.40.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7306.21.80",
+                    "Description": "Tubing",
+                    "Subentries": [
+                      {
+                        "HS Code": "7306.21.80.10",
+                        "Description": "Imported with coupling",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7306.21.80.50",
                         "Description": "Other",
                         "Subentries": []
                       }
@@ -691,38 +691,6 @@
                     "HS Code": "",
                     "Description": "Tubing:",
                     "Subentries": [
-                      {
-                        "HS Code": "7306.29.60",
-                        "Description": "Of iron or nonalloy steel",
-                        "Subentries": [
-                          {
-                            "HS Code": "7306.29.60.10",
-                            "Description": "Imported with coupling",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7306.29.60.50",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "7306.29.81",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "7306.29.81.10",
-                            "Description": "Imported with coupling",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7306.29.81.50",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
                       {
                         "HS Code": "",
                         "Description": "Of iron or nonalloy steel:",
@@ -755,6 +723,38 @@
                           },
                           {
                             "HS Code": "7306.29.41.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7306.29.60",
+                        "Description": "Of iron or nonalloy steel",
+                        "Subentries": [
+                          {
+                            "HS Code": "7306.29.60.10",
+                            "Description": "Imported with coupling",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7306.29.60.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7306.29.81",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "7306.29.81.10",
+                            "Description": "Imported with coupling",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7306.29.81.50",
                             "Description": "Other",
                             "Subentries": []
                           }

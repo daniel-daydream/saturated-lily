@@ -8,54 +8,6 @@
         "Description": "Articles and equipment for general physical exercise, gymnastics, athletics, other sports (including table-tennis) or outdoor games, not specified or included elsewhere in this chapter; swimming pools and wading pools; parts and accessories thereof:",
         "Subentries": [
           {
-            "HS Code": "9506.40.00.00",
-            "Description": "Articles and equipment for table-tennis, and parts and accessories thereof",
-            "Subentries": []
-          },
-          {
-            "HS Code": "9506.70",
-            "Description": "Ice skates and roller skates, including skating boots with skates attached; parts and accessories thereof:",
-            "Subentries": [
-              {
-                "HS Code": "9506.70.20",
-                "Description": "Roller skates and parts and accessories thereof",
-                "Subentries": [
-                  {
-                    "HS Code": "9506.70.20.10",
-                    "Description": "Attached to boots",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9506.70.20.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "9506.70.40.00",
-                "Description": "Ice skates with footwear permanently attached",
-                "Subentries": []
-              },
-              {
-                "HS Code": "9506.70.60",
-                "Description": "Other, including parts and accessories for ice skates with footwear permanently attached",
-                "Subentries": [
-                  {
-                    "HS Code": "9506.70.60.40",
-                    "Description": "Ice skates",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9506.70.60.80",
-                    "Description": "Parts and accessories",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Snow-skis and other snow-ski equipment; parts and accessories thereof:",
             "Subentries": [
@@ -210,6 +162,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "9506.40.00.00",
+            "Description": "Articles and equipment for table-tennis, and parts and accessories thereof",
+            "Subentries": []
           },
           {
             "HS Code": "",
@@ -379,6 +336,49 @@
             ]
           },
           {
+            "HS Code": "9506.70",
+            "Description": "Ice skates and roller skates, including skating boots with skates attached; parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "9506.70.20",
+                "Description": "Roller skates and parts and accessories thereof",
+                "Subentries": [
+                  {
+                    "HS Code": "9506.70.20.10",
+                    "Description": "Attached to boots",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9506.70.20.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9506.70.40.00",
+                "Description": "Ice skates with footwear permanently attached",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9506.70.60",
+                "Description": "Other, including parts and accessories for ice skates with footwear permanently attached",
+                "Subentries": [
+                  {
+                    "HS Code": "9506.70.60.40",
+                    "Description": "Ice skates",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9506.70.60.80",
+                    "Description": "Parts and accessories",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Other:",
             "Subentries": [
@@ -429,6 +429,22 @@
                     ]
                   },
                   {
+                    "HS Code": "",
+                    "Description": "Badminton articles and equipment, except rackets, and parts and accessories thereof:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9506.99.08.00",
+                        "Description": "Nets of cotton",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9506.99.12.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "9506.99.15.00",
                     "Description": "Baseball articles and equipment, except balls, and parts and accessories thereof",
                     "Subentries": []
@@ -470,6 +486,22 @@
                     "Subentries": []
                   },
                   {
+                    "HS Code": "",
+                    "Description": "Sleds, bobsleds, toboggans and the like and parts and accessories thereof:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9506.99.40.00",
+                        "Description": "Toboggans; bobsleds and luges of a kind used in international competition",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9506.99.45.00",
+                        "Description": "Other, including parts and accessories",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "9506.99.50.00",
                     "Description": "Snowshoes and parts and accessories thereof",
                     "Subentries": []
@@ -491,38 +523,6 @@
                       {
                         "HS Code": "9506.99.60.80",
                         "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Badminton articles and equipment, except rackets, and parts and accessories thereof:",
-                    "Subentries": [
-                      {
-                        "HS Code": "9506.99.08.00",
-                        "Description": "Nets of cotton",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9506.99.12.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Sleds, bobsleds, toboggans and the like and parts and accessories thereof:",
-                    "Subentries": [
-                      {
-                        "HS Code": "9506.99.40.00",
-                        "Description": "Toboggans; bobsleds and luges of a kind used in international competition",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9506.99.45.00",
-                        "Description": "Other, including parts and accessories",
                         "Subentries": []
                       }
                     ]

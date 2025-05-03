@@ -8,150 +8,6 @@
         "Description": "Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments; parts and accessories thereof:",
         "Subentries": [
           {
-            "HS Code": "9018.20.00",
-            "Description": "Ultraviolet or infrared ray apparatus, and parts and accessories thereof",
-            "Subentries": [
-              {
-                "HS Code": "9018.20.00.40",
-                "Description": "Therapeutic",
-                "Subentries": []
-              },
-              {
-                "HS Code": "9018.20.00.80",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "9018.50.00.00",
-            "Description": "Other ophthalmic instruments and appliances and parts and accessories thereof",
-            "Subentries": []
-          },
-          {
-            "HS Code": "9018.90",
-            "Description": "Other instruments and appliances and parts and accessories thereof:",
-            "Subentries": [
-              {
-                "HS Code": "",
-                "Description": "Optical instruments and appliances and parts and accessories thereof:",
-                "Subentries": [
-                  {
-                    "HS Code": "9018.90.10.00",
-                    "Description": "Mirrors and reflectors",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9018.90.20.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "9018.90.30.00",
-                    "Description": "Anesthetic instruments and appliances and parts and accessories thereof",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9018.90.40.00",
-                    "Description": "Percussion hammers, stethoscopes and parts of stethoscopes",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9018.90.50",
-                    "Description": "Sphygmomanometers, tensimeters and oscillometers; all the foregoing and parts and accessories thereof",
-                    "Subentries": [
-                      {
-                        "HS Code": "9018.90.50.40",
-                        "Description": "Sphygmomanometers and parts and accessories thereof",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9018.90.50.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "9018.90.80.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Electro-medical instruments and appliances and parts and accessories thereof:",
-                    "Subentries": [
-                      {
-                        "HS Code": "9018.90.60.00",
-                        "Description": "Electro-surgical instruments and appliances, other than extracorporeal shock wave lithotripters; all the foregoing and parts and accessories thereof",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "9018.90.64.00",
-                            "Description": "Defibrillators",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9018.90.68.00",
-                            "Description": "Printed circuit assemblies for the defibrillators of subheading 9018.90.64",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9018.90.75",
-                            "Description": "Other",
-                            "Subentries": [
-                              {
-                                "HS Code": "9018.90.75.20",
-                                "Description": "Dialysis instruments and apparatus",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "9018.90.75.70",
-                                "Description": "Parts and accessories of dialysis instruments and apparatus",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "9018.90.75.80",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Other therapeutic appliances and instruments:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "9018.90.75.40",
-                                    "Description": "Ultrasonic",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "9018.90.75.60",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Electro-diagnostic apparatus (including apparatus for functional exploratory examination or for checking physiological parameters); parts and accessories thereof:",
             "Subentries": [
@@ -247,6 +103,22 @@
             ]
           },
           {
+            "HS Code": "9018.20.00",
+            "Description": "Ultraviolet or infrared ray apparatus, and parts and accessories thereof",
+            "Subentries": [
+              {
+                "HS Code": "9018.20.00.40",
+                "Description": "Therapeutic",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9018.20.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Syringes, needles, catheters, cannulae and the like; parts and accessories thereof:",
             "Subentries": [
@@ -254,11 +126,6 @@
                 "HS Code": "9018.31.00",
                 "Description": "Syringes, with or without needles; parts and accessories thereof",
                 "Subentries": [
-                  {
-                    "HS Code": "9018.31.00.90",
-                    "Description": "Parts and accessories",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Syringes, with or without their needles:",
@@ -274,6 +141,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9018.31.00.90",
+                    "Description": "Parts and accessories",
+                    "Subentries": []
                   }
                 ]
               },
@@ -286,11 +158,6 @@
                 "HS Code": "9018.39.00",
                 "Description": "Other",
                 "Subentries": [
-                  {
-                    "HS Code": "9018.39.00.50",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Bougies, catheters, drains and sondes, and parts and accessories thereof:",
@@ -306,6 +173,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9018.39.00.50",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -344,6 +216,134 @@
                         "Subentries": []
                       }
                     ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9018.50.00.00",
+            "Description": "Other ophthalmic instruments and appliances and parts and accessories thereof",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9018.90",
+            "Description": "Other instruments and appliances and parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Optical instruments and appliances and parts and accessories thereof:",
+                "Subentries": [
+                  {
+                    "HS Code": "9018.90.10.00",
+                    "Description": "Mirrors and reflectors",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9018.90.20.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9018.90.30.00",
+                    "Description": "Anesthetic instruments and appliances and parts and accessories thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9018.90.40.00",
+                    "Description": "Percussion hammers, stethoscopes and parts of stethoscopes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9018.90.50",
+                    "Description": "Sphygmomanometers, tensimeters and oscillometers; all the foregoing and parts and accessories thereof",
+                    "Subentries": [
+                      {
+                        "HS Code": "9018.90.50.40",
+                        "Description": "Sphygmomanometers and parts and accessories thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9018.90.50.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Electro-medical instruments and appliances and parts and accessories thereof:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9018.90.60.00",
+                        "Description": "Electro-surgical instruments and appliances, other than extracorporeal shock wave lithotripters; all the foregoing and parts and accessories thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9018.90.64.00",
+                            "Description": "Defibrillators",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9018.90.68.00",
+                            "Description": "Printed circuit assemblies for the defibrillators of subheading 9018.90.64",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9018.90.75",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "9018.90.75.20",
+                                "Description": "Dialysis instruments and apparatus",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other therapeutic appliances and instruments:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "9018.90.75.40",
+                                    "Description": "Ultrasonic",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "9018.90.75.60",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "9018.90.75.70",
+                                "Description": "Parts and accessories of dialysis instruments and apparatus",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9018.90.75.80",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9018.90.80.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -538,6 +538,76 @@
             ]
           },
           {
+            "HS Code": "",
+            "Description": "Other instruments and apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "9027.81.00.00",
+                "Description": "Mass spectrometers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9027.89",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9027.89.25.00",
+                    "Description": "Nuclear magnetic resonance instruments",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9027.89.45",
+                        "Description": "Electrical",
+                        "Subentries": [
+                          {
+                            "HS Code": "9027.89.45.30",
+                            "Description": "Chemical analysis instruments and apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9027.89.45.60",
+                            "Description": "Physical analysis instruments and apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9027.89.45.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "9027.89.80",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "9027.89.80.30",
+                            "Description": "Chemical analysis instruments and apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9027.89.80.60",
+                            "Description": "Physical analysis instruments and apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9027.89.80.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "9027.90",
             "Description": "Microtomes; parts and accessories:",
             "Subentries": [
@@ -650,76 +720,6 @@
                           },
                           {
                             "HS Code": "9027.90.88.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Other instruments and apparatus:",
-            "Subentries": [
-              {
-                "HS Code": "9027.81.00.00",
-                "Description": "Mass spectrometers",
-                "Subentries": []
-              },
-              {
-                "HS Code": "9027.89",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "9027.89.25.00",
-                    "Description": "Nuclear magnetic resonance instruments",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "9027.89.45",
-                        "Description": "Electrical",
-                        "Subentries": [
-                          {
-                            "HS Code": "9027.89.45.30",
-                            "Description": "Chemical analysis instruments and apparatus",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9027.89.45.60",
-                            "Description": "Physical analysis instruments and apparatus",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9027.89.45.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "9027.89.80",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "9027.89.80.30",
-                            "Description": "Chemical analysis instruments and apparatus",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9027.89.80.60",
-                            "Description": "Physical analysis instruments and apparatus",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9027.89.80.90",
                             "Description": "Other",
                             "Subentries": []
                           }

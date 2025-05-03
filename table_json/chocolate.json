@@ -125,11 +125,6 @@
             "Description": "Other preparations in blocks, slabs or bars, weighing more than 2 kg or in liquid, paste, powder, granular or other bulk form in containers or immediate packings, of a content exceeding 2 kg:",
             "Subentries": [
               {
-                "HS Code": "1806.20.60.00",
-                "Description": "Confectioners' coatings and other products (except confectionery) containing by weight not less than 6.8 percent non-fat solids of the cocoa bean nib and not less than 15 percent of vegetable fats other than cocoa butter",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Preparations consisting wholly of ground cocoa beans, with or without added cocoa fat, flavoring or emulsifying agents, and containing not more than 32 percent by weight of butterfat or other milk solids and not more than 60 percent by weight of sugar:",
                 "Subentries": [
@@ -153,11 +148,6 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
-                      {
-                        "HS Code": "1806.20.50.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Containing butterfat or other milk solids (excluding articles for consumption at retail as candy or confection):",
@@ -222,10 +212,20 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "1806.20.50.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "1806.20.60.00",
+                "Description": "Confectioners' coatings and other products (except confectionery) containing by weight not less than 6.8 percent non-fat solids of the cocoa bean nib and not less than 15 percent of vegetable fats other than cocoa butter",
+                "Subentries": []
               },
               {
                 "HS Code": "",
@@ -244,11 +244,6 @@
                         "HS Code": "",
                         "Description": "Other:",
                         "Subentries": [
-                          {
-                            "HS Code": "1806.20.78.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:",
@@ -280,6 +275,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "1806.20.78.00",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -357,11 +357,6 @@
                             "Description": "Other:",
                             "Subentries": [
                               {
-                                "HS Code": "1806.20.99.00",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Blended syrups described in additional U.S. note 4 to chapter 17:",
                                 "Subentries": [
@@ -392,10 +387,143 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "1806.20.99.00",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
                         ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other, in blocks, slabs or bars:",
+            "Subentries": [
+              {
+                "HS Code": "1806.31.00",
+                "Description": "Filled",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Confectionery:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1806.31.00.41",
+                        "Description": "Containing peanuts, peanut butter or peanut paste",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1806.31.00.49",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1806.31.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1806.32",
+                "Description": "Not filled:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Other, dairy products described in additional U.S. note 1 to chapter 4:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1806.32.01.00",
+                            "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "1806.32.04.00",
+                                "Description": "Described in additional U.S. note 2 to this chapter and entered pursuant to its provisions",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "1806.32.06.00",
+                                    "Description": "Containing less than 21 percent by weight of milk solids",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "1806.32.08.00",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "1806.32.16.00",
+                                    "Description": "Containing less than 21 percent by weight of milk solids",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "1806.32.18.00",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "1806.32.14.00",
+                                "Description": "Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "1806.32.70.00",
+                                "Description": "Containing less than 21 percent by weight of milk solids",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "1806.32.80.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "1806.32.60.00",
+                            "Description": "Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "1806.32.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1806.32.55.00",
+                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1806.32.90.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -512,33 +640,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "1806.90.90",
-                            "Description": "Other",
-                            "Subentries": [
-                              {
-                                "HS Code": "1806.90.90.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Confectionery:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "1806.90.90.11",
-                                    "Description": "Containing peanuts or peanut products",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "1806.90.90.19",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Blended syrups described in additional U.S. note 4 to chapter 17:",
                             "Subentries": [
@@ -585,132 +686,31 @@
                                 "Subentries": []
                               }
                             ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Other, in blocks, slabs or bars:",
-            "Subentries": [
-              {
-                "HS Code": "1806.31.00",
-                "Description": "Filled",
-                "Subentries": [
-                  {
-                    "HS Code": "1806.31.00.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Confectionery:",
-                    "Subentries": [
-                      {
-                        "HS Code": "1806.31.00.41",
-                        "Description": "Containing peanuts, peanut butter or peanut paste",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1806.31.00.49",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "1806.32",
-                "Description": "Not filled:",
-                "Subentries": [
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "1806.32.30.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1806.32.55.00",
-                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1806.32.90.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other, dairy products described in additional U.S. note 1 to chapter 4:",
-                        "Subentries": [
-                          {
-                            "HS Code": "1806.32.01.00",
-                            "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
-                            "Subentries": []
                           },
                           {
-                            "HS Code": "1806.32.60.00",
-                            "Description": "Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Other:",
+                            "HS Code": "1806.90.90",
+                            "Description": "Other",
                             "Subentries": [
                               {
-                                "HS Code": "1806.32.04.00",
-                                "Description": "Described in additional U.S. note 2 to this chapter and entered pursuant to its provisions",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "1806.32.14.00",
-                                "Description": "Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "1806.32.70.00",
-                                "Description": "Containing less than 21 percent by weight of milk solids",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "1806.32.80.00",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
-                                "Description": "Other:",
+                                "Description": "Confectionery:",
                                 "Subentries": [
                                   {
-                                    "HS Code": "1806.32.06.00",
-                                    "Description": "Containing less than 21 percent by weight of milk solids",
+                                    "HS Code": "1806.90.90.11",
+                                    "Description": "Containing peanuts or peanut products",
                                     "Subentries": []
                                   },
                                   {
-                                    "HS Code": "1806.32.08.00",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "1806.32.16.00",
-                                    "Description": "Containing less than 21 percent by weight of milk solids",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "1806.32.18.00",
+                                    "HS Code": "1806.90.90.19",
                                     "Description": "Other",
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "1806.90.90.90",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }

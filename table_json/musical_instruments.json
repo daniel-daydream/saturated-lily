@@ -107,11 +107,6 @@
             "Description": "Other:",
             "Subentries": [
               {
-                "HS Code": "9202.90.60.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Guitars:",
                 "Subentries": [
@@ -126,6 +121,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "9202.90.60.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }
@@ -156,11 +156,6 @@
             "Description": "Other:",
             "Subentries": [
               {
-                "HS Code": "9205.90.60.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Keyboard pipe organs; harmoniums and similar keyboard instruments with free metal reeds:",
                 "Subentries": [
@@ -181,11 +176,6 @@
                 "Description": "Accordions and similar instruments; mouth organs:",
                 "Subentries": [
                   {
-                    "HS Code": "9205.90.19.00",
-                    "Description": "Mouth organs",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Accordions and similar instruments:",
                     "Subentries": [
@@ -200,6 +190,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9205.90.19.00",
+                    "Description": "Mouth organs",
+                    "Subentries": []
                   }
                 ]
               },
@@ -239,6 +234,11 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "9205.90.60.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

@@ -64,11 +64,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "8716.90.50.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Wheels:",
                     "Subentries": [
@@ -86,11 +81,6 @@
                             "Description": "Wheels:",
                             "Subentries": [
                               {
-                                "HS Code": "8716.90.50.48",
-                                "Description": "Other wheels",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Having a diameter of at least 57 cm but not more than 63 cm:",
                                 "Subentries": [
@@ -105,6 +95,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "8716.90.50.48",
+                                "Description": "Other wheels",
+                                "Subentries": []
                               }
                             ]
                           },
@@ -127,6 +122,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8716.90.50.60",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

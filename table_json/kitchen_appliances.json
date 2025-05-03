@@ -62,11 +62,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "8509.80.50.95",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Humidifiers:",
                     "Subentries": [
@@ -92,6 +87,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8509.80.50.95",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -153,6 +153,76 @@
               {
                 "HS Code": "8516.10.00.80",
                 "Description": "Other water heaters and immersion heaters",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Electric space heating apparatus and electric soil heating apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "8516.21.00.00",
+                "Description": "Storage heating radiators",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.29.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Portable space heaters:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8516.29.00.30",
+                        "Description": "Fan-forced",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8516.29.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8516.29.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Electrothermic hairdressing or hand-drying apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "8516.31.00.00",
+                "Description": "Hair dryers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.32.00",
+                "Description": "Other hairdressing apparatus",
+                "Subentries": [
+                  {
+                    "HS Code": "8516.32.00.20",
+                    "Description": "Curlers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8516.32.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8516.33.00.00",
+                "Description": "Hand-drying apparatus",
                 "Subentries": []
               }
             ]
@@ -260,6 +330,54 @@
             ]
           },
           {
+            "HS Code": "",
+            "Description": "Other electrothermic appliances:",
+            "Subentries": [
+              {
+                "HS Code": "8516.71.00",
+                "Description": "Coffee or tea makers",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Coffee makers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8516.71.00.20",
+                        "Description": "Automatic drip and pump type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8516.71.00.40",
+                        "Description": "Percolator",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8516.71.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8516.71.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8516.72.00.00",
+                "Description": "Toasters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.79.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "8516.80",
             "Description": "Electric heating resistors:",
             "Subentries": [
@@ -292,16 +410,6 @@
               {
                 "HS Code": "8516.90.25.00",
                 "Description": "Housings and steel bases for the electric flatirons of subheading 8516.40",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8516.90.85.00",
-                "Description": "Housings for toasters",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8516.90.90.00",
-                "Description": "Other",
                 "Subentries": []
               },
               {
@@ -361,122 +469,14 @@
                     ]
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Electric space heating apparatus and electric soil heating apparatus:",
-            "Subentries": [
+              },
               {
-                "HS Code": "8516.21.00.00",
-                "Description": "Storage heating radiators",
+                "HS Code": "8516.90.85.00",
+                "Description": "Housings for toasters",
                 "Subentries": []
               },
               {
-                "HS Code": "8516.29.00",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8516.29.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Portable space heaters:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8516.29.00.30",
-                        "Description": "Fan-forced",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8516.29.00.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Electrothermic hairdressing or hand-drying apparatus:",
-            "Subentries": [
-              {
-                "HS Code": "8516.31.00.00",
-                "Description": "Hair dryers",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8516.32.00",
-                "Description": "Other hairdressing apparatus",
-                "Subentries": [
-                  {
-                    "HS Code": "8516.32.00.20",
-                    "Description": "Curlers",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8516.32.00.40",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "8516.33.00.00",
-                "Description": "Hand-drying apparatus",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Other electrothermic appliances:",
-            "Subentries": [
-              {
-                "HS Code": "8516.71.00",
-                "Description": "Coffee or tea makers",
-                "Subentries": [
-                  {
-                    "HS Code": "8516.71.00.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Coffee makers:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8516.71.00.20",
-                        "Description": "Automatic drip and pump type",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8516.71.00.40",
-                        "Description": "Percolator",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8516.71.00.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "8516.72.00.00",
-                "Description": "Toasters",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8516.79.00.00",
+                "HS Code": "8516.90.90.00",
                 "Description": "Other",
                 "Subentries": []
               }

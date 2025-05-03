@@ -12,16 +12,6 @@
             "Description": "Flat knitting machines; stitch-bonding machines:",
             "Subentries": [
               {
-                "HS Code": "8447.20.40.00",
-                "Description": "Warp knitting machines",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8447.20.60.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "V-bed flat knitting machines:",
                 "Subentries": [
@@ -36,6 +26,16 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8447.20.40.00",
+                "Description": "Warp knitting machines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8447.20.60.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

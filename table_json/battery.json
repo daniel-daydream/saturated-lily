@@ -12,11 +12,6 @@
             "Description": "Lead-acid storage batteries, of a kind used for starting piston engines",
             "Subentries": [
               {
-                "HS Code": "8507.10.00.90",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "12 V batteries:",
                 "Subentries": [
@@ -31,6 +26,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8507.10.00.90",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },

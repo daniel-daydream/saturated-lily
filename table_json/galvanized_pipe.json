@@ -57,11 +57,6 @@
                                 "Description": "Galvanized:",
                                 "Subentries": [
                                   {
-                                    "HS Code": "7306.30.50.28",
-                                    "Description": "Internally coated or lined with a non-electrically insulating material, suitable for use as electrical conduit",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "Imported with coupling:",
                                     "Subentries": [
@@ -76,6 +71,11 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "7306.30.50.28",
+                                    "Description": "Internally coated or lined with a non-electrically insulating material, suitable for use as electrical conduit",
+                                    "Subentries": []
                                   },
                                   {
                                     "HS Code": "",

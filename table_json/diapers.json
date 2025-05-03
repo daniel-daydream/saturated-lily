@@ -39,11 +39,6 @@
             ]
           },
           {
-            "HS Code": "9619.00.90.00",
-            "Description": "Other",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Of textile wadding:",
             "Subentries": [
@@ -64,16 +59,6 @@
             "Description": "Diapers of other textile materials:",
             "Subentries": [
               {
-                "HS Code": "9619.00.41.00",
-                "Description": "Of synthetic fibers (239)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "9619.00.43.00",
-                "Description": "Of artificial fibers (239)",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Of cotton:",
                 "Subentries": [
@@ -88,6 +73,16 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "9619.00.41.00",
+                "Description": "Of synthetic fibers (239)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9619.00.43.00",
+                "Description": "Of artificial fibers (239)",
+                "Subentries": []
               },
               {
                 "HS Code": "",
@@ -165,6 +160,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "9619.00.90.00",
+            "Description": "Other",
+            "Subentries": []
           }
         ]
       }

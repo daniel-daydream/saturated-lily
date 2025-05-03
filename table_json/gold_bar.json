@@ -25,11 +25,6 @@
                     "Description": "Bullion and dore",
                     "Subentries": [
                       {
-                        "HS Code": "7108.12.10.20",
-                        "Description": "Dore",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Bullion:",
                         "Subentries": [
@@ -44,6 +39,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7108.12.10.20",
+                        "Description": "Dore",
+                        "Subentries": []
                       }
                     ]
                   },

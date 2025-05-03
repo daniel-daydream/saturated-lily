@@ -58,6 +58,32 @@
                     ]
                   },
                   {
+                    "HS Code": "",
+                    "Description": "Sleds, bobsleds, toboggans and the like and parts and accessories thereof:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9506.99.08.00",
+                        "Description": "Nets of cotton",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9506.99.12.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9506.99.40.00",
+                        "Description": "Toboggans; bobsleds and luges of a kind used in international competition",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9506.99.45.00",
+                        "Description": "Other, including parts and accessories",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "9506.99.15.00",
                     "Description": "Baseball articles and equipment, except balls, and parts and accessories thereof",
                     "Subentries": []
@@ -120,32 +146,6 @@
                       {
                         "HS Code": "9506.99.60.80",
                         "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Sleds, bobsleds, toboggans and the like and parts and accessories thereof:",
-                    "Subentries": [
-                      {
-                        "HS Code": "9506.99.08.00",
-                        "Description": "Nets of cotton",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9506.99.12.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9506.99.40.00",
-                        "Description": "Toboggans; bobsleds and luges of a kind used in international competition",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9506.99.45.00",
-                        "Description": "Other, including parts and accessories",
                         "Subentries": []
                       }
                     ]

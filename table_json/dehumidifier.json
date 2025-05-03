@@ -42,6 +42,32 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Electromechanical appliances with self-contained electric motor:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8479.89.10.00",
+                        "Description": "Air humidifiers or dehumidifiers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.20.00",
+                        "Description": "Floor polishers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.55.00",
+                        "Description": "Trash compactors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.65.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "8479.89.70.00",
                     "Description": "Carpet sweepers",
                     "Subentries": []
@@ -92,32 +118,6 @@
                       },
                       {
                         "HS Code": "8479.89.95.99",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Electromechanical appliances with self-contained electric motor:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8479.89.10.00",
-                        "Description": "Air humidifiers or dehumidifiers",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8479.89.20.00",
-                        "Description": "Floor polishers",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8479.89.55.00",
-                        "Description": "Trash compactors",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8479.89.65.00",
                         "Description": "Other",
                         "Subentries": []
                       }

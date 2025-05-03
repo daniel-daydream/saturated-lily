@@ -28,22 +28,6 @@
                 ]
               },
               {
-                "HS Code": "8414.90.91",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8414.90.91.40",
-                    "Description": "Of vacuum pumps",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8414.90.91.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
                 "HS Code": "",
                 "Description": "Of compressors:",
                 "Subentries": [
@@ -116,6 +100,22 @@
                         ]
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8414.90.91",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8414.90.91.40",
+                    "Description": "Of vacuum pumps",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8414.90.91.80",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

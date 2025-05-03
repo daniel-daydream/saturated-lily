@@ -8,49 +8,6 @@
         "Description": "Machine tools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing metal or cermets by means of grinding stones, abrasives or polishing products, other than gear cutting, gear grinding or gear finishing machines of heading 8461:",
         "Subentries": [
           {
-            "HS Code": "8460.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "8460.90.40",
-                "Description": "Numerically controlled",
-                "Subentries": [
-                  {
-                    "HS Code": "8460.90.40.10",
-                    "Description": "Used or rebuilt",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8460.90.40.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "8460.90.80",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8460.90.80.10",
-                    "Description": "Used or rebuilt",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8460.90.80.20",
-                    "Description": "Other, valued under $3,025 each",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8460.90.80.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Flat-surface grinding machines:",
             "Subentries": [
@@ -225,6 +182,49 @@
                   },
                   {
                     "HS Code": "8460.39.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8460.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "8460.90.40",
+                "Description": "Numerically controlled",
+                "Subentries": [
+                  {
+                    "HS Code": "8460.90.40.10",
+                    "Description": "Used or rebuilt",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8460.90.40.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8460.90.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8460.90.80.10",
+                    "Description": "Used or rebuilt",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8460.90.80.20",
+                    "Description": "Other, valued under $3,025 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8460.90.80.80",
                     "Description": "Other",
                     "Subentries": []
                   }

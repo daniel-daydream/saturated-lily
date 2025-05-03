@@ -12,11 +12,6 @@
             "Description": "Toilet linen and kitchen linen, of terry toweling or similar terry fabrics, of cotton",
             "Subentries": [
               {
-                "HS Code": "6302.60.00.30",
-                "Description": "Other (369)",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Towels:",
                 "Subentries": [
@@ -31,6 +26,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "6302.60.00.30",
+                "Description": "Other (369)",
+                "Subentries": []
               }
             ]
           },
@@ -46,16 +46,6 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
-                      {
-                        "HS Code": "6302.91.00.25",
-                        "Description": "Other (369)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6302.91.00.60",
-                        "Description": "Other (369)",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Towels:",
@@ -92,6 +82,16 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6302.91.00.25",
+                        "Description": "Other (369)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6302.91.00.60",
+                        "Description": "Other (369)",
+                        "Subentries": []
                       }
                     ]
                   }

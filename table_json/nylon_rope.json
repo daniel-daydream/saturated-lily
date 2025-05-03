@@ -37,11 +37,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "5607.49.30.00",
-                    "Description": "Other (669)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Other, not braided or plaited:",
                     "Subentries": [
@@ -56,6 +51,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5607.49.30.00",
+                    "Description": "Other (669)",
+                    "Subentries": []
                   }
                 ]
               }

@@ -152,21 +152,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "8532.25.00.60",
-                        "Description": "Axial leads",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8532.25.00.70",
-                        "Description": "Radial leads",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8532.25.00.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Leadless:",
                         "Subentries": [
@@ -181,6 +166,21 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8532.25.00.60",
+                        "Description": "Axial leads",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8532.25.00.70",
+                        "Description": "Radial leads",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8532.25.00.80",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

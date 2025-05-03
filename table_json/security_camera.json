@@ -31,27 +31,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "8525.89.40.00",
-                    "Description": "Digital still image video cameras",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8525.89.50",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "8525.89.50.30",
-                        "Description": "Camcorders",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8525.89.50.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Television cameras:",
                     "Subentries": [
@@ -67,6 +46,27 @@
                       },
                       {
                         "HS Code": "8525.89.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8525.89.40.00",
+                    "Description": "Digital still image video cameras",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8525.89.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8525.89.50.30",
+                        "Description": "Camcorders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8525.89.50.50",
                         "Description": "Other",
                         "Subentries": []
                       }

@@ -134,11 +134,6 @@
                     "Description": "Of high-strength steel:",
                     "Subentries": [
                       {
-                        "HS Code": "7209.16.00.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Annealed:",
                         "Subentries": [
@@ -153,6 +148,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7209.16.00.60",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -183,11 +183,6 @@
                     "Description": "Of high-strength steel:",
                     "Subentries": [
                       {
-                        "HS Code": "7209.17.00.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Annealed:",
                         "Subentries": [
@@ -202,6 +197,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7209.17.00.60",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -300,6 +300,38 @@
                 "Description": "Containing by weight less than 0.25 percent of carbon:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Of a width of less than 300 mm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Of a thickness exceeding 1.25 mm:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7211.23.15.00",
+                            "Description": "Of high-strength steel",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7211.23.20.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7211.23.30.00",
+                        "Description": "Of a thickness exceeding 0.25 mm but not exceeding 1.25 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7211.23.45.00",
+                        "Description": "Of a thickness not exceeding 0.25 mm",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "7211.23.60",
                     "Description": "Other",
                     "Subentries": [
@@ -319,38 +351,6 @@
                         "Subentries": []
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Of a width of less than 300 mm:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7211.23.30.00",
-                        "Description": "Of a thickness exceeding 0.25 mm but not exceeding 1.25 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7211.23.45.00",
-                        "Description": "Of a thickness not exceeding 0.25 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Of a thickness exceeding 1.25 mm:",
-                        "Subentries": [
-                          {
-                            "HS Code": "7211.23.15.00",
-                            "Description": "Of high-strength steel",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7211.23.20.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
                   }
                 ]
               },
@@ -358,22 +358,6 @@
                 "HS Code": "7211.29",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "7211.29.60",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "7211.29.60.30",
-                        "Description": "Of a thickness exceeding 1.25 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7211.29.60.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of a width of less than 300 mm:",
@@ -396,6 +380,22 @@
                       },
                       {
                         "HS Code": "7211.29.45.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7211.29.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7211.29.60.30",
+                        "Description": "Of a thickness exceeding 1.25 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7211.29.60.80",
                         "Description": "Other",
                         "Subentries": []
                       }

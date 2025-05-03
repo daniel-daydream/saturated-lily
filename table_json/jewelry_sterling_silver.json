@@ -52,6 +52,27 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
+                        "HS Code": "",
+                        "Description": "Necklaces and neck chains, of gold:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7113.19.21.00",
+                            "Description": "Rope",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7113.19.25.00",
+                            "Description": "Mixed link",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7113.19.29.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
                         "HS Code": "7113.19.30.00",
                         "Description": "Clasps and parts thereof",
                         "Subentries": []
@@ -60,11 +81,6 @@
                         "HS Code": "7113.19.50",
                         "Description": "Other",
                         "Subentries": [
-                          {
-                            "HS Code": "7113.19.50.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Of ISO standard platinum:",
@@ -90,25 +106,9 @@
                                 "Subentries": []
                               }
                             ]
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Necklaces and neck chains, of gold:",
-                        "Subentries": [
-                          {
-                            "HS Code": "7113.19.21.00",
-                            "Description": "Rope",
-                            "Subentries": []
                           },
                           {
-                            "HS Code": "7113.19.25.00",
-                            "Description": "Mixed link",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7113.19.29.00",
+                            "HS Code": "7113.19.50.90",
                             "Description": "Other",
                             "Subentries": []
                           }

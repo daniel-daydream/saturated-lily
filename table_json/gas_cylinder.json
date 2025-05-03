@@ -8,11 +8,6 @@
         "Description": "Containers for compressed or liquefied gas, of iron or steel",
         "Subentries": [
           {
-            "HS Code": "7311.00.00.90",
-            "Description": "Other",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Certified prior to exportation to have been made in accordance with the safety requirements of sections 178.36 through 178.68 of title 49 CFR or under a specific exemption to those requirements:",
             "Subentries": [
@@ -27,6 +22,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "7311.00.00.90",
+            "Description": "Other",
+            "Subentries": []
           }
         ]
       }

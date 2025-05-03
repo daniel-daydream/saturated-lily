@@ -33,11 +33,6 @@
             "Description": "Other:",
             "Subentries": [
               {
-                "HS Code": "2105.00.50.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Dairy products described in additional U.S. note 1 to chapter 4:",
                 "Subentries": [
@@ -57,6 +52,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "2105.00.50.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

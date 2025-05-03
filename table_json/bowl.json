@@ -46,11 +46,6 @@
         "Description": "Ceramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china:",
         "Subentries": [
           {
-            "HS Code": "6912.00.50.00",
-            "Description": "Other",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Tableware and kitchenware:",
             "Subentries": [
@@ -157,6 +152,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "6912.00.50.00",
+            "Description": "Other",
+            "Subentries": []
           }
         ]
       }
@@ -222,11 +222,6 @@
                 "Description": "Of stainless steel",
                 "Subentries": [
                   {
-                    "HS Code": "7323.93.00.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Cooking and kitchen ware:",
                     "Subentries": [
@@ -239,11 +234,6 @@
                         "HS Code": "",
                         "Description": "Other:",
                         "Subentries": [
-                          {
-                            "HS Code": "7323.93.00.60",
-                            "Description": "Kitchen ware",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Cooking ware:",
@@ -259,10 +249,20 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "7323.93.00.60",
+                            "Description": "Kitchen ware",
+                            "Subentries": []
                           }
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7323.93.00.80",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -271,19 +271,9 @@
                 "Description": "Of iron (other than cast iron) or steel, enameled",
                 "Subentries": [
                   {
-                    "HS Code": "7323.94.00.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Cooking and kitchen ware:",
                     "Subentries": [
-                      {
-                        "HS Code": "7323.94.00.40",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Of steel:",
@@ -297,11 +287,6 @@
                             "HS Code": "",
                             "Description": "Other:",
                             "Subentries": [
-                              {
-                                "HS Code": "7323.94.00.30",
-                                "Description": "Kitchen ware",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Cooking ware:",
@@ -317,12 +302,27 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "7323.94.00.30",
+                                "Description": "Kitchen ware",
+                                "Subentries": []
                               }
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7323.94.00.40",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7323.94.00.80",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -446,19 +446,9 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "8215.99.50.00",
-                    "Description": "Other (including parts)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Forks:",
                     "Subentries": [
-                      {
-                        "HS Code": "8215.99.20.00",
-                        "Description": "With rubber or plastic handles",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "With stainless steel handles:",
@@ -498,6 +488,11 @@
                         ]
                       },
                       {
+                        "HS Code": "8215.99.20.00",
+                        "Description": "With rubber or plastic handles",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "",
                         "Description": "Other:",
                         "Subentries": [
@@ -531,6 +526,22 @@
                     "Description": "Spoons and ladles:",
                     "Subentries": [
                       {
+                        "HS Code": "",
+                        "Description": "With stainless steel handles:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8215.99.30.00",
+                            "Description": "Spoons valued under 25\u00a2 each",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8215.99.35.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
                         "HS Code": "8215.99.40",
                         "Description": "With base metal (except stainless steel) or nonmetal handles",
                         "Subentries": [
@@ -550,24 +561,13 @@
                         "HS Code": "8215.99.45.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "With stainless steel handles:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8215.99.30.00",
-                            "Description": "Spoons valued under 25\u00a2 each",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8215.99.35.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8215.99.50.00",
+                    "Description": "Other (including parts)",
+                    "Subentries": []
                   }
                 ]
               }

@@ -8,43 +8,6 @@
         "Description": "Essential oils (terpeneless or not), including concretes and absolutes; resinoids; extracted oleoresins; concentrates of essential oils in fats, in fixed oils, in waxes or the like, obtained by enfleurage or maceration; terpenic by products of the deterpenation of essential oils; aqueous distillates and aqueous solutions of essential oils:",
         "Subentries": [
           {
-            "HS Code": "3301.30.00.00",
-            "Description": "Resinoids",
-            "Subentries": []
-          },
-          {
-            "HS Code": "3301.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "3301.90.10",
-                "Description": "Extracted oleoresins",
-                "Subentries": [
-                  {
-                    "HS Code": "3301.90.10.10",
-                    "Description": "Paprika",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "3301.90.10.20",
-                    "Description": "Black pepper",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "3301.90.10.50",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "3301.90.50.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Essential oils of citrus fruit:",
             "Subentries": [
@@ -260,6 +223,43 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "3301.30.00.00",
+            "Description": "Resinoids",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3301.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3301.90.10",
+                "Description": "Extracted oleoresins",
+                "Subentries": [
+                  {
+                    "HS Code": "3301.90.10.10",
+                    "Description": "Paprika",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3301.90.10.20",
+                    "Description": "Black pepper",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3301.90.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3301.90.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
           }
         ]
       },
@@ -290,11 +290,6 @@
                     "Description": "Containing over 20 percent of alcohol by weight:",
                     "Subentries": [
                       {
-                        "HS Code": "3302.10.90.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Preparations requiring only the addition of ethyl alcohol or water to produce a beverage suitable for human consumption:",
                         "Subentries": [
@@ -309,6 +304,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "3302.10.90.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -361,11 +361,6 @@
         "Description": "Perfumes and toilet waters:",
         "Subentries": [
           {
-            "HS Code": "3303.00.30.00",
-            "Description": "Containing alcohol",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Not containing alcohol:",
             "Subentries": [
@@ -380,6 +375,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "3303.00.30.00",
+            "Description": "Containing alcohol",
+            "Subentries": []
           }
         ]
       },
@@ -531,11 +531,6 @@
             ]
           },
           {
-            "HS Code": "3307.90.00.00",
-            "Description": "Other",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Preparations for perfuming or deodorizing rooms, including odoriferous preparations used during religious rites:",
             "Subentries": [
@@ -550,6 +545,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "3307.90.00.00",
+            "Description": "Other",
+            "Subentries": []
           }
         ]
       }

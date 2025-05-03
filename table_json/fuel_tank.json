@@ -41,38 +41,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "8409.91.92",
-                        "Description": "For marine propulsion engines",
-                        "Subentries": [
-                          {
-                            "HS Code": "8409.91.92.10",
-                            "Description": "Connecting rods",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8409.91.92.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "8409.91.99",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "8409.91.99.10",
-                            "Description": "Connecting rods",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8409.91.99.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
                         "HS Code": "",
                         "Description": "To be installed in vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29, or heading 8702, 8703 or 8704:",
                         "Subentries": [
@@ -101,6 +69,38 @@
                                 "Subentries": []
                               }
                             ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8409.91.92",
+                        "Description": "For marine propulsion engines",
+                        "Subentries": [
+                          {
+                            "HS Code": "8409.91.92.10",
+                            "Description": "Connecting rods",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8409.91.92.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8409.91.99",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8409.91.99.10",
+                            "Description": "Connecting rods",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8409.91.99.90",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }

@@ -45,11 +45,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "4823.90.70.00",
-                        "Description": "Of cellulose wadding",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Of coated paper or paperboard:",
                         "Subentries": [
@@ -64,6 +59,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4823.90.70.00",
+                        "Description": "Of cellulose wadding",
+                        "Subentries": []
                       },
                       {
                         "HS Code": "",

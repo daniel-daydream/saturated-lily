@@ -27,11 +27,6 @@
                 "Description": "Drills of all kinds",
                 "Subentries": [
                   {
-                    "HS Code": "8467.21.00.70",
-                    "Description": "Other, including hammer drills",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Rotary:",
                     "Subentries": [
@@ -57,6 +52,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8467.21.00.70",
+                    "Description": "Other, including hammer drills",
+                    "Subentries": []
                   }
                 ]
               },
@@ -91,6 +91,38 @@
                 "Description": "Other",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Grinders, polishers and sanders:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8467.29.00.10",
+                        "Description": "Angle grinders, sanders and polishers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8467.29.00.15",
+                        "Description": "Orbital and straight-line sanders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8467.29.00.25",
+                            "Description": "Belt sanders",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8467.29.00.35",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "8467.29.00.40",
                     "Description": "Screwdrivers, nut-runners and impact wrenches",
                     "Subentries": []
@@ -124,38 +156,6 @@
                     "HS Code": "8467.29.00.90",
                     "Description": "Other",
                     "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Grinders, polishers and sanders:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8467.29.00.10",
-                        "Description": "Angle grinders, sanders and polishers",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8467.29.00.15",
-                        "Description": "Orbital and straight-line sanders",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8467.29.00.25",
-                            "Description": "Belt sanders",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8467.29.00.35",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
                   }
                 ]
               }

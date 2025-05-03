@@ -21,11 +21,6 @@
                 "Description": "Other",
                 "Subentries": [
                   {
-                    "HS Code": "9031.80.80.85",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Equipment for testing the characteristics of internal combustion engines:",
                     "Subentries": [
@@ -40,6 +35,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9031.80.80.85",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

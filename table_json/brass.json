@@ -59,16 +59,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "7407.29.40.00",
-                    "Description": "Bars and rods of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7407.29.50.00",
-                    "Description": "Other bars and rods",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Profiles:",
                     "Subentries": [
@@ -105,6 +95,16 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7407.29.40.00",
+                    "Description": "Bars and rods of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7407.29.50.00",
+                    "Description": "Other bars and rods",
+                    "Subentries": []
                   }
                 ]
               }

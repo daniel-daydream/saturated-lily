@@ -30,6 +30,54 @@
                     "Description": "Other",
                     "Subentries": [
                       {
+                        "HS Code": "",
+                        "Description": "Rotary:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8536.50.90.20",
+                            "Description": "Rated at not over 5 A",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8536.50.90.25",
+                            "Description": "Rated at over 5 A",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Push-button:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Rated at not over 5 A",
+                            "Subentries": [
+                              {
+                                "HS Code": "8536.50.90.31",
+                                "Description": "Momentary contact",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8536.50.90.32",
+                                "Description": "Other, gang switches",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8536.50.90.33",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "8536.50.90.35",
+                            "Description": "Rated at over 5 A",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
                         "HS Code": "8536.50.90.40",
                         "Description": "Snap-action, other than limit",
                         "Subentries": []
@@ -53,54 +101,6 @@
                         "HS Code": "8536.50.90.65",
                         "Description": "Other",
                         "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Rotary:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8536.50.90.20",
-                            "Description": "Rated at not over 5 A",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8536.50.90.25",
-                            "Description": "Rated at over 5 A",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Push-button:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8536.50.90.35",
-                            "Description": "Rated at over 5 A",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Rated at not over 5 A",
-                            "Subentries": [
-                              {
-                                "HS Code": "8536.50.90.31",
-                                "Description": "Momentary contact",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "8536.50.90.32",
-                                "Description": "Other, gang switches",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "8536.50.90.33",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
                       }
                     ]
                   }

@@ -37,6 +37,22 @@
                 "Subentries": []
               },
               {
+                "HS Code": "",
+                "Description": "Beads, bugles and spangles, not strung (except temporarily) and not set; articles thereof, not elsewhere specified or included:",
+                "Subentries": [
+                  {
+                    "HS Code": "3926.90.33.00",
+                    "Description": "Handbags",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3926.90.35.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
                 "HS Code": "3926.90.40.00",
                 "Description": "Imitation gemstones",
                 "Subentries": []
@@ -66,6 +82,97 @@
                 "HS Code": "3926.90.50.00",
                 "Description": "Frames or mounts for photographic slides",
                 "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Belting and belts, for machinery:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Containing textile fibers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3926.90.55.00",
+                        "Description": "V-belts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3926.90.56.00",
+                            "Description": "With textile components in which vegetable fibers predominate by weight over any other textile fiber",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3926.90.57.00",
+                            "Description": "With textile components in which man-made fibers predominate by weight over any other textile fiber",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3926.90.59.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "3926.90.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "3926.90.60.10",
+                        "Description": "Synchronous belts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3926.90.60.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Clothespins:",
+                "Subentries": [
+                  {
+                    "HS Code": "3926.90.65",
+                    "Description": "Spring type",
+                    "Subentries": [
+                      {
+                        "HS Code": "3926.90.65.10",
+                        "Description": "Valued not over 80 cents per gross",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3926.90.65.20",
+                        "Description": "Valued over 80 cents but not over $1.35 per gross",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3926.90.65.30",
+                        "Description": "Valued over $1.35 but not over $1.70 per gross",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3926.90.65.50",
+                        "Description": "Valued over $1.70 per gross",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "3926.90.70.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
               },
               {
                 "HS Code": "3926.90.75.00",
@@ -143,113 +250,6 @@
                   },
                   {
                     "HS Code": "3926.90.99.89",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Beads, bugles and spangles, not strung (except temporarily) and not set; articles thereof, not elsewhere specified or included:",
-                "Subentries": [
-                  {
-                    "HS Code": "3926.90.33.00",
-                    "Description": "Handbags",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "3926.90.35.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Belting and belts, for machinery:",
-                "Subentries": [
-                  {
-                    "HS Code": "3926.90.60",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "3926.90.60.10",
-                        "Description": "Synchronous belts",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3926.90.60.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Containing textile fibers:",
-                    "Subentries": [
-                      {
-                        "HS Code": "3926.90.55.00",
-                        "Description": "V-belts",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "3926.90.56.00",
-                            "Description": "With textile components in which vegetable fibers predominate by weight over any other textile fiber",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "3926.90.57.00",
-                            "Description": "With textile components in which man-made fibers predominate by weight over any other textile fiber",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "3926.90.59.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Clothespins:",
-                "Subentries": [
-                  {
-                    "HS Code": "3926.90.65",
-                    "Description": "Spring type",
-                    "Subentries": [
-                      {
-                        "HS Code": "3926.90.65.10",
-                        "Description": "Valued not over 80 cents per gross",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3926.90.65.20",
-                        "Description": "Valued over 80 cents but not over $1.35 per gross",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3926.90.65.30",
-                        "Description": "Valued over $1.35 but not over $1.70 per gross",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3926.90.65.50",
-                        "Description": "Valued over $1.70 per gross",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "3926.90.70.00",
                     "Description": "Other",
                     "Subentries": []
                   }
@@ -364,11 +364,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "4202.39.90.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of material (other than leather, composition leather, sheeting of plastics, textile materials, vulcanized fiber or paperboard) wholly or mainly covered with paper:",
                     "Subentries": [
@@ -388,6 +383,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4202.39.90.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -413,64 +413,6 @@
                 "HS Code": "8504.40.40.00",
                 "Description": "Speed drive controllers for electric motors",
                 "Subentries": []
-              },
-              {
-                "HS Code": "8504.40.85.00",
-                "Description": "For telecommunication apparatus",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8504.40.95",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8504.40.95.70",
-                    "Description": "Inverters",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8504.40.95.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Rectifiers and rectifying apparatus:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8504.40.95.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Power supplies:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8504.40.95.10",
-                            "Description": "With a power output not exceeding 50 W",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8504.40.95.20",
-                            "Description": "With a power output exceeding 50 W but not exceeding 150 W",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8504.40.95.30",
-                            "Description": "With a power output exceeding 150 W but not exceeding 500 W",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8504.40.95.40",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
               },
               {
                 "HS Code": "",
@@ -527,6 +469,64 @@
                         "Subentries": []
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8504.40.85.00",
+                "Description": "For telecommunication apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8504.40.95",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Rectifiers and rectifying apparatus:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Power supplies:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8504.40.95.10",
+                            "Description": "With a power output not exceeding 50 W",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.40.95.20",
+                            "Description": "With a power output exceeding 50 W but not exceeding 150 W",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.40.95.30",
+                            "Description": "With a power output exceeding 150 W but not exceeding 500 W",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.40.95.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8504.40.95.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8504.40.95.70",
+                    "Description": "Inverters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8504.40.95.80",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

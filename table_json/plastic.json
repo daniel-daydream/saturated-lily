@@ -158,6 +158,22 @@
         "Description": "Polymers of styrene, in primary forms:",
         "Subentries": [
           {
+            "HS Code": "",
+            "Description": "Polystyrene:",
+            "Subentries": [
+              {
+                "HS Code": "3903.11.00.00",
+                "Description": "Expandable",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3903.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "3903.20.00.00",
             "Description": "Styrene-acrylonitrile (SAN) copolymers",
             "Subentries": []
@@ -182,22 +198,6 @@
                 "Subentries": []
               }
             ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Polystyrene:",
-            "Subentries": [
-              {
-                "HS Code": "3903.11.00.00",
-                "Description": "Expandable",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3903.19.00.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
           }
         ]
       },
@@ -209,6 +209,22 @@
             "HS Code": "3904.10.00.00",
             "Description": "Poly(vinyl chloride), not mixed with any other substances",
             "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other poly(vinyl chloride):",
+            "Subentries": [
+              {
+                "HS Code": "3904.21.00.00",
+                "Description": "Nonplasticized",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3904.22.00.00",
+                "Description": "Plasticized",
+                "Subentries": []
+              }
+            ]
           },
           {
             "HS Code": "3904.30",
@@ -235,38 +251,6 @@
             "HS Code": "3904.50.00.00",
             "Description": "Vinylidene chloride polymers",
             "Subentries": []
-          },
-          {
-            "HS Code": "3904.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "3904.90.10.00",
-                "Description": "Elastomeric",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3904.90.50.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Other poly(vinyl chloride):",
-            "Subentries": [
-              {
-                "HS Code": "3904.21.00.00",
-                "Description": "Nonplasticized",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3904.22.00.00",
-                "Description": "Plasticized",
-                "Subentries": []
-              }
-            ]
           },
           {
             "HS Code": "",
@@ -305,6 +289,22 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "3904.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3904.90.10.00",
+                "Description": "Elastomeric",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3904.90.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
           }
         ]
       },
@@ -312,11 +312,6 @@
         "HS Code": "3905",
         "Description": "Polymers of vinyl acetate or of other vinyl esters, in primary forms; other vinyl polymers in primary forms:",
         "Subentries": [
-          {
-            "HS Code": "3905.30.00.00",
-            "Description": "Poly(vinyl alcohol), whether or not containing unhydrolyzed acetate groups",
-            "Subentries": []
-          },
           {
             "HS Code": "",
             "Description": "Poly(vinyl acetate):",
@@ -348,6 +343,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "3905.30.00.00",
+            "Description": "Poly(vinyl alcohol), whether or not containing unhydrolyzed acetate groups",
+            "Subentries": []
           },
           {
             "HS Code": "",
@@ -437,26 +437,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "3907.30.00.00",
-            "Description": "Epoxide resins",
-            "Subentries": []
-          },
-          {
-            "HS Code": "3907.40.00.00",
-            "Description": "Polycarbonates",
-            "Subentries": []
-          },
-          {
-            "HS Code": "3907.50.00.00",
-            "Description": "Alkyd resins",
-            "Subentries": []
-          },
-          {
-            "HS Code": "3907.70.00.00",
-            "Description": "Poly(lactic acid)",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Other polyethers:",
             "Subentries": [
@@ -471,6 +451,21 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "3907.30.00.00",
+            "Description": "Epoxide resins",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3907.40.00.00",
+            "Description": "Polycarbonates",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3907.50.00.00",
+            "Description": "Alkyd resins",
+            "Subentries": []
           },
           {
             "HS Code": "",
@@ -513,6 +508,11 @@
             ]
           },
           {
+            "HS Code": "3907.70.00.00",
+            "Description": "Poly(lactic acid)",
+            "Subentries": []
+          },
+          {
             "HS Code": "",
             "Description": "Other polyesters:",
             "Subentries": [
@@ -520,11 +520,6 @@
                 "HS Code": "3907.91",
                 "Description": "Unsaturated:",
                 "Subentries": [
-                  {
-                    "HS Code": "3907.91.50.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Allyl resins:",
@@ -540,6 +535,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "3907.91.50.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -616,6 +616,22 @@
             "Subentries": []
           },
           {
+            "HS Code": "",
+            "Description": "Other amino-resins:",
+            "Subentries": [
+              {
+                "HS Code": "3909.31.00.00",
+                "Description": "Poly(methylene phenyl isocyanate) (crude MDI, polymeric MDI)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3909.39.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "3909.40.00.00",
             "Description": "Phenolic resins",
             "Subentries": []
@@ -636,22 +652,6 @@
               },
               {
                 "HS Code": "3909.50.50.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Other amino-resins:",
-            "Subentries": [
-              {
-                "HS Code": "3909.31.00.00",
-                "Description": "Poly(methylene phenyl isocyanate) (crude MDI, polymeric MDI)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3909.39.00.00",
                 "Description": "Other",
                 "Subentries": []
               }
@@ -767,27 +767,6 @@
         "Description": "Cellulose and its chemical derivatives, not elsewhere specified or included, in primary forms:",
         "Subentries": [
           {
-            "HS Code": "3912.20.00.00",
-            "Description": "Cellulose nitrates (including collodions)",
-            "Subentries": []
-          },
-          {
-            "HS Code": "3912.90.00",
-            "Description": "Other",
-            "Subentries": [
-              {
-                "HS Code": "3912.90.00.10",
-                "Description": "\u03b1-Cellulose in granular, microcrystalline or powdered forms",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3912.90.00.90",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Cellulose acetates:",
             "Subentries": [
@@ -802,6 +781,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "3912.20.00.00",
+            "Description": "Cellulose nitrates (including collodions)",
+            "Subentries": []
           },
           {
             "HS Code": "",
@@ -825,6 +809,22 @@
               },
               {
                 "HS Code": "3912.39.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3912.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "3912.90.00.10",
+                "Description": "\u03b1-Cellulose in granular, microcrystalline or powdered forms",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3912.90.00.90",
                 "Description": "Other",
                 "Subentries": []
               }
@@ -1035,59 +1035,6 @@
             ]
           },
           {
-            "HS Code": "3917.40.00",
-            "Description": "Fittings",
-            "Subentries": [
-              {
-                "HS Code": "3917.40.00.10",
-                "Description": "For brake hoses for the vehicles of subheadings 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or headings 8702, 8703, 8704, 8705 or 8711",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3917.40.00.95",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Plumbing fittings, not pressure rated (Drain/Waste/Vent (DWV)):",
-                "Subentries": [
-                  {
-                    "HS Code": "3917.40.00.20",
-                    "Description": "Of polyvinyl chloride",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "3917.40.00.30",
-                    "Description": "Of acrylonitrile-butadiene-styrene",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "3917.40.00.50",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Other plumbing fittings:",
-                "Subentries": [
-                  {
-                    "HS Code": "3917.40.00.60",
-                    "Description": "Of polyvinyl chloride",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "3917.40.00.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Tubes, pipes and hoses, rigid:",
             "Subentries": [
@@ -1187,6 +1134,59 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "3917.40.00",
+            "Description": "Fittings",
+            "Subentries": [
+              {
+                "HS Code": "3917.40.00.10",
+                "Description": "For brake hoses for the vehicles of subheadings 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or headings 8702, 8703, 8704, 8705 or 8711",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Plumbing fittings, not pressure rated (Drain/Waste/Vent (DWV)):",
+                "Subentries": [
+                  {
+                    "HS Code": "3917.40.00.20",
+                    "Description": "Of polyvinyl chloride",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3917.40.00.30",
+                    "Description": "Of acrylonitrile-butadiene-styrene",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3917.40.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other plumbing fittings:",
+                "Subentries": [
+                  {
+                    "HS Code": "3917.40.00.60",
+                    "Description": "Of polyvinyl chloride",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3917.40.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3917.40.00.95",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
           }
         ]
       },
@@ -1235,30 +1235,9 @@
                 "Description": "Wall or ceiling coverings:",
                 "Subentries": [
                   {
-                    "HS Code": "3918.10.50.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "With a backing of textile fibers:",
                     "Subentries": [
-                      {
-                        "HS Code": "3918.10.40",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "3918.10.40.10",
-                            "Description": "Woven",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "3918.10.40.50",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
                       {
                         "HS Code": "",
                         "Description": "With a backing of man-made fibers:",
@@ -1296,8 +1275,29 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "3918.10.40",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "3918.10.40.10",
+                            "Description": "Woven",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3918.10.40.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "3918.10.50.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -1317,11 +1317,6 @@
                 "Description": "Wall or ceiling coverings:",
                 "Subentries": [
                   {
-                    "HS Code": "3918.90.50.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "With a backing of textile fibers:",
                     "Subentries": [
@@ -1336,6 +1331,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "3918.90.50.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -1386,11 +1386,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "3919.10.20.55",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Transparent tape, not exceeding 55 m in length:",
                         "Subentries": [
@@ -1405,6 +1400,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "3919.10.20.55",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -1592,11 +1592,6 @@
                 "Description": "Of poly(ethylene terephthalate)",
                 "Subentries": [
                   {
-                    "HS Code": "3920.62.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Metallized PET film:",
                     "Subentries": [
@@ -1611,6 +1606,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "3920.62.00.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -1709,11 +1709,6 @@
                 "Description": "Of other plastics:",
                 "Subentries": [
                   {
-                    "HS Code": "3920.99.50.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Film, strip and sheets, all the foregoing which are flexible:",
                     "Subentries": [
@@ -1728,6 +1723,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "3920.99.50.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -1740,6 +1740,136 @@
         "Description": "Other plates, sheets, film, foil and strip, of plastics:",
         "Subentries": [
           {
+            "HS Code": "",
+            "Description": "Cellular:",
+            "Subentries": [
+              {
+                "HS Code": "3921.11.00.00",
+                "Description": "Of polymers of styrene",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3921.12",
+                "Description": "Of polymers of vinyl chloride:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Combined with textile materials:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Products with textile components in which man-made fibers predominate by weight over any other single textile fiber:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3921.12.11.00",
+                            "Description": "Over 70 percent by weight of plastics",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3921.12.15.00",
+                            "Description": "Other (229)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "3921.12.19",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "3921.12.19.10",
+                            "Description": "Products with textile components in which vegetable fibers predominate by weight over any other single textile fiber",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3921.12.19.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "3921.12.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3921.13",
+                "Description": "Of polyurethanes:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Combined with textile materials:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Products with textile components in which man-made fibers predominate by weight over any other single textile fiber:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3921.13.11.00",
+                            "Description": "Over 70 percent by weight of plastics",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3921.13.15.00",
+                            "Description": "Other (229)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "3921.13.19",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "3921.13.19.10",
+                            "Description": "Products with textile components in which vegetable fibers predominate by weight over any other single textile fiber",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3921.13.19.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "3921.13.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3921.14.00.00",
+                "Description": "Of regenerated cellulose",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3921.19.00",
+                "Description": "Of other plastics",
+                "Subentries": [
+                  {
+                    "HS Code": "3921.19.00.10",
+                    "Description": "Microporous sheets of polyethylene or polypropylene film",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3921.19.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "3921.90",
             "Description": "Other:",
             "Subentries": [
@@ -1747,22 +1877,6 @@
                 "HS Code": "",
                 "Description": "Combined with textile materials and weighing not more than 1.492 kg/m2:",
                 "Subentries": [
-                  {
-                    "HS Code": "3921.90.19",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "3921.90.19.10",
-                        "Description": "Products with textile components in which vegetable fibers predominate by weight over any other single textile fiber",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3921.90.19.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
                   {
                     "HS Code": "",
                     "Description": "Products with textile components in which man-made fibers predominate by weight over any other single textile fiber:",
@@ -1775,6 +1889,22 @@
                       {
                         "HS Code": "3921.90.15.00",
                         "Description": "Other (229)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "3921.90.19",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "3921.90.19.10",
+                        "Description": "Products with textile components in which vegetable fibers predominate by weight over any other single textile fiber",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3921.90.19.50",
+                        "Description": "Other",
                         "Subentries": []
                       }
                     ]
@@ -1852,136 +1982,6 @@
                 ]
               }
             ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Cellular:",
-            "Subentries": [
-              {
-                "HS Code": "3921.11.00.00",
-                "Description": "Of polymers of styrene",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3921.12",
-                "Description": "Of polymers of vinyl chloride:",
-                "Subentries": [
-                  {
-                    "HS Code": "3921.12.50.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Combined with textile materials:",
-                    "Subentries": [
-                      {
-                        "HS Code": "3921.12.19",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "3921.12.19.10",
-                            "Description": "Products with textile components in which vegetable fibers predominate by weight over any other single textile fiber",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "3921.12.19.50",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Products with textile components in which man-made fibers predominate by weight over any other single textile fiber:",
-                        "Subentries": [
-                          {
-                            "HS Code": "3921.12.11.00",
-                            "Description": "Over 70 percent by weight of plastics",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "3921.12.15.00",
-                            "Description": "Other (229)",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "3921.13",
-                "Description": "Of polyurethanes:",
-                "Subentries": [
-                  {
-                    "HS Code": "3921.13.50.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Combined with textile materials:",
-                    "Subentries": [
-                      {
-                        "HS Code": "3921.13.19",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "3921.13.19.10",
-                            "Description": "Products with textile components in which vegetable fibers predominate by weight over any other single textile fiber",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "3921.13.19.50",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Products with textile components in which man-made fibers predominate by weight over any other single textile fiber:",
-                        "Subentries": [
-                          {
-                            "HS Code": "3921.13.11.00",
-                            "Description": "Over 70 percent by weight of plastics",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "3921.13.15.00",
-                            "Description": "Other (229)",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "3921.14.00.00",
-                "Description": "Of regenerated cellulose",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3921.19.00",
-                "Description": "Of other plastics",
-                "Subentries": [
-                  {
-                    "HS Code": "3921.19.00.10",
-                    "Description": "Microporous sheets of polyethylene or polypropylene film",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "3921.19.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
           }
         ]
       },
@@ -2023,75 +2023,6 @@
                 "HS Code": "3923.10.90.00",
                 "Description": "Other",
                 "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "3923.30.00",
-            "Description": "Carboys, bottles, flasks and similar articles",
-            "Subentries": [
-              {
-                "HS Code": "3923.30.00.10",
-                "Description": "Of a capacity not exceeding 50 ml",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3923.30.00.90",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "3923.40.00",
-            "Description": "Spools, cops, bobbins and similar supports",
-            "Subentries": [
-              {
-                "HS Code": "3923.40.00.10",
-                "Description": "Photographic film reels and reel cans",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3923.40.00.50",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "3923.50.00.00",
-            "Description": "Stoppers, lids, caps and other closures",
-            "Subentries": []
-          },
-          {
-            "HS Code": "3923.90.00",
-            "Description": "Other",
-            "Subentries": [
-              {
-                "HS Code": "3923.90.00.80",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Buckets and pails, with or without lids or other closures, having a capacity of:",
-                "Subentries": [
-                  {
-                    "HS Code": "3923.90.00.12",
-                    "Description": "Less than 11.36 liters (3 gallons)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "3923.90.00.14",
-                    "Description": "11.36 liters (3 gallons) or more, but not more than 22.71 liters (6 gallons)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "3923.90.00.16",
-                    "Description": "22.71 liters (6 gallons) or more",
-                    "Subentries": []
-                  }
-                ]
               }
             ]
           },
@@ -2150,6 +2081,75 @@
               {
                 "HS Code": "3923.29.00.00",
                 "Description": "Of other plastics",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3923.30.00",
+            "Description": "Carboys, bottles, flasks and similar articles",
+            "Subentries": [
+              {
+                "HS Code": "3923.30.00.10",
+                "Description": "Of a capacity not exceeding 50 ml",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3923.30.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3923.40.00",
+            "Description": "Spools, cops, bobbins and similar supports",
+            "Subentries": [
+              {
+                "HS Code": "3923.40.00.10",
+                "Description": "Photographic film reels and reel cans",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3923.40.00.50",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3923.50.00.00",
+            "Description": "Stoppers, lids, caps and other closures",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3923.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Buckets and pails, with or without lids or other closures, having a capacity of:",
+                "Subentries": [
+                  {
+                    "HS Code": "3923.90.00.12",
+                    "Description": "Less than 11.36 liters (3 gallons)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3923.90.00.14",
+                    "Description": "11.36 liters (3 gallons) or more, but not more than 22.71 liters (6 gallons)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3923.90.00.16",
+                    "Description": "22.71 liters (6 gallons) or more",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3923.90.00.80",
+                "Description": "Other",
                 "Subentries": []
               }
             ]
@@ -2338,22 +2338,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "3926.20.40",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "3926.20.40.10",
-                            "Description": "Disposable",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "3926.20.40.50",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Specially designed for use in sports:",
                         "Subentries": [
@@ -2364,6 +2348,22 @@
                           },
                           {
                             "HS Code": "3926.20.30.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "3926.20.40",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "3926.20.40.10",
+                            "Description": "Disposable",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3926.20.40.50",
                             "Description": "Other",
                             "Subentries": []
                           }
@@ -2464,6 +2464,22 @@
                 "Subentries": []
               },
               {
+                "HS Code": "",
+                "Description": "Beads, bugles and spangles, not strung (except temporarily) and not set; articles thereof, not elsewhere specified or included:",
+                "Subentries": [
+                  {
+                    "HS Code": "3926.90.33.00",
+                    "Description": "Handbags",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3926.90.35.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
                 "HS Code": "3926.90.40.00",
                 "Description": "Imitation gemstones",
                 "Subentries": []
@@ -2493,6 +2509,97 @@
                 "HS Code": "3926.90.50.00",
                 "Description": "Frames or mounts for photographic slides",
                 "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Belting and belts, for machinery:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Containing textile fibers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3926.90.55.00",
+                        "Description": "V-belts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3926.90.56.00",
+                            "Description": "With textile components in which vegetable fibers predominate by weight over any other textile fiber",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3926.90.57.00",
+                            "Description": "With textile components in which man-made fibers predominate by weight over any other textile fiber",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3926.90.59.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "3926.90.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "3926.90.60.10",
+                        "Description": "Synchronous belts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3926.90.60.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Clothespins:",
+                "Subentries": [
+                  {
+                    "HS Code": "3926.90.65",
+                    "Description": "Spring type",
+                    "Subentries": [
+                      {
+                        "HS Code": "3926.90.65.10",
+                        "Description": "Valued not over 80 cents per gross",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3926.90.65.20",
+                        "Description": "Valued over 80 cents but not over $1.35 per gross",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3926.90.65.30",
+                        "Description": "Valued over $1.35 but not over $1.70 per gross",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3926.90.65.50",
+                        "Description": "Valued over $1.70 per gross",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "3926.90.70.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
               },
               {
                 "HS Code": "3926.90.75.00",
@@ -2570,113 +2677,6 @@
                   },
                   {
                     "HS Code": "3926.90.99.89",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Beads, bugles and spangles, not strung (except temporarily) and not set; articles thereof, not elsewhere specified or included:",
-                "Subentries": [
-                  {
-                    "HS Code": "3926.90.33.00",
-                    "Description": "Handbags",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "3926.90.35.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Belting and belts, for machinery:",
-                "Subentries": [
-                  {
-                    "HS Code": "3926.90.60",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "3926.90.60.10",
-                        "Description": "Synchronous belts",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3926.90.60.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Containing textile fibers:",
-                    "Subentries": [
-                      {
-                        "HS Code": "3926.90.55.00",
-                        "Description": "V-belts",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "3926.90.56.00",
-                            "Description": "With textile components in which vegetable fibers predominate by weight over any other textile fiber",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "3926.90.57.00",
-                            "Description": "With textile components in which man-made fibers predominate by weight over any other textile fiber",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "3926.90.59.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Clothespins:",
-                "Subentries": [
-                  {
-                    "HS Code": "3926.90.65",
-                    "Description": "Spring type",
-                    "Subentries": [
-                      {
-                        "HS Code": "3926.90.65.10",
-                        "Description": "Valued not over 80 cents per gross",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3926.90.65.20",
-                        "Description": "Valued over 80 cents but not over $1.35 per gross",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3926.90.65.30",
-                        "Description": "Valued over $1.35 but not over $1.70 per gross",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3926.90.65.50",
-                        "Description": "Valued over $1.70 per gross",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "3926.90.70.00",
                     "Description": "Other",
                     "Subentries": []
                   }

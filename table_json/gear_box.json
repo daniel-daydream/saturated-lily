@@ -17,24 +17,9 @@
                 "Subentries": []
               },
               {
-                "HS Code": "8483.40.80.00",
-                "Description": "Ball or roller screws",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8483.40.90.00",
-                "Description": "Gears and gearing, other than toothed wheels, chain sprockets and other transmission elements entered separately",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Gear boxes and other speed changers:",
                 "Subentries": [
-                  {
-                    "HS Code": "8483.40.70.00",
-                    "Description": "Other speed changers",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Fixed ratio speed changers, multiple and variable ratio speed changers each ratio of which is selected by manual manipulation:",
@@ -72,8 +57,23 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8483.40.70.00",
+                    "Description": "Other speed changers",
+                    "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8483.40.80.00",
+                "Description": "Ball or roller screws",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8483.40.90.00",
+                "Description": "Gears and gearing, other than toothed wheels, chain sprockets and other transmission elements entered separately",
+                "Subentries": []
               }
             ]
           }

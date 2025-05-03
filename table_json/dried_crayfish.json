@@ -79,21 +79,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "0306.14.40.20",
-                        "Description": "Snow crab",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0306.14.40.30",
-                        "Description": "Dungeness crab",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0306.14.40.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "King crab:",
                         "Subentries": [
@@ -123,6 +108,21 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0306.14.40.20",
+                        "Description": "Snow crab",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.14.40.30",
+                        "Description": "Dungeness crab",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.14.40.90",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -137,11 +137,6 @@
                 "HS Code": "0306.16.00",
                 "Description": "Cold-water shrimps and prawns (Pandalus spp., Crangon crangon)",
                 "Subentries": [
-                  {
-                    "HS Code": "0306.16.00.40",
-                    "Description": "Peeled, imported in accordance with statistical note 1 to this chapter",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Shell-on, imported in accordance with statistical note 1 to this chapter:",
@@ -192,6 +187,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0306.16.00.40",
+                    "Description": "Peeled, imported in accordance with statistical note 1 to this chapter",
+                    "Subentries": []
                   }
                 ]
               },

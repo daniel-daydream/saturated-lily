@@ -12,11 +12,6 @@
             "Description": "Pineapples:",
             "Subentries": [
               {
-                "HS Code": "0804.30.60.00",
-                "Description": "Reduced in size",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Not reduced in size:",
                 "Subentries": [
@@ -42,6 +37,11 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "0804.30.60.00",
+                "Description": "Reduced in size",
+                "Subentries": []
               }
             ]
           }

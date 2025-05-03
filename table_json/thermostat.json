@@ -12,11 +12,6 @@
             "Description": "Thermostats",
             "Subentries": [
               {
-                "HS Code": "9032.10.00.90",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "For air conditioning, refrigeration or heating systems:",
                 "Subentries": [
@@ -31,6 +26,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "9032.10.00.90",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

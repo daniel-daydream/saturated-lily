@@ -8,70 +8,6 @@
         "Description": "Twine, cordage, ropes and cables, whether or not plaited or braided and whether or not impregnated, coated, covered or sheathed with rubber or plastics:",
         "Subentries": [
           {
-            "HS Code": "5607.50",
-            "Description": "Of other synthetic fibers:",
-            "Subentries": [
-              {
-                "HS Code": "5607.50.40.00",
-                "Description": "Other (669)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Not braided or plaited:",
-                "Subentries": [
-                  {
-                    "HS Code": "5607.50.25.00",
-                    "Description": "3-ply or 4-ply multicolored twine having a final \"S\" twist, containing at least 10 percent by weight of cotton, measuring less than 3.5 mm in diameter (201)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5607.50.35.00",
-                    "Description": "Other (201)",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "5607.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "5607.90.10.00",
-                "Description": "Of coir",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5607.90.15.00",
-                "Description": "Of jute or other textile bast fibers of heading 5303",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5607.90.90.00",
-                "Description": "Other (201)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Of abaca (Manila hemp or Musa textilis Nee) or other hard (leaf) fibers:",
-                "Subentries": [
-                  {
-                    "HS Code": "5607.90.25.00",
-                    "Description": "Of stranded construction measuring 1.88 cm or over in diameter",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5607.90.35.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Of polyethylene or polypropylene:",
             "Subentries": [
@@ -111,11 +47,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "5607.49.30.00",
-                    "Description": "Other (669)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Other, not braided or plaited:",
                     "Subentries": [
@@ -130,8 +61,77 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5607.49.30.00",
+                    "Description": "Other (669)",
+                    "Subentries": []
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "5607.50",
+            "Description": "Of other synthetic fibers:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Not braided or plaited:",
+                "Subentries": [
+                  {
+                    "HS Code": "5607.50.25.00",
+                    "Description": "3-ply or 4-ply multicolored twine having a final \"S\" twist, containing at least 10 percent by weight of cotton, measuring less than 3.5 mm in diameter (201)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5607.50.35.00",
+                    "Description": "Other (201)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5607.50.40.00",
+                "Description": "Other (669)",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "5607.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "5607.90.10.00",
+                "Description": "Of coir",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5607.90.15.00",
+                "Description": "Of jute or other textile bast fibers of heading 5303",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Of abaca (Manila hemp or Musa textilis Nee) or other hard (leaf) fibers:",
+                "Subentries": [
+                  {
+                    "HS Code": "5607.90.25.00",
+                    "Description": "Of stranded construction measuring 1.88 cm or over in diameter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5607.90.35.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5607.90.90.00",
+                "Description": "Other (201)",
+                "Subentries": []
               }
             ]
           }

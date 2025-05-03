@@ -8,81 +8,6 @@
         "Description": "Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of textile materials:",
         "Subentries": [
           {
-            "HS Code": "6404.20",
-            "Description": "Footwear with outer soles of leather or composition leather:",
-            "Subentries": [
-              {
-                "HS Code": "6404.20.60",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "6404.20.60.40",
-                    "Description": "For men",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "6404.20.60.60",
-                    "Description": "For women",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "6404.20.60.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Not over 50 percent by weight of rubber or plastics and not over 50 percent by weight of textile materials and rubber or plastics with at least 10 percent by weight being rubber or plastics:",
-                "Subentries": [
-                  {
-                    "HS Code": "6404.20.20",
-                    "Description": "Valued not over $2.50/pair",
-                    "Subentries": [
-                      {
-                        "HS Code": "6404.20.20.30",
-                        "Description": "For men",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6404.20.20.60",
-                        "Description": "For women",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6404.20.20.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "6404.20.40",
-                    "Description": "Valued over $2.50/pair",
-                    "Subentries": [
-                      {
-                        "HS Code": "6404.20.40.30",
-                        "Description": "For men",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6404.20.40.60",
-                        "Description": "For women",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6404.20.40.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Footwear with outer soles of rubber or plastics:",
             "Subentries": [
@@ -115,60 +40,6 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
-                      {
-                        "HS Code": "6404.11.90",
-                        "Description": "Valued over $12/pair",
-                        "Subentries": [
-                          {
-                            "HS Code": "",
-                            "Description": "For men:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6404.11.90.10",
-                                "Description": "Ski boots, cross country ski footwear and snowboard boots",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6404.11.90.20",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "For women:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6404.11.90.40",
-                                "Description": "Ski boots, cross country ski footwear and snowboard boots",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6404.11.90.50",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Other:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6404.11.90.70",
-                                "Description": "Ski boots, cross country ski footwear and snowboard boots",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6404.11.90.80",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      },
                       {
                         "HS Code": "",
                         "Description": "Valued not over $3/pair:",
@@ -430,6 +301,60 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6404.11.90",
+                        "Description": "Valued over $12/pair",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "For men:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6404.11.90.10",
+                                "Description": "Ski boots, cross country ski footwear and snowboard boots",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6404.11.90.20",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "For women:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6404.11.90.40",
+                                "Description": "Ski boots, cross country ski footwear and snowboard boots",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6404.11.90.50",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6404.11.90.70",
+                                "Description": "Ski boots, cross country ski footwear and snowboard boots",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6404.11.90.80",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   }
@@ -674,27 +599,6 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
-                      {
-                        "HS Code": "6404.19.90",
-                        "Description": "Valued over $12/pair",
-                        "Subentries": [
-                          {
-                            "HS Code": "6404.19.90.30",
-                            "Description": "For men",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6404.19.90.60",
-                            "Description": "For women",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6404.19.90.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
                       {
                         "HS Code": "",
                         "Description": "Valued not over $3/pair:",
@@ -1107,8 +1011,104 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6404.19.90",
+                        "Description": "Valued over $12/pair",
+                        "Subentries": [
+                          {
+                            "HS Code": "6404.19.90.30",
+                            "Description": "For men",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6404.19.90.60",
+                            "Description": "For women",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6404.19.90.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
                       }
                     ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "6404.20",
+            "Description": "Footwear with outer soles of leather or composition leather:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Not over 50 percent by weight of rubber or plastics and not over 50 percent by weight of textile materials and rubber or plastics with at least 10 percent by weight being rubber or plastics:",
+                "Subentries": [
+                  {
+                    "HS Code": "6404.20.20",
+                    "Description": "Valued not over $2.50/pair",
+                    "Subentries": [
+                      {
+                        "HS Code": "6404.20.20.30",
+                        "Description": "For men",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6404.20.20.60",
+                        "Description": "For women",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6404.20.20.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "6404.20.40",
+                    "Description": "Valued over $2.50/pair",
+                    "Subentries": [
+                      {
+                        "HS Code": "6404.20.40.30",
+                        "Description": "For men",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6404.20.40.60",
+                        "Description": "For women",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6404.20.40.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6404.20.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "6404.20.60.40",
+                    "Description": "For men",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6404.20.60.60",
+                    "Description": "For women",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6404.20.60.80",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

@@ -26,11 +26,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "8413.50.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Hydraulic fluid power pumps",
                     "Subentries": [
@@ -45,6 +40,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8413.50.00.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

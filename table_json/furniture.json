@@ -29,151 +29,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "9401.80",
-            "Description": "Other seats:",
-            "Subentries": [
-              {
-                "HS Code": "9401.80.60",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "9401.80.60.24",
-                    "Description": "Stationary activity centers for children",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9401.80.60.25",
-                    "Description": "Other seats for children",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9401.80.60.28",
-                    "Description": "Other household",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9401.80.60.30",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Child safety seats:",
-                    "Subentries": [
-                      {
-                        "HS Code": "9401.80.60.21",
-                        "Description": "With detachable hard-shell seat",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.80.60.23",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Of rubber or plastics:",
-                "Subentries": [
-                  {
-                    "HS Code": "9401.80.20",
-                    "Description": "Of reinforced or laminated plastics",
-                    "Subentries": [
-                      {
-                        "HS Code": "9401.80.20.01",
-                        "Description": "Children\u02bcs highchairs and booster seats except for motor vehicle; bath seats, infant walkers, bouncers with seats, swings for children",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.80.20.05",
-                        "Description": "Stationary activity centers for children",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.80.20.11",
-                        "Description": "Other household",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.80.20.31",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "9401.80.40",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "9401.80.40.01",
-                        "Description": "Children\u02bcs highchairs and booster seats except for motor vehicle; bath seats, infant walkers, bouncers with seats, swings for children",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.80.40.04",
-                        "Description": "Stationary activity centers for children",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "9401.80.40.46",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Outdoor:",
-                            "Subentries": [
-                              {
-                                "HS Code": "",
-                                "Description": "With textile covered cushions or textile seating or backing material:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "9401.80.40.06",
-                                    "Description": "Household",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "9401.80.40.15",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  }
-                                ]
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Other:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "9401.80.40.26",
-                                    "Description": "Household",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "9401.80.40.35",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Swivel seats with variable height adjustment:",
             "Subentries": [
@@ -246,32 +101,6 @@
                 "Description": "Upholstered:",
                 "Subentries": [
                   {
-                    "HS Code": "9401.61.60",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "9401.61.60.01",
-                        "Description": "Stationary activity centers for children",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.61.60.05",
-                        "Description": "Other seats for children",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.61.60.11",
-                        "Description": "Other household",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.61.60.31",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Chairs:",
                     "Subentries": [
@@ -335,6 +164,32 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9401.61.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9401.61.60.01",
+                        "Description": "Stationary activity centers for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.61.60.05",
+                        "Description": "Other seats for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.61.60.11",
+                        "Description": "Other household",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.61.60.31",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -362,54 +217,6 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
-                      {
-                        "HS Code": "9401.69.80",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "9401.69.80.01",
-                            "Description": "Stationary activity centers for children",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9401.69.80.05",
-                            "Description": "Other seats for children",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9401.69.80.11",
-                            "Description": "Other household",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Other:",
-                            "Subentries": [
-                              {
-                                "HS Code": "9401.69.80.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Of teak (Tectona spp.):",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "9401.69.80.66",
-                                    "Description": "Of plantation-harvested teak",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "9401.69.80.68",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      },
                       {
                         "HS Code": "",
                         "Description": "Chairs:",
@@ -468,6 +275,54 @@
                               },
                               {
                                 "HS Code": "9401.69.60.31",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "9401.69.80",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "9401.69.80.01",
+                            "Description": "Stationary activity centers for children",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9401.69.80.05",
+                            "Description": "Other seats for children",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9401.69.80.11",
+                            "Description": "Other household",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Of teak (Tectona spp.):",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "9401.69.80.66",
+                                    "Description": "Of plantation-harvested teak",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "9401.69.80.68",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "9401.69.80.90",
                                 "Description": "Other",
                                 "Subentries": []
                               }
@@ -614,6 +469,151 @@
                         ]
                       }
                     ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9401.80",
+            "Description": "Other seats:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Of rubber or plastics:",
+                "Subentries": [
+                  {
+                    "HS Code": "9401.80.20",
+                    "Description": "Of reinforced or laminated plastics",
+                    "Subentries": [
+                      {
+                        "HS Code": "9401.80.20.01",
+                        "Description": "Children\u02bcs highchairs and booster seats except for motor vehicle; bath seats, infant walkers, bouncers with seats, swings for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.20.05",
+                        "Description": "Stationary activity centers for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.20.11",
+                        "Description": "Other household",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.20.31",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9401.80.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9401.80.40.01",
+                        "Description": "Children\u02bcs highchairs and booster seats except for motor vehicle; bath seats, infant walkers, bouncers with seats, swings for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.40.04",
+                        "Description": "Stationary activity centers for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Outdoor:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "With textile covered cushions or textile seating or backing material:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "9401.80.40.06",
+                                    "Description": "Household",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "9401.80.40.15",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "9401.80.40.26",
+                                    "Description": "Household",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "9401.80.40.35",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "9401.80.40.46",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "9401.80.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Child safety seats:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9401.80.60.21",
+                        "Description": "With detachable hard-shell seat",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.60.23",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9401.80.60.24",
+                    "Description": "Stationary activity centers for children",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9401.80.60.25",
+                    "Description": "Other seats for children",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9401.80.60.28",
+                    "Description": "Other household",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9401.80.60.30",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -824,11 +824,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "9403.20.00.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Foldable mattress foundations with legs, having the characteristics of a bed or bed frame, whether or not mechanically adjustable:",
                         "Subentries": [
@@ -843,6 +838,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "9403.20.00.50",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -852,11 +852,6 @@
                 "HS Code": "",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "9403.20.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Counters, lockers, racks, display cases, shelves, partitions and similar fixtures:",
@@ -882,6 +877,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9403.20.00.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -995,11 +995,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "9403.50.90.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Beds:",
                         "Subentries": [
@@ -1019,6 +1014,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "9403.50.90.80",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -1319,80 +1319,6 @@
                         ]
                       },
                       {
-                        "HS Code": "9403.99.50",
-                        "Description": "Of textile material, except cotton",
-                        "Subentries": [
-                          {
-                            "HS Code": "9403.99.50.05",
-                            "Description": "For toddler beds, cribs, bassinets and cradles",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9403.99.50.10",
-                            "Description": "For play yards and other enclosures for confining children",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9403.99.50.80",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "9403.99.90",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "9403.99.90.10",
-                            "Description": "For toddler beds, cribs, bassinets and cradles",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9403.99.90.15",
-                            "Description": "For play yards and other enclosures for confining children",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Other:",
-                            "Subentries": [
-                              {
-                                "HS Code": "9403.99.90.51",
-                                "Description": "Of cotton, cut to shape",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "9403.99.90.61",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Of metal:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "9403.99.90.20",
-                                    "Description": "Welded wire rack, whether or  not galvanized, plated or coated",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "9403.99.90.40",
-                                    "Description": "Parts for steel racks of statistical reporting number 9403.20.0082",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "9403.99.90.45",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Of rubber or plastics:",
                         "Subentries": [
@@ -1439,6 +1365,80 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "9403.99.50",
+                        "Description": "Of textile material, except cotton",
+                        "Subentries": [
+                          {
+                            "HS Code": "9403.99.50.05",
+                            "Description": "For toddler beds, cribs, bassinets and cradles",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9403.99.50.10",
+                            "Description": "For play yards and other enclosures for confining children",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9403.99.50.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "9403.99.90",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "9403.99.90.10",
+                            "Description": "For toddler beds, cribs, bassinets and cradles",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9403.99.90.15",
+                            "Description": "For play yards and other enclosures for confining children",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Of metal:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "9403.99.90.20",
+                                    "Description": "Welded wire rack, whether or  not galvanized, plated or coated",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "9403.99.90.40",
+                                    "Description": "Parts for steel racks of statistical reporting number 9403.20.0082",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "9403.99.90.45",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "9403.99.90.51",
+                                "Description": "Of cotton, cut to shape",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9403.99.90.61",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   }
@@ -1456,179 +1456,6 @@
             "HS Code": "9404.10.00.00",
             "Description": "Mattress supports",
             "Subentries": []
-          },
-          {
-            "HS Code": "9404.30",
-            "Description": "Sleeping bags:",
-            "Subentries": [
-              {
-                "HS Code": "9404.30.40.00",
-                "Description": "Containing 20 percent or more by weight of feathers and/or down",
-                "Subentries": []
-              },
-              {
-                "HS Code": "9404.30.80.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "9404.40",
-            "Description": "Quilts, bedspreads, eiderdowns and duvets (comforters):",
-            "Subentries": [
-              {
-                "HS Code": "9404.40.10.00",
-                "Description": "Of cotton, not containing any embroidery, lace, braid, edging, trimming, piping exceeding 6.35 mm or applique work (362)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "9404.40.90",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "9404.40.90.05",
-                    "Description": "With outer shell of cotton (362)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9404.40.90.22",
-                    "Description": "With outer shell of man-made fibers (666)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "With outer shell of other textile materials:",
-                    "Subentries": [
-                      {
-                        "HS Code": "9404.40.90.23",
-                        "Description": "Containing 85 percent or more by weight of silk or silk waste",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9404.40.90.36",
-                        "Description": "Other (899)",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "9404.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "",
-                "Description": "Pillows, cushions and similar furnishings:",
-                "Subentries": [
-                  {
-                    "HS Code": "9404.90.10",
-                    "Description": "Of cotton (369)",
-                    "Subentries": [
-                      {
-                        "HS Code": "9404.90.10.90",
-                        "Description": "Other (369)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Bed pillows (with outer covering of cotton), of a kind described in statistical note 5 to this chapter:",
-                        "Subentries": [
-                          {
-                            "HS Code": "9404.90.10.30",
-                            "Description": "Foam fill (369)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9404.90.10.60",
-                            "Description": "Other fill (369)",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "9404.90.20",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "9404.90.20.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Bed pillows, of a kind described in statistical note 5 to this chapter:",
-                        "Subentries": [
-                          {
-                            "HS Code": "9404.90.20.30",
-                            "Description": "Foam fill",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9404.90.20.60",
-                            "Description": "Other fill",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "9404.90.81.00",
-                    "Description": "Of cotton, not containing any embroidery, lace, braid, edging, trimming, piping exceeding 6.35 mm or applique work (369)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9404.90.96",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "9404.90.96.05",
-                        "Description": "With outer shell of cotton (369)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9404.90.96.22",
-                        "Description": "With outer shell of man-made fibers (666)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9404.90.96.70",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "With outer shell of other textile materials:",
-                        "Subentries": [
-                          {
-                            "HS Code": "9404.90.96.23",
-                            "Description": "Containing 85 percent or more by weight of silk or silk waste",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9404.90.96.36",
-                            "Description": "Other (899)",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
           },
           {
             "HS Code": "",
@@ -1731,6 +1558,179 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "9404.30",
+            "Description": "Sleeping bags:",
+            "Subentries": [
+              {
+                "HS Code": "9404.30.40.00",
+                "Description": "Containing 20 percent or more by weight of feathers and/or down",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9404.30.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9404.40",
+            "Description": "Quilts, bedspreads, eiderdowns and duvets (comforters):",
+            "Subentries": [
+              {
+                "HS Code": "9404.40.10.00",
+                "Description": "Of cotton, not containing any embroidery, lace, braid, edging, trimming, piping exceeding 6.35 mm or applique work (362)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9404.40.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "9404.40.90.05",
+                    "Description": "With outer shell of cotton (362)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9404.40.90.22",
+                    "Description": "With outer shell of man-made fibers (666)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "With outer shell of other textile materials:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9404.40.90.23",
+                        "Description": "Containing 85 percent or more by weight of silk or silk waste",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9404.40.90.36",
+                        "Description": "Other (899)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9404.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Pillows, cushions and similar furnishings:",
+                "Subentries": [
+                  {
+                    "HS Code": "9404.90.10",
+                    "Description": "Of cotton (369)",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Bed pillows (with outer covering of cotton), of a kind described in statistical note 5 to this chapter:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9404.90.10.30",
+                            "Description": "Foam fill (369)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9404.90.10.60",
+                            "Description": "Other fill (369)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "9404.90.10.90",
+                        "Description": "Other (369)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9404.90.20",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Bed pillows, of a kind described in statistical note 5 to this chapter:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9404.90.20.30",
+                            "Description": "Foam fill",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9404.90.20.60",
+                            "Description": "Other fill",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "9404.90.20.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9404.90.81.00",
+                    "Description": "Of cotton, not containing any embroidery, lace, braid, edging, trimming, piping exceeding 6.35 mm or applique work (369)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9404.90.96",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9404.90.96.05",
+                        "Description": "With outer shell of cotton (369)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9404.90.96.22",
+                        "Description": "With outer shell of man-made fibers (666)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "With outer shell of other textile materials:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9404.90.96.23",
+                            "Description": "Containing 85 percent or more by weight of silk or silk waste",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9404.90.96.36",
+                            "Description": "Other (899)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "9404.90.96.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
@@ -1739,33 +1739,6 @@
         "Description": "Luminaires and lighting fittings including searchlights and spotlights and parts thereof, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like, having a permanently fixed light source, and parts thereof not elsewhere specified or included:",
         "Subentries": [
           {
-            "HS Code": "9405.50",
-            "Description": "Non-electrical luminaires and lighting fittings:",
-            "Subentries": [
-              {
-                "HS Code": "9405.50.20.00",
-                "Description": "Incandescent luminaires designed to be operated by  propane or other gas, or by compressed air and  kerosene or gasoline",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "9405.50.30.00",
-                    "Description": "Of brass",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9405.50.40.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Chandeliers and other electric ceiling or wall lighting fittings, excluding those of a kind used for lighting public open spaces or thoroughfares:",
             "Subentries": [
@@ -1773,22 +1746,6 @@
                 "HS Code": "9405.11",
                 "Description": "Designed for use solely with light-emitting diode (LED) light sources:",
                 "Subentries": [
-                  {
-                    "HS Code": "9405.11.80",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "9405.11.80.10",
-                        "Description": "Household",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9405.11.80.20",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of base metal:",
@@ -1826,6 +1783,22 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9405.11.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9405.11.80.10",
+                        "Description": "Household",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9405.11.80.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -1833,22 +1806,6 @@
                 "HS Code": "9405.19",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "9405.19.80",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "9405.19.80.10",
-                        "Description": "Household",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9405.19.80.20",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of base metal",
@@ -1886,6 +1843,22 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9405.19.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9405.19.80.10",
+                        "Description": "Household",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9405.19.80.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               }
@@ -1899,22 +1872,6 @@
                 "HS Code": "9405.21",
                 "Description": "Designed for use solely with light-emitting diode (LED) light sources:",
                 "Subentries": [
-                  {
-                    "HS Code": "9405.21.80",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "9405.21.80.10",
-                        "Description": "Household",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9405.21.80.20",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of base metal:",
@@ -1952,6 +1909,22 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9405.21.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9405.21.80.10",
+                        "Description": "Household",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9405.21.80.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -1959,22 +1932,6 @@
                 "HS Code": "9405.29",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "9405.29.80",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "9405.29.80.10",
-                        "Description": "Household",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9405.29.80.20",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of base metal:",
@@ -2010,6 +1967,22 @@
                             "Subentries": []
                           }
                         ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9405.29.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9405.29.80.10",
+                        "Description": "Household",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9405.29.80.20",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -2165,6 +2138,33 @@
             ]
           },
           {
+            "HS Code": "9405.50",
+            "Description": "Non-electrical luminaires and lighting fittings:",
+            "Subentries": [
+              {
+                "HS Code": "9405.50.20.00",
+                "Description": "Incandescent luminaires designed to be operated by  propane or other gas, or by compressed air and  kerosene or gasoline",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9405.50.30.00",
+                    "Description": "Of brass",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9405.50.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Illuminated signs, illuminated name-plates and the like:",
             "Subentries": [
@@ -2172,11 +2172,6 @@
                 "HS Code": "9405.61",
                 "Description": "Designed for use solely with light-emitting diode (LED) light sources:",
                 "Subentries": [
-                  {
-                    "HS Code": "9405.61.60.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of base metal:",
@@ -2192,6 +2187,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9405.61.60.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -2199,11 +2199,6 @@
                 "HS Code": "9405.69",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "9405.69.60.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of base metal:",
@@ -2219,6 +2214,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9405.69.60.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -2232,6 +2232,22 @@
                 "HS Code": "9405.91",
                 "Description": "Of glass:",
                 "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Globes and shades:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9405.91.10.00",
+                        "Description": "Of lead crystal",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9405.91.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
                   {
                     "HS Code": "9405.91.40.00",
                     "Description": "Chimneys",
@@ -2248,22 +2264,6 @@
                       },
                       {
                         "HS Code": "9405.91.60.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Globes and shades:",
-                    "Subentries": [
-                      {
-                        "HS Code": "9405.91.10.00",
-                        "Description": "Of lead crystal",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9405.91.30.00",
                         "Description": "Other",
                         "Subentries": []
                       }
@@ -2335,11 +2335,6 @@
                 "Description": "Of metal:",
                 "Subentries": [
                   {
-                    "HS Code": "9406.90.01.30",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Greenhouses:",
                     "Subentries": [
@@ -2354,6 +2349,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9406.90.01.30",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },

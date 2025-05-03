@@ -16,6 +16,22 @@
                 "Description": "Flanges:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Not machined, not tooled and not otherwise processed after forging:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7307.91.10.00",
+                        "Description": "Of iron or nonalloy steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7307.91.30.00",
+                        "Description": "Of alloy steel (except stainless steel)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "7307.91.50",
                     "Description": "Other",
                     "Subentries": [
@@ -44,22 +60,6 @@
                             "Subentries": []
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Not machined, not tooled and not otherwise processed after forging:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7307.91.10.00",
-                        "Description": "Of iron or nonalloy steel",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7307.91.30.00",
-                        "Description": "Of alloy steel (except stainless steel)",
-                        "Subentries": []
                       }
                     ]
                   }
@@ -97,33 +97,6 @@
                 "Description": "Butt welding fittings:",
                 "Subentries": [
                   {
-                    "HS Code": "7307.93.90",
-                    "Description": "With an inside diameter of 360 mm or more",
-                    "Subentries": [
-                      {
-                        "HS Code": "7307.93.90.60",
-                        "Description": "Of alloy steel (except stainless steel)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Of iron or nonalloy steel:",
-                        "Subentries": [
-                          {
-                            "HS Code": "7307.93.90.10",
-                            "Description": "Not machined, not tooled and not otherwise processed after forging",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7307.93.90.40",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "With an inside diameter of less than 360 mm:",
                     "Subentries": [
@@ -149,6 +122,33 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7307.93.90",
+                    "Description": "With an inside diameter of 360 mm or more",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Of iron or nonalloy steel:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7307.93.90.10",
+                            "Description": "Not machined, not tooled and not otherwise processed after forging",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7307.93.90.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7307.93.90.60",
+                        "Description": "Of alloy steel (except stainless steel)",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -157,14 +157,25 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Not machined, not tooled and not otherwise processed after forging:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7307.99.10.00",
+                        "Description": "Of iron or nonalloy steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7307.99.30.00",
+                        "Description": "Of alloy steel (except stainless steel)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "7307.99.50",
                     "Description": "Other",
                     "Subentries": [
-                      {
-                        "HS Code": "7307.99.50.60",
-                        "Description": "Of alloy steel (except stainless steel)",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Of iron or nonalloy steel:",
@@ -180,20 +191,9 @@
                             "Subentries": []
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Not machined, not tooled and not otherwise processed after forging:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7307.99.10.00",
-                        "Description": "Of iron or nonalloy steel",
-                        "Subentries": []
                       },
                       {
-                        "HS Code": "7307.99.30.00",
+                        "HS Code": "7307.99.50.60",
                         "Description": "Of alloy steel (except stainless steel)",
                         "Subentries": []
                       }

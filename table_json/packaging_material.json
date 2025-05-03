@@ -24,75 +24,6 @@
             ]
           },
           {
-            "HS Code": "3923.30.00",
-            "Description": "Carboys, bottles, flasks and similar articles",
-            "Subentries": [
-              {
-                "HS Code": "3923.30.00.10",
-                "Description": "Of a capacity not exceeding 50 ml",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3923.30.00.90",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "3923.40.00",
-            "Description": "Spools, cops, bobbins and similar supports",
-            "Subentries": [
-              {
-                "HS Code": "3923.40.00.10",
-                "Description": "Photographic film reels and reel cans",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3923.40.00.50",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "3923.50.00.00",
-            "Description": "Stoppers, lids, caps and other closures",
-            "Subentries": []
-          },
-          {
-            "HS Code": "3923.90.00",
-            "Description": "Other",
-            "Subentries": [
-              {
-                "HS Code": "3923.90.00.80",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Buckets and pails, with or without lids or other closures, having a capacity of:",
-                "Subentries": [
-                  {
-                    "HS Code": "3923.90.00.12",
-                    "Description": "Less than 11.36 liters (3 gallons)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "3923.90.00.14",
-                    "Description": "11.36 liters (3 gallons) or more, but not more than 22.71 liters (6 gallons)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "3923.90.00.16",
-                    "Description": "22.71 liters (6 gallons) or more",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Sacks and bags (including cones):",
             "Subentries": [
@@ -147,6 +78,75 @@
               {
                 "HS Code": "3923.29.00.00",
                 "Description": "Of other plastics",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3923.30.00",
+            "Description": "Carboys, bottles, flasks and similar articles",
+            "Subentries": [
+              {
+                "HS Code": "3923.30.00.10",
+                "Description": "Of a capacity not exceeding 50 ml",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3923.30.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3923.40.00",
+            "Description": "Spools, cops, bobbins and similar supports",
+            "Subentries": [
+              {
+                "HS Code": "3923.40.00.10",
+                "Description": "Photographic film reels and reel cans",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3923.40.00.50",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3923.50.00.00",
+            "Description": "Stoppers, lids, caps and other closures",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3923.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Buckets and pails, with or without lids or other closures, having a capacity of:",
+                "Subentries": [
+                  {
+                    "HS Code": "3923.90.00.12",
+                    "Description": "Less than 11.36 liters (3 gallons)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3923.90.00.14",
+                    "Description": "11.36 liters (3 gallons) or more, but not more than 22.71 liters (6 gallons)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3923.90.00.16",
+                    "Description": "22.71 liters (6 gallons) or more",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3923.90.00.80",
+                "Description": "Other",
                 "Subentries": []
               }
             ]
@@ -288,44 +288,6 @@
         "Description": "Knotted netting of twine, cordage or rope; made up fishing nets and other made up nets, of textile materials:",
         "Subentries": [
           {
-            "HS Code": "5608.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "5608.90.10.00",
-                "Description": "Fish netting and fishing nets",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "5608.90.30.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Of cotton:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5608.90.23.00",
-                        "Description": "Hammocks",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5608.90.27.00",
-                        "Description": "Other (229)",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Of man-made textile materials:",
             "Subentries": [
@@ -380,6 +342,44 @@
                         "Subentries": []
                       }
                     ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "5608.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "5608.90.10.00",
+                "Description": "Fish netting and fishing nets",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of cotton:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5608.90.23.00",
+                        "Description": "Hammocks",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5608.90.27.00",
+                        "Description": "Other (229)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5608.90.30.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

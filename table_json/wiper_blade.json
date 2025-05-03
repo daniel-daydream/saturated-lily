@@ -17,16 +17,6 @@
                 "Subentries": []
               },
               {
-                "HS Code": "8512.90.70.00",
-                "Description": "Of defrosters and demisters",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8512.90.90.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Of lighting equipment:",
                 "Subentries": [
@@ -41,6 +31,16 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8512.90.70.00",
+                "Description": "Of defrosters and demisters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8512.90.90.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

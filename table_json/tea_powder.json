@@ -77,11 +77,6 @@
             "Description": "Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",
             "Subentries": [
               {
-                "HS Code": "0902.30.00.90",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "In tea bags:",
                 "Subentries": [
@@ -96,6 +91,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0902.30.00.90",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },

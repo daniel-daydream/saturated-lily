@@ -8,11 +8,6 @@
         "Description": "Tricycles, scooters, pedal cars and similar wheeled toys; dolls\u02bc carriages; dolls, other toys; reduced-scale (\u201cscale\u02ee) models and similar recreational models, working or not; puzzles of all kinds; parts and accessories thereof",
         "Subentries": [
           {
-            "HS Code": "9503.00.00.90",
-            "Description": "Other",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "\u201cChildren\u02bcs products\u02ee as defined in 15 U.S.C. \u00a7 2052:",
             "Subentries": [
@@ -61,6 +56,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "9503.00.00.90",
+            "Description": "Other",
+            "Subentries": []
           }
         ]
       }

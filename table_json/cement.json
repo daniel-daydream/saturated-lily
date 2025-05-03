@@ -13,16 +13,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "2523.30.00.00",
-            "Description": "Aluminous cement",
-            "Subentries": []
-          },
-          {
-            "HS Code": "2523.90.00.00",
-            "Description": "Other hydraulic cements",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Portland cement:",
             "Subentries": [
@@ -37,6 +27,16 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "2523.30.00.00",
+            "Description": "Aluminous cement",
+            "Subentries": []
+          },
+          {
+            "HS Code": "2523.90.00.00",
+            "Description": "Other hydraulic cements",
+            "Subentries": []
           }
         ]
       }

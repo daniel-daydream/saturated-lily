@@ -290,11 +290,6 @@
         "Description": "Marble, travertine and other calcareous monumental or building stone of an apparent specific gravity of 2.5 or more, and alabaster, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape:",
         "Subentries": [
           {
-            "HS Code": "2515.20.00.00",
-            "Description": "Other calcareous monumental or building stone; alabaster",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Marble and travertine:",
             "Subentries": [
@@ -320,6 +315,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "2515.20.00.00",
+            "Description": "Other calcareous monumental or building stone; alabaster",
+            "Subentries": []
           }
         ]
       },
@@ -327,6 +327,33 @@
         "HS Code": "2516",
         "Description": "Granite, porphyry, basalt, sandstone and other monumental or building stone, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape:",
         "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Granite:",
+            "Subentries": [
+              {
+                "HS Code": "2516.11.00.00",
+                "Description": "Crude or roughly trimmed",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2516.12.00",
+                "Description": "Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",
+                "Subentries": [
+                  {
+                    "HS Code": "2516.12.00.30",
+                    "Description": "Having a thickness of 7.5 cm or more",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2516.12.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
           {
             "HS Code": "2516.20",
             "Description": "Sandstone:",
@@ -356,33 +383,6 @@
                 "HS Code": "2516.90.00.60",
                 "Description": "Other",
                 "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Granite:",
-            "Subentries": [
-              {
-                "HS Code": "2516.11.00.00",
-                "Description": "Crude or roughly trimmed",
-                "Subentries": []
-              },
-              {
-                "HS Code": "2516.12.00",
-                "Description": "Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",
-                "Subentries": [
-                  {
-                    "HS Code": "2516.12.00.30",
-                    "Description": "Having a thickness of 7.5 cm or more",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "2516.12.00.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
               }
             ]
           }
@@ -541,16 +541,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "2523.30.00.00",
-            "Description": "Aluminous cement",
-            "Subentries": []
-          },
-          {
-            "HS Code": "2523.90.00.00",
-            "Description": "Other hydraulic cements",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Portland cement:",
             "Subentries": [
@@ -565,6 +555,16 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "2523.30.00.00",
+            "Description": "Aluminous cement",
+            "Subentries": []
+          },
+          {
+            "HS Code": "2523.90.00.00",
+            "Description": "Other hydraulic cements",
+            "Subentries": []
           }
         ]
       },
@@ -584,11 +584,6 @@
               {
                 "HS Code": "2524.90.00.10",
                 "Description": "Amosite",
-                "Subentries": []
-              },
-              {
-                "HS Code": "2524.90.00.60",
-                "Description": "Other",
                 "Subentries": []
               },
               {
@@ -616,6 +611,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "2524.90.00.60",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }
@@ -705,22 +705,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "2529.30.00",
-            "Description": "Leucite; nepheline and nepheline syenite",
-            "Subentries": [
-              {
-                "HS Code": "2529.30.00.10",
-                "Description": "Nepheline syenite",
-                "Subentries": []
-              },
-              {
-                "HS Code": "2529.30.00.50",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Fluorspar:",
             "Subentries": [
@@ -732,6 +716,22 @@
               {
                 "HS Code": "2529.22.00.00",
                 "Description": "Containing by weight more than 97 percent of calcium fluoride",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "2529.30.00",
+            "Description": "Leucite; nepheline and nepheline syenite",
+            "Subentries": [
+              {
+                "HS Code": "2529.30.00.10",
+                "Description": "Nepheline syenite",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2529.30.00.50",
+                "Description": "Other",
                 "Subentries": []
               }
             ]

@@ -45,11 +45,6 @@
             "Description": "Parts and accessories of the machines of heading 8471:",
             "Subentries": [
               {
-                "HS Code": "8473.30.91.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Not incorporating a cathode ray tube:",
                 "Subentries": [
@@ -80,6 +75,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8473.30.91.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

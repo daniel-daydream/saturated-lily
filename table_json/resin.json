@@ -31,11 +31,6 @@
                 "Description": "Unsaturated:",
                 "Subentries": [
                   {
-                    "HS Code": "3907.91.50.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Allyl resins:",
                     "Subentries": [
@@ -50,6 +45,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "3907.91.50.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },

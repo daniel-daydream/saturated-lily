@@ -29,6 +29,65 @@
             "Subentries": []
           },
           {
+            "HS Code": "",
+            "Description": "Other trailers and semi-trailers for the transport of goods:",
+            "Subentries": [
+              {
+                "HS Code": "8716.31.00.00",
+                "Description": "Tanker trailers and tanker semi-trailers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8716.39.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8716.39.00.10",
+                    "Description": "Agricultural",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8716.39.00.20",
+                    "Description": "For use with the vehicles of heading 8709",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8716.39.00.30",
+                        "Description": "For use with the vehicles of heading 8703",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8716.39.00.40",
+                            "Description": "Van type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8716.39.00.50",
+                            "Description": "Platform type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8716.39.00.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "8716.40.00.00",
             "Description": "Other trailers and semi-trailers",
             "Subentries": []
@@ -111,11 +170,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "8716.90.50.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Wheels:",
                     "Subentries": [
@@ -133,11 +187,6 @@
                             "Description": "Wheels:",
                             "Subentries": [
                               {
-                                "HS Code": "8716.90.50.48",
-                                "Description": "Other wheels",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Having a diameter of at least 57 cm but not more than 63 cm:",
                                 "Subentries": [
@@ -152,6 +201,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "8716.90.50.48",
+                                "Description": "Other wheels",
+                                "Subentries": []
                               }
                             ]
                           },
@@ -174,65 +228,11 @@
                         ]
                       }
                     ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Other trailers and semi-trailers for the transport of goods:",
-            "Subentries": [
-              {
-                "HS Code": "8716.31.00.00",
-                "Description": "Tanker trailers and tanker semi-trailers",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8716.39.00",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8716.39.00.10",
-                    "Description": "Agricultural",
-                    "Subentries": []
                   },
                   {
-                    "HS Code": "8716.39.00.20",
-                    "Description": "For use with the vehicles of heading 8709",
+                    "HS Code": "8716.90.50.60",
+                    "Description": "Other",
                     "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8716.39.00.30",
-                        "Description": "For use with the vehicles of heading 8703",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8716.39.00.40",
-                            "Description": "Van type",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8716.39.00.50",
-                            "Description": "Platform type",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8716.39.00.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
                   }
                 ]
               }

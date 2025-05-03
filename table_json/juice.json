@@ -8,38 +8,6 @@
         "Description": "Fruit or nut juices (including grape must and coconut water) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter:",
         "Subentries": [
           {
-            "HS Code": "2009.50.00",
-            "Description": "Tomato juice",
-            "Subentries": [
-              {
-                "HS Code": "2009.50.00.10",
-                "Description": "In airtight containers",
-                "Subentries": []
-              },
-              {
-                "HS Code": "2009.50.00.90",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "2009.90",
-            "Description": "Mixtures of juices:",
-            "Subentries": [
-              {
-                "HS Code": "2009.90.20.00",
-                "Description": "Vegetable",
-                "Subentries": []
-              },
-              {
-                "HS Code": "2009.90.40.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Orange juice:",
             "Subentries": [
@@ -196,11 +164,6 @@
                         "Description": "Concentrated",
                         "Subentries": [
                           {
-                            "HS Code": "2009.31.60.60",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Lemon juice:",
                             "Subentries": [
@@ -215,6 +178,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "2009.31.60.60",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -227,14 +195,25 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Lime:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2009.39.10.00",
+                        "Description": "Unfit for beverage purposes",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2009.39.20.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "2009.39.60",
                     "Description": "Other",
                     "Subentries": [
-                      {
-                        "HS Code": "2009.39.60.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Lemon juice:",
@@ -250,20 +229,9 @@
                             "Subentries": []
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Lime:",
-                    "Subentries": [
-                      {
-                        "HS Code": "2009.39.10.00",
-                        "Description": "Unfit for beverage purposes",
-                        "Subentries": []
                       },
                       {
-                        "HS Code": "2009.39.20.00",
+                        "HS Code": "2009.39.60.60",
                         "Description": "Other",
                         "Subentries": []
                       }
@@ -334,6 +302,22 @@
             ]
           },
           {
+            "HS Code": "2009.50.00",
+            "Description": "Tomato juice",
+            "Subentries": [
+              {
+                "HS Code": "2009.50.00.10",
+                "Description": "In airtight containers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2009.50.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Grape juice (including grape must):",
             "Subentries": [
@@ -396,11 +380,6 @@
                 "Description": "Other",
                 "Subentries": [
                   {
-                    "HS Code": "2009.79.00.20",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Frozen:",
                     "Subentries": [
@@ -415,6 +394,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "2009.79.00.20",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -434,22 +418,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "2009.89.80",
-                    "Description": "Vegetable juice",
-                    "Subentries": [
-                      {
-                        "HS Code": "2009.89.80.31",
-                        "Description": "In airtight containers",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "2009.89.80.39",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Fruit juice:",
                     "Subentries": [
@@ -467,11 +435,6 @@
                         "HS Code": "2009.89.65",
                         "Description": "Cherry Juice",
                         "Subentries": [
-                          {
-                            "HS Code": "2009.89.65.50",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Tart cherry juice concentrate:",
@@ -503,6 +466,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "2009.89.65.50",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       },
@@ -510,16 +478,6 @@
                         "HS Code": "2009.89.70",
                         "Description": "Other",
                         "Subentries": [
-                          {
-                            "HS Code": "2009.89.70.70",
-                            "Description": "Mango Juice",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2009.89.70.91",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Berry juice:",
@@ -540,12 +498,54 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "2009.89.70.70",
+                            "Description": "Mango Juice",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2009.89.70.91",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "2009.89.80",
+                    "Description": "Vegetable juice",
+                    "Subentries": [
+                      {
+                        "HS Code": "2009.89.80.31",
+                        "Description": "In airtight containers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2009.89.80.39",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "2009.90",
+            "Description": "Mixtures of juices:",
+            "Subentries": [
+              {
+                "HS Code": "2009.90.20.00",
+                "Description": "Vegetable",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2009.90.40.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

@@ -8,48 +8,6 @@
         "Description": "Meat and edible offal, of the poultry of heading 0105, fresh, chilled or frozen:",
         "Subentries": [
           {
-            "HS Code": "0207.60",
-            "Description": "Of guinea fowls:",
-            "Subentries": [
-              {
-                "HS Code": "0207.60.10.00",
-                "Description": "Not cut in pieces, fresh or chilled",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0207.60.20.00",
-                "Description": "Not cut in pieces, frozen",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0207.60.30.00",
-                "Description": "Fatty livers, fresh or chilled",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0207.60.40.00",
-                "Description": "Other, fresh or chilled",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0207.60.60",
-                "Description": "Other, frozen",
-                "Subentries": [
-                  {
-                    "HS Code": "0207.60.60.20",
-                    "Description": "Livers",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0207.60.60.40",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Of chickens:",
             "Subentries": [
@@ -233,6 +191,48 @@
                   },
                   {
                     "HS Code": "0207.55.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0207.60",
+            "Description": "Of guinea fowls:",
+            "Subentries": [
+              {
+                "HS Code": "0207.60.10.00",
+                "Description": "Not cut in pieces, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.60.20.00",
+                "Description": "Not cut in pieces, frozen",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.60.30.00",
+                "Description": "Fatty livers, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.60.40.00",
+                "Description": "Other, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.60.60",
+                "Description": "Other, frozen",
+                "Subentries": [
+                  {
+                    "HS Code": "0207.60.60.20",
+                    "Description": "Livers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0207.60.60.40",
                     "Description": "Other",
                     "Subentries": []
                   }

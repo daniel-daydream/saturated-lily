@@ -13,6 +13,124 @@
             "Subentries": []
           },
           {
+            "HS Code": "",
+            "Description": "Leguminous vegetables, shelled or unshelled:",
+            "Subentries": [
+              {
+                "HS Code": "0710.21",
+                "Description": "Peas (Pisum sativum):",
+                "Subentries": [
+                  {
+                    "HS Code": "0710.21.20.00",
+                    "Description": "If entered during the period from July 1 to September 30, inclusive, in any year",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0710.21.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0710.22",
+                "Description": "Beans (Vigna spp., Phaseolus spp.):",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Not reduced in size:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Lima beans:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0710.22.10.00",
+                            "Description": "If entered during the period from November 1 in any year to the following May 31, inclusive",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0710.22.15.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "0710.22.20.00",
+                        "Description": "Cowpeas (other than black-eye peas)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0710.22.25.00",
+                        "Description": "String beans (snap beans)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0710.22.37.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0710.22.40",
+                    "Description": "Reduced in size",
+                    "Subentries": [
+                      {
+                        "HS Code": "0710.22.40.10",
+                        "Description": "Green and wax",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0710.22.40.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0710.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0710.29.05.00",
+                    "Description": "Chickpeas (garbanzos)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0710.29.15.00",
+                    "Description": "Lentils",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Pigeon peas:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0710.29.25.00",
+                        "Description": "If entered during the period from July 1 to September 30, inclusive, in any year",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0710.29.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0710.29.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "0710.30.00.00",
             "Description": "Spinach, New Zealand spinach and orache spinach (garden spinach)",
             "Subentries": []
@@ -117,21 +235,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "0710.80.97.30",
-                            "Description": "Cauliflower",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0710.80.97.55",
-                            "Description": "Garlic, reduced in size beyond the clove, whether or not individually quick frozen",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0710.80.97.65",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Broccoli:",
                             "Subentries": [
@@ -157,126 +260,23 @@
                                 ]
                               }
                             ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Leguminous vegetables, shelled or unshelled:",
-            "Subentries": [
-              {
-                "HS Code": "0710.21",
-                "Description": "Peas (Pisum sativum):",
-                "Subentries": [
-                  {
-                    "HS Code": "0710.21.20.00",
-                    "Description": "If entered during the period from July 1 to September 30, inclusive, in any year",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0710.21.40.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "0710.22",
-                "Description": "Beans (Vigna spp., Phaseolus spp.):",
-                "Subentries": [
-                  {
-                    "HS Code": "0710.22.40",
-                    "Description": "Reduced in size",
-                    "Subentries": [
-                      {
-                        "HS Code": "0710.22.40.10",
-                        "Description": "Green and wax",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0710.22.40.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Not reduced in size:",
-                    "Subentries": [
-                      {
-                        "HS Code": "0710.22.20.00",
-                        "Description": "Cowpeas (other than black-eye peas)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0710.22.25.00",
-                        "Description": "String beans (snap beans)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0710.22.37.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Lima beans:",
-                        "Subentries": [
+                          },
                           {
-                            "HS Code": "0710.22.10.00",
-                            "Description": "If entered during the period from November 1 in any year to the following May 31, inclusive",
+                            "HS Code": "0710.80.97.30",
+                            "Description": "Cauliflower",
                             "Subentries": []
                           },
                           {
-                            "HS Code": "0710.22.15.00",
+                            "HS Code": "0710.80.97.55",
+                            "Description": "Garlic, reduced in size beyond the clove, whether or not individually quick frozen",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0710.80.97.65",
                             "Description": "Other",
                             "Subentries": []
                           }
                         ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "0710.29",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "0710.29.05.00",
-                    "Description": "Chickpeas (garbanzos)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0710.29.15.00",
-                    "Description": "Lentils",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0710.29.40.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Pigeon peas:",
-                    "Subentries": [
-                      {
-                        "HS Code": "0710.29.25.00",
-                        "Description": "If entered during the period from July 1 to September 30, inclusive, in any year",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0710.29.30.00",
-                        "Description": "Other",
-                        "Subentries": []
                       }
                     ]
                   }

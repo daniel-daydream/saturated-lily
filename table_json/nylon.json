@@ -160,11 +160,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "5402.45.90.40",
-                        "Description": "Multifilament, with twist of 5 turns or more per meter (606)",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter:",
                         "Subentries": [
@@ -179,6 +174,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "5402.45.90.40",
+                        "Description": "Multifilament, with twist of 5 turns or more per meter (606)",
+                        "Subentries": []
                       }
                     ]
                   }

@@ -17,6 +17,22 @@
                 "Subentries": []
               },
               {
+                "HS Code": "",
+                "Description": "Of man-made fibers:",
+                "Subentries": [
+                  {
+                    "HS Code": "5806.10.24.00",
+                    "Description": "Fastener fabric tapes (229)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5806.10.28.00",
+                    "Description": "Other (229)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
                 "HS Code": "5806.10.30",
                 "Description": "Other",
                 "Subentries": [
@@ -33,22 +49,6 @@
                   {
                     "HS Code": "5806.10.30.90",
                     "Description": "Other (899)",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Of man-made fibers:",
-                "Subentries": [
-                  {
-                    "HS Code": "5806.10.24.00",
-                    "Description": "Fastener fabric tapes (229)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5806.10.28.00",
-                    "Description": "Other (229)",
                     "Subentries": []
                   }
                 ]
@@ -98,33 +98,13 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "5806.32.10.95",
-                            "Description": "Other (229)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Of a width not exceeding 12 cm:",
                             "Subentries": [
                               {
-                                "HS Code": "5806.32.10.80",
-                                "Description": "Other (229)",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Of nylon:",
                                 "Subentries": [
-                                  {
-                                    "HS Code": "5806.32.10.40",
-                                    "Description": "Other (229)",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "5806.32.10.70",
-                                    "Description": "Other (229)",
-                                    "Subentries": []
-                                  },
                                   {
                                     "HS Code": "",
                                     "Description": "With woven selvedge:",
@@ -150,10 +130,30 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "5806.32.10.40",
+                                    "Description": "Other (229)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "5806.32.10.70",
+                                    "Description": "Other (229)",
+                                    "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "5806.32.10.80",
+                                "Description": "Other (229)",
+                                "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5806.32.10.95",
+                            "Description": "Other (229)",
+                            "Subentries": []
                           }
                         ]
                       }

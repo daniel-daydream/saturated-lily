@@ -177,11 +177,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "7318.15.50.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Continuously threaded rod:",
                             "Subentries": [
@@ -196,6 +191,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "7318.15.50.90",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -274,16 +274,6 @@
                                         "Subentries": []
                                       },
                                       {
-                                        "HS Code": "7318.15.80.82",
-                                        "Description": "Of stainless steel",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "7318.15.80.85",
-                                        "Description": "Other",
-                                        "Subentries": []
-                                      },
-                                      {
                                         "HS Code": "",
                                         "Description": "Other:",
                                         "Subentries": [
@@ -298,6 +288,16 @@
                                             "Subentries": []
                                           }
                                         ]
+                                      },
+                                      {
+                                        "HS Code": "7318.15.80.82",
+                                        "Description": "Of stainless steel",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "7318.15.80.85",
+                                        "Description": "Other",
+                                        "Subentries": []
                                       }
                                     ]
                                   }

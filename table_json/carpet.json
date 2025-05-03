@@ -175,49 +175,6 @@
             ]
           },
           {
-            "HS Code": "5702.50",
-            "Description": "Other, not of pile construction, not made up:",
-            "Subentries": [
-              {
-                "HS Code": "5702.50.52.00",
-                "Description": "Of man-made textile materials (665)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Of wool or fine animal hair:",
-                "Subentries": [
-                  {
-                    "HS Code": "5702.50.20.00",
-                    "Description": "Woven, but not made on a power-driven loom (465)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5702.50.40.00",
-                    "Description": "Other (465)",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Of other textile materials:",
-                "Subentries": [
-                  {
-                    "HS Code": "5702.50.56.00",
-                    "Description": "Of cotton (369)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5702.50.59.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Other, of pile construction, not made up:",
             "Subentries": [
@@ -364,6 +321,49 @@
             ]
           },
           {
+            "HS Code": "5702.50",
+            "Description": "Other, not of pile construction, not made up:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Of wool or fine animal hair:",
+                "Subentries": [
+                  {
+                    "HS Code": "5702.50.20.00",
+                    "Description": "Woven, but not made on a power-driven loom (465)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5702.50.40.00",
+                    "Description": "Other (465)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5702.50.52.00",
+                "Description": "Of man-made textile materials (665)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Of other textile materials:",
+                "Subentries": [
+                  {
+                    "HS Code": "5702.50.56.00",
+                    "Description": "Of cotton (369)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5702.50.59.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Other, not of pile construction, made up:",
             "Subentries": [
@@ -371,11 +371,6 @@
                 "HS Code": "5702.91",
                 "Description": "Of wool or fine animal hair:",
                 "Subentries": [
-                  {
-                    "HS Code": "5702.91.40.00",
-                    "Description": "Other (465)",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Woven, but not made on a power-driven loom:",
@@ -391,6 +386,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5702.91.40.00",
+                    "Description": "Other (465)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -415,11 +415,6 @@
                 "Description": "Of other textile materials:",
                 "Subentries": [
                   {
-                    "HS Code": "5702.99.20.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of cotton:",
                     "Subentries": [
@@ -434,6 +429,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5702.99.20.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -460,11 +460,6 @@
                 "Subentries": []
               }
             ]
-          },
-          {
-            "HS Code": "5703.90.00.00",
-            "Description": "Of other textile materials",
-            "Subentries": []
           },
           {
             "HS Code": "",
@@ -574,6 +569,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "5703.90.00.00",
+            "Description": "Of other textile materials",
+            "Subentries": []
           }
         ]
       },
@@ -645,21 +645,6 @@
             "Description": "Other",
             "Subentries": [
               {
-                "HS Code": "5705.00.20.20",
-                "Description": "Of cotton (369)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5705.00.20.30",
-                "Description": "Of man-made fibers (665)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5705.00.20.90",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Of wool or fine animal hair:",
                 "Subentries": [
@@ -674,6 +659,21 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "5705.00.20.20",
+                "Description": "Of cotton (369)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5705.00.20.30",
+                "Description": "Of man-made fibers (665)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5705.00.20.90",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

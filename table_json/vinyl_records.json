@@ -35,11 +35,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "8523.29.90.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Other magnetic tapes:",
                         "Subentries": [
@@ -125,6 +120,11 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8523.29.90.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

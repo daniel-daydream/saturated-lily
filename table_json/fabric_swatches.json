@@ -592,11 +592,6 @@
                             "Description": "Unbleached or bleached:",
                             "Subentries": [
                               {
-                                "HS Code": "5407.61.99.15",
-                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Weighing not more than 170 g/m\u00b2:",
                                 "Subentries": [
@@ -611,6 +606,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "5407.61.99.15",
+                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                                "Subentries": []
                               }
                             ]
                           },
@@ -618,11 +618,6 @@
                             "HS Code": "",
                             "Description": "Dyed:",
                             "Subentries": [
-                              {
-                                "HS Code": "5407.61.99.35",
-                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Weighing not more than 170 g/m\u00b2:",
@@ -638,6 +633,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "5407.61.99.35",
+                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                                "Subentries": []
                               }
                             ]
                           },
@@ -645,11 +645,6 @@
                             "HS Code": "",
                             "Description": "Of yarns of different colors:",
                             "Subentries": [
-                              {
-                                "HS Code": "5407.61.99.55",
-                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Weighing not more than 170 g/m\u00b2:",
@@ -665,6 +660,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "5407.61.99.55",
+                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                                "Subentries": []
                               }
                             ]
                           },
@@ -672,11 +672,6 @@
                             "HS Code": "",
                             "Description": "Printed:",
                             "Subentries": [
-                              {
-                                "HS Code": "5407.61.99.75",
-                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Weighing not more than 170 g/m\u00b2:",
@@ -692,6 +687,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "5407.61.99.75",
+                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -738,22 +738,6 @@
                     ]
                   },
                   {
-                    "HS Code": "5407.69.90",
-                    "Description": "Printed",
-                    "Subentries": [
-                      {
-                        "HS Code": "5407.69.90.10",
-                        "Description": "Weighing not more than 170 g/m\u00b2 (619)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5407.69.90.60",
-                        "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of yarns of different colors:",
                     "Subentries": [
@@ -777,6 +761,22 @@
                             "Subentries": []
                           }
                         ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5407.69.90",
+                    "Description": "Printed",
+                    "Subentries": [
+                      {
+                        "HS Code": "5407.69.90.10",
+                        "Description": "Weighing not more than 170 g/m\u00b2 (619)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5407.69.90.60",
+                        "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -810,6 +810,22 @@
                     "Subentries": []
                   },
                   {
+                    "HS Code": "",
+                    "Description": "Sheeting:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5512.11.00.22",
+                        "Description": "Of a width exceeding 254 cm (613)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5512.11.00.27",
+                        "Description": "Other (613)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "5512.11.00.30",
                     "Description": "Printcloth (615)",
                     "Subentries": []
@@ -838,22 +854,6 @@
                     "HS Code": "5512.11.00.90",
                     "Description": "Other (220)",
                     "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Sheeting:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5512.11.00.22",
-                        "Description": "Of a width exceeding 254 cm (613)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5512.11.00.27",
-                        "Description": "Other (613)",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
               },
@@ -879,6 +879,22 @@
                         "HS Code": "5512.19.00.15",
                         "Description": "Poplin or broadcloth (614)",
                         "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Sheeting:",
+                        "Subentries": [
+                          {
+                            "HS Code": "5512.19.00.22",
+                            "Description": "Of a width exceeding 254 cm (613)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5512.19.00.27",
+                            "Description": "Other (613)",
+                            "Subentries": []
+                          }
+                        ]
                       },
                       {
                         "HS Code": "5512.19.00.30",
@@ -909,22 +925,6 @@
                         "HS Code": "5512.19.00.90",
                         "Description": "Other (220)",
                         "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Sheeting:",
-                        "Subentries": [
-                          {
-                            "HS Code": "5512.19.00.22",
-                            "Description": "Of a width exceeding 254 cm (613)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5512.19.00.27",
-                            "Description": "Other (613)",
-                            "Subentries": []
-                          }
-                        ]
                       }
                     ]
                   }

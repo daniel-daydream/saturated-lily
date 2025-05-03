@@ -311,6 +311,44 @@
                 "Description": "Of other textile materials:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Of artificial fibers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6104.69.10.00",
+                        "Description": "Bib and brace overalls (659)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6104.69.20",
+                        "Description": "Trousers, breeches and shorts",
+                        "Subentries": [
+                          {
+                            "HS Code": "6104.69.20.05",
+                            "Description": "Containing 23 percent or more by by weight of wool or fine animal hair (448)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6104.69.20.30",
+                                "Description": "Trousers and breeches (648)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6104.69.20.60",
+                                "Description": "Shorts (648)",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "6104.69.40",
                     "Description": "Containing 70 percent or more by weight of silk or silk waste",
                     "Subentries": [
@@ -387,44 +425,6 @@
                               {
                                 "HS Code": "6104.69.80.40",
                                 "Description": "Shorts (847)",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Of artificial fibers:",
-                    "Subentries": [
-                      {
-                        "HS Code": "6104.69.10.00",
-                        "Description": "Bib and brace overalls (659)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6104.69.20",
-                        "Description": "Trousers, breeches and shorts",
-                        "Subentries": [
-                          {
-                            "HS Code": "6104.69.20.05",
-                            "Description": "Containing 23 percent or more by by weight of wool or fine animal hair (448)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Other:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6104.69.20.30",
-                                "Description": "Trousers and breeches (648)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6104.69.20.60",
-                                "Description": "Shorts (648)",
                                 "Subentries": []
                               }
                             ]

@@ -32,31 +32,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "2001.90.42.00",
-                    "Description": "Chestnuts, other than Chinese water chestnuts",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "2001.90.45.00",
-                    "Description": "Mangoes",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "2001.90.48.00",
-                    "Description": "Chinese water chestnuts",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "2001.90.50.00",
-                    "Description": "Walnuts",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "2001.90.60.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Vegetables:",
                     "Subentries": [
@@ -91,6 +66,31 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "2001.90.42.00",
+                    "Description": "Chestnuts, other than Chinese water chestnuts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2001.90.45.00",
+                    "Description": "Mangoes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2001.90.48.00",
+                    "Description": "Chinese water chestnuts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2001.90.50.00",
+                    "Description": "Walnuts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2001.90.60.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

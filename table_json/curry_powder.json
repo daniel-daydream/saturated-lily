@@ -21,11 +21,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "0910.99.10.00",
-                    "Description": "Curry",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Thyme; bay leaves:",
                     "Subentries": [
@@ -51,6 +46,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0910.99.10.00",
+                    "Description": "Curry",
+                    "Subentries": []
                   },
                   {
                     "HS Code": "",

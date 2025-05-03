@@ -27,26 +27,6 @@
                 "Subentries": []
               },
               {
-                "HS Code": "0604.20.00.72",
-                "Description": "Mosses and lichens",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0604.20.00.82",
-                "Description": "Pittosporum",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0604.20.00.84",
-                "Description": "Ruscus",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0604.20.00.86",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Evergreen Christmas trees:",
                 "Subentries": [
@@ -84,6 +64,11 @@
                 ]
               },
               {
+                "HS Code": "0604.20.00.72",
+                "Description": "Mosses and lichens",
+                "Subentries": []
+              },
+              {
                 "HS Code": "",
                 "Description": "Palms:",
                 "Subentries": [
@@ -98,6 +83,21 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0604.20.00.82",
+                "Description": "Pittosporum",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.84",
+                "Description": "Ruscus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.86",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }
@@ -117,11 +117,6 @@
             "HS Code": "9505.10",
             "Description": "Articles for Christmas festivities and parts and accessories thereof:",
             "Subentries": [
-              {
-                "HS Code": "9505.10.30.00",
-                "Description": "Nativity scenes and figures thereof",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Christmas ornaments:",
@@ -148,6 +143,11 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "9505.10.30.00",
+                "Description": "Nativity scenes and figures thereof",
+                "Subentries": []
               },
               {
                 "HS Code": "",

@@ -63,99 +63,9 @@
                         ]
                       },
                       {
-                        "HS Code": "4412.31.61.00",
-                        "Description": "With at least one outer ply of the following tropical woods: Dark Red Meranti, Light Red Meranti, White Lauan, Sipo, Limba, Okoum\u00e9, Obeche, Acajou d'Afrique, Sapelli, Virola, Mahogany, Palissandre de Para, Palissandre de Rio or Palissandre de Rose",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4412.31.92.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Other:",
                         "Subentries": [
-                          {
-                            "HS Code": "4412.31.52",
-                            "Description": "Other",
-                            "Subentries": [
-                              {
-                                "HS Code": "4412.31.52.25",
-                                "Description": "Wood flooring",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Other:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "4412.31.52.35",
-                                    "Description": "With a face ply of sen (Kalopanax spp.)",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "",
-                                    "Description": "Other:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "4412.31.52.55",
-                                        "Description": "Panels not exceeding in any dimension 3.6 mm in thickness, 1.2 m in width and 2.2 m in length",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "",
-                                        "Description": "Other:",
-                                        "Subentries": [
-                                          {
-                                            "HS Code": "4412.31.52.75",
-                                            "Description": "Other",
-                                            "Subentries": []
-                                          },
-                                          {
-                                            "HS Code": "",
-                                            "Description": "Not surface covered:",
-                                            "Subentries": [
-                                              {
-                                                "HS Code": "4412.31.52.60",
-                                                "Description": "Albizia (Albizia spp.), also known as Falcata, Batai and Suar wood",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "4412.31.52.62",
-                                                "Description": "Bintangor (Calophyllum spp.)",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "4412.31.52.64",
-                                                "Description": "Mersawa (Anisoptera spp.)",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "4412.31.52.66",
-                                                "Description": "Parica (Schizolobium spp.), also known as Pinho Cuiabano, Firetree and Guapuruvu",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "4412.31.52.68",
-                                                "Description": "Pencil cedar, Nyatoh (Palaquium spp.)",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "4412.31.52.70",
-                                                "Description": "Other",
-                                                "Subentries": []
-                                              }
-                                            ]
-                                          }
-                                        ]
-                                      }
-                                    ]
-                                  }
-                                ]
-                              }
-                            ]
-                          },
                           {
                             "HS Code": "",
                             "Description": "With at least one outer ply of the following tropical woods: Dark Red Meranti, Light Red Meranti, White Lauan, Sipo, Limba, Okoum\u00e9, Obeche, Acajou d'Afrique, Sapelli, Virola, Mahogany, Palissandre de Para, Palissandre de Rio or Palissandre de Rose:",
@@ -224,8 +134,98 @@
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "4412.31.52",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "4412.31.52.25",
+                                "Description": "Wood flooring",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "4412.31.52.35",
+                                    "Description": "With a face ply of sen (Kalopanax spp.)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "4412.31.52.55",
+                                        "Description": "Panels not exceeding in any dimension 3.6 mm in thickness, 1.2 m in width and 2.2 m in length",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "",
+                                        "Description": "Other:",
+                                        "Subentries": [
+                                          {
+                                            "HS Code": "",
+                                            "Description": "Not surface covered:",
+                                            "Subentries": [
+                                              {
+                                                "HS Code": "4412.31.52.60",
+                                                "Description": "Albizia (Albizia spp.), also known as Falcata, Batai and Suar wood",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "4412.31.52.62",
+                                                "Description": "Bintangor (Calophyllum spp.)",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "4412.31.52.64",
+                                                "Description": "Mersawa (Anisoptera spp.)",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "4412.31.52.66",
+                                                "Description": "Parica (Schizolobium spp.), also known as Pinho Cuiabano, Firetree and Guapuruvu",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "4412.31.52.68",
+                                                "Description": "Pencil cedar, Nyatoh (Palaquium spp.)",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "4412.31.52.70",
+                                                "Description": "Other",
+                                                "Subentries": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "HS Code": "4412.31.52.75",
+                                            "Description": "Other",
+                                            "Subentries": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4412.31.61.00",
+                        "Description": "With at least one outer ply of the following tropical woods: Dark Red Meranti, Light Red Meranti, White Lauan, Sipo, Limba, Okoum\u00e9, Obeche, Acajou d'Afrique, Sapelli, Virola, Mahogany, Palissandre de Para, Palissandre de Rio or Palissandre de Rose",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4412.31.92.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -235,11 +235,6 @@
                 "HS Code": "4412.33",
                 "Description": "Other, with at least one outer ply of nonconiferous wood of the species alder (Alnus spp.), ash (Fraxinus spp.), beech (Fagus spp.), birch (Betula spp.), cherry (Prunus spp.), chestnut (Castanea spp.), elm (Ulmus spp.), eucalyptus (Eucalyptus spp.), hickory (Carya spp.), horse chestnut (Aesculus spp.), lime (Tilia spp.), maple (Acer spp.), oak (Quercus spp.), plane tree (Platanus spp.), poplar and aspen (Populus spp.), robinia (Robinia spp.), tulipwood (Liriodendron spp.) or walnut (Juglans spp.):",
                 "Subentries": [
-                  {
-                    "HS Code": "4412.33.57.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:",
@@ -353,6 +348,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4412.33.57.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -360,11 +360,6 @@
                 "HS Code": "4412.34",
                 "Description": "Other, with at least one outer ply of nonconiferous wood not specified under subheading 4412.33:",
                 "Subentries": [
-                  {
-                    "HS Code": "4412.34.57.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:",
@@ -429,6 +424,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4412.34.57.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -436,27 +436,6 @@
                 "HS Code": "4412.39",
                 "Description": "Other, with both outer plies of coniferous wood:",
                 "Subentries": [
-                  {
-                    "HS Code": "4412.39.50",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "4412.39.50.10",
-                        "Description": "With at least one outer ply of Douglas fir (Pseudotsuga menziesii)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4412.39.50.30",
-                        "Description": "With at least one outer ply of long leaf pine (Pinus palustris), short leaf pine (Pinus echinata), southern yellow pine (loblolly pine) (Pinus taeda), slash pine (Pinus elliotti), pitch pine (Pinus rigida) or Virginia pine (Pinus virginiana)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4412.39.50.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
                   {
                     "HS Code": "",
                     "Description": "Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:",
@@ -542,6 +521,27 @@
                             ]
                           }
                         ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "4412.39.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "4412.39.50.10",
+                        "Description": "With at least one outer ply of Douglas fir (Pseudotsuga menziesii)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4412.39.50.30",
+                        "Description": "With at least one outer ply of long leaf pine (Pinus palustris), short leaf pine (Pinus echinata), southern yellow pine (loblolly pine) (Pinus taeda), slash pine (Pinus elliotti), pitch pine (Pinus rigida) or Virginia pine (Pinus virginiana)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4412.39.50.50",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

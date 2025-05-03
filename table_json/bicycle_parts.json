@@ -42,16 +42,6 @@
                 "Description": "Frames and forks, and parts thereof:",
                 "Subentries": [
                   {
-                    "HS Code": "8714.91.50.00",
-                    "Description": "Sets of steel tubing cut to exact length and each set having the number of tubes needed for the assembly (with other parts) into the frame and fork of one bicycle",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8714.91.90.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Frames:",
                     "Subentries": [
@@ -66,6 +56,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8714.91.50.00",
+                    "Description": "Sets of steel tubing cut to exact length and each set having the number of tubes needed for the assembly (with other parts) into the frame and fork of one bicycle",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8714.91.90.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -90,22 +90,6 @@
                 "Description": "Hubs, other than coaster braking hubs and hub brakes, and free-wheel sprocket-wheels:",
                 "Subentries": [
                   {
-                    "HS Code": "8714.93.70",
-                    "Description": "Free-wheel sprocket-wheels",
-                    "Subentries": [
-                      {
-                        "HS Code": "8714.93.70.30",
-                        "Description": "Multiple free-wheel sprockets",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8714.93.70.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Hubs:",
                     "Subentries": [
@@ -124,11 +108,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "8714.93.35.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Variable speed (except three speed) with internal gear changing mechanisms:",
                             "Subentries": [
@@ -143,8 +122,29 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8714.93.35.00",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8714.93.70",
+                    "Description": "Free-wheel sprocket-wheels",
+                    "Subentries": [
+                      {
+                        "HS Code": "8714.93.70.30",
+                        "Description": "Multiple free-wheel sprockets",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8714.93.70.60",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -161,11 +161,6 @@
                       {
                         "HS Code": "8714.94.30.20",
                         "Description": "Caliper and cantilever bicycle brakes",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8714.94.30.80",
-                        "Description": "Other",
                         "Subentries": []
                       },
                       {
@@ -194,6 +189,11 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8714.94.30.80",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },

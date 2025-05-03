@@ -49,11 +49,6 @@
                             "Description": "Other:",
                             "Subentries": [
                               {
-                                "HS Code": "1901.10.29.00",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Dairy products described in additional U.S. note 1 to chapter 4:",
                                 "Subentries": [
@@ -68,6 +63,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "1901.10.29.00",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -109,11 +109,6 @@
                             "Description": "Other:",
                             "Subentries": [
                               {
-                                "HS Code": "1901.10.49.00",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Dairy products described in additional U.S. note 1 to chapter 4:",
                                 "Subentries": [
@@ -128,6 +123,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "1901.10.49.00",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -199,11 +199,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "1901.10.91.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Articles containing over 10 percent by weight of sugar described in additional U.S. note 3 to chapter 17:",
                         "Subentries": [
@@ -218,6 +213,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "1901.10.91.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

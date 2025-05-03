@@ -24,61 +24,6 @@
             ]
           },
           {
-            "HS Code": "7210.50.00",
-            "Description": "Plated or coated with chromium oxides or with chromium and chromium oxides",
-            "Subentries": [
-              {
-                "HS Code": "7210.50.00.20",
-                "Description": "Of a width less than 1050 mm",
-                "Subentries": [
-                  {
-                    "HS Code": "7210.50.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "7210.70",
-            "Description": "Painted, varnished or coated with plastics:",
-            "Subentries": [
-              {
-                "HS Code": "7210.70.30.00",
-                "Description": "Not coated or plated with metal and not clad",
-                "Subentries": []
-              },
-              {
-                "HS Code": "7210.70.60",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "7210.70.60.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Zinc coated or plated:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7210.70.60.30",
-                        "Description": "Electrolytically coated or plated",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7210.70.60.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Otherwise plated or coated with zinc:",
             "Subentries": [
@@ -120,6 +65,61 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "7210.50.00",
+            "Description": "Plated or coated with chromium oxides or with chromium and chromium oxides",
+            "Subentries": [
+              {
+                "HS Code": "7210.50.00.20",
+                "Description": "Of a width less than 1050 mm",
+                "Subentries": [
+                  {
+                    "HS Code": "7210.50.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "7210.70",
+            "Description": "Painted, varnished or coated with plastics:",
+            "Subentries": [
+              {
+                "HS Code": "7210.70.30.00",
+                "Description": "Not coated or plated with metal and not clad",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7210.70.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Zinc coated or plated:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7210.70.60.30",
+                        "Description": "Electrolytically coated or plated",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7210.70.60.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7210.70.60.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
@@ -135,6 +135,38 @@
                 "HS Code": "7211.23",
                 "Description": "Containing by weight less than 0.25 percent of carbon:",
                 "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of a width of less than 300 mm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Of a thickness exceeding 1.25 mm:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7211.23.15.00",
+                            "Description": "Of high-strength steel",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7211.23.20.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7211.23.30.00",
+                        "Description": "Of a thickness exceeding 0.25 mm but not exceeding 1.25 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7211.23.45.00",
+                        "Description": "Of a thickness not exceeding 0.25 mm",
+                        "Subentries": []
+                      }
+                    ]
+                  },
                   {
                     "HS Code": "7211.23.60",
                     "Description": "Other",
@@ -155,38 +187,6 @@
                         "Subentries": []
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Of a width of less than 300 mm:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7211.23.30.00",
-                        "Description": "Of a thickness exceeding 0.25 mm but not exceeding 1.25 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7211.23.45.00",
-                        "Description": "Of a thickness not exceeding 0.25 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Of a thickness exceeding 1.25 mm:",
-                        "Subentries": [
-                          {
-                            "HS Code": "7211.23.15.00",
-                            "Description": "Of high-strength steel",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7211.23.20.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
                   }
                 ]
               },
@@ -194,22 +194,6 @@
                 "HS Code": "7211.29",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "7211.29.60",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "7211.29.60.30",
-                        "Description": "Of a thickness exceeding 1.25 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7211.29.60.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of a width of less than 300 mm:",
@@ -236,6 +220,22 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7211.29.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7211.29.60.30",
+                        "Description": "Of a thickness exceeding 1.25 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7211.29.60.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               }
@@ -256,11 +256,6 @@
             "HS Code": "7212.30",
             "Description": "Otherwise plated or coated with zinc:",
             "Subentries": [
-              {
-                "HS Code": "7212.30.50.00",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Of a width of less than 300 mm:",
@@ -287,6 +282,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "7212.30.50.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

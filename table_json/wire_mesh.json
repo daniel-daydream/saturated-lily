@@ -8,11 +8,6 @@
         "Description": "Cloth (including endless bands), grill, netting and fencing, of iron or steel wire; expanded metal of iron or steel:",
         "Subentries": [
           {
-            "HS Code": "7314.20.00.00",
-            "Description": "Grill, netting and fencing, welded at the intersection, of wire with a maximum cross-sectional dimension of 3 mm or more and having a mesh size of 100 cm2 or more",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Woven cloth:",
             "Subentries": [
@@ -35,11 +30,6 @@
                     "Description": "With meshes finer than 36 wires to the lineal centimeter in warp or filling:",
                     "Subentries": [
                       {
-                        "HS Code": "7314.12.90.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Fourdrinier wires, seamed or not seamed, suitable for use in papermaking machines:",
                         "Subentries": [
@@ -54,6 +44,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7314.12.90.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -78,11 +73,6 @@
                     "Description": "With meshes finer than 36 wires to the lineal centimeter in warp or maximum:",
                     "Subentries": [
                       {
-                        "HS Code": "7314.14.90.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Fourdrinier wires, seamed or not seamed, suitable for use in papermaking machines:",
                         "Subentries": [
@@ -97,6 +87,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7314.14.90.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -140,6 +135,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "7314.20.00.00",
+            "Description": "Grill, netting and fencing, welded at the intersection, of wire with a maximum cross-sectional dimension of 3 mm or more and having a mesh size of 100 cm2 or more",
+            "Subentries": []
           }
         ]
       }

@@ -8,11 +8,6 @@
         "Description": "Beer made from malt",
         "Subentries": [
           {
-            "HS Code": "2203.00.00.90",
-            "Description": "In containers each holding over 4 liters",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "In containers each holding not over 4 liters:",
             "Subentries": [
@@ -27,6 +22,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "2203.00.00.90",
+            "Description": "In containers each holding over 4 liters",
+            "Subentries": []
           }
         ]
       }

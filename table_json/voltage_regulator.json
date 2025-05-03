@@ -16,11 +16,6 @@
                 "Description": "Hydraulic and pneumatic",
                 "Subentries": [
                   {
-                    "HS Code": "9032.81.00.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Industrial process control instruments and apparatus:",
                     "Subentries": [
@@ -35,6 +30,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9032.81.00.80",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -43,14 +43,25 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Automatic voltage and voltage-current regulators:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9032.89.20.00",
+                        "Description": "Designed for use in a 6, 12 or 24 V system",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9032.89.40.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "9032.89.60",
                     "Description": "Other",
                     "Subentries": [
-                      {
-                        "HS Code": "9032.89.60.85",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Control instruments for air conditioning, refrigeration or heating systems:",
@@ -108,20 +119,9 @@
                             ]
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Automatic voltage and voltage-current regulators:",
-                    "Subentries": [
-                      {
-                        "HS Code": "9032.89.20.00",
-                        "Description": "Designed for use in a 6, 12 or 24 V system",
-                        "Subentries": []
                       },
                       {
-                        "HS Code": "9032.89.40.00",
+                        "HS Code": "9032.89.60.85",
                         "Description": "Other",
                         "Subentries": []
                       }

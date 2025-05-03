@@ -16,11 +16,6 @@
                 "Description": "Bumpers",
                 "Subentries": [
                   {
-                    "HS Code": "8708.10.30.50",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Stampings:",
                     "Subentries": [
@@ -40,6 +35,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8708.10.30.50",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },

@@ -13,6 +13,33 @@
             "Subentries": []
           },
           {
+            "HS Code": "",
+            "Description": "Other automatic data processing machines:",
+            "Subentries": [
+              {
+                "HS Code": "8471.41.01",
+                "Description": "Comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.41.01.10",
+                    "Description": "With cathode-ray tube (CRT)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.41.01.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8471.49.00.00",
+                "Description": "Other, entered in the form of systems",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "8471.50.01",
             "Description": "Processing units other than those of subheading 8471.41 or 8471.49, whether or not containing in the same housing one or two of the following types of unit: storage units, input units, output units",
             "Subentries": [
@@ -215,33 +242,6 @@
             "HS Code": "8471.90.00.00",
             "Description": "Other",
             "Subentries": []
-          },
-          {
-            "HS Code": "",
-            "Description": "Other automatic data processing machines:",
-            "Subentries": [
-              {
-                "HS Code": "8471.41.01",
-                "Description": "Comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined",
-                "Subentries": [
-                  {
-                    "HS Code": "8471.41.01.10",
-                    "Description": "With cathode-ray tube (CRT)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8471.41.01.50",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "8471.49.00.00",
-                "Description": "Other, entered in the form of systems",
-                "Subentries": []
-              }
-            ]
           }
         ]
       },
@@ -318,14 +318,25 @@
         "Description": "Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings 8470 to 8472:",
         "Subentries": [
           {
+            "HS Code": "",
+            "Description": "Parts and accessories of the machines of heading 8470:",
+            "Subentries": [
+              {
+                "HS Code": "8473.21.00.00",
+                "Description": "Of the electronic calculating machines of subheading 8470.10, 8470.21 or 8470.29",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8473.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "8473.30",
             "Description": "Parts and accessories of the machines of heading 8471:",
             "Subentries": [
-              {
-                "HS Code": "8473.30.91.00",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Not incorporating a cathode ray tube:",
@@ -357,6 +368,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8473.30.91.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -402,22 +418,6 @@
               },
               {
                 "HS Code": "8473.50.90.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Parts and accessories of the machines of heading 8470:",
-            "Subentries": [
-              {
-                "HS Code": "8473.21.00.00",
-                "Description": "Of the electronic calculating machines of subheading 8470.10, 8470.21 or 8470.29",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8473.29.00.00",
                 "Description": "Other",
                 "Subentries": []
               }
@@ -491,11 +491,6 @@
                 "HS Code": "8528.69",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "8528.69.70.00",
-                    "Description": "Black and white or other monochrome",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Color:",
@@ -603,6 +598,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8528.69.70.00",
+                    "Description": "Black and white or other monochrome",
+                    "Subentries": []
                   }
                 ]
               },
@@ -832,11 +832,6 @@
                             "Description": "Other",
                             "Subentries": [
                               {
-                                "HS Code": "8528.72.72.90",
-                                "Description": "Other, including plasma-type",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "LCD-type (direct-view), with a video display diagonal:",
                                 "Subentries": [
@@ -861,6 +856,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "8528.72.72.90",
+                                "Description": "Other, including plasma-type",
+                                "Subentries": []
                               }
                             ]
                           }

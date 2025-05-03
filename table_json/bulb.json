@@ -46,11 +46,6 @@
             ]
           },
           {
-            "HS Code": "8539.90.00.00",
-            "Description": "Parts",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Other filament lamps, excluding ultraviolet or infrared lamps:",
             "Subentries": [
@@ -106,11 +101,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "8539.22.80.70",
-                        "Description": "Of a power exceeding 150 W",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Of a power not exceeding 150 W:",
                         "Subentries": [
@@ -141,6 +131,11 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8539.22.80.70",
+                        "Description": "Of a power exceeding 150 W",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -150,11 +145,6 @@
                 "HS Code": "8539.29",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "8539.29.40.00",
-                    "Description": "Designed for a voltage exceeding 100 V",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Designed for a voltage not exceeding 100 V:",
@@ -197,6 +187,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8539.29.40.00",
+                    "Description": "Designed for a voltage exceeding 100 V",
+                    "Subentries": []
                   }
                 ]
               }
@@ -350,6 +345,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "8539.90.00.00",
+            "Description": "Parts",
+            "Subentries": []
           }
         ]
       }

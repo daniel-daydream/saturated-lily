@@ -12,11 +12,6 @@
             "Description": "Dates:",
             "Subentries": [
               {
-                "HS Code": "0804.10.80.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Whole, with or without pits:",
                 "Subentries": [
@@ -53,6 +48,11 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "0804.10.80.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -60,11 +60,6 @@
             "HS Code": "0804.20",
             "Description": "Figs:",
             "Subentries": [
-              {
-                "HS Code": "0804.20.80.00",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Whole:",
@@ -80,6 +75,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0804.20.80.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

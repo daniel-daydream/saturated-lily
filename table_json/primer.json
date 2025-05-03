@@ -12,11 +12,6 @@
             "Description": "Glazier's putty, grafting putty, resin cements, caulking compounds and other mastics; painters' fillings",
             "Subentries": [
               {
-                "HS Code": "3214.10.00.90",
-                "Description": "Painters' fillings",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Mastics:",
                 "Subentries": [
@@ -31,6 +26,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "3214.10.00.90",
+                "Description": "Painters' fillings",
+                "Subentries": []
               }
             ]
           }

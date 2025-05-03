@@ -16,6 +16,22 @@
                 "Description": "Of glass:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Globes and shades:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9405.91.10.00",
+                        "Description": "Of lead crystal",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9405.91.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "9405.91.40.00",
                     "Description": "Chimneys",
                     "Subentries": []
@@ -31,22 +47,6 @@
                       },
                       {
                         "HS Code": "9405.91.60.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Globes and shades:",
-                    "Subentries": [
-                      {
-                        "HS Code": "9405.91.10.00",
-                        "Description": "Of lead crystal",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9405.91.30.00",
                         "Description": "Other",
                         "Subentries": []
                       }

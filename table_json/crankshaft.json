@@ -12,11 +12,6 @@
             "Description": "Transmission shafts (including camshafts and crankshafts) and cranks:",
             "Subentries": [
               {
-                "HS Code": "8483.10.50.00",
-                "Description": "Other transmission shafts and cranks",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Camshafts and crankshafts:",
                 "Subentries": [
@@ -24,11 +19,6 @@
                     "HS Code": "8483.10.10",
                     "Description": "Designed for use solely or principally with spark-ignition internal combustion piston engines or rotary engines",
                     "Subentries": [
-                      {
-                        "HS Code": "8483.10.10.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "For vehicles of chapter 87:",
@@ -44,6 +34,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8483.10.10.50",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -64,6 +59,11 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "8483.10.50.00",
+                "Description": "Other transmission shafts and cranks",
+                "Subentries": []
               }
             ]
           }

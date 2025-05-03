@@ -12,55 +12,6 @@
             "Description": "Maple sugar and maple syrup:",
             "Subentries": [
               {
-                "HS Code": "1702.20.40",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "1702.20.40.10",
-                    "Description": "Maple sugar",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Maple syrup:",
-                    "Subentries": [
-                      {
-                        "HS Code": "",
-                        "Description": "Certified organic:",
-                        "Subentries": [
-                          {
-                            "HS Code": "1702.20.40.40",
-                            "Description": "In containers over 5 kg",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "1702.20.40.50",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "1702.20.40.60",
-                            "Description": "In containers over 5 kg",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "1702.20.40.70",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
                 "HS Code": "",
                 "Description": "Blended syrups described in additional U.S. note 4 to chapter 17:",
                 "Subentries": [
@@ -109,6 +60,55 @@
                         "HS Code": "1702.20.28.90",
                         "Description": "Maple syrup",
                         "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1702.20.40",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1702.20.40.10",
+                    "Description": "Maple sugar",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Maple syrup:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Certified organic:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1702.20.40.40",
+                            "Description": "In containers over 5 kg",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1702.20.40.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1702.20.40.60",
+                            "Description": "In containers over 5 kg",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1702.20.40.70",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
                       }
                     ]
                   }

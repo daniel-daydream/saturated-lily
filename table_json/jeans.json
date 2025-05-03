@@ -20,11 +20,6 @@
                     "Description": "Recreational performance outerwear:",
                     "Subentries": [
                       {
-                        "HS Code": "6203.41.08.00",
-                        "Description": "Bib and brace overalls (459)",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Trousers, breeches and shorts:",
                         "Subentries": [
@@ -69,11 +64,6 @@
                                 "Description": "Other",
                                 "Subentries": [
                                   {
-                                    "HS Code": "6203.41.06.30",
-                                    "Description": "Shorts (447)",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "Trousers and breeches:",
                                     "Subentries": [
@@ -88,12 +78,22 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "6203.41.06.30",
+                                    "Description": "Shorts (447)",
+                                    "Subentries": []
                                   }
                                 ]
                               }
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6203.41.08.00",
+                        "Description": "Bib and brace overalls (459)",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -101,11 +101,6 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
-                      {
-                        "HS Code": "6203.41.80.00",
-                        "Description": "Bib and brace overalls (459)",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Trousers, breeches and shorts:",
@@ -151,11 +146,6 @@
                                 "Description": "Other",
                                 "Subentries": [
                                   {
-                                    "HS Code": "6203.41.60.30",
-                                    "Description": "Shorts (447)",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "Trousers and breeches:",
                                     "Subentries": [
@@ -170,12 +160,22 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "6203.41.60.30",
+                                    "Description": "Shorts (447)",
+                                    "Subentries": []
                                   }
                                 ]
                               }
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6203.41.80.00",
+                        "Description": "Bib and brace overalls (459)",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -217,11 +217,6 @@
                                     "Subentries": []
                                   },
                                   {
-                                    "HS Code": "6203.42.05.90",
-                                    "Description": "Other (359)",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "Boys', sizes 2-7:",
                                     "Subentries": [
@@ -236,6 +231,11 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "6203.42.05.90",
+                                    "Description": "Other (359)",
+                                    "Subentries": []
                                   }
                                 ]
                               }
@@ -254,11 +254,6 @@
                                 "HS Code": "",
                                 "Description": "Other:",
                                 "Subentries": [
-                                  {
-                                    "HS Code": "6203.42.07.51",
-                                    "Description": "Men's shorts (347)",
-                                    "Subentries": []
-                                  },
                                   {
                                     "HS Code": "",
                                     "Description": "Men's trousers and breeches:",
@@ -335,6 +330,11 @@
                                     ]
                                   },
                                   {
+                                    "HS Code": "6203.42.07.51",
+                                    "Description": "Men's shorts (347)",
+                                    "Subentries": []
+                                  },
+                                  {
                                     "HS Code": "",
                                     "Description": "Boys' shorts:",
                                     "Subentries": [
@@ -390,11 +390,6 @@
                                     "Subentries": []
                                   },
                                   {
-                                    "HS Code": "6203.42.25.90",
-                                    "Description": "Other (359)",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "Boys', sizes 2-7:",
                                     "Subentries": [
@@ -409,6 +404,11 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "6203.42.25.90",
+                                    "Description": "Other (359)",
+                                    "Subentries": []
                                   }
                                 ]
                               }
@@ -427,11 +427,6 @@
                                 "HS Code": "",
                                 "Description": "Other:",
                                 "Subentries": [
-                                  {
-                                    "HS Code": "6203.42.45.51",
-                                    "Description": "Men's shorts (347)",
-                                    "Subentries": []
-                                  },
                                   {
                                     "HS Code": "",
                                     "Description": "Men's trousers and breeches:",
@@ -513,6 +508,11 @@
                                     ]
                                   },
                                   {
+                                    "HS Code": "6203.42.45.51",
+                                    "Description": "Men's shorts (347)",
+                                    "Subentries": []
+                                  },
+                                  {
                                     "HS Code": "",
                                     "Description": "Boys' shorts:",
                                     "Subentries": [
@@ -583,11 +583,6 @@
                                         "Subentries": []
                                       },
                                       {
-                                        "HS Code": "6203.43.05.90",
-                                        "Description": "Other (659)",
-                                        "Subentries": []
-                                      },
-                                      {
                                         "HS Code": "",
                                         "Description": "Boys', sizes 2-7:",
                                         "Subentries": [
@@ -602,6 +597,11 @@
                                             "Subentries": []
                                           }
                                         ]
+                                      },
+                                      {
+                                        "HS Code": "6203.43.05.90",
+                                        "Description": "Other (659)",
+                                        "Subentries": []
                                       }
                                     ]
                                   }
@@ -618,11 +618,6 @@
                                 "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
                                 "Subentries": [
                                   {
-                                    "HS Code": "6203.43.09.30",
-                                    "Description": "Shorts (447)",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "Trousers and breeches:",
                                     "Subentries": [
@@ -637,6 +632,11 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "6203.43.09.30",
+                                    "Description": "Shorts (447)",
+                                    "Subentries": []
                                   }
                                 ]
                               },
@@ -769,11 +769,6 @@
                                         "Subentries": []
                                       },
                                       {
-                                        "HS Code": "6203.43.60.90",
-                                        "Description": "Other (659)",
-                                        "Subentries": []
-                                      },
-                                      {
                                         "HS Code": "",
                                         "Description": "Boys', sizes 2-7:",
                                         "Subentries": [
@@ -788,6 +783,11 @@
                                             "Subentries": []
                                           }
                                         ]
+                                      },
+                                      {
+                                        "HS Code": "6203.43.60.90",
+                                        "Description": "Other (659)",
+                                        "Subentries": []
                                       }
                                     ]
                                   }
@@ -813,11 +813,6 @@
                                     "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
                                     "Subentries": [
                                       {
-                                        "HS Code": "6203.43.70.30",
-                                        "Description": "Shorts (447)",
-                                        "Subentries": []
-                                      },
-                                      {
                                         "HS Code": "",
                                         "Description": "Trousers and breeches:",
                                         "Subentries": [
@@ -832,6 +827,11 @@
                                             "Subentries": []
                                           }
                                         ]
+                                      },
+                                      {
+                                        "HS Code": "6203.43.70.30",
+                                        "Description": "Shorts (447)",
+                                        "Subentries": []
                                       }
                                     ]
                                   },
@@ -969,11 +969,6 @@
                                     "Subentries": []
                                   },
                                   {
-                                    "HS Code": "6203.49.01.90",
-                                    "Description": "Other (659)",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "Boys', sizes 2-7:",
                                     "Subentries": [
@@ -988,6 +983,11 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "6203.49.01.90",
+                                    "Description": "Other (659)",
+                                    "Subentries": []
                                   }
                                 ]
                               }
@@ -1101,11 +1101,6 @@
                                 "Subentries": []
                               },
                               {
-                                "HS Code": "6203.49.09.60",
-                                "Description": "Shorts (847)",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Trousers and breeches:",
                                 "Subentries": [
@@ -1130,6 +1125,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "6203.49.09.60",
+                                "Description": "Shorts (847)",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -1141,69 +1141,6 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
-                      {
-                        "HS Code": "6203.49.60",
-                        "Description": "Containing 70 percent or more by weight of silk or silk waste",
-                        "Subentries": [
-                          {
-                            "HS Code": "6203.49.60.10",
-                            "Description": "Bib and brace overalls (759)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6203.49.60.20",
-                            "Description": "Trousers and breeches (747)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6203.49.60.30",
-                            "Description": "Shorts (747)",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "6203.49.90",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "6203.49.90.10",
-                            "Description": "Bib and brace overalls (859)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6203.49.90.60",
-                            "Description": "Shorts (847)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Trousers and breeches:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6203.49.90.20",
-                                "Description": "Subject to cotton restraints (347)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6203.49.90.25",
-                                "Description": "Subject to wool restraints (447)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6203.49.90.30",
-                                "Description": "Subject to man-made fiber restraints (647)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6203.49.90.45",
-                                "Description": "Other (847)",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      },
                       {
                         "HS Code": "",
                         "Description": "Of artificial fibers:",
@@ -1227,11 +1164,6 @@
                                     "Subentries": []
                                   },
                                   {
-                                    "HS Code": "6203.49.25.90",
-                                    "Description": "Other (659)",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "Boys', sizes 2-7:",
                                     "Subentries": [
@@ -1246,6 +1178,11 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "6203.49.25.90",
+                                    "Description": "Other (659)",
+                                    "Subentries": []
                                   }
                                 ]
                               }
@@ -1334,6 +1271,69 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6203.49.60",
+                        "Description": "Containing 70 percent or more by weight of silk or silk waste",
+                        "Subentries": [
+                          {
+                            "HS Code": "6203.49.60.10",
+                            "Description": "Bib and brace overalls (759)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6203.49.60.20",
+                            "Description": "Trousers and breeches (747)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6203.49.60.30",
+                            "Description": "Shorts (747)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6203.49.90",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "6203.49.90.10",
+                            "Description": "Bib and brace overalls (859)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Trousers and breeches:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6203.49.90.20",
+                                "Description": "Subject to cotton restraints (347)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6203.49.90.25",
+                                "Description": "Subject to wool restraints (447)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6203.49.90.30",
+                                "Description": "Subject to man-made fiber restraints (647)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6203.49.90.45",
+                                "Description": "Other (847)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6203.49.90.60",
+                            "Description": "Shorts (847)",
+                            "Subentries": []
+                          }
+                        ]
                       }
                     ]
                   }
@@ -1380,16 +1380,6 @@
                         "Description": "Other",
                         "Subentries": [
                           {
-                            "HS Code": "6204.61.15.30",
-                            "Description": "Shorts (448)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6204.61.15.40",
-                            "Description": "Bib and brace overall (459)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Trousers and breeches:",
                             "Subentries": [
@@ -1404,6 +1394,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "6204.61.15.30",
+                            "Description": "Shorts (448)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6204.61.15.40",
+                            "Description": "Bib and brace overall (459)",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -1434,16 +1434,6 @@
                         "Description": "Other",
                         "Subentries": [
                           {
-                            "HS Code": "6204.61.80.30",
-                            "Description": "Shorts (448)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6204.61.80.40",
-                            "Description": "Bib and brace overalls (459)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Trousers and breeches:",
                             "Subentries": [
@@ -1458,6 +1448,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "6204.61.80.30",
+                            "Description": "Shorts (448)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6204.61.80.40",
+                            "Description": "Bib and brace overalls (459)",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -1534,11 +1534,6 @@
                                 "Description": "Other:",
                                 "Subentries": [
                                   {
-                                    "HS Code": "6204.62.15.56",
-                                    "Description": "Women's shorts (348)",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "Women's trousers and breeches:",
                                     "Subentries": [
@@ -1612,6 +1607,11 @@
                                         ]
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "6204.62.15.56",
+                                    "Description": "Women's shorts (348)",
+                                    "Subentries": []
                                   },
                                   {
                                     "HS Code": "",
@@ -1711,11 +1711,6 @@
                                     "Description": "Other:",
                                     "Subentries": [
                                       {
-                                        "HS Code": "6204.62.80.56",
-                                        "Description": "Women's shorts (348)",
-                                        "Subentries": []
-                                      },
-                                      {
                                         "HS Code": "",
                                         "Description": "Women's trousers and breeches:",
                                         "Subentries": [
@@ -1794,6 +1789,11 @@
                                             ]
                                           }
                                         ]
+                                      },
+                                      {
+                                        "HS Code": "6204.62.80.56",
+                                        "Description": "Women's shorts (348)",
+                                        "Subentries": []
                                       },
                                       {
                                         "HS Code": "",
@@ -2011,11 +2011,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "6204.63.65.00",
-                            "Description": "Certified hand-loomed and folklore products (648)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Bib and brace overalls:",
                             "Subentries": [
@@ -2063,6 +2058,11 @@
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "6204.63.65.00",
+                            "Description": "Certified hand-loomed and folklore products (648)",
+                            "Subentries": []
                           },
                           {
                             "HS Code": "",
@@ -2194,54 +2194,6 @@
                     "Description": "Recreational performance outerwear:",
                     "Subentries": [
                       {
-                        "HS Code": "6204.69.06",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "6204.69.06.50",
-                            "Description": "Bib and brace overalls (859)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Trousers, breeches and shorts:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6204.69.06.10",
-                                "Description": "Subject to cotton restraints (348)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6204.69.06.20",
-                                "Description": "Subject to wool restraints (448)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6204.69.06.30",
-                                "Description": "Subject to man-made fiber restraints (648)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Other:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6204.69.06.44",
-                                    "Description": "Trousers and breeches (847)",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6204.69.06.46",
-                                    "Description": "Shorts (847)",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Of artificial fibers:",
                         "Subentries": [
@@ -2292,11 +2244,6 @@
                                 "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
                                 "Subentries": [
                                   {
-                                    "HS Code": "6204.69.02.30",
-                                    "Description": "Shorts (448)",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "Trousers and breeches:",
                                     "Subentries": [
@@ -2311,6 +2258,11 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "6204.69.02.30",
+                                    "Description": "Shorts (448)",
+                                    "Subentries": []
                                   }
                                 ]
                               },
@@ -2403,11 +2355,6 @@
                             "Description": "Other",
                             "Subentries": [
                               {
-                                "HS Code": "6204.69.05.70",
-                                "Description": "Bib and brace overalls (859)",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Trousers, breeches and shorts:",
                                 "Subentries": [
@@ -2443,8 +2390,61 @@
                                     ]
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "6204.69.05.70",
+                                "Description": "Bib and brace overalls (859)",
+                                "Subentries": []
                               }
                             ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6204.69.06",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Trousers, breeches and shorts:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6204.69.06.10",
+                                "Description": "Subject to cotton restraints (348)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6204.69.06.20",
+                                "Description": "Subject to wool restraints (448)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6204.69.06.30",
+                                "Description": "Subject to man-made fiber restraints (648)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6204.69.06.44",
+                                    "Description": "Trousers and breeches (847)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6204.69.06.46",
+                                    "Description": "Shorts (847)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6204.69.06.50",
+                            "Description": "Bib and brace overalls (859)",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -2454,54 +2454,6 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
-                      {
-                        "HS Code": "6204.69.80",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "6204.69.80.50",
-                            "Description": "Bib and brace overalls (859)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Trousers, breeches and shorts:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6204.69.80.10",
-                                "Description": "Subject to cotton restraints (348)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6204.69.80.20",
-                                "Description": "Subject to wool restraints (448)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6204.69.80.30",
-                                "Description": "Subject to man-made fiber restraints (648)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Other:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6204.69.80.44",
-                                    "Description": "Trousers and breeches (847)",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6204.69.80.46",
-                                    "Description": "Shorts (847)",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      },
                       {
                         "HS Code": "",
                         "Description": "Of artificial fibers:",
@@ -2553,11 +2505,6 @@
                                 "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
                                 "Subentries": [
                                   {
-                                    "HS Code": "6204.69.22.30",
-                                    "Description": "Shorts (448)",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "Trousers and breeches:",
                                     "Subentries": [
@@ -2572,6 +2519,11 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "6204.69.22.30",
+                                    "Description": "Shorts (448)",
+                                    "Subentries": []
                                   }
                                 ]
                               },
@@ -2664,11 +2616,6 @@
                             "Description": "Other",
                             "Subentries": [
                               {
-                                "HS Code": "6204.69.65.70",
-                                "Description": "Bib and brace overalls (859)",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Trousers, breeches and shorts:",
                                 "Subentries": [
@@ -2704,8 +2651,61 @@
                                     ]
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "6204.69.65.70",
+                                "Description": "Bib and brace overalls (859)",
+                                "Subentries": []
                               }
                             ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6204.69.80",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Trousers, breeches and shorts:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6204.69.80.10",
+                                "Description": "Subject to cotton restraints (348)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6204.69.80.20",
+                                "Description": "Subject to wool restraints (448)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6204.69.80.30",
+                                "Description": "Subject to man-made fiber restraints (648)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6204.69.80.44",
+                                    "Description": "Trousers and breeches (847)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6204.69.80.46",
+                                    "Description": "Shorts (847)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6204.69.80.50",
+                            "Description": "Bib and brace overalls (859)",
+                            "Subentries": []
                           }
                         ]
                       }

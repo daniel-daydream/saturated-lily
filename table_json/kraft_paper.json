@@ -36,6 +36,22 @@
                 "Description": "Unbleached:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Condenser paper:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4804.31.10.00",
+                        "Description": "Weighing over 15 g/m\u00b2 but not over 30 g/m\u00b2",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4804.31.20.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "4804.31.40",
                     "Description": "Wrapping paper",
                     "Subentries": [
@@ -55,22 +71,6 @@
                     "HS Code": "4804.31.60.00",
                     "Description": "Other",
                     "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Condenser paper:",
-                    "Subentries": [
-                      {
-                        "HS Code": "4804.31.10.00",
-                        "Description": "Weighing over 15 g/m\u00b2 but not over 30 g/m\u00b2",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4804.31.20.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
               },

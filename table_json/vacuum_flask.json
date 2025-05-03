@@ -8,11 +8,6 @@
         "Description": "Vacuum flasks and other vacuum vessels, complete; parts thereof other than glass inners:",
         "Subentries": [
           {
-            "HS Code": "9617.00.60.00",
-            "Description": "Parts",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Vessels:",
             "Subentries": [
@@ -32,6 +27,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "9617.00.60.00",
+            "Description": "Parts",
+            "Subentries": []
           }
         ]
       }

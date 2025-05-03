@@ -12,11 +12,6 @@
             "Description": "Dried:",
             "Subentries": [
               {
-                "HS Code": "0806.20.90.00",
-                "Description": "Other dried grapes",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Raisins:",
                 "Subentries": [
@@ -47,6 +42,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0806.20.90.00",
+                "Description": "Other dried grapes",
+                "Subentries": []
               }
             ]
           }

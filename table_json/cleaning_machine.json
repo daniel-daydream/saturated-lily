@@ -16,11 +16,6 @@
                 "Description": "Agricultural or horticultural",
                 "Subentries": [
                   {
-                    "HS Code": "8424.82.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Irrigation equipment:",
                     "Subentries": [
@@ -35,6 +30,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8424.82.00.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -91,6 +91,32 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Electromechanical appliances with self-contained electric motor:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8479.89.10.00",
+                        "Description": "Air humidifiers or dehumidifiers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.20.00",
+                        "Description": "Floor polishers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.55.00",
+                        "Description": "Trash compactors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.65.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "8479.89.70.00",
                     "Description": "Carpet sweepers",
                     "Subentries": []
@@ -145,32 +171,6 @@
                         "Subentries": []
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Electromechanical appliances with self-contained electric motor:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8479.89.10.00",
-                        "Description": "Air humidifiers or dehumidifiers",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8479.89.20.00",
-                        "Description": "Floor polishers",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8479.89.55.00",
-                        "Description": "Trash compactors",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8479.89.65.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
               }
@@ -217,11 +217,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "8509.80.50.95",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Humidifiers:",
                     "Subentries": [
@@ -247,6 +242,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8509.80.50.95",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

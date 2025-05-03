@@ -17,21 +17,6 @@
             "Description": "Other",
             "Subentries": [
               {
-                "HS Code": "5705.00.20.20",
-                "Description": "Of cotton (369)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5705.00.20.30",
-                "Description": "Of man-made fibers (665)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5705.00.20.90",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Of wool or fine animal hair:",
                 "Subentries": [
@@ -46,6 +31,21 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "5705.00.20.20",
+                "Description": "Of cotton (369)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5705.00.20.30",
+                "Description": "Of man-made fibers (665)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5705.00.20.90",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

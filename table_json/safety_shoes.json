@@ -142,16 +142,6 @@
                                 "Subentries": []
                               },
                               {
-                                "HS Code": "6403.91.30.80",
-                                "Description": "For women",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6403.91.30.91",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "For men:",
                                 "Subentries": [
@@ -166,6 +156,16 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "6403.91.30.80",
+                                "Description": "For women",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6403.91.30.91",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -213,11 +213,6 @@
                                         "Subentries": []
                                       },
                                       {
-                                        "HS Code": "6403.91.60.90",
-                                        "Description": "Other",
-                                        "Subentries": []
-                                      },
-                                      {
                                         "HS Code": "",
                                         "Description": "For men:",
                                         "Subentries": [
@@ -232,6 +227,11 @@
                                             "Subentries": []
                                           }
                                         ]
+                                      },
+                                      {
+                                        "HS Code": "6403.91.60.90",
+                                        "Description": "Other",
+                                        "Subentries": []
                                       }
                                     ]
                                   }
@@ -253,11 +253,6 @@
                                 "Description": "Other:",
                                 "Subentries": [
                                   {
-                                    "HS Code": "6403.91.90.51",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "For women:",
                                     "Subentries": [
@@ -272,6 +267,11 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "6403.91.90.51",
+                                    "Description": "Other",
+                                    "Subentries": []
                                   }
                                 ]
                               }
@@ -340,16 +340,6 @@
                                     "Subentries": []
                                   },
                                   {
-                                    "HS Code": "6403.99.40.80",
-                                    "Description": "For women",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6403.99.40.91",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "For men:",
                                     "Subentries": [
@@ -364,6 +354,16 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "6403.99.40.80",
+                                    "Description": "For women",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6403.99.40.91",
+                                    "Description": "Other",
+                                    "Subentries": []
                                   }
                                 ]
                               }
@@ -416,11 +416,6 @@
                                             "Subentries": []
                                           },
                                           {
-                                            "HS Code": "6403.99.60.90",
-                                            "Description": "Other",
-                                            "Subentries": []
-                                          },
-                                          {
                                             "HS Code": "",
                                             "Description": "For men:",
                                             "Subentries": [
@@ -435,6 +430,11 @@
                                                 "Subentries": []
                                               }
                                             ]
+                                          },
+                                          {
+                                            "HS Code": "6403.99.60.90",
+                                            "Description": "Other",
+                                            "Subentries": []
                                           }
                                         ]
                                       }
@@ -460,11 +460,6 @@
                                         "Description": "Other:",
                                         "Subentries": [
                                           {
-                                            "HS Code": "6403.99.75.90",
-                                            "Description": "Other",
-                                            "Subentries": []
-                                          },
-                                          {
                                             "HS Code": "",
                                             "Description": "For women:",
                                             "Subentries": [
@@ -479,6 +474,11 @@
                                                 "Subentries": []
                                               }
                                             ]
+                                          },
+                                          {
+                                            "HS Code": "6403.99.75.90",
+                                            "Description": "Other",
+                                            "Subentries": []
                                           }
                                         ]
                                       }
@@ -503,11 +503,6 @@
                                         "Description": "Other:",
                                         "Subentries": [
                                           {
-                                            "HS Code": "6403.99.90.41",
-                                            "Description": "Other tennis shoes, basketball shoes, and the like",
-                                            "Subentries": []
-                                          },
-                                          {
                                             "HS Code": "",
                                             "Description": "Other:",
                                             "Subentries": [
@@ -518,11 +513,6 @@
                                               },
                                               {
                                                 "HS Code": "6403.99.90.31",
-                                                "Description": "Other",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "6403.99.90.71",
                                                 "Description": "Other",
                                                 "Subentries": []
                                               },
@@ -541,8 +531,18 @@
                                                     "Subentries": []
                                                   }
                                                 ]
+                                              },
+                                              {
+                                                "HS Code": "6403.99.90.71",
+                                                "Description": "Other",
+                                                "Subentries": []
                                               }
                                             ]
+                                          },
+                                          {
+                                            "HS Code": "6403.99.90.41",
+                                            "Description": "Other tennis shoes, basketball shoes, and the like",
+                                            "Subentries": []
                                           }
                                         ]
                                       }

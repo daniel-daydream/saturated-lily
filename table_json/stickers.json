@@ -88,22 +88,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "4911.91.40",
-                            "Description": "Other",
-                            "Subentries": [
-                              {
-                                "HS Code": "4911.91.40.20",
-                                "Description": "Posters",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "4911.91.40.40",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Lithographs on paper or paperboard:",
                             "Subentries": [
@@ -126,6 +110,22 @@
                               {
                                 "HS Code": "4911.91.30.00",
                                 "Description": "Over 0.51 mm in thickness",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "4911.91.40",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "4911.91.40.20",
+                                "Description": "Posters",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4911.91.40.40",
+                                "Description": "Other",
                                 "Subentries": []
                               }
                             ]

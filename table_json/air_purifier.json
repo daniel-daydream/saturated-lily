@@ -46,11 +46,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "8421.39.01.40",
-                        "Description": "Gas separation equipment",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Industrial gas cleaning equipment:",
                         "Subentries": [
@@ -65,6 +60,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8421.39.01.40",
+                        "Description": "Gas separation equipment",
+                        "Subentries": []
                       },
                       {
                         "HS Code": "",

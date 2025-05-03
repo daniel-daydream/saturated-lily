@@ -12,11 +12,6 @@
             "Description": "Other:",
             "Subentries": [
               {
-                "HS Code": "1211.90.60.00",
-                "Description": "Tonka beans",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Mint leaves:",
                 "Subentries": [
@@ -44,6 +39,11 @@
                 ]
               },
               {
+                "HS Code": "1211.90.60.00",
+                "Description": "Tonka beans",
+                "Subentries": []
+              },
+              {
                 "HS Code": "",
                 "Description": "Other:",
                 "Subentries": [
@@ -51,16 +51,6 @@
                     "HS Code": "1211.90.89",
                     "Description": "Fresh or dried",
                     "Subentries": [
-                      {
-                        "HS Code": "1211.90.89.40",
-                        "Description": "Basil",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1211.90.89.50",
-                        "Description": "Sage",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Substances having anesthetic, prophylactic or therapeutic properties and principally used as medicaments or as ingredients in medicaments:",
@@ -76,6 +66,16 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "1211.90.89.40",
+                        "Description": "Basil",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1211.90.89.50",
+                        "Description": "Sage",
+                        "Subentries": []
                       },
                       {
                         "HS Code": "",
@@ -145,22 +145,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "1302.19.91",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "1302.19.91.20",
-                        "Description": "Cashew nut shell liquid",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1302.19.91.40",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Ginseng; substances having anesthetic, prophylactic or therapeutic properties:",
                     "Subentries": [
@@ -184,6 +168,22 @@
                             "Subentries": []
                           }
                         ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1302.19.91",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1302.19.91.20",
+                        "Description": "Cashew nut shell liquid",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1302.19.91.40",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

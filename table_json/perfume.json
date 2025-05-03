@@ -8,11 +8,6 @@
         "Description": "Perfumes and toilet waters:",
         "Subentries": [
           {
-            "HS Code": "3303.00.30.00",
-            "Description": "Containing alcohol",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Not containing alcohol:",
             "Subentries": [
@@ -27,6 +22,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "3303.00.30.00",
+            "Description": "Containing alcohol",
+            "Subentries": []
           }
         ]
       }

@@ -40,31 +40,6 @@
         "Description": "Ferroalloys:",
         "Subentries": [
           {
-            "HS Code": "7202.30.00.00",
-            "Description": "Ferrosilicon manganese",
-            "Subentries": []
-          },
-          {
-            "HS Code": "7202.50.00.00",
-            "Description": "Ferrosilicon chromium",
-            "Subentries": []
-          },
-          {
-            "HS Code": "7202.60.00.00",
-            "Description": "Ferronickel",
-            "Subentries": []
-          },
-          {
-            "HS Code": "7202.70.00.00",
-            "Description": "Ferromolybdenum",
-            "Subentries": []
-          },
-          {
-            "HS Code": "7202.80.00.00",
-            "Description": "Ferrotungsten and ferrosilicon tungsten",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Ferromanganese:",
             "Subentries": [
@@ -111,16 +86,6 @@
                 "Description": "Containing by weight more than 55 percent of silicon:",
                 "Subentries": [
                   {
-                    "HS Code": "7202.21.75.00",
-                    "Description": "Containing by weight more than 80 percent but not more than 90 percent of silicon",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7202.21.90.00",
-                    "Description": "Containing by weight more than 90 percent of silicon",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Containing by weight more than 55 percent but not more than 80 percent of silicon:",
                     "Subentries": [
@@ -135,6 +100,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7202.21.75.00",
+                    "Description": "Containing by weight more than 80 percent but not more than 90 percent of silicon",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7202.21.90.00",
+                    "Description": "Containing by weight more than 90 percent of silicon",
+                    "Subentries": []
                   }
                 ]
               },
@@ -155,6 +130,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "7202.30.00.00",
+            "Description": "Ferrosilicon manganese",
+            "Subentries": []
           },
           {
             "HS Code": "",
@@ -193,6 +173,26 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "7202.50.00.00",
+            "Description": "Ferrosilicon chromium",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7202.60.00.00",
+            "Description": "Ferronickel",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7202.70.00.00",
+            "Description": "Ferromolybdenum",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7202.80.00.00",
+            "Description": "Ferrotungsten and ferrosilicon tungsten",
+            "Subentries": []
           },
           {
             "HS Code": "",
@@ -286,16 +286,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "7204.30.00.00",
-            "Description": "Waste and scrap of tinned iron or steel",
-            "Subentries": []
-          },
-          {
-            "HS Code": "7204.50.00.00",
-            "Description": "Remelting scrap ingots",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Waste and scrap of alloy steel:",
             "Subentries": [
@@ -310,6 +300,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "7204.30.00.00",
+            "Description": "Waste and scrap of tinned iron or steel",
+            "Subentries": []
           },
           {
             "HS Code": "",
@@ -379,6 +374,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "7204.50.00.00",
+            "Description": "Remelting scrap ingots",
+            "Subentries": []
           }
         ]
       },
@@ -435,38 +435,6 @@
         "Description": "Semifinished products of iron or nonalloy steel:",
         "Subentries": [
           {
-            "HS Code": "7207.20.00",
-            "Description": "Containing by weight 0.25 percent or more of carbon",
-            "Subentries": [
-              {
-                "HS Code": "7207.20.00.75",
-                "Description": "Of circular cross section",
-                "Subentries": []
-              },
-              {
-                "HS Code": "7207.20.00.90",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Of rectangular (including square) cross section:",
-                "Subentries": [
-                  {
-                    "HS Code": "7207.20.00.25",
-                    "Description": "Having a width measuring less than four times the thickness",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7207.20.00.45",
-                    "Description": "Having a width measuring at least four times the thickness",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Containing by weight less than 0.25 percent of carbon:",
             "Subentries": [
@@ -508,6 +476,38 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "7207.20.00",
+            "Description": "Containing by weight 0.25 percent or more of carbon",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Of rectangular (including square) cross section:",
+                "Subentries": [
+                  {
+                    "HS Code": "7207.20.00.25",
+                    "Description": "Having a width measuring less than four times the thickness",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7207.20.00.45",
+                    "Description": "Having a width measuring at least four times the thickness",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7207.20.00.75",
+                "Description": "Of circular cross section",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7207.20.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
           }
         ]
       },
@@ -541,49 +541,6 @@
                 ]
               }
             ]
-          },
-          {
-            "HS Code": "7208.40",
-            "Description": "Not in coils, not further worked than hot-rolled, with patterns in relief:",
-            "Subentries": [
-              {
-                "HS Code": "7208.40.30",
-                "Description": "Of a thickness of 4.75 mm or more",
-                "Subentries": [
-                  {
-                    "HS Code": "7208.40.30.30",
-                    "Description": "Of a thickness exceeding 10 mm",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7208.40.30.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "7208.40.60",
-                "Description": "Of a thickness of less than 4.75 mm",
-                "Subentries": [
-                  {
-                    "HS Code": "7208.40.60.30",
-                    "Description": "Of a thickness less than 3 mm",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7208.40.60.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "7208.90.00.00",
-            "Description": "Other",
-            "Subentries": []
           },
           {
             "HS Code": "",
@@ -626,11 +583,6 @@
                 "Description": "Of a thickness of less than 3 mm",
                 "Subentries": [
                   {
-                    "HS Code": "7208.27.00.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "High-strength steel:",
                     "Subentries": [
@@ -645,6 +597,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7208.27.00.60",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -754,6 +711,44 @@
             ]
           },
           {
+            "HS Code": "7208.40",
+            "Description": "Not in coils, not further worked than hot-rolled, with patterns in relief:",
+            "Subentries": [
+              {
+                "HS Code": "7208.40.30",
+                "Description": "Of a thickness of 4.75 mm or more",
+                "Subentries": [
+                  {
+                    "HS Code": "7208.40.30.30",
+                    "Description": "Of a thickness exceeding 10 mm",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7208.40.30.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7208.40.60",
+                "Description": "Of a thickness of less than 4.75 mm",
+                "Subentries": [
+                  {
+                    "HS Code": "7208.40.60.30",
+                    "Description": "Of a thickness less than 3 mm",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7208.40.60.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Other, not in coils, not further worked than hot-rolled:",
             "Subentries": [
@@ -800,6 +795,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "7208.90.00.00",
+            "Description": "Other",
+            "Subentries": []
           }
         ]
       },
@@ -807,11 +807,6 @@
         "HS Code": "7209",
         "Description": "Flat-rolled products of iron or nonalloy steel, of a width of 600 mm or more, cold-rolled (cold-reduced), not clad, plated or coated:",
         "Subentries": [
-          {
-            "HS Code": "7209.90.00.00",
-            "Description": "Other",
-            "Subentries": []
-          },
           {
             "HS Code": "",
             "Description": "In coils, not further worked than cold-rolled (cold-reduced):",
@@ -830,11 +825,6 @@
                     "Description": "Of high-strength steel:",
                     "Subentries": [
                       {
-                        "HS Code": "7209.16.00.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Annealed:",
                         "Subentries": [
@@ -849,6 +839,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7209.16.00.60",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -879,11 +874,6 @@
                     "Description": "Of high-strength steel:",
                     "Subentries": [
                       {
-                        "HS Code": "7209.17.00.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Annealed:",
                         "Subentries": [
@@ -898,6 +888,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7209.17.00.60",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -1006,6 +1001,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "7209.90.00.00",
+            "Description": "Other",
+            "Subentries": []
           }
         ]
       },
@@ -1013,6 +1013,22 @@
         "HS Code": "7210",
         "Description": "Flat-rolled products of iron or nonalloy steel, of a width of 600 mm or more, clad, plated or coated:",
         "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Plated or coated with tin:",
+            "Subentries": [
+              {
+                "HS Code": "7210.11.00.00",
+                "Description": "Of a thickness of 0.5 mm or more",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7210.12.00.00",
+                "Description": "Of a thickness of less than 0.5 mm",
+                "Subentries": []
+              }
+            ]
+          },
           {
             "HS Code": "7210.20.00.00",
             "Description": "Plated or coated with lead, including terne-plate",
@@ -1030,104 +1046,6 @@
               {
                 "HS Code": "7210.30.00.60",
                 "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "7210.50.00",
-            "Description": "Plated or coated with chromium oxides or with chromium and chromium oxides",
-            "Subentries": [
-              {
-                "HS Code": "7210.50.00.20",
-                "Description": "Of a width less than 1050 mm",
-                "Subentries": [
-                  {
-                    "HS Code": "7210.50.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "7210.70",
-            "Description": "Painted, varnished or coated with plastics:",
-            "Subentries": [
-              {
-                "HS Code": "7210.70.30.00",
-                "Description": "Not coated or plated with metal and not clad",
-                "Subentries": []
-              },
-              {
-                "HS Code": "7210.70.60",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "7210.70.60.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Zinc coated or plated:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7210.70.60.30",
-                        "Description": "Electrolytically coated or plated",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7210.70.60.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "7210.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "7210.90.10.00",
-                "Description": "Clad",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "7210.90.60.00",
-                    "Description": "Electrolytically coated or plated with base metal",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7210.90.90.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Plated or coated with tin:",
-            "Subentries": [
-              {
-                "HS Code": "7210.11.00.00",
-                "Description": "Of a thickness of 0.5 mm or more",
-                "Subentries": []
-              },
-              {
-                "HS Code": "7210.12.00.00",
-                "Description": "Of a thickness of less than 0.5 mm",
                 "Subentries": []
               }
             ]
@@ -1182,6 +1100,23 @@
             ]
           },
           {
+            "HS Code": "7210.50.00",
+            "Description": "Plated or coated with chromium oxides or with chromium and chromium oxides",
+            "Subentries": [
+              {
+                "HS Code": "7210.50.00.20",
+                "Description": "Of a width less than 1050 mm",
+                "Subentries": [
+                  {
+                    "HS Code": "7210.50.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Plated or coated with aluminum:",
             "Subentries": [
@@ -1196,6 +1131,71 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "7210.70",
+            "Description": "Painted, varnished or coated with plastics:",
+            "Subentries": [
+              {
+                "HS Code": "7210.70.30.00",
+                "Description": "Not coated or plated with metal and not clad",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7210.70.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Zinc coated or plated:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7210.70.60.30",
+                        "Description": "Electrolytically coated or plated",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7210.70.60.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7210.70.60.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "7210.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "7210.90.10.00",
+                "Description": "Clad",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7210.90.60.00",
+                    "Description": "Electrolytically coated or plated with base metal",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7210.90.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
@@ -1203,11 +1203,6 @@
         "HS Code": "7211",
         "Description": "Flat-rolled products of iron or nonalloy steel, of a width of less than 600 mm, not clad, plated or coated:",
         "Subentries": [
-          {
-            "HS Code": "7211.90.00.00",
-            "Description": "Other",
-            "Subentries": []
-          },
           {
             "HS Code": "",
             "Description": "Not further worked than hot-rolled:",
@@ -1298,11 +1293,6 @@
                             "Description": "Other",
                             "Subentries": [
                               {
-                                "HS Code": "7211.19.75.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "In coils:",
                                 "Subentries": [
@@ -1317,6 +1307,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "7211.19.75.90",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -1337,6 +1332,38 @@
                 "Description": "Containing by weight less than 0.25 percent of carbon:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Of a width of less than 300 mm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Of a thickness exceeding 1.25 mm:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7211.23.15.00",
+                            "Description": "Of high-strength steel",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7211.23.20.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7211.23.30.00",
+                        "Description": "Of a thickness exceeding 0.25 mm but not exceeding 1.25 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7211.23.45.00",
+                        "Description": "Of a thickness not exceeding 0.25 mm",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "7211.23.60",
                     "Description": "Other",
                     "Subentries": [
@@ -1356,38 +1383,6 @@
                         "Subentries": []
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Of a width of less than 300 mm:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7211.23.30.00",
-                        "Description": "Of a thickness exceeding 0.25 mm but not exceeding 1.25 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7211.23.45.00",
-                        "Description": "Of a thickness not exceeding 0.25 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Of a thickness exceeding 1.25 mm:",
-                        "Subentries": [
-                          {
-                            "HS Code": "7211.23.15.00",
-                            "Description": "Of high-strength steel",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7211.23.20.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
                   }
                 ]
               },
@@ -1395,22 +1390,6 @@
                 "HS Code": "7211.29",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "7211.29.60",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "7211.29.60.30",
-                        "Description": "Of a thickness exceeding 1.25 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7211.29.60.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of a width of less than 300 mm:",
@@ -1437,10 +1416,31 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7211.29.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7211.29.60.30",
+                        "Description": "Of a thickness exceeding 1.25 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7211.29.60.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "7211.90.00.00",
+            "Description": "Other",
+            "Subentries": []
           }
         ]
       },
@@ -1462,11 +1462,6 @@
             "HS Code": "7212.30",
             "Description": "Otherwise plated or coated with zinc:",
             "Subentries": [
-              {
-                "HS Code": "7212.30.50.00",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Of a width of less than 300 mm:",
@@ -1493,6 +1488,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "7212.30.50.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -1606,11 +1606,6 @@
                 "Description": "Other",
                 "Subentries": [
                   {
-                    "HS Code": "7213.99.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of circular cross section:",
                     "Subentries": [
@@ -1625,6 +1620,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7213.99.00.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -1671,16 +1671,6 @@
                 "Description": "Of rectangular (other than square) cross-section",
                 "Subentries": [
                   {
-                    "HS Code": "7214.91.00.60",
-                    "Description": "Containing by weight 0.25 percent or more but less than 0.6 percent of carbon",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7214.91.00.90",
-                    "Description": "Containing by weight 0.6 percent or more of carbon",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Containing by weight less than 0.25 percent of carbon:",
                     "Subentries": [
@@ -1695,6 +1685,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7214.91.00.60",
+                    "Description": "Containing by weight 0.25 percent or more but less than 0.6 percent of carbon",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7214.91.00.90",
+                    "Description": "Containing by weight 0.6 percent or more of carbon",
+                    "Subentries": []
                   }
                 ]
               },
@@ -1706,11 +1706,6 @@
                     "HS Code": "",
                     "Description": "Rounds:",
                     "Subentries": [
-                      {
-                        "HS Code": "7214.99.00.45",
-                        "Description": "Containing by weight 0.6 percent or more of carbon",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Containing by weight less than 0.25 percent of carbon:",
@@ -1752,6 +1747,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7214.99.00.45",
+                        "Description": "Containing by weight 0.6 percent or more of carbon",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -1807,11 +1807,6 @@
             "Description": "Other, not further worked than cold-formed or cold-finished",
             "Subentries": [
               {
-                "HS Code": "7215.50.00.90",
-                "Description": "Containing by weight 0.6 percent or more of carbon",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Containing by weight less than 0.25 percent of carbon:",
                 "Subentries": [
@@ -1852,6 +1847,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "7215.50.00.90",
+                "Description": "Containing by weight 0.6 percent or more of carbon",
+                "Subentries": []
               }
             ]
           },
@@ -1859,11 +1859,6 @@
             "HS Code": "7215.90",
             "Description": "Other:",
             "Subentries": [
-              {
-                "HS Code": "7215.90.50.00",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Plated or coated with metal:",
@@ -1879,6 +1874,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "7215.90.50.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }
@@ -1903,27 +1903,6 @@
                 "Subentries": []
               }
             ]
-          },
-          {
-            "HS Code": "7216.40.00",
-            "Description": "L or T sections, not further worked than hot-rolled, hot-drawn or extruded, of a height of 80 mm or more",
-            "Subentries": [
-              {
-                "HS Code": "7216.40.00.10",
-                "Description": "L sections",
-                "Subentries": []
-              },
-              {
-                "HS Code": "7216.40.00.50",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "7216.50.00.00",
-            "Description": "Other angles, shapes and sections, not further worked than hot-rolled, hot-drawn or extruded",
-            "Subentries": []
           },
           {
             "HS Code": "",
@@ -1977,6 +1956,27 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "7216.40.00",
+            "Description": "L or T sections, not further worked than hot-rolled, hot-drawn or extruded, of a height of 80 mm or more",
+            "Subentries": [
+              {
+                "HS Code": "7216.40.00.10",
+                "Description": "L sections",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7216.40.00.50",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "7216.50.00.00",
+            "Description": "Other angles, shapes and sections, not further worked than hot-rolled, hot-drawn or extruded",
+            "Subentries": []
           },
           {
             "HS Code": "",
@@ -2047,11 +2047,6 @@
                 "Description": "Containing by weight less than 0.25 percent of carbon:",
                 "Subentries": [
                   {
-                    "HS Code": "7217.10.60.00",
-                    "Description": "Other wire",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Flat wire:",
                     "Subentries": [
@@ -2081,11 +2076,6 @@
                         "Description": "With a diameter of less than 1.5 mm",
                         "Subentries": [
                           {
-                            "HS Code": "7217.10.40.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Heat treated:",
                             "Subentries": [
@@ -2100,6 +2090,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "7217.10.40.90",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       },
@@ -2120,6 +2115,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7217.10.60.00",
+                    "Description": "Other wire",
+                    "Subentries": []
                   }
                 ]
               },
@@ -2356,11 +2356,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "7217.30.45.90",
-                            "Description": "With a diameter of 1.5 mm or more",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "With a diameter of less than 1.0 mm:",
                             "Subentries": [
@@ -2401,6 +2396,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "7217.30.45.90",
+                            "Description": "With a diameter of 1.5 mm or more",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -2483,11 +2483,6 @@
                 "Description": "Of rectangular (other than square) cross-section",
                 "Subentries": [
                   {
-                    "HS Code": "7218.91.00.60",
-                    "Description": "Having a width at least four times the thickness",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Having a width less than four times the thickness:",
                     "Subentries": [
@@ -2502,6 +2497,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7218.91.00.60",
+                    "Description": "Having a width at least four times the thickness",
+                    "Subentries": []
                   }
                 ]
               },
@@ -2509,11 +2509,6 @@
                 "HS Code": "7218.99.00",
                 "Description": "Other",
                 "Subentries": [
-                  {
-                    "HS Code": "7218.99.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of square cross section:",
@@ -2545,6 +2540,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7218.99.00.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -2556,55 +2556,6 @@
         "HS Code": "7219",
         "Description": "Flat-rolled products of stainless steel, of a width of 600 mm or more:",
         "Subentries": [
-          {
-            "HS Code": "7219.90.00",
-            "Description": "Other",
-            "Subentries": [
-              {
-                "HS Code": "7219.90.00.10",
-                "Description": "Of high-nickel alloy steel",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "",
-                    "Description": "Containing more than 0.5 percent by weight of nickel:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7219.90.00.20",
-                        "Description": "Containing more than 1.5 percent but less than 5 percent by weight of molybdenum",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7219.90.00.25",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7219.90.00.60",
-                        "Description": "Containing less than 15 percent by weight of chromium",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7219.90.00.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
           {
             "HS Code": "",
             "Description": "Not further worked than hot-rolled, in coils:",
@@ -2690,11 +2641,6 @@
                             "Description": "Other:",
                             "Subentries": [
                               {
-                                "HS Code": "7219.12.00.81",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Containing more than 0.5 percent by weight of nickel:",
                                 "Subentries": [
@@ -2709,6 +2655,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "7219.12.00.81",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -2741,11 +2692,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "7219.13.00.81",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Containing more than 0.5 percent but less than 24 percent by weight of nickel:",
                             "Subentries": [
@@ -2760,6 +2706,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "7219.13.00.81",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -3196,11 +3147,6 @@
                 "Description": "Of a thickness of 0.5 mm or more but not exceeding 1 mm",
                 "Subentries": [
                   {
-                    "HS Code": "7219.34.00.50",
-                    "Description": "Not in coils",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "In coils:",
                     "Subentries": [
@@ -3248,6 +3194,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7219.34.00.50",
+                    "Description": "Not in coils",
+                    "Subentries": []
                   }
                 ]
               },
@@ -3255,11 +3206,6 @@
                 "HS Code": "7219.35.00",
                 "Description": "Of a thickness of less than 0.5 mm",
                 "Subentries": [
-                  {
-                    "HS Code": "7219.35.00.50",
-                    "Description": "Not in coils",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "In coils:",
@@ -3297,6 +3243,60 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7219.35.00.50",
+                    "Description": "Not in coils",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "7219.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "7219.90.00.10",
+                "Description": "Of high-nickel alloy steel",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Containing more than 0.5 percent by weight of nickel:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7219.90.00.20",
+                        "Description": "Containing more than 1.5 percent but less than 5 percent by weight of molybdenum",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7219.90.00.25",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7219.90.00.60",
+                        "Description": "Containing less than 15 percent by weight of chromium",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7219.90.00.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               }
@@ -3308,6 +3308,33 @@
         "HS Code": "7220",
         "Description": "Flat-rolled products of stainless steel, of a width of less than 600 mm:",
         "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Not further worked than hot-rolled:",
+            "Subentries": [
+              {
+                "HS Code": "7220.11.00.00",
+                "Description": "Of a thickness of 4.75 mm or more",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7220.12",
+                "Description": "Of a thickness of less than 4.75 mm:",
+                "Subentries": [
+                  {
+                    "HS Code": "7220.12.10.00",
+                    "Description": "Of a width of 300 mm or more",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7220.12.50.00",
+                    "Description": "Of a width of less than 300 mm",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
           {
             "HS Code": "7220.20",
             "Description": "Not further worked than cold-rolled (cold-reduced):",
@@ -3520,33 +3547,6 @@
                 ]
               }
             ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Not further worked than hot-rolled:",
-            "Subentries": [
-              {
-                "HS Code": "7220.11.00.00",
-                "Description": "Of a thickness of 4.75 mm or more",
-                "Subentries": []
-              },
-              {
-                "HS Code": "7220.12",
-                "Description": "Of a thickness of less than 4.75 mm:",
-                "Subentries": [
-                  {
-                    "HS Code": "7220.12.10.00",
-                    "Description": "Of a width of 300 mm or more",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7220.12.50.00",
-                    "Description": "Of a width of less than 300 mm",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
           }
         ]
       },
@@ -3564,24 +3564,9 @@
             "Description": "Other:",
             "Subentries": [
               {
-                "HS Code": "7221.00.00.75",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Of circular cross section:",
                 "Subentries": [
-                  {
-                    "HS Code": "7221.00.00.30",
-                    "Description": "With a diameter of 14 mm or more but less than 19 mm",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7221.00.00.45",
-                    "Description": "With a diameter of 19 mm or more",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "With a diameter of less than 14 mm:",
@@ -3597,8 +3582,23 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7221.00.00.30",
+                    "Description": "With a diameter of 14 mm or more but less than 19 mm",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7221.00.00.45",
+                    "Description": "With a diameter of 19 mm or more",
+                    "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "7221.00.00.75",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }
@@ -3608,6 +3608,104 @@
         "HS Code": "7222",
         "Description": "Other bars and rods of stainless steel; angles, shapes and sections of stainless steel:",
         "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Bars and rods, not further worked than hot-rolled, hot-drawn or extruded:",
+            "Subentries": [
+              {
+                "HS Code": "7222.11.00",
+                "Description": "Of circular cross-section",
+                "Subentries": [
+                  {
+                    "HS Code": "7222.11.00.01",
+                    "Description": "Electroslag or vacuum arc remelted",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7222.11.00.06",
+                    "Description": "Of high-nickel alloy steel",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "With a maximum cross-sectional dimension of less than 152.4 mm:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7222.11.00.57",
+                            "Description": "Containing less than 8 percent by weight of nickel",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7222.11.00.59",
+                            "Description": "Containing 8 percent or more but less than 24 percent by weight of nickel",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "With a maximum cross-sectional dimension of 152.4 mm or more:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7222.11.00.82",
+                            "Description": "Containing less than 8 percent by weight of nickel",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7222.11.00.84",
+                            "Description": "Containing 8 percent or more but less than 24 percent by weight of nickel",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7222.19.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "7222.19.00.01",
+                    "Description": "Electroslag or vacuum arc remelted",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7222.19.00.06",
+                        "Description": "Of high-nickel alloy steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7222.19.00.52",
+                            "Description": "Containing less than 8 percent by weight of nickel",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7222.19.00.54",
+                            "Description": "Containing 8 percent or more but less than 24 percent by weight of nickel",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
           {
             "HS Code": "7222.20.00",
             "Description": "Bars and rods, not further worked than cold-formed or cold-finished",
@@ -3802,104 +3900,6 @@
                 "Subentries": []
               }
             ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Bars and rods, not further worked than hot-rolled, hot-drawn or extruded:",
-            "Subentries": [
-              {
-                "HS Code": "7222.11.00",
-                "Description": "Of circular cross-section",
-                "Subentries": [
-                  {
-                    "HS Code": "7222.11.00.01",
-                    "Description": "Electroslag or vacuum arc remelted",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7222.11.00.06",
-                    "Description": "Of high-nickel alloy steel",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "",
-                        "Description": "With a maximum cross-sectional dimension of less than 152.4 mm:",
-                        "Subentries": [
-                          {
-                            "HS Code": "7222.11.00.57",
-                            "Description": "Containing less than 8 percent by weight of nickel",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7222.11.00.59",
-                            "Description": "Containing 8 percent or more but less than 24 percent by weight of nickel",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "With a maximum cross-sectional dimension of 152.4 mm or more:",
-                        "Subentries": [
-                          {
-                            "HS Code": "7222.11.00.82",
-                            "Description": "Containing less than 8 percent by weight of nickel",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7222.11.00.84",
-                            "Description": "Containing 8 percent or more but less than 24 percent by weight of nickel",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "7222.19.00",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "7222.19.00.01",
-                    "Description": "Electroslag or vacuum arc remelted",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7222.19.00.06",
-                        "Description": "Of high-nickel alloy steel",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "7222.19.00.52",
-                            "Description": "Containing less than 8 percent by weight of nickel",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7222.19.00.54",
-                            "Description": "Containing 8 percent or more but less than 24 percent by weight of nickel",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
           }
         ]
       },
@@ -4015,11 +4015,6 @@
                     "Description": "Of tool steel:",
                     "Subentries": [
                       {
-                        "HS Code": "7224.90.00.35",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Of rectangular (including square) cross section:",
                         "Subentries": [
@@ -4034,6 +4029,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7224.90.00.35",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -4041,16 +4041,6 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
-                      {
-                        "HS Code": "7224.90.00.65",
-                        "Description": "Of circular cross section",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7224.90.00.75",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Of rectangular (including square) cross section:",
@@ -4066,6 +4056,16 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "7224.90.00.65",
+                        "Description": "Of circular cross section",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7224.90.00.75",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -4079,6 +4079,22 @@
         "HS Code": "7225",
         "Description": "Flat-rolled products of other alloy steel, of a width of 600 mm or more:",
         "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of silicon electrical steel:",
+            "Subentries": [
+              {
+                "HS Code": "7225.11.00.00",
+                "Description": "Grain-oriented",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7225.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
           {
             "HS Code": "7225.30",
             "Description": "Other, not further worked than hot-rolled, in coils:",
@@ -4293,22 +4309,6 @@
           },
           {
             "HS Code": "",
-            "Description": "Of silicon electrical steel:",
-            "Subentries": [
-              {
-                "HS Code": "7225.11.00.00",
-                "Description": "Grain-oriented",
-                "Subentries": []
-              },
-              {
-                "HS Code": "7225.19.00.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "",
             "Description": "Other:",
             "Subentries": [
               {
@@ -4345,11 +4345,6 @@
         "HS Code": "7226",
         "Description": "Flat-rolled products of other alloy steel, of a width of less than 600 mm:",
         "Subentries": [
-          {
-            "HS Code": "7226.20.00.00",
-            "Description": "Of high-speed steel",
-            "Subentries": []
-          },
           {
             "HS Code": "",
             "Description": "Of silicon electrical steel:",
@@ -4398,6 +4393,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "7226.20.00.00",
+            "Description": "Of high-speed steel",
+            "Subentries": []
           },
           {
             "HS Code": "",
@@ -4633,53 +4633,6 @@
             "Description": "Other:",
             "Subentries": [
               {
-                "HS Code": "7227.90.60",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "7227.90.60.05",
-                    "Description": "Of high-nickel alloy steel",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7227.90.60.10",
-                    "Description": "Of Cold Heading Quality (CHQ) steel of a kind described in statistical note 6 to this chapter",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7227.90.60.20",
-                    "Description": "Of welding quality wire rods of a kind described in statistical note 7 to this chapter",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7227.90.60.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Of a circular cross section:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7227.90.60.30",
-                        "Description": "With a diameter of less than 14 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7227.90.60.35",
-                        "Description": "With a diameter of 14 mm or more but less than 19 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7227.90.60.40",
-                        "Description": "With a diameter of 19 mm or more",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
                 "HS Code": "",
                 "Description": "Of tool steel (other than high-speed steel):",
                 "Subentries": [
@@ -4714,6 +4667,53 @@
                         "Subentries": []
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7227.90.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "7227.90.60.05",
+                    "Description": "Of high-nickel alloy steel",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7227.90.60.10",
+                    "Description": "Of Cold Heading Quality (CHQ) steel of a kind described in statistical note 6 to this chapter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7227.90.60.20",
+                    "Description": "Of welding quality wire rods of a kind described in statistical note 7 to this chapter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of a circular cross section:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7227.90.60.30",
+                        "Description": "With a diameter of less than 14 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7227.90.60.35",
+                        "Description": "With a diameter of 14 mm or more but less than 19 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7227.90.60.40",
+                        "Description": "With a diameter of 19 mm or more",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7227.90.60.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -4765,6 +4765,75 @@
                 "HS Code": "7228.20.50.00",
                 "Description": "Cold-formed",
                 "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other bars and rods, not further worked than hot-rolled, hot-drawn or extruded:",
+            "Subentries": [
+              {
+                "HS Code": "7228.30",
+                "Description": "Of tool steel (other than high-speed steel):",
+                "Subentries": [
+                  {
+                    "HS Code": "7228.30.20.00",
+                    "Description": "Of ball-bearing steel",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7228.30.40.00",
+                    "Description": "Of chipper knife steel, not cold-formed",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7228.30.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7228.30.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "7228.30.80.05",
+                    "Description": "Of high-nickel alloy steel",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7228.30.80.10",
+                    "Description": "Concrete reinforcing bars and rods",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7228.30.80.15",
+                        "Description": "With a diameter or cross section measuring less than 76 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7228.30.80.41",
+                        "Description": "With a diameter or cross section measuring 76 mm or more but not exceeding 152 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7228.30.80.45",
+                        "Description": "With a diameter or cross section measuring 152 mm or more but not exceeding 228 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7228.30.80.70",
+                        "Description": "With a diameter or cross section exceeding 228 mm",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           },
@@ -4962,75 +5031,6 @@
             "HS Code": "7228.80.00.00",
             "Description": "Hollow drill bars and rods",
             "Subentries": []
-          },
-          {
-            "HS Code": "",
-            "Description": "Other bars and rods, not further worked than hot-rolled, hot-drawn or extruded:",
-            "Subentries": [
-              {
-                "HS Code": "7228.30",
-                "Description": "Of tool steel (other than high-speed steel):",
-                "Subentries": [
-                  {
-                    "HS Code": "7228.30.20.00",
-                    "Description": "Of ball-bearing steel",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7228.30.40.00",
-                    "Description": "Of chipper knife steel, not cold-formed",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7228.30.60.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "7228.30.80",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "7228.30.80.05",
-                    "Description": "Of high-nickel alloy steel",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7228.30.80.10",
-                    "Description": "Concrete reinforcing bars and rods",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7228.30.80.15",
-                        "Description": "With a diameter or cross section measuring less than 76 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7228.30.80.41",
-                        "Description": "With a diameter or cross section measuring 76 mm or more but not exceeding 152 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7228.30.80.45",
-                        "Description": "With a diameter or cross section measuring 152 mm or more but not exceeding 228 mm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7228.30.80.70",
-                        "Description": "With a diameter or cross section exceeding 228 mm",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
           }
         ]
       },
@@ -5042,11 +5042,6 @@
             "HS Code": "7229.20.00",
             "Description": "Of silico-manganese steel",
             "Subentries": [
-              {
-                "HS Code": "7229.20.00.90",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Round, with a diameter of less than or equal to 1.6 mm, containing by weight less than 0.20 percent of carbon, more than 0.9 percent of manganese, and more than 0.6 percent of silicon, and suitable for electric arc welding:",
@@ -5062,6 +5057,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "7229.20.00.90",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },

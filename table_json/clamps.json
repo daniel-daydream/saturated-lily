@@ -12,11 +12,6 @@
             "Description": "Vises, clamps and the like, and parts thereof",
             "Subentries": [
               {
-                "HS Code": "8205.70.00.90",
-                "Description": "Other (including parts)",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Vises:",
                 "Subentries": [
@@ -31,6 +26,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8205.70.00.90",
+                "Description": "Other (including parts)",
+                "Subentries": []
               }
             ]
           }

@@ -12,38 +12,6 @@
             "Description": "Motors of an output not exceeding 37.5 W:",
             "Subentries": [
               {
-                "HS Code": "8501.10.60",
-                "Description": "Of 18.65 W or more but not exceeding 37.5 W",
-                "Subentries": [
-                  {
-                    "HS Code": "8501.10.60.20",
-                    "Description": "AC",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8501.10.60.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "DC:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8501.10.60.40",
-                        "Description": "Brushless",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8501.10.60.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
                 "HS Code": "",
                 "Description": "Of under 18.65 W:",
                 "Subentries": [
@@ -62,11 +30,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "8501.10.40.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "DC:",
                         "Subentries": [
@@ -81,8 +44,45 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8501.10.40.80",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8501.10.60",
+                "Description": "Of 18.65 W or more but not exceeding 37.5 W",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.10.60.20",
+                    "Description": "AC",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "DC:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.10.60.40",
+                        "Description": "Brushless",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.10.60.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8501.10.60.80",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -111,6 +111,168 @@
                 "HS Code": "8501.20.60.00",
                 "Description": "Other",
                 "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other DC motors; DC generators, other than photovoltaic generators:",
+            "Subentries": [
+              {
+                "HS Code": "8501.31",
+                "Description": "Of an output not exceeding 750 W:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Motors:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.31.20.00",
+                        "Description": "Exceeding 37.5 W but not exceeding 74.6 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.31.40.00",
+                        "Description": "Exceeding 74.6 W but not exceeding 735 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.31.50.00",
+                        "Description": "Exceeding 735 W but under 746 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.31.60.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8501.31.81.00",
+                    "Description": "Generators",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8501.32",
+                "Description": "Of an output exceeding 750 W but not exceeding 75 kW:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Motors:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.32.20.00",
+                        "Description": "Exceeding 750 W but not exceeding 14.92 kW",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8501.32.45.00",
+                            "Description": "Electric motors of a kind used as the primary source of mechanical power for electrically powered vehicles of subheadings 8703.40, 8703.50, 8703.60, 8703.70 or 8703.80",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8501.32.55",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "8501.32.55.20",
+                                "Description": "For use in civil aircraft",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8501.32.55.40",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8501.32.61.00",
+                    "Description": "Generators",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8501.33",
+                "Description": "Of an output exceeding 75 kW but not exceeding 375 kW:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Motors:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.33.20",
+                        "Description": "Exceeding 75 kW but under 149.2 kW",
+                        "Subentries": [
+                          {
+                            "HS Code": "8501.33.20.40",
+                            "Description": "For use in civil aircraft",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8501.33.20.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8501.33.30.00",
+                        "Description": "149.2 kW or more but not exceeding 150 kW",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.33.40",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8501.33.40.40",
+                            "Description": "Not exceeding 373 kW",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8501.33.40.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8501.33.61.00",
+                    "Description": "Generators",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8501.34",
+                "Description": "Of an output exceeding 375 kW:",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.34.30.00",
+                    "Description": "Motors",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8501.34.61.00",
+                    "Description": "Generators",
+                    "Subentries": []
+                  }
+                ]
               }
             ]
           },
@@ -178,194 +340,6 @@
                   {
                     "HS Code": "8501.40.60.40",
                     "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "8501.80",
-            "Description": "Photovoltaic AC generators:",
-            "Subentries": [
-              {
-                "HS Code": "8501.80.10.00",
-                "Description": "Of an output not exceeding 75 kVA",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8501.80.20.00",
-                "Description": "Of an output exceeding 75 kVA but not exceeding 375 kVA",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8501.80.30.00",
-                "Description": "Of an output exceeding 375 kVA but not exceeding 750 kVA",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8501.80.90.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Other DC motors; DC generators, other than photovoltaic generators:",
-            "Subentries": [
-              {
-                "HS Code": "8501.31",
-                "Description": "Of an output not exceeding 750 W:",
-                "Subentries": [
-                  {
-                    "HS Code": "8501.31.81.00",
-                    "Description": "Generators",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Motors:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8501.31.20.00",
-                        "Description": "Exceeding 37.5 W but not exceeding 74.6 W",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8501.31.40.00",
-                        "Description": "Exceeding 74.6 W but not exceeding 735 W",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8501.31.50.00",
-                        "Description": "Exceeding 735 W but under 746 W",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8501.31.60.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "8501.32",
-                "Description": "Of an output exceeding 750 W but not exceeding 75 kW:",
-                "Subentries": [
-                  {
-                    "HS Code": "8501.32.61.00",
-                    "Description": "Generators",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Motors:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8501.32.20.00",
-                        "Description": "Exceeding 750 W but not exceeding 14.92 kW",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8501.32.45.00",
-                            "Description": "Electric motors of a kind used as the primary source of mechanical power for electrically powered vehicles of subheadings 8703.40, 8703.50, 8703.60, 8703.70 or 8703.80",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8501.32.55",
-                            "Description": "Other",
-                            "Subentries": [
-                              {
-                                "HS Code": "8501.32.55.20",
-                                "Description": "For use in civil aircraft",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "8501.32.55.40",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "8501.33",
-                "Description": "Of an output exceeding 75 kW but not exceeding 375 kW:",
-                "Subentries": [
-                  {
-                    "HS Code": "8501.33.61.00",
-                    "Description": "Generators",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Motors:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8501.33.20",
-                        "Description": "Exceeding 75 kW but under 149.2 kW",
-                        "Subentries": [
-                          {
-                            "HS Code": "8501.33.20.40",
-                            "Description": "For use in civil aircraft",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8501.33.20.80",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "8501.33.30.00",
-                        "Description": "149.2 kW or more but not exceeding 150 kW",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8501.33.40",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "8501.33.40.40",
-                            "Description": "Not exceeding 373 kW",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8501.33.40.60",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "8501.34",
-                "Description": "Of an output exceeding 375 kW:",
-                "Subentries": [
-                  {
-                    "HS Code": "8501.34.30.00",
-                    "Description": "Motors",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8501.34.61.00",
-                    "Description": "Generators",
                     "Subentries": []
                   }
                 ]
@@ -542,16 +516,6 @@
                 "Description": "Of an output exceeding 750 kVA",
                 "Subentries": [
                   {
-                    "HS Code": "8501.64.01.30",
-                    "Description": "Exceeding 10,000 kVA but not exceeding 40,000 kVA",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8501.64.01.50",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Exceeding 750 kVA but not exceeding 10,000 kVA:",
                     "Subentries": [
@@ -566,6 +530,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8501.64.01.30",
+                    "Description": "Exceeding 10,000 kVA but not exceeding 40,000 kVA",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8501.64.01.50",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -607,6 +581,32 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "8501.80",
+            "Description": "Photovoltaic AC generators:",
+            "Subentries": [
+              {
+                "HS Code": "8501.80.10.00",
+                "Description": "Of an output not exceeding 75 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8501.80.20.00",
+                "Description": "Of an output exceeding 75 kVA but not exceeding 375 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8501.80.30.00",
+                "Description": "Of an output exceeding 375 kVA but not exceeding 750 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8501.80.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
           }
         ]
       },
@@ -614,37 +614,6 @@
         "HS Code": "8502",
         "Description": "Electric generating sets and rotary converters:",
         "Subentries": [
-          {
-            "HS Code": "8502.20.00",
-            "Description": "Generating sets with spark-ignition internal combustion piston engines",
-            "Subentries": [
-              {
-                "HS Code": "8502.20.00.30",
-                "Description": "Of an output not exceeding 1.875 kVA",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8502.20.00.60",
-                "Description": "Of an output exceeding 1.875 kVA but not exceeding 6.25 kVA",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8502.20.00.70",
-                "Description": "Of an output exceeding 6.25 kVA but not exceeding 75 kVA",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8502.20.00.85",
-                "Description": "Of an output exceeding 75 kVA",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "8502.40.00.00",
-            "Description": "Electric rotary converters",
-            "Subentries": []
-          },
           {
             "HS Code": "",
             "Description": "Generating sets with compression-ignition internal combustion piston engines (diesel or semi-diesel engines):",
@@ -678,6 +647,32 @@
             ]
           },
           {
+            "HS Code": "8502.20.00",
+            "Description": "Generating sets with spark-ignition internal combustion piston engines",
+            "Subentries": [
+              {
+                "HS Code": "8502.20.00.30",
+                "Description": "Of an output not exceeding 1.875 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8502.20.00.60",
+                "Description": "Of an output exceeding 1.875 kVA but not exceeding 6.25 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8502.20.00.70",
+                "Description": "Of an output exceeding 6.25 kVA but not exceeding 75 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8502.20.00.85",
+                "Description": "Of an output exceeding 75 kVA",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Other generating sets:",
             "Subentries": [
@@ -703,6 +698,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "8502.40.00.00",
+            "Description": "Electric rotary converters",
+            "Subentries": []
           }
         ]
       },
@@ -805,257 +805,6 @@
             "HS Code": "8504.10.00.00",
             "Description": "Ballasts for discharge lamps or tubes",
             "Subentries": []
-          },
-          {
-            "HS Code": "8504.40",
-            "Description": "Static converters:",
-            "Subentries": [
-              {
-                "HS Code": "8504.40.40.00",
-                "Description": "Speed drive controllers for electric motors",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8504.40.85.00",
-                "Description": "For telecommunication apparatus",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8504.40.95",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8504.40.95.70",
-                    "Description": "Inverters",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8504.40.95.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Rectifiers and rectifying apparatus:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8504.40.95.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Power supplies:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8504.40.95.10",
-                            "Description": "With a power output not exceeding 50 W",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8504.40.95.20",
-                            "Description": "With a power output exceeding 50 W but not exceeding 150 W",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8504.40.95.30",
-                            "Description": "With a power output exceeding 150 W but not exceeding 500 W",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8504.40.95.40",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Power supplies for automatic data processing machines or units thereof of heading 8471; power supplies for goods of subheading 8443.31 or 8443.32; power supplies for monitors of subheading 8528.42 or 8528.52 or projectors of subheading 8528.62:",
-                "Subentries": [
-                  {
-                    "HS Code": "8504.40.60",
-                    "Description": "Suitable for physical incorporation into automatic data processing machines or units thereof of heading 8471",
-                    "Subentries": [
-                      {
-                        "HS Code": "8504.40.60.01",
-                        "Description": "With a power output not exceeding 50 W",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8504.40.60.07",
-                        "Description": "With a power output exceeding 50 W but not exceeding 150 W",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8504.40.60.12",
-                        "Description": "With a power output exceeding 150 W but not exceeding 500 W",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8504.40.60.18",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "8504.40.70",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "8504.40.70.01",
-                        "Description": "With a power output not exceeding 50 W",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8504.40.70.07",
-                        "Description": "With a power output exceeding 50 W but not exceeding 150 W",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8504.40.70.12",
-                        "Description": "With a power output exceeding 150 W but not exceeding 500 W",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8504.40.70.18",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "8504.50",
-            "Description": "Other inductors:",
-            "Subentries": [
-              {
-                "HS Code": "8504.50.40.00",
-                "Description": "For power supplies for automatic data processing machines or units thereof of heading 8471; power supplies for goods of subheading 8443.31 or 8443.32; power supplies for monitors of subheading 8528.42 or 8528.52 or projectors of subheading 8528.62; for telecommunication apparatus",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8504.50.80.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "8504.90",
-            "Description": "Parts:",
-            "Subentries": [
-              {
-                "HS Code": "",
-                "Description": "Of power supplies for automatic data processing machines or units thereof of heading 8471; of power supplies for goods of subheading 8443.31 or 8443.32; of power supplies for monitors of subheading 8528.42 or 8528.52 or projectors of subheading 8528.62:",
-                "Subentries": [
-                  {
-                    "HS Code": "8504.90.20.00",
-                    "Description": "Printed circuit assemblies",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8504.90.41.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "8504.90.96",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "",
-                        "Description": "Ferrites:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8504.90.96.10",
-                            "Description": "For transformers",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8504.90.96.30",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other parts:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8504.90.96.50",
-                            "Description": "Of static converters",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8504.90.96.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Of transformers:",
-                            "Subentries": [
-                              {
-                                "HS Code": "8504.90.96.34",
-                                "Description": "Laminations for incorporation into stacked cores",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "8504.90.96.38",
-                                "Description": "Stacked cores for incorporation into transformers",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "8504.90.96.42",
-                                "Description": "Wound cores for incorporation into transformers",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "8504.90.96.46",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Printed circuit assemblies:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8504.90.65.00",
-                        "Description": "Of the goods of subheading 8504.40 or 8504.50 for telecommunication apparatus",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8504.90.75.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
           },
           {
             "HS Code": "",
@@ -1195,6 +944,257 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "8504.40",
+            "Description": "Static converters:",
+            "Subentries": [
+              {
+                "HS Code": "8504.40.40.00",
+                "Description": "Speed drive controllers for electric motors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Power supplies for automatic data processing machines or units thereof of heading 8471; power supplies for goods of subheading 8443.31 or 8443.32; power supplies for monitors of subheading 8528.42 or 8528.52 or projectors of subheading 8528.62:",
+                "Subentries": [
+                  {
+                    "HS Code": "8504.40.60",
+                    "Description": "Suitable for physical incorporation into automatic data processing machines or units thereof of heading 8471",
+                    "Subentries": [
+                      {
+                        "HS Code": "8504.40.60.01",
+                        "Description": "With a power output not exceeding 50 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.60.07",
+                        "Description": "With a power output exceeding 50 W but not exceeding 150 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.60.12",
+                        "Description": "With a power output exceeding 150 W but not exceeding 500 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.60.18",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8504.40.70",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8504.40.70.01",
+                        "Description": "With a power output not exceeding 50 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.70.07",
+                        "Description": "With a power output exceeding 50 W but not exceeding 150 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.70.12",
+                        "Description": "With a power output exceeding 150 W but not exceeding 500 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.70.18",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8504.40.85.00",
+                "Description": "For telecommunication apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8504.40.95",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Rectifiers and rectifying apparatus:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Power supplies:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8504.40.95.10",
+                            "Description": "With a power output not exceeding 50 W",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.40.95.20",
+                            "Description": "With a power output exceeding 50 W but not exceeding 150 W",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.40.95.30",
+                            "Description": "With a power output exceeding 150 W but not exceeding 500 W",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.40.95.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8504.40.95.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8504.40.95.70",
+                    "Description": "Inverters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8504.40.95.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8504.50",
+            "Description": "Other inductors:",
+            "Subentries": [
+              {
+                "HS Code": "8504.50.40.00",
+                "Description": "For power supplies for automatic data processing machines or units thereof of heading 8471; power supplies for goods of subheading 8443.31 or 8443.32; power supplies for monitors of subheading 8528.42 or 8528.52 or projectors of subheading 8528.62; for telecommunication apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8504.50.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8504.90",
+            "Description": "Parts:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Of power supplies for automatic data processing machines or units thereof of heading 8471; of power supplies for goods of subheading 8443.31 or 8443.32; of power supplies for monitors of subheading 8528.42 or 8528.52 or projectors of subheading 8528.62:",
+                "Subentries": [
+                  {
+                    "HS Code": "8504.90.20.00",
+                    "Description": "Printed circuit assemblies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8504.90.41.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Printed circuit assemblies:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8504.90.65.00",
+                        "Description": "Of the goods of subheading 8504.40 or 8504.50 for telecommunication apparatus",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.90.75.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8504.90.96",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Ferrites:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8504.90.96.10",
+                            "Description": "For transformers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.90.96.30",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other parts:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Of transformers:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8504.90.96.34",
+                                "Description": "Laminations for incorporation into stacked cores",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8504.90.96.38",
+                                "Description": "Stacked cores for incorporation into transformers",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8504.90.96.42",
+                                "Description": "Wound cores for incorporation into transformers",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8504.90.96.46",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "8504.90.96.50",
+                            "Description": "Of static converters",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.90.96.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
@@ -1202,37 +1202,6 @@
         "HS Code": "8505",
         "Description": "Electromagnets; permanent magnets and articles intended to become permanent magnets after magnetization; electromagnetic or permanent magnet chucks, clamps and similar holding devices; electromagnetic couplings, clutches and brakes; electromagnetic lifting heads; parts thereof:",
         "Subentries": [
-          {
-            "HS Code": "8505.20.00.00",
-            "Description": "Electromagnetic couplings, clutches and brakes",
-            "Subentries": []
-          },
-          {
-            "HS Code": "8505.90",
-            "Description": "Other, including parts:",
-            "Subentries": [
-              {
-                "HS Code": "8505.90.30.00",
-                "Description": "Electromagnetic lifting heads",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8505.90.40.00",
-                "Description": "Work holders and parts thereof",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8505.90.70.00",
-                "Description": "Electromagnets of a kind used solely or principally for magnetic resonance imaging apparatus, other than apparatus of heading 9018",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8505.90.75.01",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
           {
             "HS Code": "",
             "Description": "Permanent magnets and articles intended to become permanent magnets after magnetization:",
@@ -1288,6 +1257,37 @@
                     "Subentries": []
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8505.20.00.00",
+            "Description": "Electromagnetic couplings, clutches and brakes",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8505.90",
+            "Description": "Other, including parts:",
+            "Subentries": [
+              {
+                "HS Code": "8505.90.30.00",
+                "Description": "Electromagnetic lifting heads",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8505.90.40.00",
+                "Description": "Work holders and parts thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8505.90.70.00",
+                "Description": "Electromagnets of a kind used solely or principally for magnetic resonance imaging apparatus, other than apparatus of heading 9018",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8505.90.75.01",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }
@@ -1420,11 +1420,6 @@
             "Description": "Lead-acid storage batteries, of a kind used for starting piston engines",
             "Subentries": [
               {
-                "HS Code": "8507.10.00.90",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "12 V batteries:",
                 "Subentries": [
@@ -1439,6 +1434,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8507.10.00.90",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -1577,16 +1577,6 @@
         "Description": "Vacuum cleaners; parts thereof:",
         "Subentries": [
           {
-            "HS Code": "8508.60.00.00",
-            "Description": "Other vacuum cleaners",
-            "Subentries": []
-          },
-          {
-            "HS Code": "8508.70.00.00",
-            "Description": "Parts",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "With self-contained electric motor:",
             "Subentries": [
@@ -1601,6 +1591,16 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "8508.60.00.00",
+            "Description": "Other vacuum cleaners",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8508.70.00.00",
+            "Description": "Parts",
+            "Subentries": []
           }
         ]
       },
@@ -1663,11 +1663,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "8509.80.50.95",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Humidifiers:",
                     "Subentries": [
@@ -1693,6 +1688,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8509.80.50.95",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -1773,11 +1773,6 @@
             "Description": "Parts:",
             "Subentries": [
               {
-                "HS Code": "8510.90.55.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Parts of shavers:",
                 "Subentries": [
@@ -1808,6 +1803,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8510.90.55.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }
@@ -1858,11 +1858,6 @@
             "Description": "Other equipment:",
             "Subentries": [
               {
-                "HS Code": "8511.80.60.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Voltage and voltage-current regulators with cut-out relays:",
                 "Subentries": [
@@ -1877,6 +1872,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8511.80.60.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -1884,22 +1884,6 @@
             "HS Code": "8511.90",
             "Description": "Parts:",
             "Subentries": [
-              {
-                "HS Code": "8511.90.60",
-                "Description": "Other parts",
-                "Subentries": [
-                  {
-                    "HS Code": "8511.90.60.20",
-                    "Description": "Distributor contact (breaker point) sets",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8511.90.60.40",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
               {
                 "HS Code": "",
                 "Description": "Of voltage and voltage-current regulators with cut-out relays:",
@@ -1911,6 +1895,22 @@
                   },
                   {
                     "HS Code": "8511.90.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8511.90.60",
+                "Description": "Other parts",
+                "Subentries": [
+                  {
+                    "HS Code": "8511.90.60.20",
+                    "Description": "Distributor contact (breaker point) sets",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8511.90.60.40",
                     "Description": "Other",
                     "Subentries": []
                   }
@@ -2025,16 +2025,6 @@
                 "Subentries": []
               },
               {
-                "HS Code": "8512.90.70.00",
-                "Description": "Of defrosters and demisters",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8512.90.90.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Of lighting equipment:",
                 "Subentries": [
@@ -2049,6 +2039,16 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8512.90.70.00",
+                "Description": "Of defrosters and demisters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8512.90.90.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }
@@ -2097,14 +2097,25 @@
         "Description": "Industrial or laboratory electric furnaces and ovens (including those functioning by induction or dielectric loss); other industrial or laboratory equipment for the heat treatment of materials by induction or dielectric loss; parts thereof:",
         "Subentries": [
           {
+            "HS Code": "",
+            "Description": "Resistance heated furnaces and ovens:",
+            "Subentries": [
+              {
+                "HS Code": "8514.11.00.00",
+                "Description": "Hot isostatic presses",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8514.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "8514.20",
             "Description": "Furnaces and ovens functioning by induction or dielectric loss:",
             "Subentries": [
-              {
-                "HS Code": "8514.20.80.00",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Microwave ovens:",
@@ -2120,41 +2131,9 @@
                     "Subentries": []
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "HS Code": "8514.40.00.00",
-            "Description": "Other equipment for the heat treatment of materials by induction or dielectric loss",
-            "Subentries": []
-          },
-          {
-            "HS Code": "8514.90",
-            "Description": "Parts:",
-            "Subentries": [
-              {
-                "HS Code": "8514.90.40.00",
-                "Description": "Of microwave ovens",
-                "Subentries": []
               },
               {
-                "HS Code": "8514.90.80.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Resistance heated furnaces and ovens:",
-            "Subentries": [
-              {
-                "HS Code": "8514.11.00.00",
-                "Description": "Hot isostatic presses",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8514.19.00.00",
+                "HS Code": "8514.20.80.00",
                 "Description": "Other",
                 "Subentries": []
               }
@@ -2213,6 +2192,27 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "8514.40.00.00",
+            "Description": "Other equipment for the heat treatment of materials by induction or dielectric loss",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8514.90",
+            "Description": "Parts:",
+            "Subentries": [
+              {
+                "HS Code": "8514.90.40.00",
+                "Description": "Of microwave ovens",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8514.90.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
           }
         ]
       },
@@ -2220,38 +2220,6 @@
         "HS Code": "8515",
         "Description": "Electric (including electrically heated gas), laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutting; electric machines and apparatus for hot spraying of metals or cermets; parts thereof:",
         "Subentries": [
-          {
-            "HS Code": "8515.80.00",
-            "Description": "Other machines and apparatus",
-            "Subentries": [
-              {
-                "HS Code": "8515.80.00.40",
-                "Description": "Ultrasonic welding machines",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8515.80.00.80",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "8515.90",
-            "Description": "Parts:",
-            "Subentries": [
-              {
-                "HS Code": "8515.90.20.00",
-                "Description": "Of welding machines and apparatus",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8515.90.40.00",
-                "Description": "Other parts",
-                "Subentries": []
-              }
-            ]
-          },
           {
             "HS Code": "",
             "Description": "Brazing or soldering machines and apparatus:",
@@ -2298,11 +2266,6 @@
                 "Description": "Other",
                 "Subentries": [
                   {
-                    "HS Code": "8515.39.00.60",
-                    "Description": "Rotating type",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Non-rotating type:",
                     "Subentries": [
@@ -2317,8 +2280,45 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8515.39.00.60",
+                    "Description": "Rotating type",
+                    "Subentries": []
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8515.80.00",
+            "Description": "Other machines and apparatus",
+            "Subentries": [
+              {
+                "HS Code": "8515.80.00.40",
+                "Description": "Ultrasonic welding machines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8515.80.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8515.90",
+            "Description": "Parts:",
+            "Subentries": [
+              {
+                "HS Code": "8515.90.20.00",
+                "Description": "Of welding machines and apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8515.90.40.00",
+                "Description": "Other parts",
+                "Subentries": []
               }
             ]
           }
@@ -2340,6 +2340,76 @@
               {
                 "HS Code": "8516.10.00.80",
                 "Description": "Other water heaters and immersion heaters",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Electric space heating apparatus and electric soil heating apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "8516.21.00.00",
+                "Description": "Storage heating radiators",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.29.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Portable space heaters:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8516.29.00.30",
+                        "Description": "Fan-forced",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8516.29.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8516.29.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Electrothermic hairdressing or hand-drying apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "8516.31.00.00",
+                "Description": "Hair dryers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.32.00",
+                "Description": "Other hairdressing apparatus",
+                "Subentries": [
+                  {
+                    "HS Code": "8516.32.00.20",
+                    "Description": "Curlers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8516.32.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8516.33.00.00",
+                "Description": "Hand-drying apparatus",
                 "Subentries": []
               }
             ]
@@ -2447,6 +2517,54 @@
             ]
           },
           {
+            "HS Code": "",
+            "Description": "Other electrothermic appliances:",
+            "Subentries": [
+              {
+                "HS Code": "8516.71.00",
+                "Description": "Coffee or tea makers",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Coffee makers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8516.71.00.20",
+                        "Description": "Automatic drip and pump type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8516.71.00.40",
+                        "Description": "Percolator",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8516.71.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8516.71.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8516.72.00.00",
+                "Description": "Toasters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.79.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "8516.80",
             "Description": "Electric heating resistors:",
             "Subentries": [
@@ -2479,16 +2597,6 @@
               {
                 "HS Code": "8516.90.25.00",
                 "Description": "Housings and steel bases for the electric flatirons of subheading 8516.40",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8516.90.85.00",
-                "Description": "Housings for toasters",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8516.90.90.00",
-                "Description": "Other",
                 "Subentries": []
               },
               {
@@ -2548,122 +2656,14 @@
                     ]
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Electric space heating apparatus and electric soil heating apparatus:",
-            "Subentries": [
+              },
               {
-                "HS Code": "8516.21.00.00",
-                "Description": "Storage heating radiators",
+                "HS Code": "8516.90.85.00",
+                "Description": "Housings for toasters",
                 "Subentries": []
               },
               {
-                "HS Code": "8516.29.00",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8516.29.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Portable space heaters:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8516.29.00.30",
-                        "Description": "Fan-forced",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8516.29.00.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Electrothermic hairdressing or hand-drying apparatus:",
-            "Subentries": [
-              {
-                "HS Code": "8516.31.00.00",
-                "Description": "Hair dryers",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8516.32.00",
-                "Description": "Other hairdressing apparatus",
-                "Subentries": [
-                  {
-                    "HS Code": "8516.32.00.20",
-                    "Description": "Curlers",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8516.32.00.40",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "8516.33.00.00",
-                "Description": "Hand-drying apparatus",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Other electrothermic appliances:",
-            "Subentries": [
-              {
-                "HS Code": "8516.71.00",
-                "Description": "Coffee or tea makers",
-                "Subentries": [
-                  {
-                    "HS Code": "8516.71.00.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Coffee makers:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8516.71.00.20",
-                        "Description": "Automatic drip and pump type",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8516.71.00.40",
-                        "Description": "Percolator",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8516.71.00.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "8516.72.00.00",
-                "Description": "Toasters",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8516.79.00.00",
+                "HS Code": "8516.90.90.00",
                 "Description": "Other",
                 "Subentries": []
               }
@@ -2820,6 +2820,38 @@
             ]
           },
           {
+            "HS Code": "",
+            "Description": "Loudspeakers, whether or not mounted in their enclosures:",
+            "Subentries": [
+              {
+                "HS Code": "8518.21.00.00",
+                "Description": "Single loudspeakers, mounted in their enclosures",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8518.22.00.00",
+                "Description": "Multiple loudspeakers, mounted in the same enclosure",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8518.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8518.29.40.00",
+                    "Description": "Without housing, having a frequency range of 300 Hz to 3.4 kHz with a diameter of not exceeding 50 mm, for telecommunication use",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8518.29.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "8518.30",
             "Description": "Headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers:",
             "Subentries": [
@@ -2893,38 +2925,6 @@
                 ]
               }
             ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Loudspeakers, whether or not mounted in their enclosures:",
-            "Subentries": [
-              {
-                "HS Code": "8518.21.00.00",
-                "Description": "Single loudspeakers, mounted in their enclosures",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8518.22.00.00",
-                "Description": "Multiple loudspeakers, mounted in the same enclosure",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8518.29",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "8518.29.40.00",
-                    "Description": "Without housing, having a frequency range of 300 Hz to 3.4 kHz with a diameter of not exceeding 50 mm, for telecommunication use",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8518.29.80.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
           }
         ]
       },
@@ -2962,6 +2962,49 @@
                 "Description": "Using magnetic, optical or semiconductor media:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Sound reproducing only:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8519.81.10.00",
+                        "Description": "Transcribing machines",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Cassette-type tape players:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8519.81.20.00",
+                            "Description": "Designed exclusively for motor- vehicle installation",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8519.81.25.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8519.81.30",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8519.81.30.10",
+                            "Description": "Optical disc (including compact disc) players",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8519.81.30.20",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "8519.81.41",
                     "Description": "Other",
                     "Subentries": [
@@ -2986,49 +3029,6 @@
                         "Subentries": []
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Sound reproducing only:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8519.81.10.00",
-                        "Description": "Transcribing machines",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8519.81.30",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "8519.81.30.10",
-                            "Description": "Optical disc (including compact disc) players",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8519.81.30.20",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Cassette-type tape players:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8519.81.20.00",
-                            "Description": "Designed exclusively for motor- vehicle installation",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8519.81.25.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
                   }
                 ]
               },
@@ -3036,11 +3036,6 @@
                 "HS Code": "8519.89",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "8519.89.30.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Record players, other than those operated by coins, banknotes, bank cards, tokens or by other means of payment:",
@@ -3056,6 +3051,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8519.89.30.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -3072,11 +3072,6 @@
             "Description": "Magnetic tape-type:",
             "Subentries": [
               {
-                "HS Code": "8521.10.90.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Color, cartridge or cassette type:",
                 "Subentries": [
@@ -3091,6 +3086,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8521.10.90.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -3193,22 +3193,6 @@
         "Description": "Discs, tapes, solid-state non-volatile storage devices, \"smart cards\" and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37:",
         "Subentries": [
           {
-            "HS Code": "8523.80",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "8523.80.10.00",
-                "Description": "Phonograph records",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8523.80.20.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Magnetic media:",
             "Subentries": [
@@ -3233,11 +3217,6 @@
                       {
                         "HS Code": "8523.29.20.00",
                         "Description": "Magnetic tapes for reproducing phenomena other than sound or image",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8523.29.90.00",
-                        "Description": "Other",
                         "Subentries": []
                       },
                       {
@@ -3326,6 +3305,11 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8523.29.90.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -3418,6 +3402,22 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "8523.80",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "8523.80.10.00",
+                "Description": "Phonograph records",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8523.80.20.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
           }
         ]
       },
@@ -3500,22 +3500,6 @@
             "Description": "Transmission apparatus:",
             "Subentries": [
               {
-                "HS Code": "8525.50.70",
-                "Description": "For radiobroadcasting",
-                "Subentries": [
-                  {
-                    "HS Code": "8525.50.70.10",
-                    "Description": "Transmitters",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8525.50.70.50",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
                 "HS Code": "",
                 "Description": "Television:",
                 "Subentries": [
@@ -3550,6 +3534,22 @@
                         ]
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8525.50.70",
+                "Description": "For radiobroadcasting",
+                "Subentries": [
+                  {
+                    "HS Code": "8525.50.70.10",
+                    "Description": "Transmitters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8525.50.70.50",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -3633,27 +3633,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "8525.89.40.00",
-                    "Description": "Digital still image video cameras",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8525.89.50",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "8525.89.50.30",
-                        "Description": "Camcorders",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8525.89.50.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Television cameras:",
                     "Subentries": [
@@ -3669,6 +3648,27 @@
                       },
                       {
                         "HS Code": "8525.89.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8525.89.40.00",
+                    "Description": "Digital still image video cameras",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8525.89.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8525.89.50.30",
+                        "Description": "Camcorders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8525.89.50.50",
                         "Description": "Other",
                         "Subentries": []
                       }
@@ -3845,22 +3845,6 @@
                 "Description": "Combined with sound recording or reproducing apparatus:",
                 "Subentries": [
                   {
-                    "HS Code": "8527.21.40",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "8527.21.40.40",
-                        "Description": "Incorporating optical disc (including compact disc) players or recorders",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8527.21.40.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Radio-tape player combinations:",
                     "Subentries": [
@@ -3884,6 +3868,22 @@
                             "Subentries": []
                           }
                         ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8527.21.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8527.21.40.40",
+                        "Description": "Incorporating optical disc (including compact disc) players or recorders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8527.21.40.80",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -4013,11 +4013,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "8528.49.80.00",
-                    "Description": "Black and white or other monochrome",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Color:",
                     "Subentries": [
@@ -4140,6 +4135,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8528.49.80.00",
+                    "Description": "Black and white or other monochrome",
+                    "Subentries": []
                   }
                 ]
               }
@@ -4158,11 +4158,6 @@
                 "HS Code": "8528.59",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "8528.59.60.00",
-                    "Description": "Black and white or other monochrome",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Color:",
@@ -4276,6 +4271,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8528.59.60.00",
+                    "Description": "Black and white or other monochrome",
+                    "Subentries": []
                   }
                 ]
               }
@@ -4294,11 +4294,6 @@
                 "HS Code": "8528.69",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "8528.69.70.00",
-                    "Description": "Black and white or other monochrome",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Color:",
@@ -4406,6 +4401,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8528.69.70.00",
+                    "Description": "Black and white or other monochrome",
+                    "Subentries": []
                   }
                 ]
               }
@@ -4641,11 +4641,6 @@
                             "Description": "Other",
                             "Subentries": [
                               {
-                                "HS Code": "8528.72.72.90",
-                                "Description": "Other, including plasma-type",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "LCD-type (direct-view), with a video display diagonal:",
                                 "Subentries": [
@@ -4670,6 +4665,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "8528.72.72.90",
+                                "Description": "Other, including plasma-type",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -4739,11 +4739,6 @@
                 "Description": "Television",
                 "Subentries": [
                   {
-                    "HS Code": "8529.10.21.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Antennas:",
                     "Subentries": [
@@ -4758,6 +4753,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8529.10.21.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -4789,24 +4789,9 @@
             "Description": "Other:",
             "Subentries": [
               {
-                "HS Code": "8529.90.24.01",
-                "Description": "Transceiver assemblies for the apparatus of subheading 8526.10, other than printed circuit assemblies",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8529.90.55.00",
-                "Description": "Flat panel screen assemblies for the apparatus of subheadings 8528.59.15, 8528.59.23, 8528.59.25, 8528.59.33, 8528.69.35, 8525.69.40, 8528.69.45, 8528.69.50, 8528.72.62, 8528.72.64, 8528.72.68 and 8528.72.72",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Printed circuit assemblies:",
                 "Subentries": [
-                  {
-                    "HS Code": "8529.90.21.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of television apparatus:",
@@ -4897,8 +4882,18 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8529.90.21.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8529.90.24.01",
+                "Description": "Transceiver assemblies for the apparatus of subheading 8526.10, other than printed circuit assemblies",
+                "Subentries": []
               },
               {
                 "HS Code": "",
@@ -4907,11 +4902,6 @@
                   {
                     "HS Code": "8529.90.29.00",
                     "Description": "Tuners",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8529.90.39.00",
-                    "Description": "Other",
                     "Subentries": []
                   },
                   {
@@ -4929,6 +4919,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8529.90.39.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -4936,11 +4931,6 @@
                 "HS Code": "",
                 "Description": "Combinations of parts specified in additional U.S. note 9 to this chapter:",
                 "Subentries": [
-                  {
-                    "HS Code": "8529.90.49.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Subassemblies, for color television receivers, containing two or more printed circuit boards or ceramic substrates with components assembled thereon, except tuners or convergence assemblies:",
@@ -4956,23 +4946,23 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8529.90.49.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8529.90.55.00",
+                "Description": "Flat panel screen assemblies for the apparatus of subheadings 8528.59.15, 8528.59.23, 8528.59.25, 8528.59.33, 8528.69.35, 8525.69.40, 8528.69.45, 8528.69.50, 8528.72.62, 8528.72.64, 8528.72.68 and 8528.72.72",
+                "Subentries": []
               },
               {
                 "HS Code": "",
                 "Description": "Other, parts of printed circuit assemblies, including face plates and lock latches:",
                 "Subentries": [
-                  {
-                    "HS Code": "8529.90.73.00",
-                    "Description": "Of radar, radio navigational aid or radio remote control apparatus",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8529.90.77.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of television apparatus:",
@@ -4988,6 +4978,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8529.90.73.00",
+                    "Description": "Of radar, radio navigational aid or radio remote control apparatus",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8529.90.77.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -4996,19 +4996,9 @@
                 "Description": "Other parts of articles of headings 8525 and 8527:",
                 "Subentries": [
                   {
-                    "HS Code": "8529.90.87.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of television apparatus:",
                     "Subentries": [
-                      {
-                        "HS Code": "8529.90.83.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "For television cameras:",
@@ -5024,8 +5014,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8529.90.83.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8529.90.87.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -5034,30 +5034,9 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "8529.90.98.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of television receivers:",
                     "Subentries": [
-                      {
-                        "HS Code": "8529.90.93",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "8529.90.93.45",
-                            "Description": "Convergence assemblies, focus coils and degaussing coils",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8529.90.93.80",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
                       {
                         "HS Code": "",
                         "Description": "Subassemblies, for color television receivers, containing two or more printed circuit boards or ceramic substrates with components assembled thereon, except tuners or convergence assemblies:",
@@ -5069,6 +5048,22 @@
                           },
                           {
                             "HS Code": "8529.90.89.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8529.90.93",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8529.90.93.45",
+                            "Description": "Convergence assemblies, focus coils and degaussing coils",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8529.90.93.80",
                             "Description": "Other",
                             "Subentries": []
                           }
@@ -5123,6 +5118,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8529.90.98.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -5223,21 +5223,6 @@
                 "Description": "Other",
                 "Subentries": [
                   {
-                    "HS Code": "8531.80.90.31",
-                    "Description": "Horns",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8531.80.90.41",
-                    "Description": "Other sound signaling apparatus",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8531.80.90.51",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Indicator panels:",
                     "Subentries": [
@@ -5252,6 +5237,21 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8531.80.90.31",
+                    "Description": "Horns",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8531.80.90.41",
+                    "Description": "Other sound signaling apparatus",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8531.80.90.51",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -5304,27 +5304,6 @@
           {
             "HS Code": "8532.10.00.00",
             "Description": "Fixed capacitors designed for use in 50/60 Hz circuits and having a reactive power handling capacity of not less than 0.5 kvar (power capacitors)",
-            "Subentries": []
-          },
-          {
-            "HS Code": "8532.30.00",
-            "Description": "Variable or adjustable (pre-set) capacitors",
-            "Subentries": [
-              {
-                "HS Code": "8532.30.00.10",
-                "Description": "Mica, ceramic or glass dielectric",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8532.30.00.90",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "8532.90.00.00",
-            "Description": "Parts",
             "Subentries": []
           },
           {
@@ -5478,21 +5457,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "8532.25.00.60",
-                        "Description": "Axial leads",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8532.25.00.70",
-                        "Description": "Radial leads",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8532.25.00.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Leadless:",
                         "Subentries": [
@@ -5507,6 +5471,21 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8532.25.00.60",
+                        "Description": "Axial leads",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8532.25.00.70",
+                        "Description": "Radial leads",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8532.25.00.80",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -5529,6 +5508,27 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "8532.30.00",
+            "Description": "Variable or adjustable (pre-set) capacitors",
+            "Subentries": [
+              {
+                "HS Code": "8532.30.00.10",
+                "Description": "Mica, ceramic or glass dielectric",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8532.30.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8532.90.00.00",
+            "Description": "Parts",
+            "Subentries": []
           }
         ]
       },
@@ -5540,11 +5540,6 @@
             "HS Code": "8533.10.00",
             "Description": "Fixed carbon resistors, composition or film types",
             "Subentries": [
-              {
-                "HS Code": "8533.10.00.57",
-                "Description": "Having more than two leads (resistor networks)",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Designed for surface mounting (SMD) by contact:",
@@ -5562,6 +5557,11 @@
                 ]
               },
               {
+                "HS Code": "8533.10.00.57",
+                "Description": "Having more than two leads (resistor networks)",
+                "Subentries": []
+              },
+              {
                 "HS Code": "",
                 "Description": "Other:",
                 "Subentries": [
@@ -5576,65 +5576,6 @@
                     "Subentries": []
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "HS Code": "8533.40",
-            "Description": "Other variable resistors, including rheostats and potentiometers:",
-            "Subentries": [
-              {
-                "HS Code": "8533.40.40.00",
-                "Description": "Metal oxide varistors",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8533.40.80",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8533.40.80.40",
-                    "Description": "Rheostat and resistor type motor starters and controllers",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8533.40.80.50",
-                        "Description": "Cermet",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8533.40.80.60",
-                        "Description": "Metal glaze",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8533.40.80.70",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "8533.90",
-            "Description": "Parts:",
-            "Subentries": [
-              {
-                "HS Code": "8533.90.40.00",
-                "Description": "For the goods of subheading 8533.40, of ceramic or metallic materials, electrically or mechanically reactive to changes in temperature",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8533.90.80.00",
-                "Description": "Other",
-                "Subentries": []
               }
             ]
           },
@@ -5756,6 +5697,65 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "8533.40",
+            "Description": "Other variable resistors, including rheostats and potentiometers:",
+            "Subentries": [
+              {
+                "HS Code": "8533.40.40.00",
+                "Description": "Metal oxide varistors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8533.40.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8533.40.80.40",
+                    "Description": "Rheostat and resistor type motor starters and controllers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8533.40.80.50",
+                        "Description": "Cermet",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8533.40.80.60",
+                        "Description": "Metal glaze",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8533.40.80.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8533.90",
+            "Description": "Parts:",
+            "Subentries": [
+              {
+                "HS Code": "8533.90.40.00",
+                "Description": "For the goods of subheading 8533.40, of ceramic or metallic materials, electrically or mechanically reactive to changes in temperature",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8533.90.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
           }
         ]
       },
@@ -5767,16 +5767,6 @@
             "HS Code": "",
             "Description": "Plastics impregnated, not flexible type:",
             "Subentries": [
-              {
-                "HS Code": "8534.00.00.50",
-                "Description": "Having a base wholly of impregnated paper",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8534.00.00.70",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Having a base wholly of impregnated glass:",
@@ -5792,6 +5782,16 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8534.00.00.50",
+                "Description": "Having a base wholly of impregnated paper",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8534.00.00.70",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -5835,6 +5835,33 @@
                 "HS Code": "8535.10.00.40",
                 "Description": "Other",
                 "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Automatic circuit breakers:",
+            "Subentries": [
+              {
+                "HS Code": "8535.21.00.00",
+                "Description": "For a voltage of less than 72.5 kV",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8535.29.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8535.29.00.20",
+                    "Description": "In circuits of 345 kV or more",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8535.29.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
               }
             ]
           },
@@ -5884,33 +5911,6 @@
                   },
                   {
                     "HS Code": "8535.90.80.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Automatic circuit breakers:",
-            "Subentries": [
-              {
-                "HS Code": "8535.21.00.00",
-                "Description": "For a voltage of less than 72.5 kV",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8535.29.00",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8535.29.00.20",
-                    "Description": "In circuits of 345 kV or more",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8535.29.00.40",
                     "Description": "Other",
                     "Subentries": []
                   }
@@ -5969,149 +5969,6 @@
                 "HS Code": "8536.30.80.00",
                 "Description": "Other",
                 "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "8536.50",
-            "Description": "Other switches:",
-            "Subentries": [
-              {
-                "HS Code": "8536.50.40.00",
-                "Description": "Motor starters",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "8536.50.70.00",
-                    "Description": "Electronic AC switches consisting of optically coupled input and output circuits (insulated thyristor AC switches); electronic switches, including temperature protected switches, consisting of a transistor and a logic chip (chip-on-chip technology); electromechanical snap-action switches for a current not exceeding 11 amps",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8536.50.90",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "8536.50.90.40",
-                        "Description": "Snap-action, other than limit",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8536.50.90.45",
-                        "Description": "Knife",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8536.50.90.50",
-                        "Description": "Slide",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8536.50.90.55",
-                        "Description": "Limit",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8536.50.90.65",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Rotary:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8536.50.90.20",
-                            "Description": "Rated at not over 5 A",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8536.50.90.25",
-                            "Description": "Rated at over 5 A",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Push-button:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8536.50.90.35",
-                            "Description": "Rated at over 5 A",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Rated at not over 5 A",
-                            "Subentries": [
-                              {
-                                "HS Code": "8536.50.90.31",
-                                "Description": "Momentary contact",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "8536.50.90.32",
-                                "Description": "Other, gang switches",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "8536.50.90.33",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "8536.70.00.00",
-            "Description": "Connectors for optical fibers, optical fiber bundles or cables",
-            "Subentries": []
-          },
-          {
-            "HS Code": "8536.90",
-            "Description": "Other apparatus:",
-            "Subentries": [
-              {
-                "HS Code": "8536.90.40.00",
-                "Description": "Terminals, electrical splices and electrical couplings; wafer probers",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8536.90.60.00",
-                "Description": "Battery clamps of a kind used in motor vehicles of heading 8702, 8703, 8704 or 8711",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8536.90.85",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8536.90.85.10",
-                    "Description": "Electrical distribution ducts",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8536.90.85.30",
-                    "Description": "Junction boxes",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8536.90.85.85",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
               }
             ]
           },
@@ -6231,6 +6088,107 @@
             ]
           },
           {
+            "HS Code": "8536.50",
+            "Description": "Other switches:",
+            "Subentries": [
+              {
+                "HS Code": "8536.50.40.00",
+                "Description": "Motor starters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8536.50.70.00",
+                    "Description": "Electronic AC switches consisting of optically coupled input and output circuits (insulated thyristor AC switches); electronic switches, including temperature protected switches, consisting of a transistor and a logic chip (chip-on-chip technology); electromechanical snap-action switches for a current not exceeding 11 amps",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8536.50.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Rotary:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8536.50.90.20",
+                            "Description": "Rated at not over 5 A",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8536.50.90.25",
+                            "Description": "Rated at over 5 A",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Push-button:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Rated at not over 5 A",
+                            "Subentries": [
+                              {
+                                "HS Code": "8536.50.90.31",
+                                "Description": "Momentary contact",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8536.50.90.32",
+                                "Description": "Other, gang switches",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8536.50.90.33",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "8536.50.90.35",
+                            "Description": "Rated at over 5 A",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8536.50.90.40",
+                        "Description": "Snap-action, other than limit",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.50.90.45",
+                        "Description": "Knife",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.50.90.50",
+                        "Description": "Slide",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.50.90.55",
+                        "Description": "Limit",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.50.90.65",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Lamp-holders, plugs and sockets:",
             "Subentries": [
@@ -6276,6 +6234,48 @@
                   },
                   {
                     "HS Code": "8536.69.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8536.70.00.00",
+            "Description": "Connectors for optical fibers, optical fiber bundles or cables",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8536.90",
+            "Description": "Other apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "8536.90.40.00",
+                "Description": "Terminals, electrical splices and electrical couplings; wafer probers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8536.90.60.00",
+                "Description": "Battery clamps of a kind used in motor vehicles of heading 8702, 8703, 8704 or 8711",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8536.90.85",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8536.90.85.10",
+                    "Description": "Electrical distribution ducts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8536.90.85.30",
+                    "Description": "Junction boxes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8536.90.85.85",
                     "Description": "Other",
                     "Subentries": []
                   }
@@ -6385,11 +6385,6 @@
             "Description": "Other:",
             "Subentries": [
               {
-                "HS Code": "8538.90.40.00",
-                "Description": "Other, for the articles of subheading 8535.90.40, 8536.30.40 or 8536.50.40, of ceramic or metallic materials, electrically or mechanically reactive to changes in temperature",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Printed circuit assemblies:",
                 "Subentries": [
@@ -6404,6 +6399,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8538.90.40.00",
+                "Description": "Other, for the articles of subheading 8535.90.40, 8536.30.40 or 8536.50.40, of ceramic or metallic materials, electrically or mechanically reactive to changes in temperature",
+                "Subentries": []
               },
               {
                 "HS Code": "",
@@ -6495,11 +6495,6 @@
             ]
           },
           {
-            "HS Code": "8539.90.00.00",
-            "Description": "Parts",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Other filament lamps, excluding ultraviolet or infrared lamps:",
             "Subentries": [
@@ -6555,11 +6550,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "8539.22.80.70",
-                        "Description": "Of a power exceeding 150 W",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Of a power not exceeding 150 W:",
                         "Subentries": [
@@ -6590,6 +6580,11 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8539.22.80.70",
+                        "Description": "Of a power exceeding 150 W",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -6599,11 +6594,6 @@
                 "HS Code": "8539.29",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "8539.29.40.00",
-                    "Description": "Designed for a voltage exceeding 100 V",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Designed for a voltage not exceeding 100 V:",
@@ -6646,6 +6636,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8539.29.40.00",
+                    "Description": "Designed for a voltage exceeding 100 V",
+                    "Subentries": []
                   }
                 ]
               }
@@ -6799,6 +6794,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "8539.90.00.00",
+            "Description": "Parts",
+            "Subentries": []
           }
         ]
       },
@@ -6806,6 +6806,146 @@
         "HS Code": "8540",
         "Description": "Thermionic, cold cathode or photocathode tubes (for example, vacuum or vapor or gas filled tubes, mercury arc rectifying tubes, cathode-ray tubes, television camera tubes); parts thereof:",
         "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Cathode-ray television picture tubes, including video monitor cathode-ray tubes:",
+            "Subentries": [
+              {
+                "HS Code": "8540.11",
+                "Description": "Color:",
+                "Subentries": [
+                  {
+                    "HS Code": "8540.11.10",
+                    "Description": "Non-high definition, non-projection, having a video display diagonal exceeding 35.56 cm",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Having a video display diagonal:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8540.11.10.30",
+                            "Description": "Not exceeding 39 cm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8540.11.10.40",
+                            "Description": "Exceeding 39 cm but not exceeding 45 cm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8540.11.10.50",
+                            "Description": "Exceeding 45 cm but not exceeding 50 cm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8540.11.10.55",
+                            "Description": "Exceeding 50 cm but not exceeding 63 cm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8540.11.10.85",
+                            "Description": "Exceeding 63 cm",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Non-high definition, non-projection, having a video display diagonal not exceeding 35.56 cm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8540.11.24.01",
+                        "Description": "Having a video display diagonal not exceeding 34.29 cm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8540.11.28.01",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8540.11.30.00",
+                    "Description": "High definition, having a video display diagonal exceeding 35.56 cm",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "High definition, having a video display diagonal not exceeding 35.56 cm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8540.11.44.01",
+                        "Description": "Having a video display diagonal not exceeding 34.29 cm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8540.11.48.01",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8540.11.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8540.12",
+                "Description": "Monochrome:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Television picture tubes having a straight line dimension across the faceplate greater than 29 cm but having no straight line dimension across the faceplate that exceeds 42 cm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8540.12.10.00",
+                        "Description": "Non-high definition",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8540.12.20.00",
+                        "Description": "High definition",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8540.12.50",
+                        "Description": "Non-high definition",
+                        "Subentries": [
+                          {
+                            "HS Code": "8540.12.50.40",
+                            "Description": "Projection",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8540.12.50.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8540.12.70.00",
+                        "Description": "High definition",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
           {
             "HS Code": "8540.20",
             "Description": "Television camera tubes; image converters and intensifiers; other photocathode tubes:",
@@ -6871,146 +7011,6 @@
                     "HS Code": "8540.60.00.80",
                     "Description": "Exceeding 36 cm",
                     "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Cathode-ray television picture tubes, including video monitor cathode-ray tubes:",
-            "Subentries": [
-              {
-                "HS Code": "8540.11",
-                "Description": "Color:",
-                "Subentries": [
-                  {
-                    "HS Code": "8540.11.10",
-                    "Description": "Non-high definition, non-projection, having a video display diagonal exceeding 35.56 cm",
-                    "Subentries": [
-                      {
-                        "HS Code": "",
-                        "Description": "Having a video display diagonal:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8540.11.10.30",
-                            "Description": "Not exceeding 39 cm",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8540.11.10.40",
-                            "Description": "Exceeding 39 cm but not exceeding 45 cm",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8540.11.10.50",
-                            "Description": "Exceeding 45 cm but not exceeding 50 cm",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8540.11.10.55",
-                            "Description": "Exceeding 50 cm but not exceeding 63 cm",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8540.11.10.85",
-                            "Description": "Exceeding 63 cm",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "8540.11.30.00",
-                    "Description": "High definition, having a video display diagonal exceeding 35.56 cm",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8540.11.50.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Non-high definition, non-projection, having a video display diagonal not exceeding 35.56 cm:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8540.11.24.01",
-                        "Description": "Having a video display diagonal not exceeding 34.29 cm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8540.11.28.01",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "High definition, having a video display diagonal not exceeding 35.56 cm:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8540.11.44.01",
-                        "Description": "Having a video display diagonal not exceeding 34.29 cm",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8540.11.48.01",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "8540.12",
-                "Description": "Monochrome:",
-                "Subentries": [
-                  {
-                    "HS Code": "",
-                    "Description": "Television picture tubes having a straight line dimension across the faceplate greater than 29 cm but having no straight line dimension across the faceplate that exceeds 42 cm:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8540.12.10.00",
-                        "Description": "Non-high definition",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8540.12.20.00",
-                        "Description": "High definition",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8540.12.50",
-                        "Description": "Non-high definition",
-                        "Subentries": [
-                          {
-                            "HS Code": "8540.12.50.40",
-                            "Description": "Projection",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8540.12.50.80",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "8540.12.70.00",
-                        "Description": "High definition",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
               }
@@ -7184,69 +7184,6 @@
             ]
           },
           {
-            "HS Code": "8541.30.00",
-            "Description": "Thyristors, diacs and triacs, other than photosensitive devices",
-            "Subentries": [
-              {
-                "HS Code": "8541.30.00.40",
-                "Description": "Unmounted chips, dice and wafers",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8541.30.00.80",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "8541.60.00",
-            "Description": "Mounted piezoelectric crystals",
-            "Subentries": [
-              {
-                "HS Code": "8541.60.00.80",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Quartz designed for operating frequencies of:",
-                "Subentries": [
-                  {
-                    "HS Code": "8541.60.00.10",
-                    "Description": "32.768 kHz",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8541.60.00.20",
-                    "Description": "Not exceeding 1 MHz, except 32.768 kHz",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8541.60.00.30",
-                    "Description": "Exceeding 1 MHz, but not exceeding 5 MHZ",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8541.60.00.50",
-                    "Description": "Exceeding 5 MHZ, but not exceeding 20 MHz",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8541.60.00.60",
-                    "Description": "Exceeding 20 MHZ",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "8541.90.00.00",
-            "Description": "Parts",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Transistors, other than photosensitive transistors:",
             "Subentries": [
@@ -7303,6 +7240,22 @@
                     ]
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8541.30.00",
+            "Description": "Thyristors, diacs and triacs, other than photosensitive devices",
+            "Subentries": [
+              {
+                "HS Code": "8541.30.00.40",
+                "Description": "Unmounted chips, dice and wafers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8541.30.00.80",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -7429,6 +7382,53 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "8541.60.00",
+            "Description": "Mounted piezoelectric crystals",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Quartz designed for operating frequencies of:",
+                "Subentries": [
+                  {
+                    "HS Code": "8541.60.00.10",
+                    "Description": "32.768 kHz",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8541.60.00.20",
+                    "Description": "Not exceeding 1 MHz, except 32.768 kHz",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8541.60.00.30",
+                    "Description": "Exceeding 1 MHz, but not exceeding 5 MHZ",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8541.60.00.50",
+                    "Description": "Exceeding 5 MHZ, but not exceeding 20 MHz",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8541.60.00.60",
+                    "Description": "Exceeding 20 MHZ",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8541.60.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8541.90.00.00",
+            "Description": "Parts",
+            "Subentries": []
           }
         ]
       },
@@ -7437,11 +7437,6 @@
         "Description": "Electronic integrated circuits; parts thereof:",
         "Subentries": [
           {
-            "HS Code": "8542.90.00.00",
-            "Description": "Parts",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Electronic integrated circuits:",
             "Subentries": [
@@ -7449,16 +7444,6 @@
                 "HS Code": "8542.31.00",
                 "Description": "Processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",
                 "Subentries": [
-                  {
-                    "HS Code": "8542.31.00.70",
-                    "Description": "System on chip (SoCs)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8542.31.00.75",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Controllers (including microcontrollers):",
@@ -7531,6 +7516,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8542.31.00.70",
+                    "Description": "System on chip (SoCs)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8542.31.00.75",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -7538,26 +7533,6 @@
                 "HS Code": "8542.32.00",
                 "Description": "Memories",
                 "Subentries": [
-                  {
-                    "HS Code": "8542.32.00.41",
-                    "Description": "Static read-write random access (SRAM)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8542.32.00.51",
-                    "Description": "Electrically erasable programmable read-only memory (EEPROM)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8542.32.00.61",
-                    "Description": "Erasable (except electrically) programmable read-only memory (EPROM)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8542.32.00.71",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Dynamic read-write random access (DRAM):",
@@ -7588,6 +7563,26 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8542.32.00.41",
+                    "Description": "Static read-write random access (SRAM)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8542.32.00.51",
+                    "Description": "Electrically erasable programmable read-only memory (EEPROM)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8542.32.00.61",
+                    "Description": "Erasable (except electrically) programmable read-only memory (EPROM)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8542.32.00.71",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -7611,11 +7606,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "8542.39.00.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Data converters:",
                     "Subentries": [
@@ -7635,10 +7625,20 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8542.39.00.60",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "8542.90.00.00",
+            "Description": "Parts",
+            "Subentries": []
           }
         ]
       },
@@ -7709,16 +7709,6 @@
                 "Subentries": []
               },
               {
-                "HS Code": "8543.70.60.00",
-                "Description": "Articles designed for connection to telegraphic or telephonic apparatus or instruments or to telegraphic or telephonic networks",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8543.70.71.00",
-                "Description": "Electric luminescent lamps",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Electric synchros and transducers; flight data recorders; defrosters and demisters with electric resistors for aircraft:",
                 "Subentries": [
@@ -7733,6 +7723,16 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8543.70.60.00",
+                "Description": "Articles designed for connection to telegraphic or telephonic apparatus or instruments or to telegraphic or telephonic networks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8543.70.71.00",
+                "Description": "Electric luminescent lamps",
+                "Subentries": []
               },
               {
                 "HS Code": "",
@@ -7897,48 +7897,6 @@
         "Description": "Insulated (including enameled or anodized) wire, cable (including coaxial cable) and other insulated electric conductors, whether or not fitted with connectors; optical fiber cables, made up of individually sheathed fibers, whether or not assembled with electric conductors or fitted with connectors:",
         "Subentries": [
           {
-            "HS Code": "8544.20.00.00",
-            "Description": "Coaxial cable and other coaxial electric conductors",
-            "Subentries": []
-          },
-          {
-            "HS Code": "8544.30.00.00",
-            "Description": "Ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships",
-            "Subentries": []
-          },
-          {
-            "HS Code": "8544.60",
-            "Description": "Other electric conductors, for a voltage exceeding 1,000 V:",
-            "Subentries": [
-              {
-                "HS Code": "8544.60.20.00",
-                "Description": "Fitted with connectors",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "8544.60.40.00",
-                    "Description": "Of copper",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8544.60.60.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "8544.70.00.00",
-            "Description": "Optical fiber cables",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Winding wire:",
             "Subentries": [
@@ -7969,6 +7927,16 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "8544.20.00.00",
+            "Description": "Coaxial cable and other coaxial electric conductors",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8544.30.00.00",
+            "Description": "Ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships",
+            "Subentries": []
           },
           {
             "HS Code": "",
@@ -8062,6 +8030,38 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "8544.60",
+            "Description": "Other electric conductors, for a voltage exceeding 1,000 V:",
+            "Subentries": [
+              {
+                "HS Code": "8544.60.20.00",
+                "Description": "Fitted with connectors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8544.60.40.00",
+                    "Description": "Of copper",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8544.60.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8544.70.00.00",
+            "Description": "Optical fiber cables",
+            "Subentries": []
           }
         ]
       },
@@ -8070,27 +8070,6 @@
         "Description": "Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon, with or without metal, of a kind used for electrical purposes:",
         "Subentries": [
           {
-            "HS Code": "8545.20.00.00",
-            "Description": "Brushes",
-            "Subentries": []
-          },
-          {
-            "HS Code": "8545.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "8545.90.20.00",
-                "Description": "Arc light carbons",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8545.90.40.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Electrodes:",
             "Subentries": [
@@ -8098,11 +8077,6 @@
                 "HS Code": "8545.11.00",
                 "Description": "Of a kind used for furnaces",
                 "Subentries": [
-                  {
-                    "HS Code": "8545.11.00.50",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Graphite:",
@@ -8118,6 +8092,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8545.11.00.50",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -8138,6 +8117,27 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "8545.20.00.00",
+            "Description": "Brushes",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8545.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "8545.90.20.00",
+                "Description": "Arc light carbons",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8545.90.40.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
           }
         ]
       },
@@ -8155,11 +8155,6 @@
             "Description": "Of ceramics",
             "Subentries": [
               {
-                "HS Code": "8546.20.00.90",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Used in high-voltage, low-frequency electrical systems:",
                 "Subentries": [
@@ -8174,6 +8169,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8546.20.00.90",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },

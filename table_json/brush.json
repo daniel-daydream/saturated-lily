@@ -8,6 +8,55 @@
         "Description": "Brooms, brushes (including brushes constituting parts of machines, appliances or vehicles), hand-operated mechanical floor sweepers, not motorized, mops and feather dusters; prepared knots and tufts for broom or brush making; paint pads and rollers; squeegees (other than roller squeegees):",
         "Subentries": [
           {
+            "HS Code": "",
+            "Description": "Toothbrushes, shaving brushes, hair brushes, nail brushes, eyelash brushes and other toilet brushes for use on the person, including such brushes constituting parts of appliances:",
+            "Subentries": [
+              {
+                "HS Code": "9603.21.00.00",
+                "Description": "Toothbrushes, including dental-plate brushes",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9603.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9603.29.40",
+                    "Description": "Valued not over 40\u00a2 each",
+                    "Subentries": [
+                      {
+                        "HS Code": "9603.29.40.10",
+                        "Description": "Hairbrushes",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9603.29.40.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9603.29.80",
+                    "Description": "Valued over 40\u00a2 each",
+                    "Subentries": [
+                      {
+                        "HS Code": "9603.29.80.10",
+                        "Description": "Hairbrushes",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9603.29.80.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "9603.30",
             "Description": "Artists' brushes, writing brushes and similar brushes for the application of cosmetics:",
             "Subentries": [
@@ -64,55 +113,6 @@
             "HS Code": "9603.50.00.00",
             "Description": "Other brushes constituting parts of machines, appliances or vehicles",
             "Subentries": []
-          },
-          {
-            "HS Code": "",
-            "Description": "Toothbrushes, shaving brushes, hair brushes, nail brushes, eyelash brushes and other toilet brushes for use on the person, including such brushes constituting parts of appliances:",
-            "Subentries": [
-              {
-                "HS Code": "9603.21.00.00",
-                "Description": "Toothbrushes, including dental-plate brushes",
-                "Subentries": []
-              },
-              {
-                "HS Code": "9603.29",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "9603.29.40",
-                    "Description": "Valued not over 40\u00a2 each",
-                    "Subentries": [
-                      {
-                        "HS Code": "9603.29.40.10",
-                        "Description": "Hairbrushes",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9603.29.40.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "9603.29.80",
-                    "Description": "Valued over 40\u00a2 each",
-                    "Subentries": [
-                      {
-                        "HS Code": "9603.29.80.10",
-                        "Description": "Hairbrushes",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9603.29.80.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
           }
         ]
       }

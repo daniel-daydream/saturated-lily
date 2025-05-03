@@ -16,11 +16,6 @@
                 "Description": "Containing by weight less than 0.25 percent of carbon:",
                 "Subentries": [
                   {
-                    "HS Code": "7217.10.60.00",
-                    "Description": "Other wire",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Flat wire:",
                     "Subentries": [
@@ -50,11 +45,6 @@
                         "Description": "With a diameter of less than 1.5 mm",
                         "Subentries": [
                           {
-                            "HS Code": "7217.10.40.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Heat treated:",
                             "Subentries": [
@@ -69,6 +59,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "7217.10.40.90",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       },
@@ -89,6 +84,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "7217.10.60.00",
+                    "Description": "Other wire",
+                    "Subentries": []
                   }
                 ]
               },

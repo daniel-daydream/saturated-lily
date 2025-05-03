@@ -21,11 +21,6 @@
                 "Description": "Other",
                 "Subentries": [
                   {
-                    "HS Code": "8704.10.50.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Rear dump:",
                     "Subentries": [
@@ -50,6 +45,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8704.10.50.60",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

@@ -90,11 +90,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "4202.39.90.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of material (other than leather, composition leather, sheeting of plastics, textile materials, vulcanized fiber or paperboard) wholly or mainly covered with paper:",
                     "Subentries": [
@@ -114,6 +109,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4202.39.90.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

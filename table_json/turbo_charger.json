@@ -12,54 +12,6 @@
             "Description": "Other, except parts:",
             "Subentries": [
               {
-                "HS Code": "8414.80.20",
-                "Description": "Other compressors",
-                "Subentries": [
-                  {
-                    "HS Code": "8414.80.20.05",
-                    "Description": "Refrigerant recovery units",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8414.80.20.15",
-                        "Description": "Centrifugal and axial",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other, including reciprocating and rotary:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8414.80.20.55",
-                            "Description": "Not exceeding 186.5 kW",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8414.80.20.65",
-                            "Description": "Exceeding 186.5 kW but not exceeding 746 kW",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8414.80.20.75",
-                            "Description": "Exceeding 746 kW",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "8414.80.90.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Air compressors:",
                 "Subentries": [
@@ -76,11 +28,6 @@
                         "HS Code": "",
                         "Description": "Stationary:",
                         "Subentries": [
-                          {
-                            "HS Code": "8414.80.16.80",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Reciprocating:",
@@ -147,6 +94,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8414.80.16.80",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       },
@@ -169,6 +121,54 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "8414.80.20",
+                "Description": "Other compressors",
+                "Subentries": [
+                  {
+                    "HS Code": "8414.80.20.05",
+                    "Description": "Refrigerant recovery units",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8414.80.20.15",
+                        "Description": "Centrifugal and axial",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other, including reciprocating and rotary:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8414.80.20.55",
+                            "Description": "Not exceeding 186.5 kW",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8414.80.20.65",
+                            "Description": "Exceeding 186.5 kW but not exceeding 746 kW",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8414.80.20.75",
+                            "Description": "Exceeding 746 kW",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8414.80.90.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

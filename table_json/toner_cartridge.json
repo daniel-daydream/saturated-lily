@@ -42,33 +42,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "8443.99.50",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "8443.99.50.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "For the goods of subheading 8443.31:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8443.99.50.11",
-                            "Description": "Ink cartridges",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8443.99.50.15",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Parts and accessories of printers:",
                     "Subentries": [
@@ -133,6 +106,33 @@
                       },
                       {
                         "HS Code": "8443.99.45.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8443.99.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "For the goods of subheading 8443.31:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8443.99.50.11",
+                            "Description": "Ink cartridges",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8443.99.50.15",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8443.99.50.50",
                         "Description": "Other",
                         "Subentries": []
                       }

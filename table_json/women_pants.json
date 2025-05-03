@@ -40,16 +40,6 @@
                         "Description": "Other",
                         "Subentries": [
                           {
-                            "HS Code": "6204.61.15.30",
-                            "Description": "Shorts (448)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6204.61.15.40",
-                            "Description": "Bib and brace overall (459)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Trousers and breeches:",
                             "Subentries": [
@@ -64,6 +54,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "6204.61.15.30",
+                            "Description": "Shorts (448)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6204.61.15.40",
+                            "Description": "Bib and brace overall (459)",
+                            "Subentries": []
                           }
                         ]
                       },
@@ -88,16 +88,6 @@
                         "Description": "Other",
                         "Subentries": [
                           {
-                            "HS Code": "6204.61.80.30",
-                            "Description": "Shorts (448)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6204.61.80.40",
-                            "Description": "Bib and brace overalls (459)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Trousers and breeches:",
                             "Subentries": [
@@ -112,6 +102,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "6204.61.80.30",
+                            "Description": "Shorts (448)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6204.61.80.40",
+                            "Description": "Bib and brace overalls (459)",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -129,11 +129,6 @@
                     "Subentries": [
                       {
                         "HS Code": "6204.62.03.00",
-                        "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35 percent or more by weight; containing 10 percent or more by weight of down",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6204.62.50.00",
                         "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35 percent or more by weight; containing 10 percent or more by weight of down",
                         "Subentries": []
                       },
@@ -193,11 +188,6 @@
                                 "Description": "Other:",
                                 "Subentries": [
                                   {
-                                    "HS Code": "6204.62.15.56",
-                                    "Description": "Women's shorts (348)",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "Girls' shorts:",
                                     "Subentries": [
@@ -213,16 +203,6 @@
                                       },
                                       {
                                         "HS Code": "6204.62.15.21",
-                                        "Description": "Other (348)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6204.62.15.61",
-                                        "Description": "Imported as parts of playsuits (237)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6204.62.15.66",
                                         "Description": "Other (348)",
                                         "Subentries": []
                                       },
@@ -261,8 +241,23 @@
                                             "Subentries": []
                                           }
                                         ]
+                                      },
+                                      {
+                                        "HS Code": "6204.62.15.61",
+                                        "Description": "Imported as parts of playsuits (237)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6204.62.15.66",
+                                        "Description": "Other (348)",
+                                        "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "6204.62.15.56",
+                                    "Description": "Women's shorts (348)",
+                                    "Subentries": []
                                   }
                                 ]
                               }
@@ -329,11 +324,6 @@
                                     "Description": "Other:",
                                     "Subentries": [
                                       {
-                                        "HS Code": "6204.62.80.56",
-                                        "Description": "Women's shorts (348)",
-                                        "Subentries": []
-                                      },
-                                      {
                                         "HS Code": "",
                                         "Description": "Girls' shorts:",
                                         "Subentries": [
@@ -354,16 +344,6 @@
                                           },
                                           {
                                             "HS Code": "6204.62.80.18",
-                                            "Description": "Other (348)",
-                                            "Subentries": []
-                                          },
-                                          {
-                                            "HS Code": "6204.62.80.61",
-                                            "Description": "Imported as parts of playsuits (237)",
-                                            "Subentries": []
-                                          },
-                                          {
-                                            "HS Code": "6204.62.80.66",
                                             "Description": "Other (348)",
                                             "Subentries": []
                                           },
@@ -402,8 +382,23 @@
                                                 "Subentries": []
                                               }
                                             ]
+                                          },
+                                          {
+                                            "HS Code": "6204.62.80.61",
+                                            "Description": "Imported as parts of playsuits (237)",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "6204.62.80.66",
+                                            "Description": "Other (348)",
+                                            "Subentries": []
                                           }
                                         ]
+                                      },
+                                      {
+                                        "HS Code": "6204.62.80.56",
+                                        "Description": "Women's shorts (348)",
+                                        "Subentries": []
                                       }
                                     ]
                                   }
@@ -412,6 +407,11 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6204.62.50.00",
+                        "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35 percent or more by weight; containing 10 percent or more by weight of down",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -431,19 +431,9 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "6204.63.50.00",
-                        "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35 percent or more by weight; containing 10 percent or more by weight of down",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Other:",
                         "Subentries": [
-                          {
-                            "HS Code": "6204.63.65.00",
-                            "Description": "Certified hand-loomed and folklore products (648)",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Other:",
@@ -508,6 +498,145 @@
                                 ]
                               },
                               {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6204.63.09",
+                                    "Description": "Water resistant trousers or breeches",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "6204.63.09.10",
+                                        "Description": "Ski/snowboard pants (648)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6204.63.09.90",
+                                        "Description": "Other (648)",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "6204.63.11",
+                                    "Description": "Other",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "",
+                                        "Description": "Shorts:",
+                                        "Subentries": [
+                                          {
+                                            "HS Code": "6204.63.11.10",
+                                            "Description": "Women's (648)",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "",
+                                            "Description": "Girls':",
+                                            "Subentries": [
+                                              {
+                                                "HS Code": "6204.63.11.25",
+                                                "Description": "Imported as parts of playsuits (237)",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "6204.63.11.30",
+                                                "Description": "Other (648)",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "6204.63.11.35",
+                                                "Description": "Imported as parts of playsuits (237)",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "6204.63.11.40",
+                                                "Description": "Other (648)",
+                                                "Subentries": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "HS Code": "6204.63.11.32",
+                                            "Description": "Women's (648)",
+                                            "Subentries": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "6204.63.75",
+                                    "Description": "Water resistant trousers or breeches (648)",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "6204.63.75.10",
+                                        "Description": "Ski/snowboard pants (648)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6204.63.75.90",
+                                        "Description": "Other (648)",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "6204.63.90",
+                                    "Description": "Other",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "",
+                                        "Description": "Shorts:",
+                                        "Subentries": [
+                                          {
+                                            "HS Code": "",
+                                            "Description": "Girls':",
+                                            "Subentries": [
+                                              {
+                                                "HS Code": "6204.63.90.09",
+                                                "Description": "Designed for use in hospitals, clinics, laboratories or contaminated areas (648)",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "6204.63.90.11",
+                                                "Description": "Other (648)",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "6204.63.90.25",
+                                                "Description": "Imported as parts of playsuits (237)",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "6204.63.90.30",
+                                                "Description": "Other (648)",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "6204.63.90.35",
+                                                "Description": "Imported as parts of playsuits (237)",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "6204.63.90.40",
+                                                "Description": "Other (648)",
+                                                "Subentries": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "HS Code": "6204.63.90.32",
+                                            "Description": "Women's (648)",
+                                            "Subentries": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
                                 "HS Code": "6204.63.55.00",
                                 "Description": "Water resistant (659)",
                                 "Subentries": []
@@ -565,149 +694,20 @@
                                     "Subentries": []
                                   }
                                 ]
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Other:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6204.63.09",
-                                    "Description": "Water resistant trousers or breeches",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "6204.63.09.10",
-                                        "Description": "Ski/snowboard pants (648)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6204.63.09.90",
-                                        "Description": "Other (648)",
-                                        "Subentries": []
-                                      }
-                                    ]
-                                  },
-                                  {
-                                    "HS Code": "6204.63.11",
-                                    "Description": "Other",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "",
-                                        "Description": "Shorts:",
-                                        "Subentries": [
-                                          {
-                                            "HS Code": "6204.63.11.10",
-                                            "Description": "Women's (648)",
-                                            "Subentries": []
-                                          },
-                                          {
-                                            "HS Code": "6204.63.11.32",
-                                            "Description": "Women's (648)",
-                                            "Subentries": []
-                                          },
-                                          {
-                                            "HS Code": "",
-                                            "Description": "Girls':",
-                                            "Subentries": [
-                                              {
-                                                "HS Code": "6204.63.11.25",
-                                                "Description": "Imported as parts of playsuits (237)",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "6204.63.11.30",
-                                                "Description": "Other (648)",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "6204.63.11.35",
-                                                "Description": "Imported as parts of playsuits (237)",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "6204.63.11.40",
-                                                "Description": "Other (648)",
-                                                "Subentries": []
-                                              }
-                                            ]
-                                          }
-                                        ]
-                                      }
-                                    ]
-                                  },
-                                  {
-                                    "HS Code": "6204.63.75",
-                                    "Description": "Water resistant trousers or breeches (648)",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "6204.63.75.10",
-                                        "Description": "Ski/snowboard pants (648)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6204.63.75.90",
-                                        "Description": "Other (648)",
-                                        "Subentries": []
-                                      }
-                                    ]
-                                  },
-                                  {
-                                    "HS Code": "6204.63.90",
-                                    "Description": "Other",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "",
-                                        "Description": "Shorts:",
-                                        "Subentries": [
-                                          {
-                                            "HS Code": "6204.63.90.32",
-                                            "Description": "Women's (648)",
-                                            "Subentries": []
-                                          },
-                                          {
-                                            "HS Code": "",
-                                            "Description": "Girls':",
-                                            "Subentries": [
-                                              {
-                                                "HS Code": "6204.63.90.09",
-                                                "Description": "Designed for use in hospitals, clinics, laboratories or contaminated areas (648)",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "6204.63.90.11",
-                                                "Description": "Other (648)",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "6204.63.90.25",
-                                                "Description": "Imported as parts of playsuits (237)",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "6204.63.90.30",
-                                                "Description": "Other (648)",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "6204.63.90.35",
-                                                "Description": "Imported as parts of playsuits (237)",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "6204.63.90.40",
-                                                "Description": "Other (648)",
-                                                "Subentries": []
-                                              }
-                                            ]
-                                          }
-                                        ]
-                                      }
-                                    ]
-                                  }
-                                ]
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "6204.63.65.00",
+                            "Description": "Certified hand-loomed and folklore products (648)",
+                            "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6204.63.50.00",
+                        "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35 percent or more by weight; containing 10 percent or more by weight of down",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -721,102 +721,6 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
-                      {
-                        "HS Code": "6204.69.06",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "6204.69.06.50",
-                            "Description": "Bib and brace overalls (859)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Trousers, breeches and shorts:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6204.69.06.10",
-                                "Description": "Subject to cotton restraints (348)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6204.69.06.20",
-                                "Description": "Subject to wool restraints (448)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6204.69.06.30",
-                                "Description": "Subject to man-made fiber restraints (648)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Other:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6204.69.06.44",
-                                    "Description": "Trousers and breeches (847)",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6204.69.06.46",
-                                    "Description": "Shorts (847)",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "6204.69.80",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "6204.69.80.50",
-                            "Description": "Bib and brace overalls (859)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Trousers, breeches and shorts:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6204.69.80.10",
-                                "Description": "Subject to cotton restraints (348)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6204.69.80.20",
-                                "Description": "Subject to wool restraints (448)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6204.69.80.30",
-                                "Description": "Subject to man-made fiber restraints (648)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Other:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6204.69.80.44",
-                                    "Description": "Trousers and breeches (847)",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6204.69.80.46",
-                                    "Description": "Shorts (847)",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      },
                       {
                         "HS Code": "",
                         "Description": "Of silk or silk waste:",
@@ -860,6 +764,162 @@
                             ]
                           },
                           {
+                            "HS Code": "",
+                            "Description": "Trousers, breeches and shorts:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6204.69.02",
+                                "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Trousers and breeches:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "6204.69.02.10",
+                                        "Description": "Women's (448)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6204.69.02.20",
+                                        "Description": "Girls' (448)",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "6204.69.02.30",
+                                    "Description": "Shorts (448)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "6204.69.03",
+                                "Description": "Other",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Shorts:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "6204.69.03.10",
+                                        "Description": "Women's (648)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "",
+                                        "Description": "Girls':",
+                                        "Subentries": [
+                                          {
+                                            "HS Code": "6204.69.03.20",
+                                            "Description": "Imported as parts of playsuits (237)",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "6204.69.03.30",
+                                            "Description": "Other (648)",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "6204.69.03.50",
+                                            "Description": "Imported as parts of playsuits (237)",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "6204.69.03.60",
+                                            "Description": "Other (648)",
+                                            "Subentries": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "HS Code": "6204.69.03.40",
+                                        "Description": "Women's (648)",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "6204.69.22",
+                                "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Trousers and breeches:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "6204.69.22.10",
+                                        "Description": "Women's (448)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6204.69.22.20",
+                                        "Description": "Girls' (448)",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "6204.69.22.30",
+                                    "Description": "Shorts (448)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "6204.69.28",
+                                "Description": "Other",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Shorts:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "6204.69.28.10",
+                                        "Description": "Women's (648)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "",
+                                        "Description": "Girls':",
+                                        "Subentries": [
+                                          {
+                                            "HS Code": "6204.69.28.20",
+                                            "Description": "Imported as parts of playsuits (237)",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "6204.69.28.30",
+                                            "Description": "Other (648)",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "6204.69.28.50",
+                                            "Description": "Imported as parts of playsuits (237)",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "6204.69.28.60",
+                                            "Description": "Other (648)",
+                                            "Subentries": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "HS Code": "6204.69.28.40",
+                                        "Description": "Women's (648)",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
                             "HS Code": "6204.69.04",
                             "Description": "Containing 70 percent or more by weight of silk or silk waste",
                             "Subentries": [
@@ -879,11 +939,6 @@
                             "HS Code": "6204.69.05",
                             "Description": "Other",
                             "Subentries": [
-                              {
-                                "HS Code": "6204.69.05.70",
-                                "Description": "Bib and brace overalls (859)",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Trousers, breeches and shorts:",
@@ -920,6 +975,11 @@
                                     ]
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "6204.69.05.70",
+                                "Description": "Bib and brace overalls (859)",
+                                "Subentries": []
                               }
                             ]
                           },
@@ -982,11 +1042,6 @@
                             "Description": "Other",
                             "Subentries": [
                               {
-                                "HS Code": "6204.69.65.70",
-                                "Description": "Bib and brace overalls (859)",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Trousers, breeches and shorts:",
                                 "Subentries": [
@@ -1022,164 +1077,109 @@
                                     ]
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "6204.69.65.70",
+                                "Description": "Bib and brace overalls (859)",
+                                "Subentries": []
                               }
                             ]
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6204.69.06",
+                        "Description": "Other",
+                        "Subentries": [
                           {
                             "HS Code": "",
                             "Description": "Trousers, breeches and shorts:",
                             "Subentries": [
                               {
-                                "HS Code": "6204.69.02",
-                                "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
+                                "HS Code": "6204.69.06.10",
+                                "Description": "Subject to cotton restraints (348)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6204.69.06.20",
+                                "Description": "Subject to wool restraints (448)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6204.69.06.30",
+                                "Description": "Subject to man-made fiber restraints (648)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
                                 "Subentries": [
                                   {
-                                    "HS Code": "6204.69.02.30",
-                                    "Description": "Shorts (448)",
+                                    "HS Code": "6204.69.06.44",
+                                    "Description": "Trousers and breeches (847)",
                                     "Subentries": []
                                   },
                                   {
-                                    "HS Code": "",
-                                    "Description": "Trousers and breeches:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "6204.69.02.10",
-                                        "Description": "Women's (448)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6204.69.02.20",
-                                        "Description": "Girls' (448)",
-                                        "Subentries": []
-                                      }
-                                    ]
-                                  }
-                                ]
-                              },
-                              {
-                                "HS Code": "6204.69.03",
-                                "Description": "Other",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "",
-                                    "Description": "Shorts:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "6204.69.03.10",
-                                        "Description": "Women's (648)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6204.69.03.40",
-                                        "Description": "Women's (648)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "",
-                                        "Description": "Girls':",
-                                        "Subentries": [
-                                          {
-                                            "HS Code": "6204.69.03.20",
-                                            "Description": "Imported as parts of playsuits (237)",
-                                            "Subentries": []
-                                          },
-                                          {
-                                            "HS Code": "6204.69.03.30",
-                                            "Description": "Other (648)",
-                                            "Subentries": []
-                                          },
-                                          {
-                                            "HS Code": "6204.69.03.50",
-                                            "Description": "Imported as parts of playsuits (237)",
-                                            "Subentries": []
-                                          },
-                                          {
-                                            "HS Code": "6204.69.03.60",
-                                            "Description": "Other (648)",
-                                            "Subentries": []
-                                          }
-                                        ]
-                                      }
-                                    ]
-                                  }
-                                ]
-                              },
-                              {
-                                "HS Code": "6204.69.22",
-                                "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6204.69.22.30",
-                                    "Description": "Shorts (448)",
+                                    "HS Code": "6204.69.06.46",
+                                    "Description": "Shorts (847)",
                                     "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "",
-                                    "Description": "Trousers and breeches:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "6204.69.22.10",
-                                        "Description": "Women's (448)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6204.69.22.20",
-                                        "Description": "Girls' (448)",
-                                        "Subentries": []
-                                      }
-                                    ]
-                                  }
-                                ]
-                              },
-                              {
-                                "HS Code": "6204.69.28",
-                                "Description": "Other",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "",
-                                    "Description": "Shorts:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "6204.69.28.10",
-                                        "Description": "Women's (648)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6204.69.28.40",
-                                        "Description": "Women's (648)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "",
-                                        "Description": "Girls':",
-                                        "Subentries": [
-                                          {
-                                            "HS Code": "6204.69.28.20",
-                                            "Description": "Imported as parts of playsuits (237)",
-                                            "Subentries": []
-                                          },
-                                          {
-                                            "HS Code": "6204.69.28.30",
-                                            "Description": "Other (648)",
-                                            "Subentries": []
-                                          },
-                                          {
-                                            "HS Code": "6204.69.28.50",
-                                            "Description": "Imported as parts of playsuits (237)",
-                                            "Subentries": []
-                                          },
-                                          {
-                                            "HS Code": "6204.69.28.60",
-                                            "Description": "Other (648)",
-                                            "Subentries": []
-                                          }
-                                        ]
-                                      }
-                                    ]
                                   }
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "6204.69.06.50",
+                            "Description": "Bib and brace overalls (859)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6204.69.80",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Trousers, breeches and shorts:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6204.69.80.10",
+                                "Description": "Subject to cotton restraints (348)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6204.69.80.20",
+                                "Description": "Subject to wool restraints (448)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6204.69.80.30",
+                                "Description": "Subject to man-made fiber restraints (648)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6204.69.80.44",
+                                    "Description": "Trousers and breeches (847)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6204.69.80.46",
+                                    "Description": "Shorts (847)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6204.69.80.50",
+                            "Description": "Bib and brace overalls (859)",
+                            "Subentries": []
                           }
                         ]
                       }

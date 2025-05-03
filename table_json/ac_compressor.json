@@ -41,11 +41,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "8414.30.80.90",
-                        "Description": "For ammonia",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "For all refrigerants except ammonia",
                         "Subentries": [
@@ -81,6 +76,11 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8414.30.80.90",
+                        "Description": "For ammonia",
+                        "Subentries": []
                       }
                     ]
                   }

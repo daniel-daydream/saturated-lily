@@ -114,19 +114,9 @@
                 "Description": "With outer surface of sheeting of plastics or of textile materials:",
                 "Subentries": [
                   {
-                    "HS Code": "4202.92.50.00",
-                    "Description": "Musical instrument cases",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Insulated food or beverage bags:",
                     "Subentries": [
-                      {
-                        "HS Code": "4202.92.10.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "With outer surface of textile materials:",
@@ -158,6 +148,11 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4202.92.10.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -166,14 +161,25 @@
                     "Description": "Travel, sports and similar bags:",
                     "Subentries": [
                       {
-                        "HS Code": "4202.92.45.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "With outer surface of textile materials:",
                         "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Of vegetable fibers and not of pile or tufted construction:",
+                            "Subentries": [
+                              {
+                                "HS Code": "4202.92.15.00",
+                                "Description": "Of cotton (369)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4202.92.20.00",
+                                "Description": "Other (870)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
                           {
                             "HS Code": "4202.92.31",
                             "Description": "Of man-made fibers",
@@ -215,26 +221,20 @@
                             "HS Code": "4202.92.39.00",
                             "Description": "Other (870)",
                             "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Of vegetable fibers and not of pile or tufted construction:",
-                            "Subentries": [
-                              {
-                                "HS Code": "4202.92.15.00",
-                                "Description": "Of cotton (369)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "4202.92.20.00",
-                                "Description": "Other (870)",
-                                "Subentries": []
-                              }
-                            ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4202.92.45.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4202.92.50.00",
+                    "Description": "Musical instrument cases",
+                    "Subentries": []
                   },
                   {
                     "HS Code": "",
@@ -319,22 +319,12 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "4202.99.90.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of materials (other than leather, composition leather, sheeting of plastics, textile materials, vulcanized fiber or paperboard) wholly or mainly covered with paper:",
                     "Subentries": [
                       {
                         "HS Code": "4202.99.10.00",
                         "Description": "Of plastics",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4202.99.50.00",
-                        "Description": "Other",
                         "Subentries": []
                       },
                       {
@@ -352,8 +342,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4202.99.50.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4202.99.90.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

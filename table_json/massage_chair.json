@@ -16,32 +16,6 @@
                 "Description": "Upholstered:",
                 "Subentries": [
                   {
-                    "HS Code": "9401.61.60",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "9401.61.60.01",
-                        "Description": "Stationary activity centers for children",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.61.60.05",
-                        "Description": "Other seats for children",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.61.60.11",
-                        "Description": "Other household",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9401.61.60.31",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Chairs:",
                     "Subentries": [
@@ -105,6 +79,32 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9401.61.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9401.61.60.01",
+                        "Description": "Stationary activity centers for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.61.60.05",
+                        "Description": "Other seats for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.61.60.11",
+                        "Description": "Other household",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.61.60.31",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -132,54 +132,6 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
-                      {
-                        "HS Code": "9401.69.80",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "9401.69.80.01",
-                            "Description": "Stationary activity centers for children",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9401.69.80.05",
-                            "Description": "Other seats for children",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9401.69.80.11",
-                            "Description": "Other household",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Other:",
-                            "Subentries": [
-                              {
-                                "HS Code": "9401.69.80.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Of teak (Tectona spp.):",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "9401.69.80.66",
-                                    "Description": "Of plantation-harvested teak",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "9401.69.80.68",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      },
                       {
                         "HS Code": "",
                         "Description": "Chairs:",
@@ -238,6 +190,54 @@
                               },
                               {
                                 "HS Code": "9401.69.60.31",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "9401.69.80",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "9401.69.80.01",
+                            "Description": "Stationary activity centers for children",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9401.69.80.05",
+                            "Description": "Other seats for children",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9401.69.80.11",
+                            "Description": "Other household",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Of teak (Tectona spp.):",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "9401.69.80.66",
+                                    "Description": "Of plantation-harvested teak",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "9401.69.80.68",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "9401.69.80.90",
                                 "Description": "Other",
                                 "Subentries": []
                               }

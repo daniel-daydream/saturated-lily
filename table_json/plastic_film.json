@@ -73,11 +73,6 @@
                 "Description": "Of poly(ethylene terephthalate)",
                 "Subentries": [
                   {
-                    "HS Code": "3920.62.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Metallized PET film:",
                     "Subentries": [
@@ -92,6 +87,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "3920.62.00.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },

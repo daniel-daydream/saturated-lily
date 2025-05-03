@@ -74,22 +74,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "3824.99.41",
-                        "Description": "Fatty substances of animal or vegetable origin and mixtures thereof",
-                        "Subentries": [
-                          {
-                            "HS Code": "3824.99.41.40",
-                            "Description": "Mixtures of fatty acid esters",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "3824.99.41.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Mixtures containing 5 percent or more by weight of one or more aromatic or modified aromatic substances:",
                         "Subentries": [
@@ -168,6 +152,22 @@
                         ]
                       },
                       {
+                        "HS Code": "3824.99.41",
+                        "Description": "Fatty substances of animal or vegetable origin and mixtures thereof",
+                        "Subentries": [
+                          {
+                            "HS Code": "3824.99.41.40",
+                            "Description": "Mixtures of fatty acid esters",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3824.99.41.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
                         "HS Code": "",
                         "Description": "Other:",
                         "Subentries": [
@@ -222,21 +222,6 @@
                                 "Description": "Other",
                                 "Subentries": [
                                   {
-                                    "HS Code": "3824.99.93.61",
-                                    "Description": "Mixtures consisting mainly of chemicals containing a phosphorus atom to which is bonded one methyl, ethyl, n-propyl or isopropyl group, but no other carbon atoms",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "3824.99.93.86",
-                                    "Description": "Mixtures of a kind containing magnesium used as a desulfurization reagent",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "3824.99.93.97",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  },
-                                  {
                                     "HS Code": "",
                                     "Description": "Mixtures of acyclic, monohydric, unsubstituted alcohols:",
                                     "Subentries": [
@@ -256,6 +241,21 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "3824.99.93.61",
+                                    "Description": "Mixtures consisting mainly of chemicals containing a phosphorus atom to which is bonded one methyl, ethyl, n-propyl or isopropyl group, but no other carbon atoms",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "3824.99.93.86",
+                                    "Description": "Mixtures of a kind containing magnesium used as a desulfurization reagent",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "3824.99.93.97",
+                                    "Description": "Other",
+                                    "Subentries": []
                                   }
                                 ]
                               }

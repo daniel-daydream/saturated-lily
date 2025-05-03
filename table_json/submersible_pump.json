@@ -30,21 +30,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "8413.70.20.30",
-                        "Description": "Single-stage, double-suction",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8413.70.20.40",
-                        "Description": "Multi-stage, single- or double-suction",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8413.70.20.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Single-stage, single-suction, close-coupled:",
                         "Subentries": [
@@ -75,6 +60,21 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8413.70.20.30",
+                        "Description": "Single-stage, double-suction",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8413.70.20.40",
+                        "Description": "Multi-stage, single- or double-suction",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8413.70.20.90",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

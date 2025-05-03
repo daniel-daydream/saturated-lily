@@ -167,11 +167,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "6211.11.80.40",
-                        "Description": "Other (859)",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Of cotton:",
                         "Subentries": [
@@ -186,6 +181,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6211.11.80.40",
+                        "Description": "Other (859)",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -221,11 +221,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "6211.12.80.30",
-                        "Description": "Other (859)",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Of cotton:",
                         "Subentries": [
@@ -240,6 +235,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6211.12.80.30",
+                        "Description": "Other (859)",
+                        "Subentries": []
                       }
                     ]
                   }

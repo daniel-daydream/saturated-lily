@@ -16,11 +16,6 @@
                 "Description": "Sawing machines",
                 "Subentries": [
                   {
-                    "HS Code": "8465.91.00.91",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Woodworking machines:",
                     "Subentries": [
@@ -94,16 +89,6 @@
                                 "Subentries": []
                               },
                               {
-                                "HS Code": "8465.91.00.74",
-                                "Description": "Cross-cut and optimizing saws",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "8465.91.00.78",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Panel saws:",
                                 "Subentries": [
@@ -134,12 +119,27 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "8465.91.00.74",
+                                "Description": "Cross-cut and optimizing saws",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8465.91.00.78",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8465.91.00.91",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -147,11 +147,6 @@
                 "HS Code": "8465.92.00",
                 "Description": "Planing, milling or molding (by cutting) machines",
                 "Subentries": [
-                  {
-                    "HS Code": "8465.92.00.91",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "For woodworking:",
@@ -182,16 +177,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "8465.92.00.31",
-                            "Description": "Moulders",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8465.92.00.72",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Dovetailing machines:",
                             "Subentries": [
@@ -206,6 +191,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8465.92.00.31",
+                            "Description": "Moulders",
+                            "Subentries": []
                           },
                           {
                             "HS Code": "",
@@ -281,10 +271,20 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8465.92.00.72",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8465.92.00.91",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -292,11 +292,6 @@
                 "HS Code": "8465.93.00",
                 "Description": "Grinding, sanding or polishing machines",
                 "Subentries": [
-                  {
-                    "HS Code": "8465.93.00.91",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "For woodworking:",
@@ -322,16 +317,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "8465.93.00.65",
-                            "Description": "Belt sanders, for a belt width 60 cm or wider",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8465.93.00.75",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Edge belt sanders:",
                             "Subentries": [
@@ -351,10 +336,25 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8465.93.00.65",
+                            "Description": "Belt sanders, for a belt width 60 cm or wider",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8465.93.00.75",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8465.93.00.91",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -362,11 +362,6 @@
                 "HS Code": "8465.94.00",
                 "Description": "Bending or assembling machines",
                 "Subentries": [
-                  {
-                    "HS Code": "8465.94.00.91",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "For woodworking:",
@@ -396,11 +391,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "8465.94.00.65",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Presses:",
                             "Subentries": [
@@ -415,10 +405,20 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8465.94.00.65",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8465.94.00.91",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -426,11 +426,6 @@
                 "HS Code": "8465.95.00",
                 "Description": "Drilling or mortising machines",
                 "Subentries": [
-                  {
-                    "HS Code": "8465.95.00.91",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "For woodworking:",
@@ -455,11 +450,6 @@
                         "HS Code": "",
                         "Description": "Other:",
                         "Subentries": [
-                          {
-                            "HS Code": "8465.95.00.65",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Boring machines:",
@@ -502,10 +492,20 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8465.95.00.65",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8465.95.00.91",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -513,11 +513,6 @@
                 "HS Code": "8465.96.00",
                 "Description": "Splitting, slicing or paring machines",
                 "Subentries": [
-                  {
-                    "HS Code": "8465.96.00.51",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "For woodworking:",
@@ -543,6 +538,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8465.96.00.51",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -550,11 +550,6 @@
                 "HS Code": "8465.99.02",
                 "Description": "Other",
                 "Subentries": [
-                  {
-                    "HS Code": "8465.99.02.50",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Woodworking machines:",
@@ -575,6 +570,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8465.99.02.50",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

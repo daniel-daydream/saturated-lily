@@ -20,31 +20,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "8533.21.00.50",
-                        "Description": "Single-in-line",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8533.21.00.60",
-                        "Description": "Dual-in-line",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8533.21.00.70",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8533.21.00.80",
-                        "Description": "Wirewound",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8533.21.00.90",
-                        "Description": "Other (including metal film, metal oxide and thick cement film)",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Having more than two terminals (resistor networks):",
                         "Subentries": [
@@ -69,6 +44,31 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8533.21.00.50",
+                        "Description": "Single-in-line",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8533.21.00.60",
+                        "Description": "Dual-in-line",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8533.21.00.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8533.21.00.80",
+                        "Description": "Wirewound",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8533.21.00.90",
+                        "Description": "Other (including metal film, metal oxide and thick cement film)",
+                        "Subentries": []
                       }
                     ]
                   }

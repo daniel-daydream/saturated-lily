@@ -16,21 +16,6 @@
                 "Description": "Household tools, and parts thereof:",
                 "Subentries": [
                   {
-                    "HS Code": "8205.51.45.00",
-                    "Description": "Of copper",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8205.51.60.00",
-                    "Description": "Of aluminum",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8205.51.75.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of iron or steel:",
                     "Subentries": [
@@ -56,6 +41,21 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8205.51.45.00",
+                    "Description": "Of copper",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8205.51.60.00",
+                    "Description": "Of aluminum",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8205.51.75.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -94,21 +94,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "8205.59.60.00",
-                        "Description": "Of copper",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8205.59.70.00",
-                        "Description": "Of aluminum",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8205.59.80.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Of iron or steel",
                         "Subentries": [
@@ -121,11 +106,6 @@
                             "HS Code": "8205.59.55",
                             "Description": "Other",
                             "Subentries": [
-                              {
-                                "HS Code": "8205.59.55.60",
-                                "Description": "Other (including parts)",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Edged handtools:",
@@ -141,10 +121,30 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "8205.59.55.60",
+                                "Description": "Other (including parts)",
+                                "Subentries": []
                               }
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8205.59.60.00",
+                        "Description": "Of copper",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8205.59.70.00",
+                        "Description": "Of aluminum",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8205.59.80.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

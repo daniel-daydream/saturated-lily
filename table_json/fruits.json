@@ -352,11 +352,6 @@
             "Description": "Dates:",
             "Subentries": [
               {
-                "HS Code": "0804.10.80.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Whole, with or without pits:",
                 "Subentries": [
@@ -393,6 +388,11 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "0804.10.80.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -400,11 +400,6 @@
             "HS Code": "0804.20",
             "Description": "Figs:",
             "Subentries": [
-              {
-                "HS Code": "0804.20.80.00",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Whole:",
@@ -420,6 +415,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0804.20.80.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -427,11 +427,6 @@
             "HS Code": "0804.30",
             "Description": "Pineapples:",
             "Subentries": [
-              {
-                "HS Code": "0804.30.60.00",
-                "Description": "Reduced in size",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Not reduced in size:",
@@ -458,6 +453,11 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "0804.30.60.00",
+                "Description": "Reduced in size",
+                "Subentries": []
               }
             ]
           },
@@ -465,11 +465,6 @@
             "HS Code": "0804.40.00",
             "Description": "Avocados",
             "Subentries": [
-              {
-                "HS Code": "0804.40.00.90",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Hass avocados and avocados determined by the Secretary of Agriculture to be Hass-like:",
@@ -485,6 +480,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0804.40.00.90",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -493,22 +493,6 @@
             "Description": "Guavas, mangoes and mangosteens:",
             "Subentries": [
               {
-                "HS Code": "0804.50.80",
-                "Description": "Dried",
-                "Subentries": [
-                  {
-                    "HS Code": "0804.50.80.10",
-                    "Description": "Mangoes",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0804.50.80.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
                 "HS Code": "",
                 "Description": "Fresh:",
                 "Subentries": [
@@ -516,16 +500,6 @@
                     "HS Code": "0804.50.40",
                     "Description": "If entered during the period from September 1, in any year, to the following May 31, inclusive",
                     "Subentries": [
-                      {
-                        "HS Code": "0804.50.40.65",
-                        "Description": "Mangosteens",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0804.50.40.75",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Mangoes:",
@@ -541,6 +515,16 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0804.50.40.65",
+                        "Description": "Mangosteens",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0804.50.40.75",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -548,16 +532,6 @@
                     "HS Code": "0804.50.60",
                     "Description": "If entered at any other time",
                     "Subentries": [
-                      {
-                        "HS Code": "0804.50.60.65",
-                        "Description": "Mangosteens",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0804.50.60.75",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Mangoes:",
@@ -573,8 +547,34 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0804.50.60.65",
+                        "Description": "Mangosteens",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0804.50.60.75",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0804.50.80",
+                "Description": "Dried",
+                "Subentries": [
+                  {
+                    "HS Code": "0804.50.80.10",
+                    "Description": "Mangoes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0804.50.80.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -610,6 +610,38 @@
                     "Subentries": []
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Mandarins (including tangerines and satsumas); clementines, wilkings and similar citrus hybrids:",
+            "Subentries": [
+              {
+                "HS Code": "0805.21.00",
+                "Description": "Mandarins (including tangerines and satsumas)",
+                "Subentries": [
+                  {
+                    "HS Code": "0805.21.00.10",
+                    "Description": "Tangerines",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0805.21.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0805.22.00.00",
+                "Description": "Clementines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0805.29.00.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -709,38 +741,6 @@
             "HS Code": "0805.90.01.00",
             "Description": "Other, including kumquats, citrons and bergamots",
             "Subentries": []
-          },
-          {
-            "HS Code": "",
-            "Description": "Mandarins (including tangerines and satsumas); clementines, wilkings and similar citrus hybrids:",
-            "Subentries": [
-              {
-                "HS Code": "0805.21.00",
-                "Description": "Mandarins (including tangerines and satsumas)",
-                "Subentries": [
-                  {
-                    "HS Code": "0805.21.00.10",
-                    "Description": "Tangerines",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0805.21.00.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "0805.22.00.00",
-                "Description": "Clementines",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0805.29.00.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
           }
         ]
       },
@@ -870,11 +870,6 @@
             "Description": "Dried:",
             "Subentries": [
               {
-                "HS Code": "0806.20.90.00",
-                "Description": "Other dried grapes",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Raisins:",
                 "Subentries": [
@@ -905,6 +900,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0806.20.90.00",
+                "Description": "Other dried grapes",
+                "Subentries": []
               }
             ]
           }
@@ -914,11 +914,6 @@
         "HS Code": "0807",
         "Description": "Melons (including watermelons) and papayas (papaws), fresh:",
         "Subentries": [
-          {
-            "HS Code": "0807.20.00.00",
-            "Description": "Papayas (papaws)",
-            "Subentries": []
-          },
           {
             "HS Code": "",
             "Description": "Melons (including watermelons):",
@@ -931,11 +926,6 @@
                     "HS Code": "0807.11.30",
                     "Description": "If entered during the period from December 1, in any year, to the following March 31, inclusive",
                     "Subentries": [
-                      {
-                        "HS Code": "0807.11.30.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Seedless:",
@@ -973,6 +963,11 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0807.11.30.90",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -980,11 +975,6 @@
                     "HS Code": "0807.11.40",
                     "Description": "If entered at any other time",
                     "Subentries": [
-                      {
-                        "HS Code": "0807.11.40.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Seedless:",
@@ -1022,6 +1012,11 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "0807.11.40.90",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -1104,6 +1099,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "0807.20.00.00",
+            "Description": "Papayas (papaws)",
+            "Subentries": []
           }
         ]
       },
@@ -1248,6 +1248,22 @@
             "Subentries": []
           },
           {
+            "HS Code": "",
+            "Description": "Cherries:",
+            "Subentries": [
+              {
+                "HS Code": "0809.21.00.00",
+                "Description": "Sour cherries (Prunus cerasus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0809.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "0809.30",
             "Description": "Peaches, including nectarines:",
             "Subentries": [
@@ -1286,22 +1302,6 @@
               {
                 "HS Code": "0809.40.40.00",
                 "Description": "If entered at any other time",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Cherries:",
-            "Subentries": [
-              {
-                "HS Code": "0809.21.00.00",
-                "Description": "Sour cherries (Prunus cerasus)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0809.29.00.00",
-                "Description": "Other",
                 "Subentries": []
               }
             ]
@@ -1403,11 +1403,6 @@
                 "Description": "Raspberries and loganberries entered during the period from September 1 in any year to June 30 of the following year",
                 "Subentries": [
                   {
-                    "HS Code": "0810.20.10.40",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Raspberries:",
                     "Subentries": [
@@ -1444,6 +1439,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0810.20.10.40",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -1451,11 +1451,6 @@
                 "HS Code": "0810.20.90",
                 "Description": "Other",
                 "Subentries": [
-                  {
-                    "HS Code": "0810.20.90.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Raspberries:",
@@ -1487,6 +1482,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0810.20.90.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -1501,16 +1501,6 @@
             "HS Code": "0810.40.00",
             "Description": "Cranberries, blueberries and other fruits of the genus Vaccinium",
             "Subentries": [
-              {
-                "HS Code": "0810.40.00.30",
-                "Description": "Cranberries",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0810.40.00.40",
-                "Description": "Other",
-                "Subentries": []
-              },
               {
                 "HS Code": "",
                 "Description": "Blueberries:",
@@ -1537,6 +1527,16 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "0810.40.00.30",
+                "Description": "Cranberries",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0810.40.00.40",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -1654,11 +1654,6 @@
                 "Description": "In immediate containers each holding more than 1.2 liters:",
                 "Subentries": [
                   {
-                    "HS Code": "0811.10.00.70",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Containing cane and/or beet sugar:",
                     "Subentries": [
@@ -1673,6 +1668,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0811.10.00.70",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -1686,11 +1686,6 @@
                 "HS Code": "0811.20.20",
                 "Description": "Raspberries, loganberries, black currants and gooseberries (other than kiwi fruit)",
                 "Subentries": [
-                  {
-                    "HS Code": "0811.20.20.40",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Raspberries:",
@@ -1706,6 +1701,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0811.20.20.40",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -1808,21 +1808,6 @@
                 "Description": "Other",
                 "Subentries": [
                   {
-                    "HS Code": "0811.90.80.85",
-                    "Description": "Frozen mixes only of combinations of strawberries, blueberries, red raspberries or blackberries",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0811.90.80.90",
-                    "Description": "Peaches",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0811.90.80.97",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Cherries:",
                     "Subentries": [
@@ -1837,6 +1822,21 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0811.90.80.85",
+                    "Description": "Frozen mixes only of combinations of strawberries, blueberries, red raspberries or blackberries",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0811.90.80.90",
+                    "Description": "Peaches",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0811.90.80.97",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -1948,37 +1948,6 @@
                 "Subentries": []
               },
               {
-                "HS Code": "0813.40.30",
-                "Description": "Cherries",
-                "Subentries": [
-                  {
-                    "HS Code": "0813.40.30.10",
-                    "Description": "Tart varieties(Prunus cerasus)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0813.40.30.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "0813.40.40.00",
-                "Description": "Peaches",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0813.40.80.00",
-                "Description": "Tamarinds",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0813.40.90.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Berries:",
                 "Subentries": [
@@ -2009,6 +1978,37 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "0813.40.30",
+                "Description": "Cherries",
+                "Subentries": [
+                  {
+                    "HS Code": "0813.40.30.10",
+                    "Description": "Tart varieties(Prunus cerasus)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0813.40.30.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0813.40.40.00",
+                "Description": "Peaches",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0813.40.80.00",
+                "Description": "Tamarinds",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0813.40.90.00",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },

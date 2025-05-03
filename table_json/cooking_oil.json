@@ -52,11 +52,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "1517.90.10.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Baking or frying fats:",
                         "Subentries": [
@@ -71,6 +66,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "1517.90.10.80",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -81,11 +81,6 @@
                       {
                         "HS Code": "1517.90.20.20",
                         "Description": "Salad and cooking oils",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1517.90.20.80",
-                        "Description": "Other",
                         "Subentries": []
                       },
                       {
@@ -103,6 +98,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "1517.90.20.80",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -112,6 +112,27 @@
                 "HS Code": "",
                 "Description": "Other:",
                 "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Dairy products described in additional U.S. note 1 to chapter 4:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1517.90.45.00",
+                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1517.90.50.00",
+                        "Description": "Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1517.90.60.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
                   {
                     "HS Code": "1517.90.90",
                     "Description": "Other",
@@ -133,27 +154,6 @@
                       },
                       {
                         "HS Code": "1517.90.90.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Dairy products described in additional U.S. note 1 to chapter 4:",
-                    "Subentries": [
-                      {
-                        "HS Code": "1517.90.45.00",
-                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1517.90.50.00",
-                        "Description": "Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1517.90.60.00",
                         "Description": "Other",
                         "Subentries": []
                       }

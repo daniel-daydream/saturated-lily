@@ -25,16 +25,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "3808.91.30.00",
-                        "Description": "Containing an inorganic substance",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3808.91.50.01",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Containing any aromatic or modified aromatic insecticide:",
                         "Subentries": [
@@ -49,6 +39,16 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "3808.91.30.00",
+                        "Description": "Containing an inorganic substance",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3808.91.50.01",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

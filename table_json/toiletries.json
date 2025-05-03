@@ -66,11 +66,6 @@
             ]
           },
           {
-            "HS Code": "3307.90.00.00",
-            "Description": "Other",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Preparations for perfuming or deodorizing rooms, including odoriferous preparations used during religious rites:",
             "Subentries": [
@@ -85,6 +80,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "3307.90.00.00",
+            "Description": "Other",
+            "Subentries": []
           }
         ]
       }
@@ -98,27 +98,6 @@
         "HS Code": "3401",
         "Description": "Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, molded pieces or shapes, whether or not containing soap; organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent:",
         "Subentries": [
-          {
-            "HS Code": "3401.20.00.00",
-            "Description": "Soap in other forms",
-            "Subentries": []
-          },
-          {
-            "HS Code": "3401.30",
-            "Description": "Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap:",
-            "Subentries": [
-              {
-                "HS Code": "3401.30.10.00",
-                "Description": "Containing any aromatic or modified aromatic surface-active agent",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3401.30.50.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
           {
             "HS Code": "",
             "Description": "Soap and organic surface-active products and preparations, in the form of bars, cakes, molded pieces or shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent:",
@@ -141,6 +120,27 @@
               },
               {
                 "HS Code": "3401.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3401.20.00.00",
+            "Description": "Soap in other forms",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3401.30",
+            "Description": "Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap:",
+            "Subentries": [
+              {
+                "HS Code": "3401.30.10.00",
+                "Description": "Containing any aromatic or modified aromatic surface-active agent",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3401.30.50.00",
                 "Description": "Other",
                 "Subentries": []
               }

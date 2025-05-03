@@ -102,22 +102,6 @@
                 "Description": "Combined with sound recording or reproducing apparatus:",
                 "Subentries": [
                   {
-                    "HS Code": "8527.21.40",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "8527.21.40.40",
-                        "Description": "Incorporating optical disc (including compact disc) players or recorders",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8527.21.40.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Radio-tape player combinations:",
                     "Subentries": [
@@ -141,6 +125,22 @@
                             "Subentries": []
                           }
                         ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8527.21.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8527.21.40.40",
+                        "Description": "Incorporating optical disc (including compact disc) players or recorders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8527.21.40.80",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

@@ -96,6 +96,22 @@
                     "Description": "With outer surface of textile materials:",
                     "Subentries": [
                       {
+                        "HS Code": "",
+                        "Description": "Of vegetable fibers and not of pile or tufted construction:",
+                        "Subentries": [
+                          {
+                            "HS Code": "4202.12.40.00",
+                            "Description": "Of cotton (369)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4202.12.60.00",
+                            "Description": "Other (870)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
                         "HS Code": "4202.12.81",
                         "Description": "Of man-made fibers",
                         "Subentries": [
@@ -156,22 +172,6 @@
                                 "Subentries": []
                               }
                             ]
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Of vegetable fibers and not of pile or tufted construction:",
-                        "Subentries": [
-                          {
-                            "HS Code": "4202.12.40.00",
-                            "Description": "Of cotton (369)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "4202.12.60.00",
-                            "Description": "Other (870)",
-                            "Subentries": []
                           }
                         ]
                       }

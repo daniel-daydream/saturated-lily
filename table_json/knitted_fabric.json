@@ -129,11 +129,6 @@
                 "Description": "Unbleached or bleached",
                 "Subentries": [
                   {
-                    "HS Code": "6006.31.00.80",
-                    "Description": "Other (222)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of double knit or interlock construction:",
                     "Subentries": [
@@ -153,6 +148,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "6006.31.00.80",
+                    "Description": "Other (222)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -160,11 +160,6 @@
                 "HS Code": "6006.32.00",
                 "Description": "Dyed",
                 "Subentries": [
-                  {
-                    "HS Code": "6006.32.00.80",
-                    "Description": "Other (222)",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of double knit or interlock construction:",
@@ -185,6 +180,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "6006.32.00.80",
+                    "Description": "Other (222)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -192,11 +192,6 @@
                 "HS Code": "6006.33.00",
                 "Description": "Of yarns of different colors",
                 "Subentries": [
-                  {
-                    "HS Code": "6006.33.00.80",
-                    "Description": "Other (222)",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of double knit or interlock construction:",
@@ -217,6 +212,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "6006.33.00.80",
+                    "Description": "Other (222)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -224,11 +224,6 @@
                 "HS Code": "6006.34.00",
                 "Description": "Printed",
                 "Subentries": [
-                  {
-                    "HS Code": "6006.34.00.80",
-                    "Description": "Other (222)",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of double knit or interlock construction:",
@@ -249,6 +244,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "6006.34.00.80",
+                    "Description": "Other (222)",
+                    "Subentries": []
                   }
                 ]
               }

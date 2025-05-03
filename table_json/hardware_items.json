@@ -114,33 +114,6 @@
             ]
           },
           {
-            "HS Code": "8202.40",
-            "Description": "Chain saw blades, and parts thereof:",
-            "Subentries": [
-              {
-                "HS Code": "8202.40.30.00",
-                "Description": "With cutting parts containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8202.40.60",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8202.40.60.30",
-                    "Description": "In continuous lengths",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8202.40.60.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Circular saw blades (including slitting or slotting saw blades), and parts thereof:",
             "Subentries": [
@@ -165,6 +138,33 @@
                   },
                   {
                     "HS Code": "8202.39.00.70",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8202.40",
+            "Description": "Chain saw blades, and parts thereof:",
+            "Subentries": [
+              {
+                "HS Code": "8202.40.30.00",
+                "Description": "With cutting parts containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8202.40.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8202.40.60.30",
+                    "Description": "In continuous lengths",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8202.40.60.60",
                     "Description": "Other",
                     "Subentries": []
                   }
@@ -297,11 +297,6 @@
         "Description": "Hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches); socket wrenches, with or without handles, drives or extensions; base metal parts thereof:",
         "Subentries": [
           {
-            "HS Code": "8204.20.00.00",
-            "Description": "Socket wrenches, with or without handles, drives and extensions, and parts thereof",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Hand-operated spanners and wrenches, and parts thereof:",
             "Subentries": [
@@ -327,6 +322,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "8204.20.00.00",
+            "Description": "Socket wrenches, with or without handles, drives and extensions, and parts thereof",
+            "Subentries": []
           }
         ]
       },
@@ -377,54 +377,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "8205.60.00.00",
-            "Description": "Blow torches and similar self-contained torches, and parts thereof",
-            "Subentries": []
-          },
-          {
-            "HS Code": "8205.70.00",
-            "Description": "Vises, clamps and the like, and parts thereof",
-            "Subentries": [
-              {
-                "HS Code": "8205.70.00.90",
-                "Description": "Other (including parts)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Vises:",
-                "Subentries": [
-                  {
-                    "HS Code": "8205.70.00.30",
-                    "Description": "Pipe",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8205.70.00.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "8205.90",
-            "Description": "Other, including sets of articles of two or more subheadings of this heading:",
-            "Subentries": [
-              {
-                "HS Code": "8205.90.10.00",
-                "Description": "Anvils; portable forges; hand- or pedal-operated grinding wheels with frameworks; base metal parts thereof",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8205.90.60.00",
-                "Description": "Sets of articles of two or more of the foregoing subheadings",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Other handtools (including glass cutters) and parts thereof:",
             "Subentries": [
@@ -432,21 +384,6 @@
                 "HS Code": "8205.51",
                 "Description": "Household tools, and parts thereof:",
                 "Subentries": [
-                  {
-                    "HS Code": "8205.51.45.00",
-                    "Description": "Of copper",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8205.51.60.00",
-                    "Description": "Of aluminum",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8205.51.75.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of iron or steel:",
@@ -473,6 +410,21 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8205.51.45.00",
+                    "Description": "Of copper",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8205.51.60.00",
+                    "Description": "Of aluminum",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8205.51.75.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -511,21 +463,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "8205.59.60.00",
-                        "Description": "Of copper",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8205.59.70.00",
-                        "Description": "Of aluminum",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8205.59.80.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Of iron or steel",
                         "Subentries": [
@@ -538,11 +475,6 @@
                             "HS Code": "8205.59.55",
                             "Description": "Other",
                             "Subentries": [
-                              {
-                                "HS Code": "8205.59.55.60",
-                                "Description": "Other (including parts)",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Edged handtools:",
@@ -558,14 +490,82 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "8205.59.55.60",
+                                "Description": "Other (including parts)",
+                                "Subentries": []
                               }
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8205.59.60.00",
+                        "Description": "Of copper",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8205.59.70.00",
+                        "Description": "Of aluminum",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8205.59.80.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8205.60.00.00",
+            "Description": "Blow torches and similar self-contained torches, and parts thereof",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8205.70.00",
+            "Description": "Vises, clamps and the like, and parts thereof",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Vises:",
+                "Subentries": [
+                  {
+                    "HS Code": "8205.70.00.30",
+                    "Description": "Pipe",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8205.70.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8205.70.00.90",
+                "Description": "Other (including parts)",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8205.90",
+            "Description": "Other, including sets of articles of two or more subheadings of this heading:",
+            "Subentries": [
+              {
+                "HS Code": "8205.90.10.00",
+                "Description": "Anvils; portable forges; hand- or pedal-operated grinding wheels with frameworks; base metal parts thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8205.90.60.00",
+                "Description": "Sets of articles of two or more of the foregoing subheadings",
+                "Subentries": []
               }
             ]
           }
@@ -580,6 +580,88 @@
         "HS Code": "8207",
         "Description": "Interchangeable tools for handtools, whether or not power operated, or for machine-tools (for example, for pressing, stamping, punching, tapping, threading, drilling, boring, broaching, milling, turning or screwdriving), including dies for drawing or extruding metal, and rock drilling or earth boring tools; base metal parts thereof:",
         "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Rock drilling or earth boring tools, and parts thereof:",
+            "Subentries": [
+              {
+                "HS Code": "8207.13.00.00",
+                "Description": "With working part of cermets",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8207.19",
+                "Description": "Other, including parts:",
+                "Subentries": [
+                  {
+                    "HS Code": "8207.19.30",
+                    "Description": "With cutting part containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium",
+                    "Subentries": [
+                      {
+                        "HS Code": "8207.19.30.30",
+                        "Description": "Percussion rock drill bits",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8207.19.30.60",
+                            "Description": "Rotary rock drill bits, core bits and reamers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8207.19.30.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8207.19.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8207.19.60.30",
+                        "Description": "Percussion rock drill bits",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Rotary rock drill bits, core bits and reamers:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8207.19.60.65",
+                                "Description": "With working part of diamonds",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8207.19.60.70",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "8207.19.60.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
           {
             "HS Code": "8207.20.00",
             "Description": "Dies for drawing or extruding metal, and parts thereof",
@@ -860,11 +942,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "8207.90.30.85",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "For woodworking:",
                         "Subentries": [
@@ -879,6 +956,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8207.90.30.85",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -911,88 +993,6 @@
                               },
                               {
                                 "HS Code": "8207.90.75.85",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Rock drilling or earth boring tools, and parts thereof:",
-            "Subentries": [
-              {
-                "HS Code": "8207.13.00.00",
-                "Description": "With working part of cermets",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8207.19",
-                "Description": "Other, including parts:",
-                "Subentries": [
-                  {
-                    "HS Code": "8207.19.30",
-                    "Description": "With cutting part containing by weight over 0.2 percent of chromium, molybdenum, or tungsten or over 0.1 percent of vanadium",
-                    "Subentries": [
-                      {
-                        "HS Code": "8207.19.30.30",
-                        "Description": "Percussion rock drill bits",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8207.19.30.60",
-                            "Description": "Rotary rock drill bits, core bits and reamers",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8207.19.30.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "8207.19.60",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "8207.19.60.30",
-                        "Description": "Percussion rock drill bits",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8207.19.60.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Rotary rock drill bits, core bits and reamers:",
-                            "Subentries": [
-                              {
-                                "HS Code": "8207.19.60.65",
-                                "Description": "With working part of diamonds",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "8207.19.60.70",
                                 "Description": "Other",
                                 "Subentries": []
                               }
@@ -1143,38 +1143,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "8211.91.50",
-                    "Description": "Knives with rubber or plastic handles",
-                    "Subentries": [
-                      {
-                        "HS Code": "8211.91.50.30",
-                        "Description": "Steak knives",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8211.91.50.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "8211.91.80",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "8211.91.80.30",
-                        "Description": "Steak knives",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8211.91.80.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Knives with stainless steel handles:",
                     "Subentries": [
@@ -1209,6 +1177,38 @@
                             "Subentries": []
                           }
                         ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8211.91.50",
+                    "Description": "Knives with rubber or plastic handles",
+                    "Subentries": [
+                      {
+                        "HS Code": "8211.91.50.30",
+                        "Description": "Steak knives",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8211.91.50.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8211.91.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8211.91.80.30",
+                        "Description": "Steak knives",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8211.91.80.60",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -1441,11 +1441,6 @@
             "Description": "Other:",
             "Subentries": [
               {
-                "HS Code": "8214.90.90.00",
-                "Description": "Other (including parts)",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Cleavers and the like not elsewhere specified or included:",
                 "Subentries": [
@@ -1460,6 +1455,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "8214.90.90.00",
+                "Description": "Other (including parts)",
+                "Subentries": []
               }
             ]
           }
@@ -1509,19 +1509,9 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "8215.99.50.00",
-                    "Description": "Other (including parts)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Forks:",
                     "Subentries": [
-                      {
-                        "HS Code": "8215.99.20.00",
-                        "Description": "With rubber or plastic handles",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "With stainless steel handles:",
@@ -1561,6 +1551,11 @@
                         ]
                       },
                       {
+                        "HS Code": "8215.99.20.00",
+                        "Description": "With rubber or plastic handles",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "",
                         "Description": "Other:",
                         "Subentries": [
@@ -1594,6 +1589,22 @@
                     "Description": "Spoons and ladles:",
                     "Subentries": [
                       {
+                        "HS Code": "",
+                        "Description": "With stainless steel handles:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8215.99.30.00",
+                            "Description": "Spoons valued under 25\u00a2 each",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8215.99.35.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
                         "HS Code": "8215.99.40",
                         "Description": "With base metal (except stainless steel) or nonmetal handles",
                         "Subentries": [
@@ -1613,24 +1624,13 @@
                         "HS Code": "8215.99.45.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "With stainless steel handles:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8215.99.30.00",
-                            "Description": "Spoons valued under 25\u00a2 each",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8215.99.35.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8215.99.50.00",
+                    "Description": "Other (including parts)",
+                    "Subentries": []
                   }
                 ]
               }
@@ -1792,27 +1792,6 @@
             "Description": "Hinges, and parts thereof:",
             "Subentries": [
               {
-                "HS Code": "8302.10.90",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8302.10.90.30",
-                    "Description": "Suitable for interior and exterior doors (except garage, overhead or sliding doors)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8302.10.90.60",
-                    "Description": "Suitable for furniture and cabinets",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8302.10.90.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
                 "HS Code": "",
                 "Description": "Of iron or steel, of aluminum or of zinc:",
                 "Subentries": [
@@ -1841,6 +1820,27 @@
                         "Subentries": []
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8302.10.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8302.10.90.30",
+                    "Description": "Suitable for interior and exterior doors (except garage, overhead or sliding doors)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8302.10.90.60",
+                    "Description": "Suitable for furniture and cabinets",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8302.10.90.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -1879,27 +1879,6 @@
             ]
           },
           {
-            "HS Code": "8302.50.00.00",
-            "Description": "Hat-racks, hat pegs, brackets and similar fixtures, and parts thereof",
-            "Subentries": []
-          },
-          {
-            "HS Code": "8302.60",
-            "Description": "Automatic door closers, and parts thereof:",
-            "Subentries": [
-              {
-                "HS Code": "8302.60.30.00",
-                "Description": "Automatic door closers",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8302.60.90.00",
-                "Description": "Parts",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Other mountings, fittings and similar articles, and parts thereof:",
             "Subentries": [
@@ -1921,16 +1900,6 @@
                         "Description": "Of iron or steel, of aluminum or of zinc",
                         "Subentries": [
                           {
-                            "HS Code": "8302.41.60.50",
-                            "Description": "For curtains, draperies and window shades",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8302.41.60.80",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Suitable for interior and exterior doors (except garage, overhead or sliding doors):",
                             "Subentries": [
@@ -1945,6 +1914,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8302.41.60.50",
+                            "Description": "For curtains, draperies and window shades",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8302.41.60.80",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       },
@@ -1952,16 +1931,6 @@
                         "HS Code": "8302.41.90",
                         "Description": "Other",
                         "Subentries": [
-                          {
-                            "HS Code": "8302.41.90.50",
-                            "Description": "For curtains, draperies and window shades",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8302.41.90.80",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Suitable for interior and exterior doors (except garage, overhead or sliding doors):",
@@ -1977,6 +1946,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8302.41.90.50",
+                            "Description": "For curtains, draperies and window shades",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8302.41.90.80",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -2077,11 +2056,6 @@
                         "Description": "Other",
                         "Subentries": [
                           {
-                            "HS Code": "8302.49.80.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "For railway vehicles, aircraft, vessels and other vehicles (except motor vehicles) of section XVII:",
                             "Subentries": [
@@ -2096,12 +2070,38 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8302.49.80.90",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
                     ]
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8302.50.00.00",
+            "Description": "Hat-racks, hat pegs, brackets and similar fixtures, and parts thereof",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8302.60",
+            "Description": "Automatic door closers, and parts thereof:",
+            "Subentries": [
+              {
+                "HS Code": "8302.60.30.00",
+                "Description": "Automatic door closers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8302.60.90.00",
+                "Description": "Parts",
+                "Subentries": []
               }
             ]
           }
@@ -2181,11 +2181,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "8306.30.00.00",
-            "Description": "Photograph, picture or similar frames; mirrors; and parts thereof",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Statuettes and other ornaments, and parts thereof:",
             "Subentries": [
@@ -2200,6 +2195,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "8306.30.00.00",
+            "Description": "Photograph, picture or similar frames; mirrors; and parts thereof",
+            "Subentries": []
           }
         ]
       },

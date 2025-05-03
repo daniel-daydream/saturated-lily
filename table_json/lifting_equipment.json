@@ -67,16 +67,6 @@
         "Description": "Ships' derricks; cranes, including cable cranes; mobile lifting frames, straddle carriers and works trucks fitted with a crane:",
         "Subentries": [
           {
-            "HS Code": "8426.20.00.00",
-            "Description": "Tower cranes",
-            "Subentries": []
-          },
-          {
-            "HS Code": "8426.30.00.00",
-            "Description": "Portal or pedestal jib cranes",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Overhead traveling cranes, transporter cranes, gantry cranes, bridge cranes, mobile lifting frames and straddle carriers:",
             "Subentries": [
@@ -96,6 +86,16 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "8426.20.00.00",
+            "Description": "Tower cranes",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8426.30.00.00",
+            "Description": "Portal or pedestal jib cranes",
+            "Subentries": []
           },
           {
             "HS Code": "",
@@ -305,6 +305,32 @@
             ]
           },
           {
+            "HS Code": "",
+            "Description": "Other continuous-action elevators and conveyors, for goods or materials:",
+            "Subentries": [
+              {
+                "HS Code": "8428.31.00.00",
+                "Description": "Specially designed for underground use",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8428.32.00.00",
+                "Description": "Other, bucket type",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8428.33.00.00",
+                "Description": "Other, belt type",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8428.39.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "8428.40.00.00",
             "Description": "Escalators and moving walkways",
             "Subentries": []
@@ -330,32 +356,6 @@
               },
               {
                 "HS Code": "8428.90.03.90",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Other continuous-action elevators and conveyors, for goods or materials:",
-            "Subentries": [
-              {
-                "HS Code": "8428.31.00.00",
-                "Description": "Specially designed for underground use",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8428.32.00.00",
-                "Description": "Other, bucket type",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8428.33.00.00",
-                "Description": "Other, belt type",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8428.39.00.00",
                 "Description": "Other",
                 "Subentries": []
               }

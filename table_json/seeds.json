@@ -13,22 +13,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "1209.30.00",
-            "Description": "Seeds of herbaceous plants cultivated principally for their flowers",
-            "Subentries": [
-              {
-                "HS Code": "1209.30.00.10",
-                "Description": "Petunia",
-                "Subentries": []
-              },
-              {
-                "HS Code": "1209.30.00.90",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Seeds of forage plants:",
             "Subentries": [
@@ -72,16 +56,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "1209.22.40.60",
-                        "Description": "Sweet",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1209.22.40.95",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Red:",
                         "Subentries": [
@@ -96,6 +70,16 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "1209.22.40.60",
+                        "Description": "Sweet",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.22.40.95",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -108,16 +92,6 @@
                   {
                     "HS Code": "1209.23.00.20",
                     "Description": "Tall",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "1209.23.00.60",
-                    "Description": "Meadow",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "1209.23.00.90",
-                    "Description": "Other",
                     "Subentries": []
                   },
                   {
@@ -135,6 +109,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "1209.23.00.60",
+                    "Description": "Meadow",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1209.23.00.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -178,36 +162,6 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "1209.29.91.30",
-                        "Description": "Birdsfoot trefoil",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1209.29.91.40",
-                        "Description": "Orchard grass",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1209.29.91.60",
-                        "Description": "Sudan grass",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1209.29.91.76",
-                        "Description": "Wild rye",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1209.29.91.79",
-                        "Description": "Other grass",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1209.29.91.96",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Wheatgrass:",
                         "Subentries": [
@@ -247,6 +201,36 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "1209.29.91.30",
+                        "Description": "Birdsfoot trefoil",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.29.91.40",
+                        "Description": "Orchard grass",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.29.91.60",
+                        "Description": "Sudan grass",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.29.91.76",
+                        "Description": "Wild rye",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.29.91.79",
+                        "Description": "Other grass",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.29.91.96",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -300,6 +284,22 @@
                         "HS Code": "1209.91.80.05",
                         "Description": "Broccoli",
                         "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Cabbage:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1209.91.80.08",
+                            "Description": "Green cabbage",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1209.91.80.09",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
                       },
                       {
                         "HS Code": "1209.91.80.10",
@@ -365,22 +365,6 @@
                         "HS Code": "1209.91.80.90",
                         "Description": "Other",
                         "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Cabbage:",
-                        "Subentries": [
-                          {
-                            "HS Code": "1209.91.80.08",
-                            "Description": "Green cabbage",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "1209.91.80.09",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
                       }
                     ]
                   }
@@ -412,6 +396,22 @@
                     ]
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "1209.30.00",
+            "Description": "Seeds of herbaceous plants cultivated principally for their flowers",
+            "Subentries": [
+              {
+                "HS Code": "1209.30.00.10",
+                "Description": "Petunia",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1209.30.00.90",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           }

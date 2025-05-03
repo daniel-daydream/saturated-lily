@@ -8,22 +8,6 @@
         "Description": "Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion:",
         "Subentries": [
           {
-            "HS Code": "0901.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "0901.90.10.00",
-                "Description": "Coffee husks and skins",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0901.90.20.00",
-                "Description": "Coffee substitutes containing coffee",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Coffee, not roasted:",
             "Subentries": [
@@ -130,11 +114,6 @@
                 "Description": "Decaffeinated",
                 "Subentries": [
                   {
-                    "HS Code": "0901.22.00.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "In retail containers weighing 2 kg or less:",
                     "Subentries": [
@@ -149,8 +128,29 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0901.22.00.60",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0901.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "0901.90.10.00",
+                "Description": "Coffee husks and skins",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0901.90.20.00",
+                "Description": "Coffee substitutes containing coffee",
+                "Subentries": []
               }
             ]
           }
@@ -230,11 +230,6 @@
             "Description": "Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",
             "Subentries": [
               {
-                "HS Code": "0902.30.00.90",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "In tea bags:",
                 "Subentries": [
@@ -249,6 +244,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "0902.30.00.90",
+                "Description": "Other",
+                "Subentries": []
               }
             ]
           },
@@ -304,11 +304,6 @@
                 "Description": "Dried, neither crushed nor ground:",
                 "Subentries": [
                   {
-                    "HS Code": "0904.21.80.00",
-                    "Description": "Of the genus Pimenta (including allspice)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of the genusCapsicum(including cayenne pepper, paprika and red pepper):",
                     "Subentries": [
@@ -344,6 +339,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0904.21.80.00",
+                    "Description": "Of the genus Pimenta (including allspice)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -351,11 +351,6 @@
                 "HS Code": "0904.22",
                 "Description": "Crushed or ground:",
                 "Subentries": [
-                  {
-                    "HS Code": "0904.22.80.00",
-                    "Description": "Of the genus Pimenta (including allspice)",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of the genus Capsicum (including cayenne Pepper, paprika and red pepper):",
@@ -381,6 +376,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0904.22.80.00",
+                    "Description": "Of the genus Pimenta (including allspice)",
+                    "Subentries": []
                   }
                 ]
               }
@@ -409,11 +409,6 @@
         "Description": "Cinnamon and cinnamon-tree flowers:",
         "Subentries": [
           {
-            "HS Code": "0906.20.00.00",
-            "Description": "Crushed or ground",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Neither crushed nor ground:",
             "Subentries": [
@@ -428,6 +423,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "0906.20.00.00",
+            "Description": "Crushed or ground",
+            "Subentries": []
           }
         ]
       },
@@ -571,16 +571,6 @@
         "Description": "Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices:",
         "Subentries": [
           {
-            "HS Code": "0910.20.00.00",
-            "Description": "Saffron",
-            "Subentries": []
-          },
-          {
-            "HS Code": "0910.30.00.00",
-            "Description": "Turmeric (curcuma)",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Ginger:",
             "Subentries": [
@@ -608,6 +598,16 @@
             ]
           },
           {
+            "HS Code": "0910.20.00.00",
+            "Description": "Saffron",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0910.30.00.00",
+            "Description": "Turmeric (curcuma)",
+            "Subentries": []
+          },
+          {
             "HS Code": "",
             "Description": "Other spices:",
             "Subentries": [
@@ -620,11 +620,6 @@
                 "HS Code": "0910.99",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "0910.99.10.00",
-                    "Description": "Curry",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Thyme; bay leaves:",
@@ -651,6 +646,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0910.99.10.00",
+                    "Description": "Curry",
+                    "Subentries": []
                   },
                   {
                     "HS Code": "",

@@ -13,11 +13,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "8306.30.00.00",
-            "Description": "Photograph, picture or similar frames; mirrors; and parts thereof",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Statuettes and other ornaments, and parts thereof:",
             "Subentries": [
@@ -32,6 +27,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "8306.30.00.00",
+            "Description": "Photograph, picture or similar frames; mirrors; and parts thereof",
+            "Subentries": []
           }
         ]
       }

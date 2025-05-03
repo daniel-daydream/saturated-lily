@@ -8,38 +8,6 @@
         "Description": "Combs, hair-slides and the like; hairpins, curling pins, curling grips, hair-curlers and the like, other than those of heading 8516, and parts thereof:",
         "Subentries": [
           {
-            "HS Code": "9615.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "9615.90.20.00",
-                "Description": "Nonthermic, nonornamental devices for curling the hair",
-                "Subentries": []
-              },
-              {
-                "HS Code": "9615.90.30.00",
-                "Description": "Hair pins",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "9615.90.40.00",
-                    "Description": "Of rubber or plastics, not set with imitation pearls or imitation gemstones",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9615.90.60.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Combs, hair-slides and the like:",
             "Subentries": [
@@ -97,11 +65,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "9615.19.60.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Combs:",
                     "Subentries": [
@@ -116,6 +79,43 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "9615.19.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9615.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9615.90.20.00",
+                "Description": "Nonthermic, nonornamental devices for curling the hair",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9615.90.30.00",
+                "Description": "Hair pins",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9615.90.40.00",
+                    "Description": "Of rubber or plastics, not set with imitation pearls or imitation gemstones",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9615.90.60.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

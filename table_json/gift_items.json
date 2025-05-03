@@ -12,11 +12,6 @@
             "Description": "Articles for Christmas festivities and parts and accessories thereof:",
             "Subentries": [
               {
-                "HS Code": "9505.10.30.00",
-                "Description": "Nativity scenes and figures thereof",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Christmas ornaments:",
                 "Subentries": [
@@ -42,6 +37,11 @@
                     ]
                   }
                 ]
+              },
+              {
+                "HS Code": "9505.10.30.00",
+                "Description": "Nativity scenes and figures thereof",
+                "Subentries": []
               },
               {
                 "HS Code": "",

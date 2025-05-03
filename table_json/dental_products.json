@@ -25,11 +25,6 @@
         "Description": "Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments; parts and accessories thereof:",
         "Subentries": [
           {
-            "HS Code": "9018.50.00.00",
-            "Description": "Other ophthalmic instruments and appliances and parts and accessories thereof",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Other instruments and appliances, used in dental sciences, and parts and accessories thereof:",
             "Subentries": [
@@ -66,6 +61,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "9018.50.00.00",
+            "Description": "Other ophthalmic instruments and appliances and parts and accessories thereof",
+            "Subentries": []
           }
         ]
       },
@@ -73,38 +73,6 @@
         "HS Code": "9021",
         "Description": "Orthopedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability; parts and accessories thereof:",
         "Subentries": [
-          {
-            "HS Code": "9021.40.00.00",
-            "Description": "Hearing aids, excluding parts and accessories thereof",
-            "Subentries": []
-          },
-          {
-            "HS Code": "9021.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "9021.90.40",
-                "Description": "Parts and accessories for hearing aids and for pacemakers for stimulating heart muscles",
-                "Subentries": [
-                  {
-                    "HS Code": "9021.90.40.40",
-                    "Description": "For hearing aids",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9021.90.40.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "9021.90.81.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
           {
             "HS Code": "",
             "Description": "Artificial teeth and dental fittings, and parts and accessories thereof:",
@@ -148,6 +116,38 @@
               },
               {
                 "HS Code": "9021.39.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9021.40.00.00",
+            "Description": "Hearing aids, excluding parts and accessories thereof",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9021.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9021.90.40",
+                "Description": "Parts and accessories for hearing aids and for pacemakers for stimulating heart muscles",
+                "Subentries": [
+                  {
+                    "HS Code": "9021.90.40.40",
+                    "Description": "For hearing aids",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9021.90.40.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9021.90.81.00",
                 "Description": "Other",
                 "Subentries": []
               }

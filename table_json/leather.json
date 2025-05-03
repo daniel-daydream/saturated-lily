@@ -32,11 +32,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "4101.20.70.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of bovine animals (including buffalo):",
                     "Subentries": [
@@ -84,6 +79,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4101.20.70.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -97,11 +97,6 @@
                 "HS Code": "4101.50.10",
                 "Description": "Not pretanned",
                 "Subentries": [
-                  {
-                    "HS Code": "4101.50.10.91",
-                    "Description": "Of equine animals",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of bovine animals:",
@@ -117,6 +112,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4101.50.10.91",
+                    "Description": "Of equine animals",
+                    "Subentries": []
                   }
                 ]
               },
@@ -124,11 +124,6 @@
                 "HS Code": "",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "4101.50.70.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of bovine animals (including buffalo):",
@@ -177,6 +172,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4101.50.70.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -191,19 +191,9 @@
                 "Description": "Not pretanned",
                 "Subentries": [
                   {
-                    "HS Code": "4101.90.10.40",
-                    "Description": "Of equine animals",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of bovine animals:",
                     "Subentries": [
-                      {
-                        "HS Code": "4101.90.10.30",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Fresh or wet-salted:",
@@ -219,8 +209,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4101.90.10.30",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4101.90.10.40",
+                    "Description": "Of equine animals",
+                    "Subentries": []
                   }
                 ]
               },
@@ -228,11 +228,6 @@
                 "HS Code": "",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "4101.90.70.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Of bovine animals (including buffalo):",
@@ -259,6 +254,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4101.90.70.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -436,11 +436,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "4103.90.20.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of goats or kids:",
                     "Subentries": [
@@ -455,6 +450,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4103.90.20.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -546,11 +546,6 @@
                             "Description": "Other",
                             "Subentries": [
                               {
-                                "HS Code": "4104.11.50.80",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Wet blues:",
                                 "Subentries": [
@@ -576,6 +571,11 @@
                                     ]
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "4104.11.50.80",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -650,11 +650,6 @@
                             "Description": "Other",
                             "Subentries": [
                               {
-                                "HS Code": "4104.19.50.80",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Wet blues:",
                                 "Subentries": [
@@ -680,6 +675,11 @@
                                     ]
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "4104.19.50.80",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -895,11 +895,6 @@
         "Description": "Tanned or crust skins of other animals, without wool or hair on, whether or not split, but not further prepared:",
         "Subentries": [
           {
-            "HS Code": "4106.40.00.00",
-            "Description": "Of reptiles",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Of goats or kids:",
             "Subentries": [
@@ -952,6 +947,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "4106.40.00.00",
+            "Description": "Of reptiles",
+            "Subentries": []
           },
           {
             "HS Code": "",

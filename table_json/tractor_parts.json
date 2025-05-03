@@ -16,11 +16,6 @@
                 "Description": "Bumpers",
                 "Subentries": [
                   {
-                    "HS Code": "8708.10.30.50",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Stampings:",
                     "Subentries": [
@@ -40,6 +35,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8708.10.30.50",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -56,6 +56,86 @@
                     "HS Code": "8708.10.60.50",
                     "Description": "Other",
                     "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other parts and accessories of bodies (including cabs):",
+            "Subentries": [
+              {
+                "HS Code": "8708.21.00.00",
+                "Description": "Safety seat belts",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8708.22.00.00",
+                "Description": "Front windscreens (windshields), rear windows and  other windows specified in subheading note 1 to this chapter",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8708.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8708.29.15.00",
+                    "Description": "Door assemblies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Body stampings:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8708.29.21",
+                        "Description": "For tractors suitable for agricultural use",
+                        "Subentries": [
+                          {
+                            "HS Code": "8708.29.21.20",
+                            "Description": "Of steel",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8708.29.21.30",
+                            "Description": "Of aluminum",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8708.29.21.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8708.29.25.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8708.29.51",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8708.29.51.10",
+                        "Description": "Stampings",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8708.29.51.25",
+                        "Description": "Truck caps",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8708.29.51.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               }
@@ -199,22 +279,6 @@
                 "Description": "Drive-axles with differential, whether or not provided with other transmission components, and non-driving axles:",
                 "Subentries": [
                   {
-                    "HS Code": "8708.50.51",
-                    "Description": "For vehicles of heading 8703",
-                    "Subentries": [
-                      {
-                        "HS Code": "8708.50.51.10",
-                        "Description": "Drive axles with differential, whether or not provided with other transmission components",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8708.50.51.50",
-                        "Description": "Non-driving axles",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "For tractors (except road tractors):",
                     "Subentries": [
@@ -249,6 +313,22 @@
                             "Subentries": []
                           }
                         ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8708.50.51",
+                    "Description": "For vehicles of heading 8703",
+                    "Subentries": [
+                      {
+                        "HS Code": "8708.50.51.10",
+                        "Description": "Drive axles with differential, whether or not provided with other transmission components",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8708.50.51.50",
+                        "Description": "Non-driving axles",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -441,11 +521,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "8708.70.45.60",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Of aluminum:",
                             "Subentries": [
@@ -460,6 +535,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8708.70.45.60",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -570,86 +650,6 @@
                             "Subentries": []
                           }
                         ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Other parts and accessories of bodies (including cabs):",
-            "Subentries": [
-              {
-                "HS Code": "8708.21.00.00",
-                "Description": "Safety seat belts",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8708.22.00.00",
-                "Description": "Front windscreens (windshields), rear windows and  other windows specified in subheading note 1 to this chapter",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8708.29",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "8708.29.15.00",
-                    "Description": "Door assemblies",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8708.29.51",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "8708.29.51.10",
-                        "Description": "Stampings",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8708.29.51.25",
-                        "Description": "Truck caps",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8708.29.51.60",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Body stampings:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8708.29.21",
-                        "Description": "For tractors suitable for agricultural use",
-                        "Subentries": [
-                          {
-                            "HS Code": "8708.29.21.20",
-                            "Description": "Of steel",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8708.29.21.30",
-                            "Description": "Of aluminum",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8708.29.21.40",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "8708.29.25.00",
-                        "Description": "Other",
-                        "Subentries": []
                       }
                     ]
                   }

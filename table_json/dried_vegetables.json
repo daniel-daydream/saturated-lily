@@ -24,133 +24,6 @@
             ]
           },
           {
-            "HS Code": "0712.90",
-            "Description": "Other vegetables; mixtures of vegetables:",
-            "Subentries": [
-              {
-                "HS Code": "0712.90.10.00",
-                "Description": "Carrots",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0712.90.30.00",
-                "Description": "Potatoes whether or not cut or sliced but not further prepared",
-                "Subentries": []
-              },
-              {
-                "HS Code": "0712.90.40",
-                "Description": "Garlic",
-                "Subentries": [
-                  {
-                    "HS Code": "0712.90.40.20",
-                    "Description": "Powder or flour",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.40.40",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "0712.90.85",
-                "Description": "Other vegetables; mixtures of vegetables",
-                "Subentries": [
-                  {
-                    "HS Code": "0712.90.85.10",
-                    "Description": "Broccoli",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.85.20",
-                    "Description": "Celery stalks",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.85.30",
-                    "Description": "Leeks",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.85.40",
-                    "Description": "Spinach",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.85.50",
-                    "Description": "Sweet corn seeds of a kind used for sowing",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.85.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Olives:",
-                "Subentries": [
-                  {
-                    "HS Code": "0712.90.15.00",
-                    "Description": "Not ripe",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.20.00",
-                    "Description": "Ripe",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Fennel, marjoram, parsley, savory and tarragon:",
-                "Subentries": [
-                  {
-                    "HS Code": "0712.90.60.00",
-                    "Description": "Crude or not manufactured",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "0712.90.65.00",
-                        "Description": "Parsley",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "0712.90.70.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Tomatoes:",
-                "Subentries": [
-                  {
-                    "HS Code": "0712.90.74.00",
-                    "Description": "In powder",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.78.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles:",
             "Subentries": [
@@ -201,11 +74,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "0712.39.40.00",
-                    "Description": "Truffles",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Mushrooms:",
                     "Subentries": [
@@ -220,6 +88,138 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "0712.39.40.00",
+                    "Description": "Truffles",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0712.90",
+            "Description": "Other vegetables; mixtures of vegetables:",
+            "Subentries": [
+              {
+                "HS Code": "0712.90.10.00",
+                "Description": "Carrots",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Olives:",
+                "Subentries": [
+                  {
+                    "HS Code": "0712.90.15.00",
+                    "Description": "Not ripe",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.20.00",
+                    "Description": "Ripe",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0712.90.30.00",
+                "Description": "Potatoes whether or not cut or sliced but not further prepared",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0712.90.40",
+                "Description": "Garlic",
+                "Subentries": [
+                  {
+                    "HS Code": "0712.90.40.20",
+                    "Description": "Powder or flour",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.40.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Fennel, marjoram, parsley, savory and tarragon:",
+                "Subentries": [
+                  {
+                    "HS Code": "0712.90.60.00",
+                    "Description": "Crude or not manufactured",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0712.90.65.00",
+                        "Description": "Parsley",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0712.90.70.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Tomatoes:",
+                "Subentries": [
+                  {
+                    "HS Code": "0712.90.74.00",
+                    "Description": "In powder",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.78.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0712.90.85",
+                "Description": "Other vegetables; mixtures of vegetables",
+                "Subentries": [
+                  {
+                    "HS Code": "0712.90.85.10",
+                    "Description": "Broccoli",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.85.20",
+                    "Description": "Celery stalks",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.85.30",
+                    "Description": "Leeks",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.85.40",
+                    "Description": "Spinach",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.85.50",
+                    "Description": "Sweet corn seeds of a kind used for sowing",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.85.80",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

@@ -94,11 +94,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "8431.43.80.90",
-                        "Description": "Of other boring or sinking machinery",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Of oil and gas field machinery:",
                         "Subentries": [
@@ -118,6 +113,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8431.43.80.90",
+                        "Description": "Of other boring or sinking machinery",
+                        "Subentries": []
                       }
                     ]
                   }

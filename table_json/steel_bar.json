@@ -39,11 +39,6 @@
             "Description": "Other, not further worked than cold-formed or cold-finished",
             "Subentries": [
               {
-                "HS Code": "7215.50.00.90",
-                "Description": "Containing by weight 0.6 percent or more of carbon",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Containing by weight less than 0.25 percent of carbon:",
                 "Subentries": [
@@ -84,6 +79,11 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "7215.50.00.90",
+                "Description": "Containing by weight 0.6 percent or more of carbon",
+                "Subentries": []
               }
             ]
           }
@@ -93,60 +93,6 @@
         "HS Code": "7222",
         "Description": "Other bars and rods of stainless steel; angles, shapes and sections of stainless steel:",
         "Subentries": [
-          {
-            "HS Code": "7222.30.00",
-            "Description": "Other bars and rods",
-            "Subentries": [
-              {
-                "HS Code": "7222.30.00.01",
-                "Description": "Electroslag or vacuum arc remelted",
-                "Subentries": []
-              },
-              {
-                "HS Code": "7222.30.00.12",
-                "Description": "Of high-nickel alloy steel",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "",
-                    "Description": "With a maximum cross-sectional dimension of less than 152.4 mm:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7222.30.00.22",
-                        "Description": "Containing less than 8 percent by weight of nickel",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7222.30.00.24",
-                        "Description": "Containing 8 percent or more but less than 24 percent by weight of nickel",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "With a maximum cross-sectional dimension of 152.4 mm or more:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7222.30.00.82",
-                        "Description": "Containing less than 8 percent by weight of nickel",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7222.30.00.84",
-                        "Description": "Containing 8 percent or more but less than 24 percent by weight of nickel",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
           {
             "HS Code": "",
             "Description": "Bars and rods, not further worked than hot-rolled, hot-drawn or extruded:",
@@ -238,6 +184,60 @@
                             "Subentries": []
                           }
                         ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "7222.30.00",
+            "Description": "Other bars and rods",
+            "Subentries": [
+              {
+                "HS Code": "7222.30.00.01",
+                "Description": "Electroslag or vacuum arc remelted",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7222.30.00.12",
+                "Description": "Of high-nickel alloy steel",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "With a maximum cross-sectional dimension of less than 152.4 mm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7222.30.00.22",
+                        "Description": "Containing less than 8 percent by weight of nickel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7222.30.00.24",
+                        "Description": "Containing 8 percent or more but less than 24 percent by weight of nickel",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "With a maximum cross-sectional dimension of 152.4 mm or more:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7222.30.00.82",
+                        "Description": "Containing less than 8 percent by weight of nickel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7222.30.00.84",
+                        "Description": "Containing 8 percent or more but less than 24 percent by weight of nickel",
+                        "Subentries": []
                       }
                     ]
                   }

@@ -150,11 +150,6 @@
                 "Description": "Coniferous",
                 "Subentries": [
                   {
-                    "HS Code": "4403.11.00.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Poles, piles and posts:",
                     "Subentries": [
@@ -174,6 +169,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4403.11.00.60",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -181,11 +181,6 @@
                 "HS Code": "4403.12.00",
                 "Description": "Nonconiferous",
                 "Subentries": [
-                  {
-                    "HS Code": "4403.12.00.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Poles, piles and posts:",
@@ -206,6 +201,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4403.12.00.60",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -219,11 +219,6 @@
                 "HS Code": "4403.21.01",
                 "Description": "Of pine (Pinus spp.), of which the smallest cross-sectional dimension is 15 cm or more",
                 "Subentries": [
-                  {
-                    "HS Code": "4403.21.01.65",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Poles, piles and posts:",
@@ -265,6 +260,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4403.21.01.65",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -275,11 +275,6 @@
                   {
                     "HS Code": "4403.22.01.08",
                     "Description": "Pulpwood",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4403.22.01.65",
-                    "Description": "Other",
                     "Subentries": []
                   },
                   {
@@ -323,6 +318,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4403.22.01.65",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -330,11 +330,6 @@
                 "HS Code": "4403.23.01",
                 "Description": "Of fir (Abies spp.) and spruce (Picea spp.), of which the smallest cross-sectional dimension is 15 cm or more",
                 "Subentries": [
-                  {
-                    "HS Code": "4403.23.01.65",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Poles, piles and posts:",
@@ -371,6 +366,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4403.23.01.65",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -381,11 +381,6 @@
                   {
                     "HS Code": "4403.24.01.04",
                     "Description": "Pulpwood",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4403.24.01.65",
-                    "Description": "Other",
                     "Subentries": []
                   },
                   {
@@ -424,6 +419,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4403.24.01.65",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -431,11 +431,6 @@
                 "HS Code": "4403.25.01",
                 "Description": "Other, of which the smallest cross-sectional dimension is 15 cm or more",
                 "Subentries": [
-                  {
-                    "HS Code": "4403.25.01.65",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Poles, piles and posts:",
@@ -492,6 +487,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4403.25.01.65",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -502,11 +502,6 @@
                   {
                     "HS Code": "4403.26.01.08",
                     "Description": "Pulpwood",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4403.26.01.65",
-                    "Description": "Other",
                     "Subentries": []
                   },
                   {
@@ -565,6 +560,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4403.26.01.65",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -1092,11 +1092,6 @@
                             "Description": "Douglas-fir (Pseudotsuga menziesii):",
                             "Subentries": [
                               {
-                                "HS Code": "4407.19.00.57",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Rough:",
                                 "Subentries": [
@@ -1116,6 +1111,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "4407.19.00.57",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           },
@@ -1476,116 +1476,6 @@
             ]
           },
           {
-            "HS Code": "4408.90.01",
-            "Description": "Other",
-            "Subentries": [
-              {
-                "HS Code": "",
-                "Description": "Spliced or end-jointed:",
-                "Subentries": [
-                  {
-                    "HS Code": "4408.90.01.05",
-                    "Description": "Ash (Fraxinus spp.)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4408.90.01.10",
-                    "Description": "Birch (Betula spp.)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4408.90.01.15",
-                    "Description": "Cherry (Prunus spp.)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4408.90.01.21",
-                    "Description": "Maple (Acer spp.)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4408.90.01.45",
-                    "Description": "Walnut (Juglans spp.)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4408.90.01.51",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Oak (Quercus spp.):",
-                    "Subentries": [
-                      {
-                        "HS Code": "4408.90.01.31",
-                        "Description": "Red",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4408.90.01.37",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "4408.90.01.56",
-                    "Description": "Ash (Fraxinus spp.)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4408.90.01.61",
-                    "Description": "Birch (Betula spp.)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4408.90.01.66",
-                    "Description": "Cherry (Prunus spp.)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4408.90.01.71",
-                    "Description": "Maple (Acer spp.)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4408.90.01.87",
-                    "Description": "Walnut (Juglans spp.)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4408.90.01.97",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Oak (Quercus spp.):",
-                    "Subentries": [
-                      {
-                        "HS Code": "4408.90.01.76",
-                        "Description": "Red",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4408.90.01.81",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Of tropical wood:",
             "Subentries": [
@@ -1643,6 +1533,116 @@
                         "Subentries": []
                       }
                     ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "4408.90.01",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Spliced or end-jointed:",
+                "Subentries": [
+                  {
+                    "HS Code": "4408.90.01.05",
+                    "Description": "Ash (Fraxinus spp.)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4408.90.01.10",
+                    "Description": "Birch (Betula spp.)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4408.90.01.15",
+                    "Description": "Cherry (Prunus spp.)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4408.90.01.21",
+                    "Description": "Maple (Acer spp.)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Oak (Quercus spp.):",
+                    "Subentries": [
+                      {
+                        "HS Code": "4408.90.01.31",
+                        "Description": "Red",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4408.90.01.37",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "4408.90.01.45",
+                    "Description": "Walnut (Juglans spp.)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4408.90.01.51",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "4408.90.01.56",
+                    "Description": "Ash (Fraxinus spp.)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4408.90.01.61",
+                    "Description": "Birch (Betula spp.)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4408.90.01.66",
+                    "Description": "Cherry (Prunus spp.)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4408.90.01.71",
+                    "Description": "Maple (Acer spp.)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Oak (Quercus spp.):",
+                    "Subentries": [
+                      {
+                        "HS Code": "4408.90.01.76",
+                        "Description": "Red",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4408.90.01.81",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "4408.90.01.87",
+                    "Description": "Walnut (Juglans spp.)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4408.90.01.97",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -1711,30 +1711,9 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "4409.10.90",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "4409.10.90.20",
-                        "Description": "Western red cedar",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4409.10.90.40",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Wood moldings:",
                     "Subentries": [
-                      {
-                        "HS Code": "4409.10.50.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Standard wood molding:",
@@ -1761,6 +1740,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4409.10.50.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -1776,6 +1760,22 @@
                       {
                         "HS Code": "4409.10.65.00",
                         "Description": "Sanded, grooved, or otherwise advanced in condition",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "4409.10.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "4409.10.90.20",
+                        "Description": "Western red cedar",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4409.10.90.40",
+                        "Description": "Other",
                         "Subentries": []
                       }
                     ]
@@ -1813,11 +1813,6 @@
                     "Description": "Wood continuously shaped along any of its ends, whether or not also continuously shaped along any of its edges or faces, all the foregoing whether or not planed, sanded or end-jointed",
                     "Subentries": [
                       {
-                        "HS Code": "4409.22.05.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Wood flooring (end-matched):",
                         "Subentries": [
@@ -1847,6 +1842,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4409.22.05.90",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -1863,37 +1863,6 @@
                         "HS Code": "4409.22.25.00",
                         "Description": "Wood flooring",
                         "Subentries": []
-                      },
-                      {
-                        "HS Code": "4409.22.90",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "4409.22.90.20",
-                            "Description": "Cumaru (Dipteryx spp.), also known as Brazilian teak",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "4409.22.90.30",
-                            "Description": "Ip\u00e9 (Tabebuia spp. or Handroanthus spp.), also known as Tahibo or Taheebo, LaPacho or Lapacho, Brazilian walnut and Patagonian walnut",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "4409.22.90.45",
-                            "Description": "Keruing (Dipterocarpus spp.)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "4409.22.90.60",
-                            "Description": "Padauk (Padouk) or Narra (Pterocarpus spp.)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "4409.22.90.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
                       },
                       {
                         "HS Code": "",
@@ -1944,6 +1913,37 @@
                           {
                             "HS Code": "4409.22.65.00",
                             "Description": "Sanded, grooved or otherwise advanced in condition",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "4409.22.90",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "4409.22.90.20",
+                            "Description": "Cumaru (Dipteryx spp.), also known as Brazilian teak",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4409.22.90.30",
+                            "Description": "Ip\u00e9 (Tabebuia spp. or Handroanthus spp.), also known as Tahibo or Taheebo, LaPacho or Lapacho, Brazilian walnut and Patagonian walnut",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4409.22.90.45",
+                            "Description": "Keruing (Dipterocarpus spp.)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4409.22.90.60",
+                            "Description": "Padauk (Padouk) or Narra (Pterocarpus spp.)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4409.22.90.90",
+                            "Description": "Other",
                             "Subentries": []
                           }
                         ]
@@ -2003,11 +2003,6 @@
                         ]
                       },
                       {
-                        "HS Code": "4409.29.91.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Wood moldings:",
                         "Subentries": [
@@ -2038,6 +2033,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4409.29.91.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -2051,11 +2051,6 @@
         "HS Code": "4410",
         "Description": "Particle board, oriented strand board (OSB) and similar board (for example, waferboard) of wood or other ligneous materials, whether or not agglomerated with resins or other organic binding substances:",
         "Subentries": [
-          {
-            "HS Code": "4410.90.00.00",
-            "Description": "Other",
-            "Subentries": []
-          },
           {
             "HS Code": "",
             "Description": "Of wood:",
@@ -2129,6 +2124,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "4410.90.00.00",
+            "Description": "Other",
+            "Subentries": []
           }
         ]
       },
@@ -2590,86 +2590,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "4412.31.52",
-                            "Description": "Other",
-                            "Subentries": [
-                              {
-                                "HS Code": "4412.31.52.25",
-                                "Description": "Wood flooring",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Other:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "4412.31.52.35",
-                                    "Description": "With a face ply of sen (Kalopanax spp.)",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "",
-                                    "Description": "Other:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "4412.31.52.55",
-                                        "Description": "Panels not exceeding in any dimension 3.6 mm in thickness, 1.2 m in width and 2.2 m in length",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "",
-                                        "Description": "Other:",
-                                        "Subentries": [
-                                          {
-                                            "HS Code": "4412.31.52.75",
-                                            "Description": "Other",
-                                            "Subentries": []
-                                          },
-                                          {
-                                            "HS Code": "",
-                                            "Description": "Not surface covered:",
-                                            "Subentries": [
-                                              {
-                                                "HS Code": "4412.31.52.60",
-                                                "Description": "Albizia (Albizia spp.), also known as Falcata, Batai and Suar wood",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "4412.31.52.62",
-                                                "Description": "Bintangor (Calophyllum spp.)",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "4412.31.52.64",
-                                                "Description": "Mersawa (Anisoptera spp.)",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "4412.31.52.66",
-                                                "Description": "Parica (Schizolobium spp.), also known as Pinho Cuiabano, Firetree and Guapuruvu",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "4412.31.52.68",
-                                                "Description": "Pencil cedar, Nyatoh (Palaquium spp.)",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "4412.31.52.70",
-                                                "Description": "Other",
-                                                "Subentries": []
-                                              }
-                                            ]
-                                          }
-                                        ]
-                                      }
-                                    ]
-                                  }
-                                ]
-                              }
-                            ]
-                          },
-                          {
                             "HS Code": "",
                             "Description": "With at least one outer ply of the following tropical woods: Dark Red Meranti, Light Red Meranti, White Lauan, Sipo, Limba, Okoum\u00e9, Obeche, Acajou d'Afrique, Sapelli, Virola, Mahogany, Palissandre de Para, Palissandre de Rio or Palissandre de Rose:",
                             "Subentries": [
@@ -2743,6 +2663,86 @@
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "4412.31.52",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "4412.31.52.25",
+                                "Description": "Wood flooring",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "4412.31.52.35",
+                                    "Description": "With a face ply of sen (Kalopanax spp.)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "4412.31.52.55",
+                                        "Description": "Panels not exceeding in any dimension 3.6 mm in thickness, 1.2 m in width and 2.2 m in length",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "",
+                                        "Description": "Other:",
+                                        "Subentries": [
+                                          {
+                                            "HS Code": "",
+                                            "Description": "Not surface covered:",
+                                            "Subentries": [
+                                              {
+                                                "HS Code": "4412.31.52.60",
+                                                "Description": "Albizia (Albizia spp.), also known as Falcata, Batai and Suar wood",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "4412.31.52.62",
+                                                "Description": "Bintangor (Calophyllum spp.)",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "4412.31.52.64",
+                                                "Description": "Mersawa (Anisoptera spp.)",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "4412.31.52.66",
+                                                "Description": "Parica (Schizolobium spp.), also known as Pinho Cuiabano, Firetree and Guapuruvu",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "4412.31.52.68",
+                                                "Description": "Pencil cedar, Nyatoh (Palaquium spp.)",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "4412.31.52.70",
+                                                "Description": "Other",
+                                                "Subentries": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "HS Code": "4412.31.52.75",
+                                            "Description": "Other",
+                                            "Subentries": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
                           }
                         ]
                       }
@@ -2770,11 +2770,6 @@
                 "HS Code": "4412.33",
                 "Description": "Other, with at least one outer ply of nonconiferous wood of the species alder (Alnus spp.), ash (Fraxinus spp.), beech (Fagus spp.), birch (Betula spp.), cherry (Prunus spp.), chestnut (Castanea spp.), elm (Ulmus spp.), eucalyptus (Eucalyptus spp.), hickory (Carya spp.), horse chestnut (Aesculus spp.), lime (Tilia spp.), maple (Acer spp.), oak (Quercus spp.), plane tree (Platanus spp.), poplar and aspen (Populus spp.), robinia (Robinia spp.), tulipwood (Liriodendron spp.) or walnut (Juglans spp.):",
                 "Subentries": [
-                  {
-                    "HS Code": "4412.33.57.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:",
@@ -2888,6 +2883,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4412.33.57.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -2895,11 +2895,6 @@
                 "HS Code": "4412.34",
                 "Description": "Other, with at least one outer ply of nonconiferous wood not specified under subheading 4412.33:",
                 "Subentries": [
-                  {
-                    "HS Code": "4412.34.57.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:",
@@ -2964,6 +2959,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4412.34.57.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -2971,27 +2971,6 @@
                 "HS Code": "4412.39",
                 "Description": "Other, with both outer plies of coniferous wood:",
                 "Subentries": [
-                  {
-                    "HS Code": "4412.39.50",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "4412.39.50.10",
-                        "Description": "With at least one outer ply of Douglas fir (Pseudotsuga menziesii)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4412.39.50.30",
-                        "Description": "With at least one outer ply of long leaf pine (Pinus palustris), short leaf pine (Pinus echinata), southern yellow pine (loblolly pine) (Pinus taeda), slash pine (Pinus elliotti), pitch pine (Pinus rigida) or Virginia pine (Pinus virginiana)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4412.39.50.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
                   {
                     "HS Code": "",
                     "Description": "Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:",
@@ -3097,6 +3076,27 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4412.39.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "4412.39.50.10",
+                        "Description": "With at least one outer ply of Douglas fir (Pseudotsuga menziesii)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4412.39.50.30",
+                        "Description": "With at least one outer ply of long leaf pine (Pinus palustris), short leaf pine (Pinus echinata), southern yellow pine (loblolly pine) (Pinus taeda), slash pine (Pinus elliotti), pitch pine (Pinus rigida) or Virginia pine (Pinus virginiana)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4412.39.50.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               }
@@ -3132,19 +3132,9 @@
                 "Description": "With at least one outer ply of tropical wood:",
                 "Subentries": [
                   {
-                    "HS Code": "4412.51.51.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Plywood:",
                     "Subentries": [
-                      {
-                        "HS Code": "4412.51.41.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:",
@@ -3214,8 +3204,18 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4412.51.41.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4412.51.51.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -3224,19 +3224,9 @@
                 "Description": "Other, with at least one outer ply of nonconiferous wood:",
                 "Subentries": [
                   {
-                    "HS Code": "4412.52.51.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Plywood:",
                     "Subentries": [
-                      {
-                        "HS Code": "4412.52.41.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:",
@@ -3296,8 +3286,18 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4412.52.41.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4412.52.51.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -3306,19 +3306,9 @@
                 "Description": "Other, with both outer plies of coniferous wood:",
                 "Subentries": [
                   {
-                    "HS Code": "4412.59.95.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Plywood:",
                     "Subentries": [
-                      {
-                        "HS Code": "4412.59.90.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:",
@@ -3339,8 +3329,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4412.59.90.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4412.59.95.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -3364,30 +3364,9 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "4412.91.51",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "4412.91.51.05",
-                            "Description": "Wood flooring",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "4412.91.51.15",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Plywood:",
                         "Subentries": [
-                          {
-                            "HS Code": "4412.91.41.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:",
@@ -3467,6 +3446,27 @@
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "4412.91.41.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "4412.91.51",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "4412.91.51.05",
+                            "Description": "Wood flooring",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4412.91.51.15",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -3488,30 +3488,9 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "4412.92.52",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "4412.92.52.05",
-                            "Description": "Wood flooring",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "4412.92.52.15",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Plywood:",
                         "Subentries": [
-                          {
-                            "HS Code": "4412.92.42.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:",
@@ -3576,6 +3555,27 @@
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "4412.92.42.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "4412.92.52",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "4412.92.52.05",
+                            "Description": "Wood flooring",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4412.92.52.15",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -3597,19 +3597,9 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "4412.99.97.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Plywood:",
                         "Subentries": [
-                          {
-                            "HS Code": "4412.99.91.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:",
@@ -3630,8 +3620,18 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "4412.99.91.00",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4412.99.97.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -3839,43 +3839,6 @@
         "Description": "Builders' joinery and carpentry of wood, including cellular wood panels and assembled flooring panels; shingles and shakes:",
         "Subentries": [
           {
-            "HS Code": "4418.30.01.00",
-            "Description": "Posts and beams other than products of subheadings 4418.81 to 4418.89",
-            "Subentries": []
-          },
-          {
-            "HS Code": "4418.40.00.00",
-            "Description": "Formwork (shuttering) for concrete constructional work",
-            "Subentries": []
-          },
-          {
-            "HS Code": "4418.50.00",
-            "Description": "Shingles and shakes",
-            "Subentries": [
-              {
-                "HS Code": "4418.50.00.50",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Shingles:",
-                "Subentries": [
-                  {
-                    "HS Code": "4418.50.00.10",
-                    "Description": "Of western red cedar",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "4418.50.00.30",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Windows, French-windows and their frames:",
             "Subentries": [
@@ -3952,6 +3915,43 @@
             ]
           },
           {
+            "HS Code": "4418.30.01.00",
+            "Description": "Posts and beams other than products of subheadings 4418.81 to 4418.89",
+            "Subentries": []
+          },
+          {
+            "HS Code": "4418.40.00.00",
+            "Description": "Formwork (shuttering) for concrete constructional work",
+            "Subentries": []
+          },
+          {
+            "HS Code": "4418.50.00",
+            "Description": "Shingles and shakes",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Shingles:",
+                "Subentries": [
+                  {
+                    "HS Code": "4418.50.00.10",
+                    "Description": "Of western red cedar",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4418.50.00.30",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "4418.50.00.50",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Assembled flooring panels:",
             "Subentries": [
@@ -3959,11 +3959,6 @@
                 "HS Code": "4418.73",
                 "Description": "Of bamboo or with at least the top layer (wear layer) of bamboo:",
                 "Subentries": [
-                  {
-                    "HS Code": "4418.73.90.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "For mosaic floors:",
@@ -4017,6 +4012,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4418.73.90.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -4220,38 +4220,6 @@
         "Description": "Tableware and kitchenware, of wood:",
         "Subentries": [
           {
-            "HS Code": "4419.20",
-            "Description": "Of tropical wood:",
-            "Subentries": [
-              {
-                "HS Code": "4419.20.10.00",
-                "Description": "Forks and spoons",
-                "Subentries": []
-              },
-              {
-                "HS Code": "4419.20.90.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "4419.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "4419.90.11.00",
-                "Description": "Forks and spoons",
-                "Subentries": []
-              },
-              {
-                "HS Code": "4419.90.91.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Of bamboo:",
             "Subentries": [
@@ -4282,6 +4250,38 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "4419.20",
+            "Description": "Of tropical wood:",
+            "Subentries": [
+              {
+                "HS Code": "4419.20.10.00",
+                "Description": "Forks and spoons",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4419.20.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "4419.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "4419.90.11.00",
+                "Description": "Forks and spoons",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4419.90.91.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
           }
         ]
       },
@@ -4289,44 +4289,6 @@
         "HS Code": "4420",
         "Description": "Wood marquetry and inlaid wood; caskets and cases for jewelry or cutlery and similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture not falling within chapter 94:",
         "Subentries": [
-          {
-            "HS Code": "4420.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "4420.90.80.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Jewelry boxes, silverware chests, cigar and cigarette boxes, microscope cases, tool or utensil cases and similar boxes, cases and chests, all the foregoing of wood:",
-                "Subentries": [
-                  {
-                    "HS Code": "4420.90.20.00",
-                    "Description": "Cigar and cigarette boxes",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "4420.90.45.00",
-                        "Description": "Not lined with textile fabrics",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4420.90.65.00",
-                        "Description": "Lined with textile fabrics",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
           {
             "HS Code": "",
             "Description": "Statuettes and other ornaments:",
@@ -4355,6 +4317,44 @@
               },
               {
                 "HS Code": "4420.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "4420.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Jewelry boxes, silverware chests, cigar and cigarette boxes, microscope cases, tool or utensil cases and similar boxes, cases and chests, all the foregoing of wood:",
+                "Subentries": [
+                  {
+                    "HS Code": "4420.90.20.00",
+                    "Description": "Cigar and cigarette boxes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4420.90.45.00",
+                        "Description": "Not lined with textile fabrics",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4420.90.65.00",
+                        "Description": "Lined with textile fabrics",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "4420.90.80.00",
                 "Description": "Other",
                 "Subentries": []
               }
@@ -4395,27 +4395,6 @@
                 "HS Code": "4421.91",
                 "Description": "Of bamboo:",
                 "Subentries": [
-                  {
-                    "HS Code": "4421.91.70",
-                    "Description": "Pickets, palings, posts and rails, the foregoing which are sawn; assembled fence sections",
-                    "Subentries": [
-                      {
-                        "HS Code": "4421.91.70.20",
-                        "Description": "Assembled fence sections",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4421.91.70.40",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "4421.91.88.00",
-                    "Description": "Canoe paddles",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Wood dowel pins:",
@@ -4465,6 +4444,22 @@
                     ]
                   },
                   {
+                    "HS Code": "4421.91.70",
+                    "Description": "Pickets, palings, posts and rails, the foregoing which are sawn; assembled fence sections",
+                    "Subentries": [
+                      {
+                        "HS Code": "4421.91.70.20",
+                        "Description": "Assembled fence sections",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4421.91.70.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "",
                     "Description": "Clothespins:",
                     "Subentries": [
@@ -4500,6 +4495,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4421.91.88.00",
+                    "Description": "Canoe paddles",
+                    "Subentries": []
                   },
                   {
                     "HS Code": "",
@@ -4545,35 +4545,9 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "4421.99.70",
-                    "Description": "Pickets, palings, posts and rails, the foregoing which are sawn; assembled fence sections",
-                    "Subentries": [
-                      {
-                        "HS Code": "4421.99.70.20",
-                        "Description": "Assembled fence sections",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "4421.99.70.40",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "4421.99.88.00",
-                    "Description": "Canoe paddles",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Wood dowel pins:",
                     "Subentries": [
-                      {
-                        "HS Code": "4421.99.20.00",
-                        "Description": "Sanded, grooved or otherwise advanced in condition",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Plain:",
@@ -4589,6 +4563,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "4421.99.20.00",
+                        "Description": "Sanded, grooved or otherwise advanced in condition",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -4619,6 +4598,22 @@
                       },
                       {
                         "HS Code": "4421.99.60.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "4421.99.70",
+                    "Description": "Pickets, palings, posts and rails, the foregoing which are sawn; assembled fence sections",
+                    "Subentries": [
+                      {
+                        "HS Code": "4421.99.70.20",
+                        "Description": "Assembled fence sections",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4421.99.70.40",
                         "Description": "Other",
                         "Subentries": []
                       }
@@ -4660,6 +4655,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "4421.99.88.00",
+                    "Description": "Canoe paddles",
+                    "Subentries": []
                   },
                   {
                     "HS Code": "",

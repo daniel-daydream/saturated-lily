@@ -8,48 +8,6 @@
         "Description": "Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments; parts and accessories thereof:",
         "Subentries": [
           {
-            "HS Code": "9025.80",
-            "Description": "Other instruments:",
-            "Subentries": [
-              {
-                "HS Code": "9025.80.10.00",
-                "Description": "Electrical",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "9025.80.15.00",
-                    "Description": "Barometers, not combined with other instruments",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9025.80.20.00",
-                    "Description": "Hydrometers and similar floating instruments, whether or not incorporating a thermometer, non-recording",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9025.80.35.00",
-                    "Description": "Hygrometers and psychrometers, non-recording",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9025.80.40.00",
-                    "Description": "Thermographs, barographs, hygrographs and other recording instruments",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "9025.80.50.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Thermometers and pyrometers, not combined with other instruments:",
             "Subentries": [
@@ -115,6 +73,48 @@
                         ]
                       }
                     ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9025.80",
+            "Description": "Other instruments:",
+            "Subentries": [
+              {
+                "HS Code": "9025.80.10.00",
+                "Description": "Electrical",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9025.80.15.00",
+                    "Description": "Barometers, not combined with other instruments",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.80.20.00",
+                    "Description": "Hydrometers and similar floating instruments, whether or not incorporating a thermometer, non-recording",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.80.35.00",
+                    "Description": "Hygrometers and psychrometers, non-recording",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.80.40.00",
+                    "Description": "Thermographs, barographs, hygrographs and other recording instruments",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.80.50.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

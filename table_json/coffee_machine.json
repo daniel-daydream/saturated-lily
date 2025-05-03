@@ -16,11 +16,6 @@
                 "Description": "Coffee or tea makers",
                 "Subentries": [
                   {
-                    "HS Code": "8516.71.00.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Coffee makers:",
                     "Subentries": [
@@ -40,6 +35,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8516.71.00.80",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },

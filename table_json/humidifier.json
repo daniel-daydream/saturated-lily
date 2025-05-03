@@ -36,11 +36,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "8509.80.50.95",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Humidifiers:",
                     "Subentries": [
@@ -66,6 +61,11 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8509.80.50.95",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

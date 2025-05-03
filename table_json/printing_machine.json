@@ -25,6 +25,22 @@
                     "Description": "Printer units",
                     "Subentries": [
                       {
+                        "HS Code": "",
+                        "Description": "Laser:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8443.32.10.10",
+                            "Description": "Capable of producing more than 20 pages per minute",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8443.32.10.20",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
                         "HS Code": "8443.32.10.30",
                         "Description": "Light bar electronic type",
                         "Subentries": []
@@ -58,22 +74,6 @@
                         "HS Code": "8443.32.10.90",
                         "Description": "Other",
                         "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Laser:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8443.32.10.10",
-                            "Description": "Capable of producing more than 20 pages per minute",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8443.32.10.20",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
                       }
                     ]
                   },
@@ -89,24 +89,9 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "8443.39.90.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Copying machines:",
                     "Subentries": [
-                      {
-                        "HS Code": "8443.39.50.00",
-                        "Description": "Thermocopying apparatus",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8443.39.60.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Other photocopying apparatus:",
@@ -132,8 +117,23 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8443.39.50.00",
+                        "Description": "Thermocopying apparatus",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8443.39.60.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "8443.39.90.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

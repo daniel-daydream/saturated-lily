@@ -17,6 +17,22 @@
                 "Subentries": []
               },
               {
+                "HS Code": "",
+                "Description": "Olives:",
+                "Subentries": [
+                  {
+                    "HS Code": "0712.90.15.00",
+                    "Description": "Not ripe",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.20.00",
+                    "Description": "Ripe",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
                 "HS Code": "0712.90.30.00",
                 "Description": "Potatoes whether or not cut or sliced but not further prepared",
                 "Subentries": []
@@ -33,58 +49,6 @@
                   {
                     "HS Code": "0712.90.40.40",
                     "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "0712.90.85",
-                "Description": "Other vegetables; mixtures of vegetables",
-                "Subentries": [
-                  {
-                    "HS Code": "0712.90.85.10",
-                    "Description": "Broccoli",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.85.20",
-                    "Description": "Celery stalks",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.85.30",
-                    "Description": "Leeks",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.85.40",
-                    "Description": "Spinach",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.85.50",
-                    "Description": "Sweet corn seeds of a kind used for sowing",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.85.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Olives:",
-                "Subentries": [
-                  {
-                    "HS Code": "0712.90.15.00",
-                    "Description": "Not ripe",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "0712.90.20.00",
-                    "Description": "Ripe",
                     "Subentries": []
                   }
                 ]
@@ -127,6 +91,42 @@
                   },
                   {
                     "HS Code": "0712.90.78.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0712.90.85",
+                "Description": "Other vegetables; mixtures of vegetables",
+                "Subentries": [
+                  {
+                    "HS Code": "0712.90.85.10",
+                    "Description": "Broccoli",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.85.20",
+                    "Description": "Celery stalks",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.85.30",
+                    "Description": "Leeks",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.85.40",
+                    "Description": "Spinach",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.85.50",
+                    "Description": "Sweet corn seeds of a kind used for sowing",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.90.85.80",
                     "Description": "Other",
                     "Subentries": []
                   }

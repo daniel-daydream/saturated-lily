@@ -20,19 +20,9 @@
                     "Description": "Wheel-type",
                     "Subentries": [
                       {
-                        "HS Code": "8429.51.10.65",
-                        "Description": "Used or rebuilt",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "New:",
                         "Subentries": [
-                          {
-                            "HS Code": "8429.51.10.60",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Integral tractor shovel loaders, rear engine mounted:",
@@ -89,8 +79,18 @@
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8429.51.10.60",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8429.51.10.65",
+                        "Description": "Used or rebuilt",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -98,11 +98,6 @@
                     "HS Code": "8429.51.50",
                     "Description": "Other",
                     "Subentries": [
-                      {
-                        "HS Code": "8429.51.50.60",
-                        "Description": "Used or rebuilt",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "New:",
@@ -133,6 +128,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8429.51.50.60",
+                        "Description": "Used or rebuilt",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -146,11 +146,6 @@
                     "HS Code": "8429.52.10",
                     "Description": "Backhoes, shovels, clamshells and draglines",
                     "Subentries": [
-                      {
-                        "HS Code": "8429.52.10.50",
-                        "Description": "Used or rebuilt",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "New:",
@@ -188,6 +183,11 @@
                             ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8429.52.10.50",
+                        "Description": "Used or rebuilt",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -218,11 +218,6 @@
                     "Description": "Backhoes, shovels, clamshells and draglines",
                     "Subentries": [
                       {
-                        "HS Code": "8429.59.10.90",
-                        "Description": "Used or rebuilt",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "New:",
                         "Subentries": [
@@ -237,6 +232,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8429.59.10.90",
+                        "Description": "Used or rebuilt",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -245,19 +245,9 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "8429.59.50.80",
-                        "Description": "Used or rebuilt",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "New:",
                         "Subentries": [
-                          {
-                            "HS Code": "8429.59.50.60",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Ditchers and trenchers:",
@@ -273,8 +263,18 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "8429.59.50.60",
+                            "Description": "Other",
+                            "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "8429.59.50.80",
+                        "Description": "Used or rebuilt",
+                        "Subentries": []
                       }
                     ]
                   }

@@ -36,11 +36,6 @@
                 "Description": "Of other plastics:",
                 "Subentries": [
                   {
-                    "HS Code": "3920.99.50.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Film, strip and sheets, all the foregoing which are flexible:",
                     "Subentries": [
@@ -55,6 +50,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "3920.99.50.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

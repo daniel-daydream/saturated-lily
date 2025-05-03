@@ -8,65 +8,6 @@
         "Description": "Organic surface-active agents (other than soap); surface-active preparations, washing preparations (including auxiliary washing preparations) and cleaning preparations, whether or not containing soap, other than those of heading 3401:",
         "Subentries": [
           {
-            "HS Code": "3402.50",
-            "Description": "Preparations put up for retail sale:",
-            "Subentries": [
-              {
-                "HS Code": "3402.50.11.00",
-                "Description": "Containing any aromatic or modified aromatic surface-active agent",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3402.50.51.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "3402.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "3402.90.10.00",
-                "Description": "Synthetic detergents",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "3402.90.30.00",
-                    "Description": "Containing any aromatic or modified aromatic surface-active agent",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "3402.90.50",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "3402.90.50.10",
-                        "Description": "Washing preparations",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3402.90.50.30",
-                        "Description": "Cleaning preparations",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3402.90.50.50",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Anionic organic surface-active agents, whether or not put up for retail sale:",
             "Subentries": [
@@ -196,6 +137,65 @@
                     "HS Code": "3402.49.90.00",
                     "Description": "Other",
                     "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "3402.50",
+            "Description": "Preparations put up for retail sale:",
+            "Subentries": [
+              {
+                "HS Code": "3402.50.11.00",
+                "Description": "Containing any aromatic or modified aromatic surface-active agent",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3402.50.51.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3402.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3402.90.10.00",
+                "Description": "Synthetic detergents",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "3402.90.30.00",
+                    "Description": "Containing any aromatic or modified aromatic surface-active agent",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3402.90.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "3402.90.50.10",
+                        "Description": "Washing preparations",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3402.90.50.30",
+                        "Description": "Cleaning preparations",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3402.90.50.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               }

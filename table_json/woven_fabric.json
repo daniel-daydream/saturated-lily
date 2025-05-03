@@ -79,11 +79,6 @@
                 "Description": "Containing 85 percent or more by weight of silk or silk waste",
                 "Subentries": [
                   {
-                    "HS Code": "5007.10.30.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Not jacquard woven:",
                     "Subentries": [
@@ -98,6 +93,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5007.10.30.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -105,16 +105,6 @@
                 "HS Code": "5007.10.60",
                 "Description": "Other",
                 "Subentries": [
-                  {
-                    "HS Code": "5007.10.60.30",
-                    "Description": "Subject to wool restraints (410)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5007.10.60.90",
-                    "Description": "Other (810)",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Subject to cotton restraints or to man-made fiber restraints:",
@@ -130,6 +120,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5007.10.60.30",
+                    "Description": "Subject to wool restraints (410)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5007.10.60.90",
+                    "Description": "Other (810)",
+                    "Subentries": []
                   }
                 ]
               }
@@ -180,11 +180,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "5007.20.00.95",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Not jacquard woven:",
                         "Subentries": [
@@ -199,6 +194,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "5007.20.00.95",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -215,11 +215,6 @@
                 "Description": "Containing 85 percent or more by weight of silk or silk waste",
                 "Subentries": [
                   {
-                    "HS Code": "5007.90.30.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Not jacquard woven:",
                     "Subentries": [
@@ -234,6 +229,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5007.90.30.90",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               },
@@ -241,16 +241,6 @@
                 "HS Code": "5007.90.60",
                 "Description": "Other",
                 "Subentries": [
-                  {
-                    "HS Code": "5007.90.60.30",
-                    "Description": "Subject to wool restraints (410)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5007.90.60.90",
-                    "Description": "Other (810)",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Subject to cotton restraints or to man-made fiber restraints:",
@@ -266,6 +256,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5007.90.60.30",
+                    "Description": "Subject to wool restraints (410)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5007.90.60.90",
+                    "Description": "Other (810)",
+                    "Subentries": []
                   }
                 ]
               }
@@ -283,6 +283,278 @@
         "HS Code": "5101",
         "Description": "Wool, not carded or combed:",
         "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Greasy, including fleece-washed wool:",
+            "Subentries": [
+              {
+                "HS Code": "5101.11",
+                "Description": "Shorn wool:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Unimproved wool; other wool, not finer than 46s:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5101.11.10.00",
+                        "Description": "Wool for special uses",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "5101.11.20.00",
+                            "Description": "Unimproved wool; other wool, not finer than 40s",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5101.11.40.00",
+                            "Description": "Other wool, finer than 40s but not finer than 44s",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5101.11.50.00",
+                            "Description": "Other wool, finer than 44s",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5101.11.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "5101.11.60.30",
+                        "Description": "Not finer than 58s",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5101.11.60.60",
+                        "Description": "Finer than 58s",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "5101.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Unimproved wool; other wool, not finer than 46s:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5101.19.10.00",
+                        "Description": "Wool for special uses",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "5101.19.20.00",
+                            "Description": "Unimproved wool; other wool, not finer than 40s",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5101.19.40.00",
+                            "Description": "Other wool, finer than 40s but not finer than 44s",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5101.19.50.00",
+                            "Description": "Other wool, finer than 44s",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5101.19.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "5101.19.60.30",
+                        "Description": "Not finer than 58s",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5101.19.60.60",
+                        "Description": "Finer than 58s",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Degreased, not carbonized:",
+            "Subentries": [
+              {
+                "HS Code": "5101.21",
+                "Description": "Shorn wool:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Not processed in any manner beyond the degreased condition:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Unimproved wool; other wool, not finer than 46s:",
+                        "Subentries": [
+                          {
+                            "HS Code": "5101.21.10.00",
+                            "Description": "Wool for special uses",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "5101.21.15.00",
+                                "Description": "Unimproved wool; other wool, not finer than 40s",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "5101.21.30.00",
+                                "Description": "Other wool, finer than 40s but not finer than 44s",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "5101.21.35.00",
+                                "Description": "Other wool, finer than 44s",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "5101.21.40",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "5101.21.40.30",
+                            "Description": "Not finer than 58s",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5101.21.40.60",
+                            "Description": "Finer than 58s",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5101.21.65.00",
+                        "Description": "Unimproved wool; other wool, not finer than 46s.",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5101.21.70.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "5101.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Not processed in any manner beyond the degreased condition:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Unimproved wool; other wool, not finer than 46s:",
+                        "Subentries": [
+                          {
+                            "HS Code": "5101.29.10.00",
+                            "Description": "Wool for special uses",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "5101.29.15.00",
+                                "Description": "Unimproved wool; other wool, not finer than 40s",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "5101.29.30.00",
+                                "Description": "Other wool, finer than 40s but not finer than 44s",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "5101.29.35.00",
+                                "Description": "Other wool, finer than 44s",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "5101.29.40",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "5101.29.40.30",
+                            "Description": "Not finer than 58s",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5101.29.40.60",
+                            "Description": "Finer than 58s",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5101.29.65.00",
+                        "Description": "Unimproved wool; other wool, not finer than 46s",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5101.29.70.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
           {
             "HS Code": "5101.30",
             "Description": "Carbonized:",
@@ -330,278 +602,6 @@
                 ]
               }
             ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Greasy, including fleece-washed wool:",
-            "Subentries": [
-              {
-                "HS Code": "5101.11",
-                "Description": "Shorn wool:",
-                "Subentries": [
-                  {
-                    "HS Code": "5101.11.60",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "5101.11.60.30",
-                        "Description": "Not finer than 58s",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5101.11.60.60",
-                        "Description": "Finer than 58s",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Unimproved wool; other wool, not finer than 46s:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5101.11.10.00",
-                        "Description": "Wool for special uses",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "5101.11.20.00",
-                            "Description": "Unimproved wool; other wool, not finer than 40s",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5101.11.40.00",
-                            "Description": "Other wool, finer than 40s but not finer than 44s",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5101.11.50.00",
-                            "Description": "Other wool, finer than 44s",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "5101.19",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "5101.19.60",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "5101.19.60.30",
-                        "Description": "Not finer than 58s",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5101.19.60.60",
-                        "Description": "Finer than 58s",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Unimproved wool; other wool, not finer than 46s:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5101.19.10.00",
-                        "Description": "Wool for special uses",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "5101.19.20.00",
-                            "Description": "Unimproved wool; other wool, not finer than 40s",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5101.19.40.00",
-                            "Description": "Other wool, finer than 40s but not finer than 44s",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5101.19.50.00",
-                            "Description": "Other wool, finer than 44s",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Degreased, not carbonized:",
-            "Subentries": [
-              {
-                "HS Code": "5101.21",
-                "Description": "Shorn wool:",
-                "Subentries": [
-                  {
-                    "HS Code": "",
-                    "Description": "Not processed in any manner beyond the degreased condition:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5101.21.40",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "5101.21.40.30",
-                            "Description": "Not finer than 58s",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5101.21.40.60",
-                            "Description": "Finer than 58s",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Unimproved wool; other wool, not finer than 46s:",
-                        "Subentries": [
-                          {
-                            "HS Code": "5101.21.10.00",
-                            "Description": "Wool for special uses",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Other:",
-                            "Subentries": [
-                              {
-                                "HS Code": "5101.21.15.00",
-                                "Description": "Unimproved wool; other wool, not finer than 40s",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "5101.21.30.00",
-                                "Description": "Other wool, finer than 40s but not finer than 44s",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "5101.21.35.00",
-                                "Description": "Other wool, finer than 44s",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5101.21.65.00",
-                        "Description": "Unimproved wool; other wool, not finer than 46s.",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5101.21.70.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "5101.29",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "",
-                    "Description": "Not processed in any manner beyond the degreased condition:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5101.29.40",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "5101.29.40.30",
-                            "Description": "Not finer than 58s",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5101.29.40.60",
-                            "Description": "Finer than 58s",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Unimproved wool; other wool, not finer than 46s:",
-                        "Subentries": [
-                          {
-                            "HS Code": "5101.29.10.00",
-                            "Description": "Wool for special uses",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Other:",
-                            "Subentries": [
-                              {
-                                "HS Code": "5101.29.15.00",
-                                "Description": "Unimproved wool; other wool, not finer than 40s",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "5101.29.30.00",
-                                "Description": "Other wool, finer than 40s but not finer than 44s",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "5101.29.35.00",
-                                "Description": "Other wool, finer than 44s",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5101.29.65.00",
-                        "Description": "Unimproved wool; other wool, not finer than 46s",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5101.29.70.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
           }
         ]
       },
@@ -609,11 +609,6 @@
         "HS Code": "5102",
         "Description": "Fine or coarse animal hair, not carded or combed:",
         "Subentries": [
-          {
-            "HS Code": "5102.20.00.00",
-            "Description": "Coarse animal hair",
-            "Subentries": []
-          },
           {
             "HS Code": "",
             "Description": "Fine animal hair:",
@@ -684,6 +679,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "5102.20.00.00",
+            "Description": "Coarse animal hair",
+            "Subentries": []
           }
         ]
       },
@@ -723,11 +723,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "5105.40.00.00",
-            "Description": "Coarse animal hair, carded or combed",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Wool tops and other combed wool:",
             "Subentries": [
@@ -758,6 +753,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "5105.40.00.00",
+            "Description": "Coarse animal hair, carded or combed",
+            "Subentries": []
           }
         ]
       },
@@ -966,80 +966,6 @@
         "Description": "Woven fabrics of carded wool or of carded fine animal hair:",
         "Subentries": [
           {
-            "HS Code": "5111.20",
-            "Description": "Other, mixed mainly or solely with man-made filaments:",
-            "Subentries": [
-              {
-                "HS Code": "5111.20.05.00",
-                "Description": "Tapestry fabrics and upholstery fabrics of a weight exceeding 300 g/m2 (414)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5111.20.10.00",
-                "Description": "Tapestry fabrics and upholstery fabrics of a weight not exceeding 140 g/m2 (414)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5111.20.90.00",
-                "Description": "Other (410)",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "5111.30",
-            "Description": "Other, mixed mainly or solely with man-made staple fibers:",
-            "Subentries": [
-              {
-                "HS Code": "5111.30.05.00",
-                "Description": "Tapestry fabrics and upholstery fabrics of a weight exceeding 300 g/m2 (414)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5111.30.10.00",
-                "Description": "Tapestry fabrics and upholstery fabrics of a weight not exceeding 140 g/m2 (414)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5111.30.90.00",
-                "Description": "Other (410)",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "5111.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "5111.90.30.00",
-                "Description": "Containing 30 percent or more by weight of silk or silk waste, valued over $33/kg (410)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "5111.90.40.00",
-                    "Description": "Tapestry fabrics and upholstery fabrics of a weight exceeding 300 g/m2 (414)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5111.90.50.00",
-                    "Description": "Tapestry fabrics and upholstery fabrics of a weight not exceeding 140 g/m2 (414)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5111.90.90.00",
-                    "Description": "Other (410)",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Containing 85 percent or more by weight of wool or of fine animal hair:",
             "Subentries": [
@@ -1142,61 +1068,55 @@
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "HS Code": "5112",
-        "Description": "Woven fabrics of combed wool or of combed fine animal hair:",
-        "Subentries": [
+          },
           {
-            "HS Code": "5112.20",
+            "HS Code": "5111.20",
             "Description": "Other, mixed mainly or solely with man-made filaments:",
             "Subentries": [
               {
-                "HS Code": "5112.20.10.00",
+                "HS Code": "5111.20.05.00",
                 "Description": "Tapestry fabrics and upholstery fabrics of a weight exceeding 300 g/m2 (414)",
                 "Subentries": []
               },
               {
-                "HS Code": "5112.20.20.00",
+                "HS Code": "5111.20.10.00",
                 "Description": "Tapestry fabrics and upholstery fabrics of a weight not exceeding 140 g/m2 (414)",
                 "Subentries": []
               },
               {
-                "HS Code": "5112.20.30.00",
+                "HS Code": "5111.20.90.00",
                 "Description": "Other (410)",
                 "Subentries": []
               }
             ]
           },
           {
-            "HS Code": "5112.30",
+            "HS Code": "5111.30",
             "Description": "Other, mixed mainly or solely with man-made staple fibers:",
             "Subentries": [
               {
-                "HS Code": "5112.30.10.00",
+                "HS Code": "5111.30.05.00",
                 "Description": "Tapestry fabrics and upholstery fabrics of a weight exceeding 300 g/m2 (414)",
                 "Subentries": []
               },
               {
-                "HS Code": "5112.30.20.00",
+                "HS Code": "5111.30.10.00",
                 "Description": "Tapestry fabrics and upholstery fabrics of a weight not exceeding 140 g/m2 (414)",
                 "Subentries": []
               },
               {
-                "HS Code": "5112.30.30.00",
+                "HS Code": "5111.30.90.00",
                 "Description": "Other (410)",
                 "Subentries": []
               }
             ]
           },
           {
-            "HS Code": "5112.90",
+            "HS Code": "5111.90",
             "Description": "Other:",
             "Subentries": [
               {
-                "HS Code": "5112.90.30.00",
+                "HS Code": "5111.90.30.00",
                 "Description": "Containing 30 percent or more by weight of silk or silk waste, valued over $33/kg (410)",
                 "Subentries": []
               },
@@ -1205,35 +1125,30 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "5112.90.40.00",
+                    "HS Code": "5111.90.40.00",
                     "Description": "Tapestry fabrics and upholstery fabrics of a weight exceeding 300 g/m2 (414)",
                     "Subentries": []
                   },
                   {
-                    "HS Code": "5112.90.50.00",
+                    "HS Code": "5111.90.50.00",
                     "Description": "Tapestry fabrics and upholstery fabrics of a weight not exceeding 140 g/m2 (414)",
                     "Subentries": []
                   },
                   {
-                    "HS Code": "5112.90.90",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "5112.90.90.10",
-                        "Description": "Mixed mainly or solely with cotton (410)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5112.90.90.90",
-                        "Description": "Other (410)",
-                        "Subentries": []
-                      }
-                    ]
+                    "HS Code": "5111.90.90.00",
+                    "Description": "Other (410)",
+                    "Subentries": []
                   }
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "HS Code": "5112",
+        "Description": "Woven fabrics of combed wool or of combed fine animal hair:",
+        "Subentries": [
           {
             "HS Code": "",
             "Description": "Containing 85 percent or more by weight of wool or of fine animal hair:",
@@ -1401,6 +1316,91 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "5112.20",
+            "Description": "Other, mixed mainly or solely with man-made filaments:",
+            "Subentries": [
+              {
+                "HS Code": "5112.20.10.00",
+                "Description": "Tapestry fabrics and upholstery fabrics of a weight exceeding 300 g/m2 (414)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5112.20.20.00",
+                "Description": "Tapestry fabrics and upholstery fabrics of a weight not exceeding 140 g/m2 (414)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5112.20.30.00",
+                "Description": "Other (410)",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "5112.30",
+            "Description": "Other, mixed mainly or solely with man-made staple fibers:",
+            "Subentries": [
+              {
+                "HS Code": "5112.30.10.00",
+                "Description": "Tapestry fabrics and upholstery fabrics of a weight exceeding 300 g/m2 (414)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5112.30.20.00",
+                "Description": "Tapestry fabrics and upholstery fabrics of a weight not exceeding 140 g/m2 (414)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5112.30.30.00",
+                "Description": "Other (410)",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "5112.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "5112.90.30.00",
+                "Description": "Containing 30 percent or more by weight of silk or silk waste, valued over $33/kg (410)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "5112.90.40.00",
+                    "Description": "Tapestry fabrics and upholstery fabrics of a weight exceeding 300 g/m2 (414)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5112.90.50.00",
+                    "Description": "Tapestry fabrics and upholstery fabrics of a weight not exceeding 140 g/m2 (414)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5112.90.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "5112.90.90.10",
+                        "Description": "Mixed mainly or solely with cotton (410)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5112.90.90.90",
+                        "Description": "Other (410)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
@@ -1540,11 +1540,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "5202.99.50.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Card strips made from cotton having a staple length under 30.1625 mm (1-3/16 inches) and lap waste, sliver waste and roving waste:",
                     "Subentries": [
@@ -1564,6 +1559,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5202.99.50.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }
@@ -1575,11 +1575,6 @@
         "HS Code": "5203.00",
         "Description": "Cotton, carded or combed:",
         "Subentries": [
-          {
-            "HS Code": "5203.00.50.00",
-            "Description": "Other",
-            "Subentries": []
-          },
           {
             "HS Code": "",
             "Description": "Fibers of cotton processed but not spun:",
@@ -1600,6 +1595,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "5203.00.50.00",
+            "Description": "Other",
+            "Subentries": []
           }
         ]
       },
@@ -1607,11 +1607,6 @@
         "HS Code": "5204",
         "Description": "Cotton sewing thread, whether or not put up for retail sale:",
         "Subentries": [
-          {
-            "HS Code": "5204.20.00.00",
-            "Description": "Put up for retail sale (200)",
-            "Subentries": []
-          },
           {
             "HS Code": "",
             "Description": "Not put up for retail sale:",
@@ -1627,6 +1622,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "5204.20.00.00",
+            "Description": "Put up for retail sale (200)",
+            "Subentries": []
           }
         ]
       },
@@ -1894,11 +1894,6 @@
                 "Description": "Exceeding 14 nm but not exceeding 43 nm per single yarn",
                 "Subentries": [
                   {
-                    "HS Code": "5205.42.00.90",
-                    "Description": "Other (301)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Ring spun:",
                     "Subentries": [
@@ -1913,6 +1908,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5205.42.00.90",
+                    "Description": "Other (301)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -1920,11 +1920,6 @@
                 "HS Code": "5205.43.00",
                 "Description": "Exceeding 43 nm but not exceeding 52 nm per single yarn",
                 "Subentries": [
-                  {
-                    "HS Code": "5205.43.00.90",
-                    "Description": "Other (301)",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Ring spun:",
@@ -1940,6 +1935,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5205.43.00.90",
+                    "Description": "Other (301)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -1947,11 +1947,6 @@
                 "HS Code": "5205.44.00",
                 "Description": "Exceeding 52 nm but not exceeding 80 nm per single yarn",
                 "Subentries": [
-                  {
-                    "HS Code": "5205.44.00.90",
-                    "Description": "Other (301)",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Ring spun:",
@@ -1967,6 +1962,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5205.44.00.90",
+                    "Description": "Other (301)",
+                    "Subentries": []
                   }
                 ]
               }
@@ -1980,11 +1980,6 @@
                 "HS Code": "5205.46.00",
                 "Description": "Measuring per single yarn less than 125 decitex but not less than 106.38 decitex (exceeding 80 metric number but not exceeding 94 metric number)",
                 "Subentries": [
-                  {
-                    "HS Code": "5205.46.00.90",
-                    "Description": "Other (301)",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Ring spun:",
@@ -2000,6 +1995,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5205.46.00.90",
+                    "Description": "Other (301)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -2007,11 +2007,6 @@
                 "HS Code": "5205.47.00",
                 "Description": "Measuring per single yarn less than 106.38 decitex but not less than 83.33 decitex (exceeding 94 metric number but not exceeding 120 metric number)",
                 "Subentries": [
-                  {
-                    "HS Code": "5205.47.00.90",
-                    "Description": "Other (301)",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Ring spun:",
@@ -2027,6 +2022,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5205.47.00.90",
+                    "Description": "Other (301)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -3025,11 +3025,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "5208.49.60.90",
-                            "Description": "Other (218)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Jacquard woven:",
                             "Subentries": [
@@ -3044,6 +3039,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5208.49.60.90",
+                            "Description": "Other (218)",
+                            "Subentries": []
                           }
                         ]
                       },
@@ -3176,11 +3176,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "5208.52.30.90",
-                            "Description": "Cheesecloth (226)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Sheeting:",
                             "Subentries": [
@@ -3195,6 +3190,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5208.52.30.90",
+                            "Description": "Cheesecloth (226)",
+                            "Subentries": []
                           }
                         ]
                       },
@@ -3205,11 +3205,6 @@
                           {
                             "HS Code": "5208.52.40.20",
                             "Description": "Poplin or broadcloth (314)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5208.52.40.90",
-                            "Description": "Cheesecloth (226)",
                             "Subentries": []
                           },
                           {
@@ -3243,6 +3238,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5208.52.40.90",
+                            "Description": "Cheesecloth (226)",
+                            "Subentries": []
                           }
                         ]
                       },
@@ -3391,19 +3391,9 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "5209.11.00.90",
-                    "Description": "Plain weave duck (219)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Sheeting:",
                     "Subentries": [
-                      {
-                        "HS Code": "5209.11.00.50",
-                        "Description": "Napped (313)",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Not napped:",
@@ -3419,8 +3409,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "5209.11.00.50",
+                        "Description": "Napped (313)",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5209.11.00.90",
+                    "Description": "Plain weave duck (219)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -3445,16 +3445,6 @@
                 "Description": "Other fabrics",
                 "Subentries": [
                   {
-                    "HS Code": "5209.19.00.60",
-                    "Description": "Duck, except plain weave (219)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5209.19.00.90",
-                    "Description": "Other (220)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Satin weave or twill weave:",
                     "Subentries": [
@@ -3469,6 +3459,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5209.19.00.60",
+                    "Description": "Duck, except plain weave (219)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5209.19.00.90",
+                    "Description": "Other (220)",
+                    "Subentries": []
                   }
                 ]
               }
@@ -3488,19 +3488,9 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "5209.21.00.90",
-                    "Description": "Plain weave duck (219)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Sheeting:",
                     "Subentries": [
-                      {
-                        "HS Code": "5209.21.00.50",
-                        "Description": "Napped (313)",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Not napped:",
@@ -3516,8 +3506,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "5209.21.00.50",
+                        "Description": "Napped (313)",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5209.21.00.90",
+                    "Description": "Plain weave duck (219)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -3542,16 +3542,6 @@
                 "Description": "Other fabrics",
                 "Subentries": [
                   {
-                    "HS Code": "5209.29.00.60",
-                    "Description": "Duck, except plain weave (219)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5209.29.00.90",
-                    "Description": "Other (220)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Satin weave or twill weave:",
                     "Subentries": [
@@ -3566,6 +3556,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5209.29.00.60",
+                    "Description": "Duck, except plain weave (219)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5209.29.00.90",
+                    "Description": "Other (220)",
+                    "Subentries": []
                   }
                 ]
               }
@@ -3594,19 +3594,9 @@
                         "Subentries": []
                       },
                       {
-                        "HS Code": "5209.31.60.90",
-                        "Description": "Plain weave duck (219)",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Sheeting:",
                         "Subentries": [
-                          {
-                            "HS Code": "5209.31.60.50",
-                            "Description": "Napped (313)",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Not napped:",
@@ -3622,8 +3612,18 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5209.31.60.50",
+                            "Description": "Napped (313)",
+                            "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "5209.31.60.90",
+                        "Description": "Plain weave duck (219)",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -3650,11 +3650,6 @@
                 "Description": "Other fabrics",
                 "Subentries": [
                   {
-                    "HS Code": "5209.39.00.60",
-                    "Description": "Duck, except plain weave (219)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Satin weave or twill weave:",
                     "Subentries": [
@@ -3669,6 +3664,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5209.39.00.60",
+                    "Description": "Duck, except plain weave (219)",
+                    "Subentries": []
                   },
                   {
                     "HS Code": "",
@@ -3780,11 +3780,6 @@
                 "Description": "Other fabrics",
                 "Subentries": [
                   {
-                    "HS Code": "5209.49.00.90",
-                    "Description": "Other (218)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Jacquard woven:",
                     "Subentries": [
@@ -3799,6 +3794,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5209.49.00.90",
+                    "Description": "Other (218)",
+                    "Subentries": []
                   }
                 ]
               }
@@ -3822,11 +3822,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "5209.51.60.90",
-                        "Description": "Plain weave duck (219)",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Poplin or broadcloth:",
                         "Subentries": [
@@ -3847,11 +3842,6 @@
                         "Description": "Sheeting:",
                         "Subentries": [
                           {
-                            "HS Code": "5209.51.60.50",
-                            "Description": "Napped (313)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Not napped:",
                             "Subentries": [
@@ -3866,8 +3856,18 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5209.51.60.50",
+                            "Description": "Napped (313)",
+                            "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "5209.51.60.90",
+                        "Description": "Plain weave duck (219)",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -3894,24 +3894,9 @@
                 "Description": "Other fabrics",
                 "Subentries": [
                   {
-                    "HS Code": "5209.59.00.60",
-                    "Description": "Duck, except plain weave (219)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5209.59.00.90",
-                    "Description": "Other (220)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Satin weave or twill weave:",
                     "Subentries": [
-                      {
-                        "HS Code": "5209.59.00.40",
-                        "Description": "Other (317)",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Sateens:",
@@ -3927,8 +3912,23 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "5209.59.00.40",
+                        "Description": "Other (317)",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5209.59.00.60",
+                    "Description": "Duck, except plain weave (219)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5209.59.00.90",
+                    "Description": "Other (220)",
+                    "Subentries": []
                   }
                 ]
               }
@@ -4678,103 +4678,6 @@
         "Description": "Woven fabrics of cotton, containing less than 85 percent by weight of cotton, mixed mainly or solely with man-made fibers, weighing more than 200 g/m\u00b2:",
         "Subentries": [
           {
-            "HS Code": "5211.20",
-            "Description": "Bleached:",
-            "Subentries": [
-              {
-                "HS Code": "5211.20.21",
-                "Description": "Plain weave",
-                "Subentries": [
-                  {
-                    "HS Code": "5211.20.21.20",
-                    "Description": "Poplin or broadcloth (314)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5211.20.21.90",
-                    "Description": "Plain weave duck (219)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Sheeting:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5211.20.21.50",
-                        "Description": "Napped (313)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Not napped:",
-                        "Subentries": [
-                          {
-                            "HS Code": "5211.20.21.25",
-                            "Description": "Osnaburg (313)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5211.20.21.35",
-                            "Description": "Other (313)",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "5211.20.22",
-                "Description": "3-thread or 4-thread twill, including cross twill",
-                "Subentries": [
-                  {
-                    "HS Code": "5211.20.22.20",
-                    "Description": "Not napped (317)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5211.20.22.40",
-                    "Description": "Napped (317)",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "5211.20.29",
-                "Description": "Other fabrics",
-                "Subentries": [
-                  {
-                    "HS Code": "5211.20.29.60",
-                    "Description": "Duck, except plain weave (219)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5211.20.29.90",
-                    "Description": "Other (220)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Satin weave or twill weave:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5211.20.29.20",
-                        "Description": "Sateens (326)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5211.20.29.40",
-                        "Description": "Other (317)",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Unbleached:",
             "Subentries": [
@@ -4788,19 +4691,9 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "5211.11.00.90",
-                    "Description": "Plain weave duck (219)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Sheeting:",
                     "Subentries": [
-                      {
-                        "HS Code": "5211.11.00.50",
-                        "Description": "Napped (313)",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Not napped:",
@@ -4816,8 +4709,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "5211.11.00.50",
+                        "Description": "Napped (313)",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5211.11.00.90",
+                    "Description": "Plain weave duck (219)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -4842,16 +4745,6 @@
                 "Description": "Other fabrics",
                 "Subentries": [
                   {
-                    "HS Code": "5211.19.00.60",
-                    "Description": "Duck, except plain weave (219)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5211.19.00.90",
-                    "Description": "Other (220)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Satin weave or twill weave:",
                     "Subentries": [
@@ -4866,6 +4759,113 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5211.19.00.60",
+                    "Description": "Duck, except plain weave (219)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5211.19.00.90",
+                    "Description": "Other (220)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "5211.20",
+            "Description": "Bleached:",
+            "Subentries": [
+              {
+                "HS Code": "5211.20.21",
+                "Description": "Plain weave",
+                "Subentries": [
+                  {
+                    "HS Code": "5211.20.21.20",
+                    "Description": "Poplin or broadcloth (314)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Sheeting:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Not napped:",
+                        "Subentries": [
+                          {
+                            "HS Code": "5211.20.21.25",
+                            "Description": "Osnaburg (313)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5211.20.21.35",
+                            "Description": "Other (313)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "5211.20.21.50",
+                        "Description": "Napped (313)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5211.20.21.90",
+                    "Description": "Plain weave duck (219)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5211.20.22",
+                "Description": "3-thread or 4-thread twill, including cross twill",
+                "Subentries": [
+                  {
+                    "HS Code": "5211.20.22.20",
+                    "Description": "Not napped (317)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5211.20.22.40",
+                    "Description": "Napped (317)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5211.20.29",
+                "Description": "Other fabrics",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Satin weave or twill weave:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5211.20.29.20",
+                        "Description": "Sateens (326)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5211.20.29.40",
+                        "Description": "Other (317)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5211.20.29.60",
+                    "Description": "Duck, except plain weave (219)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5211.20.29.90",
+                    "Description": "Other (220)",
+                    "Subentries": []
                   }
                 ]
               }
@@ -4885,19 +4885,9 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "5211.31.00.90",
-                    "Description": "Plain weave duck (219)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Sheeting:",
                     "Subentries": [
-                      {
-                        "HS Code": "5211.31.00.50",
-                        "Description": "Napped (313)",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Not napped",
@@ -4913,8 +4903,18 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "5211.31.00.50",
+                        "Description": "Napped (313)",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5211.31.00.90",
+                    "Description": "Plain weave duck (219)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -4939,16 +4939,6 @@
                 "Description": "Other fabrics",
                 "Subentries": [
                   {
-                    "HS Code": "5211.39.00.60",
-                    "Description": "Duck, except plain weave (219)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5211.39.00.90",
-                    "Description": "Other (220)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Satin weave or twill weave:",
                     "Subentries": [
@@ -4963,6 +4953,16 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5211.39.00.60",
+                    "Description": "Duck, except plain weave (219)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5211.39.00.90",
+                    "Description": "Other (220)",
+                    "Subentries": []
                   }
                 ]
               }
@@ -5074,11 +5074,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "5211.51.00.90",
-                    "Description": "Plain weave duck (219)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Sheeting:",
                     "Subentries": [
@@ -5093,6 +5088,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5211.51.00.90",
+                    "Description": "Plain weave duck (219)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -5117,24 +5117,9 @@
                 "Description": "Other fabrics",
                 "Subentries": [
                   {
-                    "HS Code": "5211.59.00.60",
-                    "Description": "Duck, except plain weave (219)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5211.59.00.90",
-                    "Description": "Other (220)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Satin weave or twill weave:",
                     "Subentries": [
-                      {
-                        "HS Code": "5211.59.00.40",
-                        "Description": "Other (317)",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Sateens:",
@@ -5150,8 +5135,23 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "5211.59.00.40",
+                        "Description": "Other (317)",
+                        "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5211.59.00.60",
+                    "Description": "Duck, except plain weave (219)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5211.59.00.90",
+                    "Description": "Other (220)",
+                    "Subentries": []
                   }
                 ]
               }
@@ -5221,16 +5221,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "5212.11.60.80",
-                            "Description": "Oxford cloth (227)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5212.11.60.90",
-                            "Description": "Other (220)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Satin weave or twill weave:",
                             "Subentries": [
@@ -5245,6 +5235,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5212.11.60.80",
+                            "Description": "Oxford cloth (227)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5212.11.60.90",
+                            "Description": "Other (220)",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -5306,16 +5306,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "5212.12.60.80",
-                            "Description": "Oxford cloth (227)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5212.12.60.90",
-                            "Description": "Other (220)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Satin weave or twill weave:",
                             "Subentries": [
@@ -5330,6 +5320,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5212.12.60.80",
+                            "Description": "Oxford cloth (227)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5212.12.60.90",
+                            "Description": "Other (220)",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -5391,16 +5391,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "5212.13.60.80",
-                            "Description": "Oxford cloth (227)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5212.13.60.90",
-                            "Description": "Other (220)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Satin weave or twill weave:",
                             "Subentries": [
@@ -5415,6 +5405,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5212.13.60.80",
+                            "Description": "Oxford cloth (227)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5212.13.60.90",
+                            "Description": "Other (220)",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -5456,11 +5456,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "5212.14.60.90",
-                            "Description": "Other (218)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Jacquard woven",
                             "Subentries": [
@@ -5475,6 +5470,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5212.14.60.90",
+                            "Description": "Other (218)",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -5536,16 +5536,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "5212.15.60.80",
-                            "Description": "Oxford cloth (227)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5212.15.60.90",
-                            "Description": "Other (220)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Satin weave or twill weave:",
                             "Subentries": [
@@ -5560,6 +5550,16 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5212.15.60.80",
+                            "Description": "Oxford cloth (227)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5212.15.60.90",
+                            "Description": "Other (220)",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -5622,11 +5622,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "5212.21.60.90",
-                            "Description": "Other (220)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Satin weave or twill weave:",
                             "Subentries": [
@@ -5641,6 +5636,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5212.21.60.90",
+                            "Description": "Other (220)",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -5697,11 +5697,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "5212.22.60.90",
-                            "Description": "Other (220)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Satin weave or twill weave:",
                             "Subentries": [
@@ -5716,6 +5711,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5212.22.60.90",
+                            "Description": "Other (220)",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -5772,11 +5772,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "5212.23.60.90",
-                            "Description": "Other (220)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Satin weave or twill weave:",
                             "Subentries": [
@@ -5791,6 +5786,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5212.23.60.90",
+                            "Description": "Other (220)",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -5837,11 +5837,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "5212.24.60.90",
-                            "Description": "Other (218)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Jacquard woven:",
                             "Subentries": [
@@ -5856,6 +5851,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5212.24.60.90",
+                            "Description": "Other (218)",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -5912,11 +5912,6 @@
                             "Subentries": []
                           },
                           {
-                            "HS Code": "5212.25.60.90",
-                            "Description": "Other (220)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Satin weave or twill weave:",
                             "Subentries": [
@@ -5931,6 +5926,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5212.25.60.90",
+                            "Description": "Other (220)",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -5958,11 +5958,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "5301.30.00.00",
-            "Description": "Flax tow and waste",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Flax, broken, scutched, hackled or otherwise processed, but not spun:",
             "Subentries": [
@@ -5977,6 +5972,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "5301.30.00.00",
+            "Description": "Flax tow and waste",
+            "Subentries": []
           }
         ]
       },
@@ -6145,11 +6145,6 @@
                         "Description": "Containing cotton and man-made fibers",
                         "Subentries": [
                           {
-                            "HS Code": "5309.21.30.90",
-                            "Description": "Other (810)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Subject to cotton restraints:",
                             "Subentries": [
@@ -6200,6 +6195,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5309.21.30.90",
+                            "Description": "Other (810)",
+                            "Subentries": []
                           }
                         ]
                       },
@@ -6240,11 +6240,6 @@
                         "HS Code": "5309.29.30",
                         "Description": "Containing cotton and man-made fibers",
                         "Subentries": [
-                          {
-                            "HS Code": "5309.29.30.90",
-                            "Description": "Other (810)",
-                            "Subentries": []
-                          },
                           {
                             "HS Code": "",
                             "Description": "Subject to cotton restraints:",
@@ -6296,6 +6291,11 @@
                                 "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5309.29.30.90",
+                            "Description": "Other (810)",
+                            "Subentries": []
                           }
                         ]
                       },
@@ -6360,11 +6360,6 @@
         "Description": "Woven fabrics of other vegetable textile fibers; woven fabrics of paper yarn:",
         "Subentries": [
           {
-            "HS Code": "5311.00.60.00",
-            "Description": "Of paper yarn",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Of vegetable textile fibers:",
             "Subentries": [
@@ -6381,11 +6376,6 @@
                     "HS Code": "5311.00.30",
                     "Description": "Containing cotton and man-made fibers",
                     "Subentries": [
-                      {
-                        "HS Code": "5311.00.30.90",
-                        "Description": "Other (810)",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Subject to cotton restraints:",
@@ -6437,6 +6427,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "5311.00.30.90",
+                        "Description": "Other (810)",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -6459,6 +6454,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "5311.00.60.00",
+            "Description": "Of paper yarn",
+            "Subentries": []
           }
         ]
       }
@@ -6488,55 +6488,6 @@
         "HS Code": "5402",
         "Description": "Synthetic filament yarn (other than sewing thread), not put up for retail sale, including synthetic monofilament of less than 67 decitex:",
         "Subentries": [
-          {
-            "HS Code": "5402.20",
-            "Description": "High tenacity yarn of polyesters, whether or not textured:",
-            "Subentries": [
-              {
-                "HS Code": "5402.20.30",
-                "Description": "Single yarn",
-                "Subentries": [
-                  {
-                    "HS Code": "",
-                    "Description": "Not more than 920 decitex:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5402.20.30.10",
-                        "Description": "Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5402.20.30.30",
-                        "Description": "Multifilament, with twist of 5 turns or more per meter (606)",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "More than 920 decitex:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5402.20.30.50",
-                        "Description": "Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5402.20.30.70",
-                        "Description": "Multifilament, with twist of 5 turns or more per meter (606)",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "5402.20.60.00",
-                "Description": "Multiple (folded) or cabled (606)",
-                "Subentries": []
-              }
-            ]
-          },
           {
             "HS Code": "",
             "Description": "High tenacity yarn of nylon or other polyamides, whether or not textured:",
@@ -6638,6 +6589,55 @@
                     "Subentries": []
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "5402.20",
+            "Description": "High tenacity yarn of polyesters, whether or not textured:",
+            "Subentries": [
+              {
+                "HS Code": "5402.20.30",
+                "Description": "Single yarn",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Not more than 920 decitex:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5402.20.30.10",
+                        "Description": "Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5402.20.30.30",
+                        "Description": "Multifilament, with twist of 5 turns or more per meter (606)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "More than 920 decitex:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5402.20.30.50",
+                        "Description": "Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5402.20.30.70",
+                        "Description": "Multifilament, with twist of 5 turns or more per meter (606)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "5402.20.60.00",
+                "Description": "Multiple (folded) or cabled (606)",
+                "Subentries": []
               }
             ]
           },
@@ -6783,11 +6783,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "5402.45.90.40",
-                        "Description": "Multifilament, with twist of 5 turns or more per meter (606)",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Monofilament; multifilament, untwisted or with twist of less than 5 turns per meter:",
                         "Subentries": [
@@ -6802,6 +6797,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "5402.45.90.40",
+                        "Description": "Multifilament, with twist of 5 turns or more per meter (606)",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -7122,11 +7122,6 @@
         "Description": "Synthetic monofilament of 67 decitex or more and of which no cross-sectional dimension exceeds 1 mm; strip and the like (for example, artificial straw) of synthetic textile materials of an apparent width not exceeding 5 mm:",
         "Subentries": [
           {
-            "HS Code": "5404.90.00.00",
-            "Description": "Other",
-            "Subentries": []
-          },
-          {
             "HS Code": "",
             "Description": "Monofilament:",
             "Subentries": [
@@ -7184,6 +7179,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "5404.90.00.00",
+            "Description": "Other",
+            "Subentries": []
           }
         ]
       },
@@ -7388,11 +7388,6 @@
                 "Description": "Unbleached or bleached",
                 "Subentries": [
                   {
-                    "HS Code": "5407.51.00.60",
-                    "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Weighing not more than 170 g/m\u00b2:",
                     "Subentries": [
@@ -7407,6 +7402,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5407.51.00.60",
+                    "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -7424,11 +7424,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "5407.52.20.60",
-                        "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Weighing not more than 170 g/m\u00b2:",
                         "Subentries": [
@@ -7443,6 +7438,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "5407.52.20.60",
+                        "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -7462,11 +7462,6 @@
                     "Description": "Other",
                     "Subentries": [
                       {
-                        "HS Code": "5407.53.20.60",
-                        "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Weighing not more than 170 g/m\u00b2:",
                         "Subentries": [
@@ -7481,6 +7476,11 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "5407.53.20.60",
+                        "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -7490,11 +7490,6 @@
                 "HS Code": "5407.54.00",
                 "Description": "Printed",
                 "Subentries": [
-                  {
-                    "HS Code": "5407.54.00.60",
-                    "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Weighing not more than 170 g/m\u00b2:",
@@ -7510,6 +7505,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5407.54.00.60",
+                    "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                    "Subentries": []
                   }
                 ]
               }
@@ -7573,11 +7573,6 @@
                             "Description": "Unbleached or bleached:",
                             "Subentries": [
                               {
-                                "HS Code": "5407.61.99.15",
-                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Weighing not more than 170 g/m\u00b2:",
                                 "Subentries": [
@@ -7592,6 +7587,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "5407.61.99.15",
+                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                                "Subentries": []
                               }
                             ]
                           },
@@ -7599,11 +7599,6 @@
                             "HS Code": "",
                             "Description": "Dyed:",
                             "Subentries": [
-                              {
-                                "HS Code": "5407.61.99.35",
-                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Weighing not more than 170 g/m\u00b2:",
@@ -7619,6 +7614,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "5407.61.99.35",
+                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                                "Subentries": []
                               }
                             ]
                           },
@@ -7626,11 +7626,6 @@
                             "HS Code": "",
                             "Description": "Of yarns of different colors:",
                             "Subentries": [
-                              {
-                                "HS Code": "5407.61.99.55",
-                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Weighing not more than 170 g/m\u00b2:",
@@ -7646,6 +7641,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "5407.61.99.55",
+                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                                "Subentries": []
                               }
                             ]
                           },
@@ -7653,11 +7653,6 @@
                             "HS Code": "",
                             "Description": "Printed:",
                             "Subentries": [
-                              {
-                                "HS Code": "5407.61.99.75",
-                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "",
                                 "Description": "Weighing not more than 170 g/m\u00b2:",
@@ -7673,6 +7668,11 @@
                                     "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "5407.61.99.75",
+                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -7719,22 +7719,6 @@
                     ]
                   },
                   {
-                    "HS Code": "5407.69.90",
-                    "Description": "Printed",
-                    "Subentries": [
-                      {
-                        "HS Code": "5407.69.90.10",
-                        "Description": "Weighing not more than 170 g/m\u00b2 (619)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5407.69.90.60",
-                        "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Of yarns of different colors:",
                     "Subentries": [
@@ -7758,6 +7742,22 @@
                             "Subentries": []
                           }
                         ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5407.69.90",
+                    "Description": "Printed",
+                    "Subentries": [
+                      {
+                        "HS Code": "5407.69.90.10",
+                        "Description": "Weighing not more than 170 g/m\u00b2 (619)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5407.69.90.60",
+                        "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -7985,6 +7985,33 @@
                 "Description": "Unbleached or bleached:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Mixed mainly or solely with wool or fine animal hair:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5407.91.05",
+                        "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
+                        "Subentries": [
+                          {
+                            "HS Code": "5407.91.05.10",
+                            "Description": "Not combed (410)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5407.91.05.20",
+                            "Description": "Combed (410)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "5407.91.10.00",
+                        "Description": "Other (624)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "5407.91.20",
                     "Description": "Other",
                     "Subentries": [
@@ -8025,33 +8052,6 @@
                         ]
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Mixed mainly or solely with wool or fine animal hair:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5407.91.05",
-                        "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
-                        "Subentries": [
-                          {
-                            "HS Code": "5407.91.05.10",
-                            "Description": "Not combed (410)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5407.91.05.20",
-                            "Description": "Combed (410)",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "5407.91.10.00",
-                        "Description": "Other (624)",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
               },
@@ -8059,6 +8059,44 @@
                 "HS Code": "5407.92",
                 "Description": "Dyed:",
                 "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Mixed mainly or solely with wool or fine animal hair:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5407.92.05",
+                        "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
+                        "Subentries": [
+                          {
+                            "HS Code": "5407.92.05.10",
+                            "Description": "Not combed (410)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5407.92.05.20",
+                            "Description": "Combed (410)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "5407.92.10",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "5407.92.10.10",
+                            "Description": "Not combed (624)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5407.92.10.20",
+                            "Description": "Combed (624)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
                   {
                     "HS Code": "5407.92.20",
                     "Description": "Other",
@@ -8095,44 +8133,6 @@
                           {
                             "HS Code": "5407.92.20.90",
                             "Description": "Other (629)",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Mixed mainly or solely with wool or fine animal hair:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5407.92.05",
-                        "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
-                        "Subentries": [
-                          {
-                            "HS Code": "5407.92.05.10",
-                            "Description": "Not combed (410)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5407.92.05.20",
-                            "Description": "Combed (410)",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "5407.92.10",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "5407.92.10.10",
-                            "Description": "Not combed (624)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5407.92.10.20",
-                            "Description": "Combed (624)",
                             "Subentries": []
                           }
                         ]
@@ -8232,6 +8232,33 @@
                 "Description": "Printed:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Mixed mainly or solely with wool or fine animal hair:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5407.94.05",
+                        "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
+                        "Subentries": [
+                          {
+                            "HS Code": "5407.94.05.10",
+                            "Description": "Not combed (410)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5407.94.05.20",
+                            "Description": "Combed (410)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "5407.94.10.00",
+                        "Description": "Other (624)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "5407.94.20",
                     "Description": "Other",
                     "Subentries": [
@@ -8270,33 +8297,6 @@
                             "Subentries": []
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Mixed mainly or solely with wool or fine animal hair:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5407.94.05",
-                        "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
-                        "Subentries": [
-                          {
-                            "HS Code": "5407.94.05.10",
-                            "Description": "Not combed (410)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5407.94.05.20",
-                            "Description": "Combed (410)",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "5407.94.10.00",
-                        "Description": "Other (624)",
-                        "Subentries": []
                       }
                     ]
                   }
@@ -8471,6 +8471,33 @@
                 "Description": "Unbleached or bleached:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Mixed mainly or solely with wool or fine animal hair:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5408.31.05",
+                        "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
+                        "Subentries": [
+                          {
+                            "HS Code": "5408.31.05.10",
+                            "Description": "Not combed (410)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5408.31.05.20",
+                            "Description": "Combed (410)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "5408.31.10.00",
+                        "Description": "Other (624)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "5408.31.20",
                     "Description": "Other",
                     "Subentries": [
@@ -8509,33 +8536,6 @@
                             "Subentries": []
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Mixed mainly or solely with wool or fine animal hair:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5408.31.05",
-                        "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
-                        "Subentries": [
-                          {
-                            "HS Code": "5408.31.05.10",
-                            "Description": "Not combed (410)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5408.31.05.20",
-                            "Description": "Combed (410)",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "5408.31.10.00",
-                        "Description": "Other (624)",
-                        "Subentries": []
                       }
                     ]
                   }
@@ -8830,6 +8830,22 @@
         "Description": "Synthetic filament tow:",
         "Subentries": [
           {
+            "HS Code": "",
+            "Description": "Of nylon or other polyamides:",
+            "Subentries": [
+              {
+                "HS Code": "5501.11.00.00",
+                "Description": "Of aramids",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5501.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "5501.20.00.00",
             "Description": "Of polyesters",
             "Subentries": []
@@ -8859,22 +8875,6 @@
             "HS Code": "5501.90.01.00",
             "Description": "Other",
             "Subentries": []
-          },
-          {
-            "HS Code": "",
-            "Description": "Of nylon or other polyamides:",
-            "Subentries": [
-              {
-                "HS Code": "5501.11.00.00",
-                "Description": "Of aramids",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5501.19.00.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
           }
         ]
       },
@@ -8898,6 +8898,33 @@
         "HS Code": "5503",
         "Description": "Synthetic staple fibers, not carded, combed or otherwise processed for spinning:",
         "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of nylon or other polyamides:",
+            "Subentries": [
+              {
+                "HS Code": "5503.11.00.00",
+                "Description": "Of aramids",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5503.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "5503.19.10.00",
+                    "Description": "Containing 10 percent or more by weight of nylon 12",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5503.19.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
           {
             "HS Code": "5503.20.00",
             "Description": "Of polyesters",
@@ -8953,33 +8980,6 @@
                 "HS Code": "5503.90.90.00",
                 "Description": "Other",
                 "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Of nylon or other polyamides:",
-            "Subentries": [
-              {
-                "HS Code": "5503.11.00.00",
-                "Description": "Of aramids",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5503.19",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "5503.19.10.00",
-                    "Description": "Containing 10 percent or more by weight of nylon 12",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5503.19.90.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
               }
             ]
           }
@@ -9253,11 +9253,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "5509.69.60.00",
-                    "Description": "Other (607)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Mixed mainly or solely with artificial staple fibers:",
                     "Subentries": [
@@ -9272,6 +9267,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5509.69.60.00",
+                    "Description": "Other (607)",
+                    "Subentries": []
                   }
                 ]
               }
@@ -9296,11 +9296,6 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
-                    "HS Code": "5509.99.60.00",
-                    "Description": "Other (607)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Mixed mainly or solely with artificial staple fibers:",
                     "Subentries": [
@@ -9315,6 +9310,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5509.99.60.00",
+                    "Description": "Other (607)",
+                    "Subentries": []
                   }
                 ]
               }
@@ -9326,6 +9326,22 @@
         "HS Code": "5510",
         "Description": "Yarn (other than sewing thread) of artificial staple fibers, not put up for retail sale:",
         "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Containing 85 percent or more by weight of artificial staple fibers:",
+            "Subentries": [
+              {
+                "HS Code": "5510.11.00.00",
+                "Description": "Single yarn (603)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5510.12.00.00",
+                "Description": "Multiple (folded) or cabled yarn (603)",
+                "Subentries": []
+              }
+            ]
+          },
           {
             "HS Code": "5510.20.00.00",
             "Description": "Other yarn, mixed mainly or solely with wool or fine animal hair (607)",
@@ -9341,11 +9357,6 @@
             "Description": "Other yarn:",
             "Subentries": [
               {
-                "HS Code": "5510.90.60.00",
-                "Description": "Other (607)",
-                "Subentries": []
-              },
-              {
                 "HS Code": "",
                 "Description": "Mixed mainly or solely with synthetic staple fibers:",
                 "Subentries": [
@@ -9360,21 +9371,10 @@
                     "Subentries": []
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Containing 85 percent or more by weight of artificial staple fibers:",
-            "Subentries": [
-              {
-                "HS Code": "5510.11.00.00",
-                "Description": "Single yarn (603)",
-                "Subentries": []
               },
               {
-                "HS Code": "5510.12.00.00",
-                "Description": "Multiple (folded) or cabled yarn (603)",
+                "HS Code": "5510.90.60.00",
+                "Description": "Other (607)",
                 "Subentries": []
               }
             ]
@@ -9431,6 +9431,22 @@
                     "Subentries": []
                   },
                   {
+                    "HS Code": "",
+                    "Description": "Sheeting:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5512.11.00.22",
+                        "Description": "Of a width exceeding 254 cm (613)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5512.11.00.27",
+                        "Description": "Other (613)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "5512.11.00.30",
                     "Description": "Printcloth (615)",
                     "Subentries": []
@@ -9459,22 +9475,6 @@
                     "HS Code": "5512.11.00.90",
                     "Description": "Other (220)",
                     "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Sheeting:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5512.11.00.22",
-                        "Description": "Of a width exceeding 254 cm (613)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5512.11.00.27",
-                        "Description": "Other (613)",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
               },
@@ -9500,6 +9500,22 @@
                         "HS Code": "5512.19.00.15",
                         "Description": "Poplin or broadcloth (614)",
                         "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Sheeting:",
+                        "Subentries": [
+                          {
+                            "HS Code": "5512.19.00.22",
+                            "Description": "Of a width exceeding 254 cm (613)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5512.19.00.27",
+                            "Description": "Other (613)",
+                            "Subentries": []
+                          }
+                        ]
                       },
                       {
                         "HS Code": "5512.19.00.30",
@@ -9530,22 +9546,6 @@
                         "HS Code": "5512.19.00.90",
                         "Description": "Other (220)",
                         "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Sheeting:",
-                        "Subentries": [
-                          {
-                            "HS Code": "5512.19.00.22",
-                            "Description": "Of a width exceeding 254 cm (613)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5512.19.00.27",
-                            "Description": "Other (613)",
-                            "Subentries": []
-                          }
-                        ]
                       }
                     ]
                   }
@@ -10124,81 +10124,6 @@
         "Description": "Woven fabrics of synthetic staple fibers, containing less than 85 percent by weight of such fibers, mixed mainly or solely with cotton, of a weight exceeding 170 g/m\u00b2:",
         "Subentries": [
           {
-            "HS Code": "5514.30",
-            "Description": "Of yarns of different colors:",
-            "Subentries": [
-              {
-                "HS Code": "5514.30.31.00",
-                "Description": "Of polyester staple fibers, plain weave (218)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5514.30.32",
-                "Description": "3-thread or 4-thread twill, including cross twill, of polyester staple fibers",
-                "Subentries": [
-                  {
-                    "HS Code": "5514.30.32.80",
-                    "Description": "Other (218)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Denim:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5514.30.32.10",
-                        "Description": "Blue denim (225)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5514.30.32.15",
-                        "Description": "Other denim (218)",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "5514.30.33",
-                "Description": "Other woven fabrics of polyester staple fibers",
-                "Subentries": [
-                  {
-                    "HS Code": "5514.30.33.10",
-                    "Description": "Jacquard weave (220)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5514.30.33.90",
-                    "Description": "Other (218)",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "5514.30.39",
-                "Description": "Other woven fabrics",
-                "Subentries": [
-                  {
-                    "HS Code": "5514.30.39.10",
-                    "Description": "Blue denim (225)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5514.30.39.20",
-                    "Description": "Jacquard weave (220)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5514.30.39.90",
-                    "Description": "Other (218)",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Unbleached or bleached:",
             "Subentries": [
@@ -10209,11 +10134,6 @@
                   {
                     "HS Code": "5514.11.00.20",
                     "Description": "Poplin or broadcloth (614)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5514.11.00.90",
-                    "Description": "Plain weave duck (219)",
                     "Subentries": []
                   },
                   {
@@ -10231,6 +10151,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5514.11.00.90",
+                    "Description": "Plain weave duck (219)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -10324,11 +10249,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "5514.21.00.90",
-                    "Description": "Plain weave duck (219)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Sheeting:",
                     "Subentries": [
@@ -10343,6 +10263,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5514.21.00.90",
+                    "Description": "Plain weave duck (219)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -10417,6 +10342,81 @@
             ]
           },
           {
+            "HS Code": "5514.30",
+            "Description": "Of yarns of different colors:",
+            "Subentries": [
+              {
+                "HS Code": "5514.30.31.00",
+                "Description": "Of polyester staple fibers, plain weave (218)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5514.30.32",
+                "Description": "3-thread or 4-thread twill, including cross twill, of polyester staple fibers",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Denim:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5514.30.32.10",
+                        "Description": "Blue denim (225)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5514.30.32.15",
+                        "Description": "Other denim (218)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5514.30.32.80",
+                    "Description": "Other (218)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5514.30.33",
+                "Description": "Other woven fabrics of polyester staple fibers",
+                "Subentries": [
+                  {
+                    "HS Code": "5514.30.33.10",
+                    "Description": "Jacquard weave (220)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5514.30.33.90",
+                    "Description": "Other (218)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5514.30.39",
+                "Description": "Other woven fabrics",
+                "Subentries": [
+                  {
+                    "HS Code": "5514.30.39.10",
+                    "Description": "Blue denim (225)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5514.30.39.20",
+                    "Description": "Jacquard weave (220)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5514.30.39.90",
+                    "Description": "Other (218)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Printed:",
             "Subentries": [
@@ -10427,11 +10427,6 @@
                   {
                     "HS Code": "5514.41.00.20",
                     "Description": "Poplin or broadcloth (614)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5514.41.00.90",
-                    "Description": "Plain weave duck (219)",
                     "Subentries": []
                   },
                   {
@@ -10449,6 +10444,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5514.41.00.90",
+                    "Description": "Plain weave duck (219)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -10604,21 +10604,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "5515.12.00.30",
-                    "Description": "Printcloth (626)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5515.12.00.40",
-                    "Description": "Satin weave or twill weave (628)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5515.12.00.90",
-                    "Description": "Other (629)",
-                    "Subentries": []
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Sheeting:",
                     "Subentries": [
@@ -10633,6 +10618,21 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5515.12.00.30",
+                    "Description": "Printcloth (626)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5515.12.00.40",
+                    "Description": "Satin weave or twill weave (628)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5515.12.00.90",
+                    "Description": "Other (629)",
+                    "Subentries": []
                   }
                 ]
               },
@@ -10904,6 +10904,44 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
+                    "HS Code": "",
+                    "Description": "Mixed mainly or solely with wool or fine animal hair:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5515.99.05",
+                        "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
+                        "Subentries": [
+                          {
+                            "HS Code": "5515.99.05.10",
+                            "Description": "Not combed (410)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5515.99.05.20",
+                            "Description": "Combed (410)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "5515.99.10",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "5515.99.10.10",
+                            "Description": "Not combed (624)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5515.99.10.20",
+                            "Description": "Combed (624)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "5515.99.90",
                     "Description": "Other",
                     "Subentries": [
@@ -10959,44 +10997,6 @@
                           {
                             "HS Code": "5515.99.90.90",
                             "Description": "Other (220)",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Mixed mainly or solely with wool or fine animal hair:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5515.99.05",
-                        "Description": "Containing 36 percent or more by weight of wool or fine animal hair",
-                        "Subentries": [
-                          {
-                            "HS Code": "5515.99.05.10",
-                            "Description": "Not combed (410)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5515.99.05.20",
-                            "Description": "Combed (410)",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "5515.99.10",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "5515.99.10.10",
-                            "Description": "Not combed (624)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "5515.99.10.20",
-                            "Description": "Combed (624)",
                             "Subentries": []
                           }
                         ]
@@ -11389,6 +11389,22 @@
                     "Subentries": []
                   },
                   {
+                    "HS Code": "",
+                    "Description": "Sheeting:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5516.41.00.22",
+                        "Description": "Of a width exceeding 127 cm (613)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5516.41.00.27",
+                        "Description": "Other (613)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "5516.41.00.30",
                     "Description": "Printcloth (615)",
                     "Subentries": []
@@ -11417,22 +11433,6 @@
                     "HS Code": "5516.41.00.90",
                     "Description": "Other (220)",
                     "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Sheeting:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5516.41.00.22",
-                        "Description": "Of a width exceeding 127 cm (613)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5516.41.00.27",
-                        "Description": "Other (613)",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
               },
@@ -11444,6 +11444,22 @@
                     "HS Code": "5516.42.00.10",
                     "Description": "Poplin or broadcloth (614)",
                     "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Sheeting:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5516.42.00.22",
+                        "Description": "Of a width exceeding 127 cm (613)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5516.42.00.27",
+                        "Description": "Other (613)",
+                        "Subentries": []
+                      }
+                    ]
                   },
                   {
                     "HS Code": "5516.42.00.30",
@@ -11474,22 +11490,6 @@
                     "HS Code": "5516.42.00.90",
                     "Description": "Other (220)",
                     "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Sheeting:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5516.42.00.22",
-                        "Description": "Of a width exceeding 127 cm (613)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5516.42.00.27",
-                        "Description": "Other (613)",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
               },
@@ -11497,11 +11497,6 @@
                 "HS Code": "5516.43.00",
                 "Description": "Of yarns of different colors",
                 "Subentries": [
-                  {
-                    "HS Code": "5516.43.00.20",
-                    "Description": "Jacquard weave (220)",
-                    "Subentries": []
-                  },
                   {
                     "HS Code": "",
                     "Description": "Denim:",
@@ -11517,6 +11512,11 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "5516.43.00.20",
+                    "Description": "Jacquard weave (220)",
+                    "Subentries": []
                   },
                   {
                     "HS Code": "",
@@ -11544,6 +11544,22 @@
                     "HS Code": "5516.44.00.10",
                     "Description": "Poplin or broadcloth (614)",
                     "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Sheeting:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5516.44.00.22",
+                        "Description": "Of a width exceeding 127 cm (613)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5516.44.00.27",
+                        "Description": "Other (613)",
+                        "Subentries": []
+                      }
+                    ]
                   },
                   {
                     "HS Code": "5516.44.00.30",
@@ -11574,22 +11590,6 @@
                     "HS Code": "5516.44.00.90",
                     "Description": "Other (220)",
                     "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Sheeting:",
-                    "Subentries": [
-                      {
-                        "HS Code": "5516.44.00.22",
-                        "Description": "Of a width exceeding 127 cm (613)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "5516.44.00.27",
-                        "Description": "Other (613)",
-                        "Subentries": []
-                      }
-                    ]
                   }
                 ]
               }
@@ -11778,33 +11778,6 @@
             "Subentries": []
           },
           {
-            "HS Code": "5801.90",
-            "Description": "Of other textile materials:",
-            "Subentries": [
-              {
-                "HS Code": "5801.90.10.00",
-                "Description": "Of vegetable fibers, except cotton (810)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5801.90.20",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "5801.90.20.10",
-                    "Description": "Containing 85 percent or more by weight of silk or silk waste",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5801.90.20.90",
-                    "Description": "Other (810)",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Of cotton:",
             "Subentries": [
@@ -11942,6 +11915,33 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "5801.90",
+            "Description": "Of other textile materials:",
+            "Subentries": [
+              {
+                "HS Code": "5801.90.10.00",
+                "Description": "Of vegetable fibers, except cotton (810)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5801.90.20",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "5801.90.20.10",
+                    "Description": "Containing 85 percent or more by weight of silk or silk waste",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5801.90.20.90",
+                    "Description": "Other (810)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
@@ -12028,6 +12028,22 @@
             "Description": "Of other textile materials:",
             "Subentries": [
               {
+                "HS Code": "",
+                "Description": "Of wool or fine animal hair:",
+                "Subentries": [
+                  {
+                    "HS Code": "5803.00.20.00",
+                    "Description": "Tapestry fabrics and upholstery fabrics of a weight not exceeding 140 g/m\u00b2 (414)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5803.00.30.00",
+                    "Description": "Other (414)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
                 "HS Code": "5803.00.40.00",
                 "Description": "Of vegetable fibers, except cotton (810)",
                 "Subentries": []
@@ -12049,22 +12065,6 @@
                   {
                     "HS Code": "5803.00.90.90",
                     "Description": "Other (810)",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Of wool or fine animal hair:",
-                "Subentries": [
-                  {
-                    "HS Code": "5803.00.20.00",
-                    "Description": "Tapestry fabrics and upholstery fabrics of a weight not exceeding 140 g/m\u00b2 (414)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5803.00.30.00",
-                    "Description": "Other (414)",
                     "Subentries": []
                   }
                 ]
@@ -12105,27 +12105,6 @@
             ]
           },
           {
-            "HS Code": "5804.30.00",
-            "Description": "Hand-made lace",
-            "Subentries": [
-              {
-                "HS Code": "5804.30.00.10",
-                "Description": "Containing 85 percent or more by weight of silk or silk waste",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5804.30.00.20",
-                "Description": "Of cotton; of man-made fibers (229)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "5804.30.00.90",
-                "Description": "Other (899)",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Mechanically made lace:",
             "Subentries": [
@@ -12162,6 +12141,27 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "5804.30.00",
+            "Description": "Hand-made lace",
+            "Subentries": [
+              {
+                "HS Code": "5804.30.00.10",
+                "Description": "Containing 85 percent or more by weight of silk or silk waste",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5804.30.00.20",
+                "Description": "Of cotton; of man-made fibers (229)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5804.30.00.90",
+                "Description": "Other (899)",
+                "Subentries": []
+              }
+            ]
           }
         ]
       },
@@ -12179,6 +12179,22 @@
             "Description": "Other:",
             "Subentries": [
               {
+                "HS Code": "",
+                "Description": "Of wool or fine animal hair:",
+                "Subentries": [
+                  {
+                    "HS Code": "5805.00.20.00",
+                    "Description": "Certified hand-loomed and folklore products",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5805.00.25.00",
+                    "Description": "Other (414)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
                 "HS Code": "5805.00.30.00",
                 "Description": "Of cotton (369)",
                 "Subentries": []
@@ -12195,22 +12211,6 @@
                   {
                     "HS Code": "5805.00.40.90",
                     "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Of wool or fine animal hair:",
-                "Subentries": [
-                  {
-                    "HS Code": "5805.00.20.00",
-                    "Description": "Certified hand-loomed and folklore products",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5805.00.25.00",
-                    "Description": "Other (414)",
                     "Subentries": []
                   }
                 ]
@@ -12233,6 +12233,22 @@
                 "Subentries": []
               },
               {
+                "HS Code": "",
+                "Description": "Of man-made fibers:",
+                "Subentries": [
+                  {
+                    "HS Code": "5806.10.24.00",
+                    "Description": "Fastener fabric tapes (229)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5806.10.28.00",
+                    "Description": "Other (229)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
                 "HS Code": "5806.10.30",
                 "Description": "Other",
                 "Subentries": [
@@ -12249,22 +12265,6 @@
                   {
                     "HS Code": "5806.10.30.90",
                     "Description": "Other (899)",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Of man-made fibers:",
-                "Subentries": [
-                  {
-                    "HS Code": "5806.10.24.00",
-                    "Description": "Fastener fabric tapes (229)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5806.10.28.00",
-                    "Description": "Other (229)",
                     "Subentries": []
                   }
                 ]
@@ -12286,11 +12286,6 @@
                 "Subentries": []
               }
             ]
-          },
-          {
-            "HS Code": "5806.40.00.00",
-            "Description": "Fabrics consisting of warp without weft assembled by means of an adhesive (bolducs)",
-            "Subentries": []
           },
           {
             "HS Code": "",
@@ -12319,28 +12314,13 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "5806.32.10.95",
-                            "Description": "Other (229)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Of a width not exceeding 12 cm:",
                             "Subentries": [
                               {
-                                "HS Code": "5806.32.10.80",
-                                "Description": "Other (229)",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Of polyester:",
                                 "Subentries": [
-                                  {
-                                    "HS Code": "5806.32.10.40",
-                                    "Description": "Other (229)",
-                                    "Subentries": []
-                                  },
                                   {
                                     "HS Code": "",
                                     "Description": "With woven selvedge:",
@@ -12356,6 +12336,11 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "5806.32.10.40",
+                                    "Description": "Other (229)",
+                                    "Subentries": []
                                   }
                                 ]
                               },
@@ -12363,11 +12348,6 @@
                                 "HS Code": "",
                                 "Description": "Of nylon:",
                                 "Subentries": [
-                                  {
-                                    "HS Code": "5806.32.10.70",
-                                    "Description": "Other (229)",
-                                    "Subentries": []
-                                  },
                                   {
                                     "HS Code": "",
                                     "Description": "With woven selvedge:",
@@ -12383,10 +12363,25 @@
                                         "Subentries": []
                                       }
                                     ]
+                                  },
+                                  {
+                                    "HS Code": "5806.32.10.70",
+                                    "Description": "Other (229)",
+                                    "Subentries": []
                                   }
                                 ]
+                              },
+                              {
+                                "HS Code": "5806.32.10.80",
+                                "Description": "Other (229)",
+                                "Subentries": []
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "5806.32.10.95",
+                            "Description": "Other (229)",
+                            "Subentries": []
                           }
                         ]
                       }
@@ -12443,6 +12438,11 @@
                 ]
               }
             ]
+          },
+          {
+            "HS Code": "5806.40.00.00",
+            "Description": "Fabrics consisting of warp without weft assembled by means of an adhesive (bolducs)",
+            "Subentries": []
           }
         ]
       },
@@ -12454,27 +12454,6 @@
             "HS Code": "5807.10",
             "Description": "Woven:",
             "Subentries": [
-              {
-                "HS Code": "5807.10.20",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "5807.10.20.10",
-                    "Description": "Of cotton",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5807.10.20.20",
-                    "Description": "Of man-made fibers",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5807.10.20.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
               {
                 "HS Code": "",
                 "Description": "Labels:",
@@ -12501,6 +12480,27 @@
                     "Subentries": []
                   }
                 ]
+              },
+              {
+                "HS Code": "5807.10.20",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "5807.10.20.10",
+                    "Description": "Of cotton",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5807.10.20.20",
+                    "Description": "Of man-made fibers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5807.10.20.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
               }
             ]
           },
@@ -12508,27 +12508,6 @@
             "HS Code": "5807.90",
             "Description": "Other:",
             "Subentries": [
-              {
-                "HS Code": "5807.90.20",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "5807.90.20.10",
-                    "Description": "Of cotton",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5807.90.20.20",
-                    "Description": "Of man-made fibers",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "5807.90.20.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
               {
                 "HS Code": "",
                 "Description": "Labels:",
@@ -12551,6 +12530,27 @@
                   },
                   {
                     "HS Code": "5807.90.15.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5807.90.20",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "5807.90.20.10",
+                    "Description": "Of cotton",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5807.90.20.20",
+                    "Description": "Of man-made fibers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5807.90.20.90",
                     "Description": "Other",
                     "Subentries": []
                   }

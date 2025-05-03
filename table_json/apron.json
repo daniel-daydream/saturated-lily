@@ -20,31 +20,6 @@
                     "Description": "Recreational performance outerwear",
                     "Subentries": [
                       {
-                        "HS Code": "6211.32.50.30",
-                        "Description": "Washsuits, sunsuits, one-piece piece playsuits and similar apparel for boys (237)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6211.32.50.60",
-                        "Description": "Shirts excluded from heading 6205 (340)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6211.32.50.70",
-                        "Description": "Vests (359)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6211.32.50.75",
-                        "Description": "Jackets and jacket-type garments excluded from heading 6201 (334)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6211.32.50.81",
-                        "Description": "Other (359)",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Track suits:",
                         "Subentries": [
@@ -56,16 +31,6 @@
                           {
                             "HS Code": "6211.32.50.07",
                             "Description": "Other, insulated for cold weather protection (359)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6211.32.50.40",
-                            "Description": "Trousers (347)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6211.32.50.50",
-                            "Description": "Other (334)",
                             "Subentries": []
                           },
                           {
@@ -94,8 +59,43 @@
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "6211.32.50.40",
+                            "Description": "Trousers (347)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6211.32.50.50",
+                            "Description": "Other (334)",
+                            "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6211.32.50.30",
+                        "Description": "Washsuits, sunsuits, one-piece piece playsuits and similar apparel for boys (237)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6211.32.50.60",
+                        "Description": "Shirts excluded from heading 6205 (340)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6211.32.50.70",
+                        "Description": "Vests (359)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6211.32.50.75",
+                        "Description": "Jackets and jacket-type garments excluded from heading 6201 (334)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6211.32.50.81",
+                        "Description": "Other (359)",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -103,31 +103,6 @@
                     "HS Code": "6211.32.90",
                     "Description": "Other",
                     "Subentries": [
-                      {
-                        "HS Code": "6211.32.90.30",
-                        "Description": "Washsuits, sunsuits, one-piece piece playsuits and similar apparel for boys (237)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6211.32.90.60",
-                        "Description": "Shirts excluded from heading 6205 (340)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6211.32.90.70",
-                        "Description": "Vests (359)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6211.32.90.75",
-                        "Description": "Jackets and jacket-type garments excluded from heading 6201 (334)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6211.32.90.81",
-                        "Description": "Other (359)",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Track suits:",
@@ -140,16 +115,6 @@
                           {
                             "HS Code": "6211.32.90.07",
                             "Description": "Other, insulated for cold weather protection (359)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6211.32.90.40",
-                            "Description": "Trousers (347)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6211.32.90.50",
-                            "Description": "Other (334)",
                             "Subentries": []
                           },
                           {
@@ -178,8 +143,43 @@
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "6211.32.90.40",
+                            "Description": "Trousers (347)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6211.32.90.50",
+                            "Description": "Other (334)",
+                            "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6211.32.90.30",
+                        "Description": "Washsuits, sunsuits, one-piece piece playsuits and similar apparel for boys (237)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6211.32.90.60",
+                        "Description": "Shirts excluded from heading 6205 (340)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6211.32.90.70",
+                        "Description": "Vests (359)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6211.32.90.75",
+                        "Description": "Jackets and jacket-type garments excluded from heading 6201 (334)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6211.32.90.81",
+                        "Description": "Other (359)",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -194,26 +194,6 @@
                     "Description": "Recreational performance outerwear",
                     "Subentries": [
                       {
-                        "HS Code": "6211.33.50.25",
-                        "Description": "Washsuits, sunsuits, one-piece playsuits and similar apparel for boys (237)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6211.33.50.40",
-                        "Description": "Shirts excluded from heading 6205 (640)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6211.33.50.58",
-                        "Description": "Jackets and jacket-type garments excluded from heading 6201 (634)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6211.33.50.61",
-                        "Description": "Other (659)",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Vests:",
                         "Subentries": [
@@ -225,26 +205,6 @@
                           {
                             "HS Code": "6211.33.50.07",
                             "Description": "Other, insulated for cold weather protection (659)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6211.33.50.30",
-                            "Description": "Trousers (647)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6211.33.50.35",
-                            "Description": "Other (634)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6211.33.50.52",
-                            "Description": "Containing 36 percent or more by weight of wool or fine animal hair (459)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6211.33.50.54",
-                            "Description": "Other (659)",
                             "Subentries": []
                           },
                           {
@@ -273,8 +233,48 @@
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "HS Code": "6211.33.50.30",
+                            "Description": "Trousers (647)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6211.33.50.35",
+                            "Description": "Other (634)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6211.33.50.52",
+                            "Description": "Containing 36 percent or more by weight of wool or fine animal hair (459)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6211.33.50.54",
+                            "Description": "Other (659)",
+                            "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6211.33.50.25",
+                        "Description": "Washsuits, sunsuits, one-piece playsuits and similar apparel for boys (237)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6211.33.50.40",
+                        "Description": "Shirts excluded from heading 6205 (640)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6211.33.50.58",
+                        "Description": "Jackets and jacket-type garments excluded from heading 6201 (634)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6211.33.50.61",
+                        "Description": "Other (659)",
+                        "Subentries": []
                       }
                     ]
                   },
@@ -282,21 +282,6 @@
                     "HS Code": "6211.33.90",
                     "Description": "Other",
                     "Subentries": [
-                      {
-                        "HS Code": "6211.33.90.25",
-                        "Description": "Washsuits, sunsuits, one-piece playsuits and similar apparel for boys (237)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6211.33.90.58",
-                        "Description": "Jackets and jacket-type garments excluded from heading 6201 (634)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6211.33.90.61",
-                        "Description": "Other (659)",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "",
                         "Description": "Vests:",
@@ -310,6 +295,33 @@
                             "HS Code": "6211.33.90.07",
                             "Description": "Other, insulated for cold weather protection (659)",
                             "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6211.33.90.10",
+                                "Description": "Men's (659)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Boys':",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6211.33.90.15",
+                                    "Description": "Sizes 2-7 (237)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6211.33.90.17",
+                                    "Description": "Other (659)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
                           },
                           {
                             "HS Code": "6211.33.90.30",
@@ -340,35 +352,23 @@
                             "HS Code": "6211.33.90.54",
                             "Description": "Other (659)",
                             "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Other:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6211.33.90.10",
-                                "Description": "Men's (659)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Boys':",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6211.33.90.15",
-                                    "Description": "Sizes 2-7 (237)",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6211.33.90.17",
-                                    "Description": "Other (659)",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6211.33.90.25",
+                        "Description": "Washsuits, sunsuits, one-piece playsuits and similar apparel for boys (237)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6211.33.90.58",
+                        "Description": "Jackets and jacket-type garments excluded from heading 6201 (634)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6211.33.90.61",
+                        "Description": "Other (659)",
+                        "Subentries": []
                       }
                     ]
                   }
@@ -386,6 +386,22 @@
                         "HS Code": "6211.39.03",
                         "Description": "Of wool or fine animal hair",
                         "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Tracksuits:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6211.39.03.10",
+                                "Description": "Trousers (447)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6211.39.03.20",
+                                "Description": "Other (434)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
                           {
                             "HS Code": "6211.39.03.30",
                             "Description": "Shirts excluded from heading 6205 (440)",
@@ -405,22 +421,6 @@
                             "HS Code": "6211.39.03.51",
                             "Description": "Other (459)",
                             "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Tracksuits:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6211.39.03.10",
-                                "Description": "Trousers (447)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6211.39.03.20",
-                                "Description": "Other (434)",
-                                "Subentries": []
-                              }
-                            ]
                           }
                         ]
                       },
@@ -437,6 +437,22 @@
                             "HS Code": "6211.39.07.20",
                             "Description": "Washsuits, sunsuits, one-piece playsuits and similar apparel (759)",
                             "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Track suits:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6211.39.07.30",
+                                "Description": "Trousers (747)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6211.39.07.40",
+                                "Description": "Other (734)",
+                                "Subentries": []
+                              }
+                            ]
                           },
                           {
                             "HS Code": "6211.39.07.50",
@@ -457,22 +473,6 @@
                             "HS Code": "6211.39.07.90",
                             "Description": "Other (759)",
                             "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Track suits:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6211.39.07.30",
-                                "Description": "Trousers (747)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6211.39.07.40",
-                                "Description": "Other (734)",
-                                "Subentries": []
-                              }
-                            ]
                           }
                         ]
                       },
@@ -489,6 +489,22 @@
                             "HS Code": "6211.39.15.20",
                             "Description": "Washsuits, sunsuits, one-piece playsuits and similar apparel (859)",
                             "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Track suits:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6211.39.15.30",
+                                "Description": "Trousers (847)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6211.39.15.40",
+                                "Description": "Other (834)",
+                                "Subentries": []
+                              }
+                            ]
                           },
                           {
                             "HS Code": "6211.39.15.50",
@@ -509,22 +525,6 @@
                             "HS Code": "6211.39.15.90",
                             "Description": "Other (859)",
                             "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Track suits:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6211.39.15.30",
-                                "Description": "Trousers (847)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6211.39.15.40",
-                                "Description": "Other (834)",
-                                "Subentries": []
-                              }
-                            ]
                           }
                         ]
                       },
@@ -532,6 +532,22 @@
                         "HS Code": "6211.39.30",
                         "Description": "Of wool or fine animal hair",
                         "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Track suits:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6211.39.30.10",
+                                "Description": "Trousers (447)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6211.39.30.20",
+                                "Description": "Other (434)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
                           {
                             "HS Code": "6211.39.30.30",
                             "Description": "Shirts excluded from heading 6205 (440)",
@@ -551,22 +567,6 @@
                             "HS Code": "6211.39.30.51",
                             "Description": "Other (459)",
                             "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Track suits:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6211.39.30.10",
-                                "Description": "Trousers (447)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6211.39.30.20",
-                                "Description": "Other (434)",
-                                "Subentries": []
-                              }
-                            ]
                           }
                         ]
                       },
@@ -583,6 +583,22 @@
                             "HS Code": "6211.39.60.20",
                             "Description": "Washsuits, sunsuits, one-piece playsuits and similar apparel (759)",
                             "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Track suits:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6211.39.60.30",
+                                "Description": "Trousers (747)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6211.39.60.40",
+                                "Description": "Other (734)",
+                                "Subentries": []
+                              }
+                            ]
                           },
                           {
                             "HS Code": "6211.39.60.50",
@@ -603,22 +619,6 @@
                             "HS Code": "6211.39.60.90",
                             "Description": "Other (759)",
                             "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Track suits:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6211.39.60.30",
-                                "Description": "Trousers (747)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6211.39.60.40",
-                                "Description": "Other (734)",
-                                "Subentries": []
-                              }
-                            ]
                           }
                         ]
                       },
@@ -635,6 +635,22 @@
                             "HS Code": "6211.39.80.20",
                             "Description": "Washsuits, sunsuits, one-piece playsuits and similar apparel (859)",
                             "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Track suits:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6211.39.80.30",
+                                "Description": "Trousers (847)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6211.39.80.40",
+                                "Description": "Other (834)",
+                                "Subentries": []
+                              }
+                            ]
                           },
                           {
                             "HS Code": "6211.39.80.50",
@@ -655,22 +671,6 @@
                             "HS Code": "6211.39.80.90",
                             "Description": "Other (859)",
                             "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Track suits:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6211.39.80.30",
-                                "Description": "Trousers (847)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6211.39.80.40",
-                                "Description": "Other (834)",
-                                "Subentries": []
-                              }
-                            ]
                           }
                         ]
                       }

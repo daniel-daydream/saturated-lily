@@ -93,22 +93,6 @@
         "Description": "Cereal groats, meal and pellets:",
         "Subentries": [
           {
-            "HS Code": "1103.20.00",
-            "Description": "Pellets",
-            "Subentries": [
-              {
-                "HS Code": "1103.20.00.10",
-                "Description": "Of wheat",
-                "Subentries": []
-              },
-              {
-                "HS Code": "1103.20.00.90",
-                "Description": "Of other cereals",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Groats and meal:",
             "Subentries": [
@@ -164,6 +148,22 @@
                     "Subentries": []
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "1103.20.00",
+            "Description": "Pellets",
+            "Subentries": [
+              {
+                "HS Code": "1103.20.00.10",
+                "Description": "Of wheat",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1103.20.00.90",
+                "Description": "Of other cereals",
+                "Subentries": []
               }
             ]
           }
