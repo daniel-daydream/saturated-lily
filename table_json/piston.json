@@ -1,0 +1,274 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8409",
+        "Description": "Parts suitable for use solely or principally with the engines of heading 8407 or 8408:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "8409.91",
+                "Description": "Suitable for use solely or principally with spark-ignition internal combustion piston engines (including rotary engines):",
+                "Subentries": [
+                  {
+                    "HS Code": "8409.91.10",
+                    "Description": "Cast-iron parts, not advanced beyond cleaning, and machined only for the removal of fins, gates, sprues and risers or to permit location in finishing machinery",
+                    "Subentries": [
+                      {
+                        "HS Code": "8409.91.10.40",
+                        "Description": "For vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29, or heading 8702, 8703 or 8704",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8409.91.10.60",
+                        "Description": "For marine propulsion engines",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8409.91.10.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8409.91.92",
+                        "Description": "For marine propulsion engines",
+                        "Subentries": [
+                          {
+                            "HS Code": "8409.91.92.10",
+                            "Description": "Connecting rods",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8409.91.92.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8409.91.99",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8409.91.99.10",
+                            "Description": "Connecting rods",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8409.91.99.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "To be installed in vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29, or heading 8702, 8703 or 8704:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8409.91.30.00",
+                            "Description": "Aluminum cylinder heads",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8409.91.50",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "8409.91.50.10",
+                                "Description": "Connecting rods",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8409.91.50.81",
+                                "Description": "Steel forgings",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8409.91.50.85",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8409.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8409.99.10",
+                    "Description": "Cast-iron parts, not advanced beyond cleaning, and machined only for the removal of fins, gates, sprues and risers or to permit location in finishing machinery",
+                    "Subentries": [
+                      {
+                        "HS Code": "8409.99.10.40",
+                        "Description": "For vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29, or heading 8702, 8703 or 8704",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8409.99.10.60",
+                        "Description": "For marine propulsion engines",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8409.99.10.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8409.99.91",
+                        "Description": "To be installed in vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29, or heading 8702, 8703 or 8704",
+                        "Subentries": [
+                          {
+                            "HS Code": "8409.99.91.10",
+                            "Description": "Connecting rods",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8409.99.91.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8409.99.92",
+                        "Description": "For marine propulsion engines",
+                        "Subentries": [
+                          {
+                            "HS Code": "8409.99.92.10",
+                            "Description": "Connecting rods",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8409.99.92.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8409.99.99",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8409.99.99.10",
+                            "Description": "Connecting rods",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8409.99.99.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8412",
+        "Description": "Other engines and motors, and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8412.90",
+            "Description": "Parts:",
+            "Subentries": [
+              {
+                "HS Code": "8412.90.10.00",
+                "Description": "Of hydrojet engines for marine propulsion",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8412.90.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8412.90.90.50",
+                    "Description": "Of reaction engines other than turbojets",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of hydraulic power engines and motors:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8412.90.90.05",
+                        "Description": "Of linear acting engines and motors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8412.90.90.15",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of pneumatic power engines and motors:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8412.90.90.25",
+                        "Description": "Of linear acting engines and motors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8412.90.90.35",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8412.90.90.81",
+                        "Description": "Wind turbine blades and hubs",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8412.90.90.85",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

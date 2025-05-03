@@ -1,0 +1,46 @@
+[
+  {
+    "HS Code": "96",
+    "Description": "Miscellaneous manufactured articles",
+    "Subentries": [
+      {
+        "HS Code": "9607",
+        "Description": "Slide fasteners and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Slide fasteners:",
+            "Subentries": [
+              {
+                "HS Code": "9607.11.00.00",
+                "Description": "Fitted with chain scoops of base metal",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9607.19.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "9607.19.00.20",
+                    "Description": "Fitted with chain scoops of plastic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9607.19.00.40",
+                    "Description": "Fitted with continuous plastic filament",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9607.19.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

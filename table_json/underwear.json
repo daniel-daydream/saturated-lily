@@ -88,33 +88,6 @@
                 ]
               },
               {
-                "HS Code": "",
-                "Description": "Of other textile materials:",
-                "Subentries": [
-                  {
-                    "HS Code": "6108.19.10.00",
-                    "Description": "Containing 70 percent or more by weight of silk or silk waste (752)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "6108.19.90",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "6108.19.90.10",
-                        "Description": "Of cotton (352)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6108.19.90.30",
-                        "Description": "Other (852)",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
                 "HS Code": "6108.21.00",
                 "Description": "Of cotton",
                 "Subentries": [
@@ -182,6 +155,11 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
+                        "HS Code": "6108.91.00.05",
+                        "Description": "Underpants (352)",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "6108.91.00.30",
                         "Description": "Women's (350)",
                         "Subentries": []
@@ -189,11 +167,6 @@
                       {
                         "HS Code": "6108.91.00.40",
                         "Description": "Girls' (350)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6108.91.00.05",
-                        "Description": "Underpants (352)",
                         "Subentries": []
                       },
                       {
@@ -225,6 +198,11 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
+                        "HS Code": "6108.92.00.05",
+                        "Description": "Underpants (652)",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "6108.92.00.30",
                         "Description": "Women's (650)",
                         "Subentries": []
@@ -232,11 +210,6 @@
                       {
                         "HS Code": "6108.92.00.40",
                         "Description": "Girls' (650)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6108.92.00.05",
-                        "Description": "Underpants (652)",
                         "Subentries": []
                       },
                       {
@@ -288,6 +261,33 @@
                     "HS Code": "6108.99.90.00",
                     "Description": "Other (850)",
                     "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Of other textile materials:",
+                "Subentries": [
+                  {
+                    "HS Code": "6108.19.10.00",
+                    "Description": "Containing 70 percent or more by weight of silk or silk waste (752)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6108.19.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6108.19.90.10",
+                        "Description": "Of cotton (352)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6108.19.90.30",
+                        "Description": "Other (852)",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               }
@@ -400,16 +400,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "6208.92.00.30",
-                        "Description": "Women's (652)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6208.92.00.40",
-                        "Description": "Girls' (652)",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "6208.92.00.10",
                         "Description": "Women's (650)",
                         "Subentries": []
@@ -417,6 +407,16 @@
                       {
                         "HS Code": "6208.92.00.20",
                         "Description": "Girls' (650)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6208.92.00.30",
+                        "Description": "Women's (652)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6208.92.00.40",
+                        "Description": "Girls' (652)",
                         "Subentries": []
                       }
                     ]
@@ -439,6 +439,22 @@
                       {
                         "HS Code": "6208.99.20.20",
                         "Description": "Other (459)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "6208.99.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6208.99.80.10",
+                        "Description": "Bathrobes, dressing gowns and similar articles (850)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6208.99.80.20",
+                        "Description": "Other (852)",
                         "Subentries": []
                       }
                     ]
@@ -478,22 +494,6 @@
                             "Subentries": []
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "6208.99.80",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "6208.99.80.10",
-                        "Description": "Bathrobes, dressing gowns and similar articles (850)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6208.99.80.20",
-                        "Description": "Other (852)",
-                        "Subentries": []
                       }
                     ]
                   }

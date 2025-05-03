@@ -1,0 +1,84 @@
+[
+  {
+    "HS Code": "19",
+    "Description": "Preparations of cereals, flour, starch or milk; bakers' wares",
+    "Subentries": [
+      {
+        "HS Code": "1905",
+        "Description": "Bread, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa; communion wafers, empty capsules of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Sweet biscuits; waffles and wafers:",
+            "Subentries": [
+              {
+                "HS Code": "1905.31.00",
+                "Description": "Sweet biscuits",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1905.31.00.21",
+                        "Description": "Containing peanuts or peanut products",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1905.31.00.29",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1905.31.00.41",
+                        "Description": "Containing peanuts or peanut products",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1905.31.00.49",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1905.32.00",
+                "Description": "Waffles and wafers",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1905.32.00.21",
+                        "Description": "Containing peanuts or peanut products",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1905.32.00.29",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1905.32.00.41",
+                        "Description": "Containing peanuts or peanut products",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1905.32.00.49",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

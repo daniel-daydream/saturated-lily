@@ -1,0 +1,57 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8533",
+        "Description": "Electrical resistors (including rheostats and potentiometers), other than heating resistors; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8533.40",
+            "Description": "Other variable resistors, including rheostats and potentiometers:",
+            "Subentries": [
+              {
+                "HS Code": "8533.40.40.00",
+                "Description": "Metal oxide varistors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8533.40.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8533.40.80.40",
+                    "Description": "Rheostat and resistor type motor starters and controllers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8533.40.80.50",
+                        "Description": "Cermet",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8533.40.80.60",
+                        "Description": "Metal glaze",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8533.40.80.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

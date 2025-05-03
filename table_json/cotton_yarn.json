@@ -1,0 +1,290 @@
+[
+  {
+    "HS Code": "52",
+    "Description": "Cotton",
+    "Subentries": [
+      {
+        "HS Code": "5205",
+        "Description": "Cotton yarn (other than sewing thread), containing 85 percent or more by weight of cotton, not put up for retail sale:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Single yarn, of uncombed fibers:",
+            "Subentries": [
+              {
+                "HS Code": "5205.11",
+                "Description": "Not exceeding 14 nm:",
+                "Subentries": [
+                  {
+                    "HS Code": "5205.11.10.00",
+                    "Description": "Unbleached, not mercerized (300)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5205.11.20.00",
+                    "Description": "Other (300)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5205.12",
+                "Description": "Exceeding 14 nm but not exceeding 43 nm:",
+                "Subentries": [
+                  {
+                    "HS Code": "5205.12.10.00",
+                    "Description": "Unbleached, not mercerized (300)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5205.12.20.00",
+                    "Description": "Other (300)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5205.13",
+                "Description": "Exceeding 43 nm but not exceeding 52 nm:",
+                "Subentries": [
+                  {
+                    "HS Code": "5205.13.10.00",
+                    "Description": "Unbleached, not mercerized (300)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5205.13.20.00",
+                    "Description": "Other (300)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5205.14",
+                "Description": "Exceeding 52 nm but not exceeding 80 nm:",
+                "Subentries": [
+                  {
+                    "HS Code": "5205.14.10.00",
+                    "Description": "Unbleached, not mercerized (300)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5205.14.20.00",
+                    "Description": "Other (300)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5205.15",
+                "Description": "Exceeding 80 nm:",
+                "Subentries": [
+                  {
+                    "HS Code": "5205.15.10.00",
+                    "Description": "Unbleached, not mercerized (300)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5205.15.20.00",
+                    "Description": "Other (300)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5205.21.00",
+                "Description": "Not exceeding 14 nm",
+                "Subentries": [
+                  {
+                    "HS Code": "5205.21.00.20",
+                    "Description": "Ring spun (301)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5205.21.00.90",
+                    "Description": "Other (301)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5205.22.00",
+                "Description": "Exceeding 14 nm but not exceeding 43 nm",
+                "Subentries": [
+                  {
+                    "HS Code": "5205.22.00.20",
+                    "Description": "Ring spun (301)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5205.22.00.90",
+                    "Description": "Other (301)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5205.23.00",
+                "Description": "Exceeding 43 nm but not exceeding 52 nm",
+                "Subentries": [
+                  {
+                    "HS Code": "5205.23.00.20",
+                    "Description": "Ring spun (301)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5205.23.00.90",
+                    "Description": "Other (301)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5205.24.00",
+                "Description": "Exceeding 52 nm but not exceeding 80 nm",
+                "Subentries": [
+                  {
+                    "HS Code": "5205.24.00.20",
+                    "Description": "Ring spun (301)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5205.24.00.90",
+                    "Description": "Other (301)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5205.26.00",
+                "Description": "Measuring less than 125 decitex but not less than 106.38 decitex (exceeding 80 metric number but not exceeding 94 metric number)",
+                "Subentries": [
+                  {
+                    "HS Code": "5205.26.00.20",
+                    "Description": "Ring spun (301)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5205.26.00.90",
+                    "Description": "Other (301)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5205.27.00",
+                "Description": "Measuring less than 106.38 decitex but not less than 83.33 decitex (exceeding 94 metric number but not exceeding 120 metric number)",
+                "Subentries": [
+                  {
+                    "HS Code": "5205.27.00.20",
+                    "Description": "Ring spun (301)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5205.27.00.90",
+                    "Description": "Other (301)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5205.28.00",
+                "Description": "Measuring less than 83.33 decitex (exceeding 120 metric number)",
+                "Subentries": [
+                  {
+                    "HS Code": "5205.28.00.20",
+                    "Description": "Ring spun (301)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5205.28.00.90",
+                    "Description": "Other (301)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "5206",
+        "Description": "Cotton yarn (other than sewing thread), containing less than 85 percent by weight of cotton, not put up for retail sale:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Single yarn, of uncombed fibers:",
+            "Subentries": [
+              {
+                "HS Code": "5206.11.00.00",
+                "Description": "Not exceeding 14 nm (300)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5206.12.00.00",
+                "Description": "Exceeding 14 nm but not exceeding 43 nm (300)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5206.13.00.00",
+                "Description": "Exceeding 43 nm but not exceeding 52 nm (300)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5206.14.00.00",
+                "Description": "Exceeding 52 nm but not exceeding 80 nm (300)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5206.15.00.00",
+                "Description": "Exceeding 80 nm (300)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5206.21.00.00",
+                "Description": "Not exceeding 14 nm (301)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5206.22.00.00",
+                "Description": "Exceeding 14 nm but not exceeding 43 nm (301)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5206.23.00.00",
+                "Description": "Exceeding 43 nm but not exceeding 52 nm (301)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5206.24.00.00",
+                "Description": "Exceeding 52 nm but not exceeding 80 nm (301)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5206.25.00.00",
+                "Description": "Exceeding 80 nm (301)",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "5207",
+        "Description": "Cotton yarn (other than sewing thread) put up for retail sale:",
+        "Subentries": [
+          {
+            "HS Code": "5207.10.00.00",
+            "Description": "Containing 85 percent or more by weight of cotton (200)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "5207.90.00.00",
+            "Description": "Other (200)",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

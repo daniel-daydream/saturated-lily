@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "28",
+    "Description": "Inorganic chemicals; organic or inorgani c compounds of precious metals, of rare-earth metals,of radioactive elements or of isotopes",
+    "Subentries": [
+      {
+        "HS Code": "2815",
+        "Description": "Sodium hydroxide (Caustic soda); potassium hydroxide (Caustic potash); peroxides of sodium or potassium:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Sodium hydroxide (Caustic soda):",
+            "Subentries": [
+              {
+                "HS Code": "2815.11.00.00",
+                "Description": "Solid",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2815.12.00.00",
+                "Description": "In aqueous solution (Soda lye or liquid soda)",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

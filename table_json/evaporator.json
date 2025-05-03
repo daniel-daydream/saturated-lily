@@ -1,0 +1,88 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8418",
+        "Description": "Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps, other than the air conditioning machines of heading 8415; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other refrigerating or freezing equipment; heat pumps:",
+            "Subentries": [
+              {
+                "HS Code": "8418.61.01.00",
+                "Description": "Heat pumps other than air conditioning machines of heading 8415",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8418.69.01",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8418.69.01.10",
+                    "Description": "Icemaking machines",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8418.69.01.20",
+                    "Description": "Drinking water coolers, self-contained",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8418.69.01.30",
+                    "Description": "Soda fountain and beer dispensing equipment",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8418.69.01.40",
+                    "Description": "Centrifugal liquid chilling refrigerating units",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8418.69.01.50",
+                    "Description": "Reciprocating liquid chilling refrigerating units",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8418.69.01.60",
+                    "Description": "Absorption liquid chilling units",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8418.69.01.80",
+                    "Description": "Other refrigerating or freezing equipment",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8419",
+        "Description": "Machinery, plant or laboratory equipment, whether or not electrically heated (excluding furnaces, ovens and other equipment of heading 8514), for the treatment of materials by a process involving a change of temperature such as heating, cooking, roasting, distilling, rectifying, sterilizing, pasteurizing, steaming, drying, evaporating, vaporizing, condensing or cooling, other than machinery or plant of a kind used for domestic purposes; instantaneous or storage water heaters, nonelectric; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8419.50",
+            "Description": "Heat exchange units:",
+            "Subentries": [
+              {
+                "HS Code": "8419.50.10.00",
+                "Description": "Brazed aluminum plate-fin heat exchangers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8419.50.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8507",
+        "Description": "Electric storage batteries, including separators therefor, whether or not rectangular (including square); parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8507.60.00",
+            "Description": "Lithium-ion batteries",
+            "Subentries": [
+              {
+                "HS Code": "8507.60.00.10",
+                "Description": "Of a kind used as the primary source of electrical power for electrically powered vehicles of subheadings 8703.40, 8703.50, 8703.60, 8703.70 or 8703.80",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8507.60.00.20",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

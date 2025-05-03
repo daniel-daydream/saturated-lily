@@ -1,0 +1,126 @@
+[
+  {
+    "HS Code": "42",
+    "Description": "Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",
+    "Subentries": [
+      {
+        "HS Code": "4202",
+        "Description": "Trunks, suitcases, vanity cases, attache cases, briefcases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; traveling bags, insulated food or beverage bags, toiletry bags, knapsacks and backpacks, handbags, shopping bags, wallets, purses, map cases, cigarette cases, tobacco pouches, tool bags, sports bags, bottle cases, jewelry boxes, powder cases, cutlery cases and similar containers, of leather or of composition leather, of sheeting of plastics, of textile materials, of vulcanized fiber or of paperboard, or wholly or mainly covered with such materials or with paper:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Articles of a kind normally carried in the pocket or in the handbag:",
+            "Subentries": [
+              {
+                "HS Code": "4202.31",
+                "Description": "With outer surface of leather or of composition leather:",
+                "Subentries": [
+                  {
+                    "HS Code": "4202.31.30.00",
+                    "Description": "Of reptile leather",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4202.31.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "4202.32",
+                "Description": "With outer surface of sheeting of plastics or of textile materials:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "With outer surface of textile materials:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4202.32.10.00",
+                        "Description": "Of reinforced or laminated plastics",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4202.32.20.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "4202.32.40.00",
+                            "Description": "Of cotton (369)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4202.32.80.00",
+                            "Description": "Other (871)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4202.32.85.00",
+                            "Description": "Containing 85 percent or more by weight of silk or silk waste",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4202.32.91.00",
+                            "Description": "Of cotton (369)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4202.32.93.00",
+                            "Description": "Of man-made fibers (670)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4202.32.99.00",
+                            "Description": "Other (871)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "4202.39",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "4202.39.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of material (other than leather, composition leather, sheeting of plastics, textile materials, vulcanized fiber or paperboard) wholly or mainly covered with paper:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4202.39.10.00",
+                        "Description": "Of plastics",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4202.39.20.00",
+                        "Description": "Of wood",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4202.39.50.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

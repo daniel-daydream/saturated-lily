@@ -8,6 +8,88 @@
         "Description": "Ceramic flags and paving, hearth or wall tiles; ceramic mosaic cubes and the like, whether or not on a backing; finishing ceramics:",
         "Subentries": [
           {
+            "HS Code": "6907.30",
+            "Description": "Mosaic cubes and the like, other than those of subheading 6907.40:",
+            "Subentries": [
+              {
+                "HS Code": "6907.30.10",
+                "Description": "Unglazed",
+                "Subentries": [
+                  {
+                    "HS Code": "6907.30.10.05",
+                    "Description": "Cubes and the like, whether or not rectangular, the largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6907.30.10.11",
+                        "Description": "Cubes and the like, the largest surface area of which is capable of being enclosed in a square the side of which is 30cm or less",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6907.30.10.51",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Glazed:",
+                "Subentries": [
+                  {
+                    "HS Code": "6907.30.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6907.30.90.11",
+                        "Description": "Cubes and the like, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6907.30.90.51",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "The largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6907.30.20.00",
+                        "Description": "Having not over 3229 cubes per square meter, most of which have straight lines",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6907.30.30.00",
+                            "Description": "The largest surface area of which is less than 38.7 cm2",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6907.30.40.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Flags and paving, hearth or wall tiles, other than those of subheading 6907.30 and 6907.40:",
             "Subentries": [
@@ -47,6 +129,22 @@
                     "Description": "Glazed:",
                     "Subentries": [
                       {
+                        "HS Code": "6907.21.90",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "6907.21.90.11",
+                            "Description": "Tiles, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6907.21.90.51",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
                         "HS Code": "",
                         "Description": "The largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm:",
                         "Subentries": [
@@ -70,22 +168,6 @@
                                 "Subentries": []
                               }
                             ]
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "6907.21.90",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "6907.21.90.11",
-                            "Description": "Tiles, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6907.21.90.51",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
                       }
@@ -129,6 +211,22 @@
                     "Description": "Glazed:",
                     "Subentries": [
                       {
+                        "HS Code": "6907.22.90",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "6907.22.90.11",
+                            "Description": "Tiles, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6907.22.90.51",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
                         "HS Code": "",
                         "Description": "The largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm:",
                         "Subentries": [
@@ -152,22 +250,6 @@
                                 "Subentries": []
                               }
                             ]
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "6907.22.90",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "6907.22.90.11",
-                            "Description": "Tiles, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6907.22.90.51",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
                       }
@@ -211,6 +293,22 @@
                     "Description": "Glazed:",
                     "Subentries": [
                       {
+                        "HS Code": "6907.23.90",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "6907.23.90.11",
+                            "Description": "Tiles, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6907.23.90.51",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
                         "HS Code": "",
                         "Description": "The largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm:",
                         "Subentries": [
@@ -236,104 +334,6 @@
                             ]
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "6907.23.90",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "6907.23.90.11",
-                            "Description": "Tiles, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6907.23.90.51",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "6907.30",
-            "Description": "Mosaic cubes and the like, other than those of subheading 6907.40:",
-            "Subentries": [
-              {
-                "HS Code": "6907.30.10",
-                "Description": "Unglazed",
-                "Subentries": [
-                  {
-                    "HS Code": "6907.30.10.05",
-                    "Description": "Cubes and the like, whether or not rectangular, the largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "6907.30.10.11",
-                        "Description": "Cubes and the like, the largest surface area of which is capable of being enclosed in a square the side of which is 30cm or less",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6907.30.10.51",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Glazed:",
-                "Subentries": [
-                  {
-                    "HS Code": "",
-                    "Description": "The largest surface area of which is capable of being enclosed in a square the side of which is less than 7 cm:",
-                    "Subentries": [
-                      {
-                        "HS Code": "6907.30.20.00",
-                        "Description": "Having not over 3229 cubes per square meter, most of which have straight lines",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "6907.30.30.00",
-                            "Description": "The largest surface area of which is less than 38.7 cm2",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6907.30.40.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "6907.30.90",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "6907.30.90.11",
-                        "Description": "Cubes and the like, the largest surface area of which is capable of being enclosed in a square the side of which is 30 cm or less",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6907.30.90.51",
-                        "Description": "Other",
-                        "Subentries": []
                       }
                     ]
                   }

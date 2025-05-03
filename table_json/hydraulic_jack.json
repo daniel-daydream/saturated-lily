@@ -1,0 +1,35 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8425",
+        "Description": "Pulley tackle and hoists other than skip hoists; winches and capstans; jacks:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Jacks; hoists of a kind used for raising vehicles:",
+            "Subentries": [
+              {
+                "HS Code": "8425.41.00.00",
+                "Description": "Built-in jacking systems of a type used in garages",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8425.42.00.00",
+                "Description": "Other jacks and hoists, hydraulic",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8425.49.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

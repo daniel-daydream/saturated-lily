@@ -1,0 +1,105 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8412",
+        "Description": "Other engines and motors, and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Hydraulic power engines and motors:",
+            "Subentries": [
+              {
+                "HS Code": "8412.21.00",
+                "Description": "Linear acting (cylinders)",
+                "Subentries": [
+                  {
+                    "HS Code": "8412.21.00.15",
+                    "Description": "Tie-rod type",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8412.21.00.30",
+                    "Description": "Weld fused type",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8412.21.00.45",
+                        "Description": "Telescoping",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8412.21.00.60",
+                        "Description": "Rodless",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8412.21.00.75",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8412.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8412.29.40.00",
+                    "Description": "Hydrojet engines for marine propulsion",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8412.29.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8412.29.80.75",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Unlimited rotary acting:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8412.29.80.15",
+                            "Description": "Gear type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8412.29.80.30",
+                            "Description": "Radial piston type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8412.29.80.45",
+                            "Description": "Axial piston type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8412.29.80.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

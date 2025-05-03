@@ -1,0 +1,46 @@
+[
+  {
+    "HS Code": "63",
+    "Description": "Other made up textile articles; sets; worn clothing and worn textile articles; rags",
+    "Subentries": [
+      {
+        "HS Code": "6301",
+        "Description": "Blankets and traveling rugs:",
+        "Subentries": [
+          {
+            "HS Code": "6301.30.00",
+            "Description": "Blankets (other than electric blankets) and traveling rugs, of cotton",
+            "Subentries": [
+              {
+                "HS Code": "6301.30.00.10",
+                "Description": "Woven (369)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6301.30.00.20",
+                "Description": "Other (369)",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "6301.40.00",
+            "Description": "Blankets (other than electric blankets) and traveling rugs, of synthetic fibers",
+            "Subentries": [
+              {
+                "HS Code": "6301.40.00.10",
+                "Description": "Woven (666)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6301.40.00.20",
+                "Description": "Other (666)",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

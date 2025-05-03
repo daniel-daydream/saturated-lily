@@ -1,0 +1,82 @@
+[
+  {
+    "HS Code": "08",
+    "Description": "Edible fruit and nuts; peel of citrus fruit or melons",
+    "Subentries": [
+      {
+        "HS Code": "0810",
+        "Description": "Other fruit, fresh:",
+        "Subentries": [
+          {
+            "HS Code": "0810.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "0810.90.27",
+                "Description": "Other berries; tamarinds",
+                "Subentries": [
+                  {
+                    "HS Code": "0810.90.27.30",
+                    "Description": "Tamarinds",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0810.90.27.60",
+                    "Description": "Berries",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0810.90.46",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0810.90.46.20",
+                    "Description": "Cactus pears",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0810.90.46.30",
+                    "Description": "Dragon fruit",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0810.90.46.40",
+                    "Description": "Jackfruit",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0810.90.46.50",
+                    "Description": "Lychee",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0810.90.46.60",
+                    "Description": "Pomegranates",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0810.90.46.70",
+                    "Description": "Rambutan",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0810.90.46.75",
+                    "Description": "Tomatillos",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0810.90.46.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

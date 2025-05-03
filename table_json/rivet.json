@@ -1,0 +1,56 @@
+[
+  {
+    "HS Code": "73",
+    "Description": "Articles of iron or steel",
+    "Subentries": [
+      {
+        "HS Code": "7318",
+        "Description": "Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter pins, washers (including spring washers) and similar articles, of iron or steel:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Non-threaded articles:",
+            "Subentries": [
+              {
+                "HS Code": "7318.21.00",
+                "Description": "Spring washers and other lock washers",
+                "Subentries": [
+                  {
+                    "HS Code": "7318.21.00.30",
+                    "Description": "Helical spring lock washers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7318.21.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7318.22.00.00",
+                "Description": "Other washers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7318.23.00.00",
+                "Description": "Rivets",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7318.24.00.00",
+                "Description": "Cotters and cotter pins",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7318.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

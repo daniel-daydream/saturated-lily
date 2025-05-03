@@ -1,0 +1,73 @@
+[
+  {
+    "HS Code": "83",
+    "Description": "Miscellaneous articles of base metal",
+    "Subentries": [
+      {
+        "HS Code": "8301",
+        "Description": "Padlocks and locks (key, combination or electrically operated), of base metal; clasps and frames with clasps, incorporating locks, of base metal; keys and parts of any of the foregoing articles, of base metal:",
+        "Subentries": [
+          {
+            "HS Code": "8301.10",
+            "Description": "Padlocks:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Not of cylinder or pin tumbler construction:",
+                "Subentries": [
+                  {
+                    "HS Code": "8301.10.20.00",
+                    "Description": "Not over 3.8 cm in width",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8301.10.40.00",
+                    "Description": "Over 3.8 cm but not over 6.4 cm in width",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8301.10.50.00",
+                    "Description": "Over 6.4 cm in width",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Of cylinder or pin tumbler construction:",
+                "Subentries": [
+                  {
+                    "HS Code": "8301.10.60",
+                    "Description": "Not over 3.8 cm in width",
+                    "Subentries": [
+                      {
+                        "HS Code": "8301.10.60.20",
+                        "Description": "Lock bodies containing hardened steel components with attached (or insertable) flexible cable composed of wire strands and hardened steel beads",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8301.10.60.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8301.10.80.00",
+                    "Description": "Over 3.8 cm but not over 6.4 cm in width",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8301.10.90.00",
+                    "Description": "Over 6.4 cm in width",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

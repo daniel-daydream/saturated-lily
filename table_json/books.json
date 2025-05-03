@@ -8,6 +8,22 @@
         "Description": "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets:",
         "Subentries": [
           {
+            "HS Code": "4901.10.00",
+            "Description": "In single sheets, whether or not folded",
+            "Subentries": [
+              {
+                "HS Code": "4901.10.00.20",
+                "Description": "Reproduction proofs",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4901.10.00.40",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Other:",
             "Subentries": [
@@ -65,6 +81,16 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
+                            "HS Code": "4901.99.00.60",
+                            "Description": "Valued under $5 each",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4901.99.00.65",
+                            "Description": "Valued $5 or more each",
+                            "Subentries": []
+                          },
+                          {
                             "HS Code": "4901.99.00.70",
                             "Description": "Hardbound books",
                             "Subentries": []
@@ -94,38 +120,12 @@
                                 "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "4901.99.00.60",
-                            "Description": "Valued under $5 each",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "4901.99.00.65",
-                            "Description": "Valued $5 or more each",
-                            "Subentries": []
                           }
                         ]
                       }
                     ]
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "HS Code": "4901.10.00",
-            "Description": "In single sheets, whether or not folded",
-            "Subentries": [
-              {
-                "HS Code": "4901.10.00.20",
-                "Description": "Reproduction proofs",
-                "Subentries": []
-              },
-              {
-                "HS Code": "4901.10.00.40",
-                "Description": "Other",
-                "Subentries": []
               }
             ]
           }

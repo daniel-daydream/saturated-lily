@@ -1,0 +1,40 @@
+[
+  {
+    "HS Code": "49",
+    "Description": "Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",
+    "Subentries": [
+      {
+        "HS Code": "4911",
+        "Description": "Other printed matter, including printed pictures and photographs:",
+        "Subentries": [
+          {
+            "HS Code": "4911.10.00",
+            "Description": "Trade advertising material, commercial catalogs and the like",
+            "Subentries": [
+              {
+                "HS Code": "4911.10.00.20",
+                "Description": "Printed catalogs relating principally to current offers for the sale of United States products",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4911.10.00.40",
+                "Description": "Printed catalogs, price lists or trade notices, relating to offers, by a person whose principal place of business or bonafide residence is in a foreign country, to sell or rent products of a foreign country or to furnish foreign or international transportation or commercial insurance services",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4911.10.00.60",
+                "Description": "Tourist and other literature (including posters), containing geographic, historical, hotel, institutional, timetable, travel or similar information, principally with respect to places, travel facilities or educational opportunities outside the customs territory of the United States",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4911.10.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "HS Code": "49",
+    "Description": "Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",
+    "Subentries": [
+      {
+        "HS Code": "4902",
+        "Description": "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material:",
+        "Subentries": [
+          {
+            "HS Code": "4902.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "4902.90.10.00",
+                "Description": "Newspaper supplements printed by a gravure process",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4902.90.20",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "4902.90.20.20",
+                    "Description": "Newspapers appearing less than four times per week",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4902.90.20.40",
+                    "Description": "Other business and professional journals and periodicals (including single issues tied together for shipping purposes)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4902.90.20.60",
+                    "Description": "Other (including single issues tied together for shipping purposes)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

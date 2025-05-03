@@ -1,0 +1,57 @@
+[
+  {
+    "HS Code": "27",
+    "Description": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",
+    "Subentries": [
+      {
+        "HS Code": "2701",
+        "Description": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Coal, whether or not pulverized, but not agglomerated:",
+            "Subentries": [
+              {
+                "HS Code": "2701.11.00.00",
+                "Description": "Anthracite",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2701.12.00",
+                "Description": "Bituminous coal",
+                "Subentries": [
+                  {
+                    "HS Code": "2701.12.00.10",
+                    "Description": "Metallurgical coal",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2701.12.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "2701.19.00",
+                "Description": "Other coal",
+                "Subentries": [
+                  {
+                    "HS Code": "2701.19.00.10",
+                    "Description": "Sub-bituminous coal",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2701.19.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

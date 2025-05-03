@@ -32,22 +32,6 @@
                 "Description": "Black:",
                 "Subentries": [
                   {
-                    "HS Code": "",
-                    "Description": "Solid:",
-                    "Subentries": [
-                      {
-                        "HS Code": "3215.11.10.00",
-                        "Description": "In engineered shapes, for insertion into apparatus of subheadings 8443.31, 8443.32 or 8443.39",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3215.11.30.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "3215.11.90",
                     "Description": "Other",
                     "Subentries": [
@@ -88,6 +72,22 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Solid:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3215.11.10.00",
+                        "Description": "In engineered shapes, for insertion into apparatus of subheadings 8443.31, 8443.32 or 8443.39",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3215.11.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -95,22 +95,6 @@
                 "HS Code": "3215.19",
                 "Description": "Other:",
                 "Subentries": [
-                  {
-                    "HS Code": "",
-                    "Description": "Solid:",
-                    "Subentries": [
-                      {
-                        "HS Code": "3215.19.10.00",
-                        "Description": "In engineered shapes, for insertion into apparatus of subheadings 8443.31, 8443.32 or 8443.39",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "3215.19.30.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
                   {
                     "HS Code": "3215.19.90",
                     "Description": "Other",
@@ -150,6 +134,22 @@
                             "Subentries": []
                           }
                         ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Solid:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3215.19.10.00",
+                        "Description": "In engineered shapes, for insertion into apparatus of subheadings 8443.31, 8443.32 or 8443.39",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3215.19.30.00",
+                        "Description": "Other",
+                        "Subentries": []
                       }
                     ]
                   }

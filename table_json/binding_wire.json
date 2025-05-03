@@ -1,0 +1,116 @@
+[
+  {
+    "HS Code": "72",
+    "Description": "Iron and steel",
+    "Subentries": [
+      {
+        "HS Code": "7217",
+        "Description": "Wire of iron or nonalloy steel:",
+        "Subentries": [
+          {
+            "HS Code": "7217.20",
+            "Description": "Plated or coated with zinc:",
+            "Subentries": [
+              {
+                "HS Code": "7217.20.15.00",
+                "Description": "Flat wire",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Round wire:",
+                "Subentries": [
+                  {
+                    "HS Code": "7217.20.30.00",
+                    "Description": "With a diameter of 1.5 mm or more and containing by weight less than 0.25 percent of carbon",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7217.20.45",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "With a diameter of less than 1.0 mm:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7217.20.45.10",
+                            "Description": "Containing by weight less than 0.25 percent of carbon",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7217.20.45.20",
+                            "Description": "Containing by weight 0.25 percent or more but less than 0.6 percent of carbon",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7217.20.45.30",
+                            "Description": "Containing by weight 0.6 percent or more of carbon",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "With a diameter of 1.0 mm or more but less than 1.5 mm:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7217.20.45.40",
+                            "Description": "Containing by weight less than 0.25 percent of carbon",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7217.20.45.50",
+                            "Description": "Containing by weight 0.25 percent or more but less than 0.6 percent of carbon",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7217.20.45.60",
+                            "Description": "Containing by weight 0.6 percent or more of carbon",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "With a diameter of 1.5 mm or more:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7217.20.45.70",
+                            "Description": "Containing by weight 0.25 percent or more but less than 0.6 percent of carbon",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7217.20.45.80",
+                            "Description": "Containing by weight 0.6 percent or more of carbon",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7217.20.60.00",
+                    "Description": "Containing by weight less than 0.25 percent of carbon",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7217.20.75.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

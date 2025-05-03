@@ -1,0 +1,40 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8509",
+        "Description": "Electromechanical domestic appliances, with self-contained electric motor, other than vacuum cleaners of heading 8508; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8509.40.00",
+            "Description": "Food grinders, processors and mixers; fruit or vegetable juice extractors",
+            "Subentries": [
+              {
+                "HS Code": "8509.40.00.15",
+                "Description": "Blenders",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8509.40.00.25",
+                "Description": "Other food mixers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8509.40.00.30",
+                "Description": "Juice extractors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8509.40.00.40",
+                "Description": "Food grinders and processors",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "HS Code": "63",
+    "Description": "Other made up textile articles; sets; worn clothing and worn textile articles; rags",
+    "Subentries": [
+      {
+        "HS Code": "6302",
+        "Description": "Bed linen, table linen, toilet linen and kitchen linen:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other table linen:",
+            "Subentries": [
+              {
+                "HS Code": "6302.51",
+                "Description": "Of cotton:",
+                "Subentries": [
+                  {
+                    "HS Code": "6302.51.40.00",
+                    "Description": "Other (369)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Tablecloths and napkins:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6302.51.10.00",
+                        "Description": "Damask (369)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6302.51.20.00",
+                            "Description": "Plain woven (369)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6302.51.30.00",
+                            "Description": "Other (369)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6302.53.00",
+                "Description": "Of man-made fibers",
+                "Subentries": [
+                  {
+                    "HS Code": "6302.53.00.30",
+                    "Description": "Other (666)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Tablecloths and napkins:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6302.53.00.10",
+                        "Description": "Damask (666)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6302.53.00.20",
+                        "Description": "Other (666)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6302.59",
+                "Description": "Of other textile materials:",
+                "Subentries": [
+                  {
+                    "HS Code": "6302.59.30",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6302.59.30.10",
+                        "Description": "Containing 85 percent or more by weight of silk or silk waste",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6302.59.30.20",
+                        "Description": "Other (899)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of flax:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6302.59.10",
+                        "Description": "Tablecloths and napkins",
+                        "Subentries": [
+                          {
+                            "HS Code": "6302.59.10.10",
+                            "Description": "Damask (899)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6302.59.10.20",
+                            "Description": "Other (899)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6302.59.20.00",
+                        "Description": "Other (899)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8471",
+        "Description": "Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "8471.60",
+            "Description": "Input or output units, whether or not containing storage units in the same housing:",
+            "Subentries": [
+              {
+                "HS Code": "8471.60.10",
+                "Description": "Combined input/output units",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.60.10.10",
+                    "Description": "With cathode-ray tube (CRT)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.60.20.00",
+                    "Description": "Keyboards",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.70.00",
+                    "Description": "Units suitable for physical incorporation into automatic data processing machines or units thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.80.00",
+                    "Description": "Optical scanners and magnetic ink recognition devices",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8471.60.90.30",
+                        "Description": "Card key and magnetic media entry devices",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8471.60.90.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other automatic data processing machines:",
+            "Subentries": [
+              {
+                "HS Code": "8471.41.01",
+                "Description": "Comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.41.01.10",
+                    "Description": "With cathode-ray tube (CRT)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.41.01.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8471.49.00.00",
+                "Description": "Other, entered in the form of systems",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "10",
+    "Description": "Cereals",
+    "Subentries": [
+      {
+        "HS Code": "1005",
+        "Description": "Corn (maize):",
+        "Subentries": [
+          {
+            "HS Code": "1005.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1005.90.20",
+                "Description": "Yellow dent corn",
+                "Subentries": [
+                  {
+                    "HS Code": "1005.90.20.15",
+                    "Description": "Certified Organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1005.90.20.25",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1005.90.40",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1005.90.40.40",
+                    "Description": "Popcorn",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1005.90.40.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

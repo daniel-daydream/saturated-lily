@@ -1,0 +1,210 @@
+[
+  {
+    "HS Code": "69",
+    "Description": "Ceramic products",
+    "Subentries": [
+      {
+        "HS Code": "6913",
+        "Description": "Statuettes and other ornamental ceramic articles:",
+        "Subentries": [
+          {
+            "HS Code": "6913.10",
+            "Description": "Of porcelain or china:",
+            "Subentries": [
+              {
+                "HS Code": "6913.10.10.00",
+                "Description": "Statues, statuettes and handmade flowers, valued over $2.50 each and produced by professional sculptors or directly from molds made from original models produced by professional sculptors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "6913.10.20.00",
+                    "Description": "Of bone chinaware",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6913.10.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "70",
+    "Description": "Glass and glassware",
+    "Subentries": [
+      {
+        "HS Code": "7013",
+        "Description": "Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than that of heading 7010 or 7018):",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Glassware of a kind used for table (other than drinking glasses) or kitchen purposes, other than of glass-ceramics:",
+            "Subentries": [
+              {
+                "HS Code": "7013.41",
+                "Description": "Of lead crystal:",
+                "Subentries": [
+                  {
+                    "HS Code": "7013.41.10.00",
+                    "Description": "Valued not over $1 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7013.41.20.00",
+                    "Description": "Valued over $1 but not over $3 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7013.41.30.00",
+                    "Description": "Valued over $3 but not over $5 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7013.41.50.00",
+                    "Description": "Valued over $5 each",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7013.42",
+                "Description": "Of glass having a linear coefficient of expansion not exceeding 5 x 10-6 per Kelvin within a temperature range of 0\u02daC to 300\u02daC:",
+                "Subentries": [
+                  {
+                    "HS Code": "7013.42.10.00",
+                    "Description": "Pressed and toughened (specially tempered)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7013.42.20.00",
+                        "Description": "Valued not over $3 each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7013.42.30.00",
+                        "Description": "Valued over $3 but not over $5 each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7013.42.40.00",
+                        "Description": "Valued over $5 each",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7013.49",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7013.49.10.00",
+                    "Description": "Pressed and toughened (specially tempered)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7013.49.20",
+                        "Description": "Valued not over $3 each",
+                        "Subentries": [
+                          {
+                            "HS Code": "7013.49.20.10",
+                            "Description": "Crystalline or non-lead crystal",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7013.49.20.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Valued over $3 each:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Cut or engraved:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7013.49.30.00",
+                                "Description": "Valued over $3 but not over $5 each",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7013.49.40.00",
+                                "Description": "Valued over $5 each",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7013.49.50",
+                                "Description": "Valued over $3 but not over $5 each",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "7013.49.50.10",
+                                    "Description": "Crystalline or non-lead crystal",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7013.49.50.90",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "7013.49.60",
+                                "Description": "Valued over $5 each",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "7013.49.60.10",
+                                    "Description": "Crystalline or non-lead crystal",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7013.49.60.90",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8507",
+        "Description": "Electric storage batteries, including separators therefor, whether or not rectangular (including square); parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8507.20",
+            "Description": "Other lead-acid storage batteries:",
+            "Subentries": [
+              {
+                "HS Code": "8507.20.40.00",
+                "Description": "Of a kind used as the primary source of electrical power for electrically powered vehicles of subheadings 8703.40, 8703.50, 8703.60, 8703.70 or 8703.80",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8507.20.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8507.20.80.10",
+                    "Description": "Of a kind described in subheading 9903.45.25",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8507.20.80.31",
+                        "Description": "6 V batteries",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8507.20.80.41",
+                        "Description": "12 V batteries",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8507.20.80.61",
+                        "Description": "36 V batteries",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8507.20.80.91",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

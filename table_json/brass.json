@@ -1,0 +1,166 @@
+[
+  {
+    "HS Code": "74",
+    "Description": "Copper and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "7407",
+        "Description": "Copper bars, rods and profiles:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of copper alloys:",
+            "Subentries": [
+              {
+                "HS Code": "7407.21",
+                "Description": "Of copper-zinc base alloys (brass):",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Bars and rods:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7407.21.15.00",
+                        "Description": "Hollow profiles",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7407.21.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7407.21.50.00",
+                        "Description": "Low fuming brazing rods",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7407.21.70.00",
+                            "Description": "Having a rectangular cross section",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7407.21.90.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7407.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7407.29.40.00",
+                    "Description": "Bars and rods of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7407.29.50.00",
+                    "Description": "Other bars and rods",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Profiles:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7407.29.16",
+                        "Description": "Hollow",
+                        "Subentries": [
+                          {
+                            "HS Code": "7407.29.16.10",
+                            "Description": "Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7407.29.16.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7407.29.34.00",
+                            "Description": "Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7407.29.38.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "7408",
+        "Description": "Copper wire:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of copper alloys:",
+            "Subentries": [
+              {
+                "HS Code": "7408.21.00.00",
+                "Description": "Of copper-zinc base alloys (brass)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7408.22",
+                "Description": "Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver):",
+                "Subentries": [
+                  {
+                    "HS Code": "7408.22.10.00",
+                    "Description": "Coated or plated with metal",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7408.22.50.00",
+                    "Description": "Not coated or plated with metal",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7408.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7408.29.10.00",
+                    "Description": "Coated or plated with metal",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7408.29.50.00",
+                    "Description": "Not coated or plated with metal",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

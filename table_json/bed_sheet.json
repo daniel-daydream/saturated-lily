@@ -20,68 +20,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "6302.21.70",
-                        "Description": "Napped",
-                        "Subentries": [
-                          {
-                            "HS Code": "6302.21.70.10",
-                            "Description": "Pillowcases, other than bolster cases (360)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6302.21.70.20",
-                            "Description": "Sheets (361)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6302.21.70.30",
-                            "Description": "Bolster cases (360)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6302.21.70.40",
-                            "Description": "Pillow covers (369)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6302.21.70.50",
-                            "Description": "Other (362)",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "6302.21.90",
-                        "Description": "Not napped",
-                        "Subentries": [
-                          {
-                            "HS Code": "6302.21.90.10",
-                            "Description": "Pillowcases, other than bolster cases (360)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6302.21.90.20",
-                            "Description": "Sheets (361)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6302.21.90.30",
-                            "Description": "Bolster cases (360)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6302.21.90.40",
-                            "Description": "Pillow covers (369)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6302.21.90.50",
-                            "Description": "Other (362)",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
                         "HS Code": "6302.21.30",
                         "Description": "Napped",
                         "Subentries": [
@@ -142,6 +80,68 @@
                             "Subentries": []
                           }
                         ]
+                      },
+                      {
+                        "HS Code": "6302.21.70",
+                        "Description": "Napped",
+                        "Subentries": [
+                          {
+                            "HS Code": "6302.21.70.10",
+                            "Description": "Pillowcases, other than bolster cases (360)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6302.21.70.20",
+                            "Description": "Sheets (361)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6302.21.70.30",
+                            "Description": "Bolster cases (360)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6302.21.70.40",
+                            "Description": "Pillow covers (369)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6302.21.70.50",
+                            "Description": "Other (362)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6302.21.90",
+                        "Description": "Not napped",
+                        "Subentries": [
+                          {
+                            "HS Code": "6302.21.90.10",
+                            "Description": "Pillowcases, other than bolster cases (360)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6302.21.90.20",
+                            "Description": "Sheets (361)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6302.21.90.30",
+                            "Description": "Bolster cases (360)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6302.21.90.40",
+                            "Description": "Pillow covers (369)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6302.21.90.50",
+                            "Description": "Other (362)",
+                            "Subentries": []
+                          }
+                        ]
                       }
                     ]
                   }
@@ -160,16 +160,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "6302.22.10.50",
-                            "Description": "Bolster cases (666)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6302.22.10.60",
-                            "Description": "Other (666)",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "6302.22.10.10",
                             "Description": "Napped (666)",
                             "Subentries": []
@@ -187,6 +177,16 @@
                           {
                             "HS Code": "6302.22.10.40",
                             "Description": "Not napped (666)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6302.22.10.50",
+                            "Description": "Bolster cases (666)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6302.22.10.60",
+                            "Description": "Other (666)",
                             "Subentries": []
                           }
                         ]

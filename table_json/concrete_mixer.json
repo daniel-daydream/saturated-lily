@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8474",
+        "Description": "Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid (including powder or paste) form; machinery for agglomerating, shaping or molding solid mineral fuels, ceramic paste, unhardened cements, plastering materials or other mineral products in powder or paste form; machines for forming foundry molds of sand; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8474.10.00",
+            "Description": "Sorting, screening, separating or washing machines",
+            "Subentries": [
+              {
+                "HS Code": "8474.10.00.10",
+                "Description": "Portable",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8474.10.00.90",
+                "Description": "Stationary",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

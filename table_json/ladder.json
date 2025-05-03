@@ -1,97 +1,5 @@
 [
   {
-    "HS Code": "76",
-    "Description": "Aluminum and articles thereof",
-    "Subentries": [
-      {
-        "HS Code": "7616",
-        "Description": "Other articles of aluminum:",
-        "Subentries": [
-          {
-            "HS Code": "",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "7616.91.00.00",
-                "Description": "Cloth, grill, netting and fencing, of aluminum wire",
-                "Subentries": []
-              },
-              {
-                "HS Code": "7616.99",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "7616.99.10.00",
-                    "Description": "Luggage frames",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7616.99.51",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "7616.99.51.20",
-                        "Description": "Laminated goods consisting of 2 or more flat-rolled sheets of aluminum held together with an adhesive or having a core of non-metallic material",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7616.99.51.30",
-                        "Description": "Ladders",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7616.99.51.40",
-                        "Description": "Venetian blinds and parts thereof",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7616.99.51.50",
-                        "Description": "Hangers and supports for pipes and tubes",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "7616.99.51.60",
-                            "Description": "Castings",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7616.99.51.70",
-                            "Description": "Forgings",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Other:",
-                            "Subentries": [
-                              {
-                                "HS Code": "7616.99.51.75",
-                                "Description": "Articles of wire",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "7616.99.51.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "HS Code": "73",
     "Description": "Articles of iron or steel",
     "Subentries": [
@@ -189,6 +97,98 @@
                             "HS Code": "7326.90.86.88",
                             "Description": "Other",
                             "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "76",
+    "Description": "Aluminum and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "7616",
+        "Description": "Other articles of aluminum:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "7616.91.00.00",
+                "Description": "Cloth, grill, netting and fencing, of aluminum wire",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7616.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7616.99.10.00",
+                    "Description": "Luggage frames",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7616.99.51",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7616.99.51.20",
+                        "Description": "Laminated goods consisting of 2 or more flat-rolled sheets of aluminum held together with an adhesive or having a core of non-metallic material",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7616.99.51.30",
+                        "Description": "Ladders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7616.99.51.40",
+                        "Description": "Venetian blinds and parts thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7616.99.51.50",
+                        "Description": "Hangers and supports for pipes and tubes",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7616.99.51.60",
+                            "Description": "Castings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7616.99.51.70",
+                            "Description": "Forgings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7616.99.51.75",
+                                "Description": "Articles of wire",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7616.99.51.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
                           }
                         ]
                       }

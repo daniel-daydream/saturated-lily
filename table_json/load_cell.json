@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "90",
+    "Description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9031",
+        "Description": "Measuring or checking instruments, appliances and machines, not specified or included elsewhere in this chapter; profile projectors; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9031.80",
+            "Description": "Other instruments, appliances and machines:",
+            "Subentries": [
+              {
+                "HS Code": "9031.80.40.00",
+                "Description": "Electron beam microscopes fitted with equipment specifically designed for the handling and transport of semiconductor wafers or reticles",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9031.80.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "9031.80.80.85",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Equipment for testing the characteristics of internal combustion engines:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9031.80.80.60",
+                        "Description": "For testing electrical characteristics",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9031.80.80.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8509",
+        "Description": "Electromechanical domestic appliances, with self-contained electric motor, other than vacuum cleaners of heading 8508; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8509.80",
+            "Description": "Other appliances:",
+            "Subentries": [
+              {
+                "HS Code": "8509.80.10.00",
+                "Description": "Floor polishers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8509.80.20.00",
+                "Description": "Kitchen waste disposers (disposals)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8509.80.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8509.80.50.40",
+                    "Description": "Can openers (including combination units)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8509.80.50.45",
+                    "Description": "Electric toothbrushes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8509.80.50.95",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Humidifiers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8509.80.50.50",
+                        "Description": "Evaporative",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8509.80.50.70",
+                            "Description": "Ultrasonic",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8509.80.50.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

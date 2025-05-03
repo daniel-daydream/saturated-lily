@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "24",
+    "Description": "Tobacco and manufactured tobacco substitutes",
+    "Subentries": [
+      {
+        "HS Code": "2402",
+        "Description": "Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes:",
+        "Subentries": [
+          {
+            "HS Code": "2402.20",
+            "Description": "Cigarettes containing tobacco:",
+            "Subentries": [
+              {
+                "HS Code": "2402.20.10.00",
+                "Description": "Containing clove",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "2402.20.80.00",
+                    "Description": "Paper-wrapped",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2402.20.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

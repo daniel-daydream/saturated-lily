@@ -1,0 +1,489 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8509",
+        "Description": "Electromechanical domestic appliances, with self-contained electric motor, other than vacuum cleaners of heading 8508; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8509.40.00",
+            "Description": "Food grinders, processors and mixers; fruit or vegetable juice extractors",
+            "Subentries": [
+              {
+                "HS Code": "8509.40.00.15",
+                "Description": "Blenders",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8509.40.00.25",
+                "Description": "Other food mixers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8509.40.00.30",
+                "Description": "Juice extractors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8509.40.00.40",
+                "Description": "Food grinders and processors",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8509.80",
+            "Description": "Other appliances:",
+            "Subentries": [
+              {
+                "HS Code": "8509.80.10.00",
+                "Description": "Floor polishers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8509.80.20.00",
+                "Description": "Kitchen waste disposers (disposals)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8509.80.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8509.80.50.40",
+                    "Description": "Can openers (including combination units)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8509.80.50.45",
+                    "Description": "Electric toothbrushes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8509.80.50.95",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Humidifiers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8509.80.50.50",
+                        "Description": "Evaporative",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8509.80.50.70",
+                            "Description": "Ultrasonic",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8509.80.50.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8509.90",
+            "Description": "Parts:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Parts of floor polishers:",
+                "Subentries": [
+                  {
+                    "HS Code": "8509.90.25.00",
+                    "Description": "Housings",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8509.90.35.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8509.90.45.00",
+                    "Description": "Housings",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8509.90.55.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8516",
+        "Description": "Electric instantaneous or storage water heaters and immersion heaters; electric space heating apparatus and soil heating apparatus; electrothermic hairdressing apparatus (for example, hair dryers, hair curlers, curling tong heaters) and hand dryers; electric flatirons; other electrothermic appliances of a kind used for domestic purposes; electric heating resistors, other than those of heading 8545; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8516.10.00",
+            "Description": "Electric instantaneous or storage water heaters and immersion heaters",
+            "Subentries": [
+              {
+                "HS Code": "8516.10.00.40",
+                "Description": "Storage water heaters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.10.00.80",
+                "Description": "Other water heaters and immersion heaters",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8516.40",
+            "Description": "Electric flatirons:",
+            "Subentries": [
+              {
+                "HS Code": "8516.40.20.00",
+                "Description": "Travel type",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.40.40.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8516.50.00",
+            "Description": "Microwave ovens",
+            "Subentries": [
+              {
+                "HS Code": "8516.50.00.30",
+                "Description": "Having a capacity not exceeding 22.5 liters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.50.00.60",
+                "Description": "Having a capacity exceeding 22.5 liters but not exceeding 31.0 liters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.50.00.90",
+                "Description": "Having a capacity exceeding 31.0 liters",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8516.60",
+            "Description": "Other ovens; cooking stoves, ranges, cooking plates, boiling rings, grillers and roasters:",
+            "Subentries": [
+              {
+                "HS Code": "8516.60.40",
+                "Description": "Cooking stoves, ranges and ovens",
+                "Subentries": [
+                  {
+                    "HS Code": "8516.60.40.60",
+                    "Description": "Microwave oven combinations",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8516.60.40.70",
+                        "Description": "Portable",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8516.60.40.74",
+                            "Description": "Of a maximum width not exceeding 70 centimeters",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Of a maximum width exceeding 70 centimeters:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8516.60.40.78",
+                                "Description": "Containing a gas fueled cooktop",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8516.60.40.82",
+                                "Description": "Containing a radiant heated cooktop",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8516.60.40.86",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8516.60.60.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8516.80",
+            "Description": "Electric heating resistors:",
+            "Subentries": [
+              {
+                "HS Code": "8516.80.40.00",
+                "Description": "Assembled only with simple insulated former and electrical connections, used for anti-icing or deicing",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.80.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8516.90",
+            "Description": "Parts:",
+            "Subentries": [
+              {
+                "HS Code": "8516.90.05.00",
+                "Description": "Of heaters or heating apparatus of subheading 8516.10, 8516.21 or 8516.29",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.90.15.00",
+                "Description": "Housings for the hand-drying apparatus of subheading 8516.33",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.90.25.00",
+                "Description": "Housings and steel bases for the electric flatirons of subheading 8516.40",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.90.85.00",
+                "Description": "Housings for toasters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.90.90.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Parts for the microwave ovens of subheading 8516.50:",
+                "Subentries": [
+                  {
+                    "HS Code": "8516.90.35.00",
+                    "Description": "Assemblies, incorporating more than one of the following: cooking chamber; structural supporting chassis; door; outer case",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8516.90.45.00",
+                    "Description": "Printed circuit assemblies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8516.90.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Parts for the cooking stoves, ranges and ovens of subheading 8516.60.40:",
+                "Subentries": [
+                  {
+                    "HS Code": "8516.90.55.00",
+                    "Description": "Cooking chambers, whether or not assembled",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8516.90.65.00",
+                    "Description": "Top surface panels with or without heating elements or controls",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8516.90.75.00",
+                    "Description": "Door assemblies, incorporating more than one of the following: inner panel; outer panel; window; insulation",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8516.90.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8516.90.80.10",
+                        "Description": "Shelving and racks for cooking stoves and ranges",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8516.90.80.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Electric space heating apparatus and electric soil heating apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "8516.21.00.00",
+                "Description": "Storage heating radiators",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.29.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8516.29.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Portable space heaters:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8516.29.00.30",
+                        "Description": "Fan-forced",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8516.29.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Electrothermic hairdressing or hand-drying apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "8516.31.00.00",
+                "Description": "Hair dryers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.32.00",
+                "Description": "Other hairdressing apparatus",
+                "Subentries": [
+                  {
+                    "HS Code": "8516.32.00.20",
+                    "Description": "Curlers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8516.32.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8516.33.00.00",
+                "Description": "Hand-drying apparatus",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other electrothermic appliances:",
+            "Subentries": [
+              {
+                "HS Code": "8516.71.00",
+                "Description": "Coffee or tea makers",
+                "Subentries": [
+                  {
+                    "HS Code": "8516.71.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Coffee makers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8516.71.00.20",
+                        "Description": "Automatic drip and pump type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8516.71.00.40",
+                        "Description": "Percolator",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8516.71.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8516.72.00.00",
+                "Description": "Toasters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8516.79.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

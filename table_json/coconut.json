@@ -1,0 +1,46 @@
+[
+  {
+    "HS Code": "08",
+    "Description": "Edible fruit and nuts; peel of citrus fruit or melons",
+    "Subentries": [
+      {
+        "HS Code": "0801",
+        "Description": "Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Coconuts:",
+            "Subentries": [
+              {
+                "HS Code": "0801.11.00.00",
+                "Description": "Desiccated",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0801.12.00.00",
+                "Description": "In the inner shell (endocarp)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0801.19.01",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0801.19.01.20",
+                    "Description": "In shell",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0801.19.01.40",
+                    "Description": "Shelled",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

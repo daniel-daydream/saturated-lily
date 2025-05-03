@@ -4,55 +4,6 @@
     "Description": "Headgear and parts thereof",
     "Subentries": [
       {
-        "HS Code": "6506",
-        "Description": "Other headgear, whether or not lined or trimmed:",
-        "Subentries": [
-          {
-            "HS Code": "",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "6506.91.00",
-                "Description": "Of rubber or plastics",
-                "Subentries": [
-                  {
-                    "HS Code": "6506.91.00.30",
-                    "Description": "Bathing caps",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "6506.91.00.45",
-                    "Description": "Visors, or other headgear which provides no covering for the crown of the head",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "6506.91.00.60",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "6506.99",
-                "Description": "Of other materials:",
-                "Subentries": [
-                  {
-                    "HS Code": "6506.99.30.00",
-                    "Description": "Of furskin",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "6506.99.60.00",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
         "HS Code": "6505.00",
         "Description": "Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed:",
         "Subentries": [
@@ -97,6 +48,49 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
+                    "HS Code": "6505.00.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6505.00.90.30",
+                        "Description": "Containing 70 percent or more by weight of silk or silk waste (759)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6505.00.90.45",
+                            "Description": "Of fine animal hair (459)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6505.00.90.50",
+                            "Description": "Of paper yarn",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6505.00.90.76",
+                                "Description": "Of unspun vegetable fibers",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6505.00.90.89",
+                                "Description": "Other (859)",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "",
                     "Description": "Of cotton, flax or both:",
                     "Subentries": [
@@ -104,6 +98,11 @@
                         "HS Code": "6505.00.15",
                         "Description": "Knitted",
                         "Subentries": [
+                          {
+                            "HS Code": "6505.00.15.60",
+                            "Description": "Other (859)",
+                            "Subentries": []
+                          },
                           {
                             "HS Code": "",
                             "Description": "Of cotton:",
@@ -130,11 +129,6 @@
                                 ]
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "6505.00.15.60",
-                            "Description": "Other (859)",
-                            "Subentries": []
                           }
                         ]
                       },
@@ -385,49 +379,55 @@
                         ]
                       }
                     ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "6506",
+        "Description": "Other headgear, whether or not lined or trimmed:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "6506.91.00",
+                "Description": "Of rubber or plastics",
+                "Subentries": [
+                  {
+                    "HS Code": "6506.91.00.30",
+                    "Description": "Bathing caps",
+                    "Subentries": []
                   },
                   {
-                    "HS Code": "6505.00.90",
+                    "HS Code": "6506.91.00.45",
+                    "Description": "Visors, or other headgear which provides no covering for the crown of the head",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6506.91.00.60",
                     "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "6505.00.90.30",
-                        "Description": "Containing 70 percent or more by weight of silk or silk waste (759)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "6505.00.90.45",
-                            "Description": "Of fine animal hair (459)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6505.00.90.50",
-                            "Description": "Of paper yarn",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Other:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6505.00.90.76",
-                                "Description": "Of unspun vegetable fibers",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6505.00.90.89",
-                                "Description": "Other (859)",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "6506.99",
+                "Description": "Of other materials:",
+                "Subentries": [
+                  {
+                    "HS Code": "6506.99.30.00",
+                    "Description": "Of furskin",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6506.99.60.00",
+                    "Description": "Other",
+                    "Subentries": []
                   }
                 ]
               }

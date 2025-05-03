@@ -4,6 +4,28 @@
     "Description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
     "Subentries": [
       {
+        "HS Code": "9003",
+        "Description": "Frames and mountings for spectacles, goggles or the like, and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Frames and mountings:",
+            "Subentries": [
+              {
+                "HS Code": "9003.11.00.00",
+                "Description": "Of plastics",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9003.19.00.00",
+                "Description": "Of other materials",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
         "HS Code": "9004",
         "Description": "Spectacles, goggles and the like, corrective, protective or other:",
         "Subentries": [
@@ -24,28 +46,6 @@
               {
                 "HS Code": "9004.90.00.90",
                 "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "HS Code": "9003",
-        "Description": "Frames and mountings for spectacles, goggles or the like, and parts thereof:",
-        "Subentries": [
-          {
-            "HS Code": "",
-            "Description": "Frames and mountings:",
-            "Subentries": [
-              {
-                "HS Code": "9003.11.00.00",
-                "Description": "Of plastics",
-                "Subentries": []
-              },
-              {
-                "HS Code": "9003.19.00.00",
-                "Description": "Of other materials",
                 "Subentries": []
               }
             ]

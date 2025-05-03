@@ -29,27 +29,6 @@
                         "Description": "Of an alcoholic strength by volume over 14 percent vol.:",
                         "Subentries": [
                           {
-                            "HS Code": "2204.21.60.00",
-                            "Description": "If entitled under regulations of the United States Internal Revenue Service to a type designation which includes the name \"Marsala\" and if so designated on the approved label",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2204.21.80",
-                            "Description": "Other",
-                            "Subentries": [
-                              {
-                                "HS Code": "2204.21.80.30",
-                                "Description": "Sherry",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "2204.21.80.60",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
                             "HS Code": "2204.21.30.00",
                             "Description": "If entitled under regulations of the United States Internal Revenue Service to a type designation which includes the name \"Tokay\" and if so designated on the approved label",
                             "Subentries": []
@@ -93,6 +72,11 @@
                                     "Description": "Other:",
                                     "Subentries": [
                                       {
+                                        "HS Code": "2204.21.50.60",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      },
+                                      {
                                         "HS Code": "",
                                         "Description": "Red:",
                                         "Subentries": [
@@ -123,15 +107,31 @@
                                             "Subentries": []
                                           }
                                         ]
-                                      },
-                                      {
-                                        "HS Code": "2204.21.50.60",
-                                        "Description": "Other",
-                                        "Subentries": []
                                       }
                                     ]
                                   }
                                 ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "2204.21.60.00",
+                            "Description": "If entitled under regulations of the United States Internal Revenue Service to a type designation which includes the name \"Marsala\" and if so designated on the approved label",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2204.21.80",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "2204.21.80.30",
+                                "Description": "Sherry",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2204.21.80.60",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
                           }
@@ -149,16 +149,6 @@
                     "HS Code": "",
                     "Description": "In containers holding over 4 liters but not over 10 liters:",
                     "Subentries": [
-                      {
-                        "HS Code": "2204.22.60.00",
-                        "Description": "Of an alcoholic strength by volume not over 14 percent vol.",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "2204.22.80.00",
-                        "Description": "Of an alcoholic strength by volume over 14 percent vol",
-                        "Subentries": []
-                      },
                       {
                         "HS Code": "2204.22.20",
                         "Description": "Of an alcoholic strength by volume not over 14 percent vol",
@@ -209,6 +199,16 @@
                       },
                       {
                         "HS Code": "2204.22.40.00",
+                        "Description": "Of an alcoholic strength by volume over 14 percent vol",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2204.22.60.00",
+                        "Description": "Of an alcoholic strength by volume not over 14 percent vol.",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2204.22.80.00",
                         "Description": "Of an alcoholic strength by volume over 14 percent vol",
                         "Subentries": []
                       }

@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "12",
+    "Description": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruits; industrial or medicinal plants; straw and fodder",
+    "Subentries": [
+      {
+        "HS Code": "1207",
+        "Description": "Other oil seeds and oleaginous fruits, whether or not broken:",
+        "Subentries": [
+          {
+            "HS Code": "1207.40.00",
+            "Description": "Sesame seeds",
+            "Subentries": [
+              {
+                "HS Code": "1207.40.00.10",
+                "Description": "Certified organic",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1207.40.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

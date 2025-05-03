@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "21",
+    "Description": "Miscellaneous edible preparations",
+    "Subentries": [
+      {
+        "HS Code": "2103",
+        "Description": "Sauces and preparations therefore; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard:",
+        "Subentries": [
+          {
+            "HS Code": "2103.20",
+            "Description": "Tomato ketchup and other tomato sauces:",
+            "Subentries": [
+              {
+                "HS Code": "2103.20.20.00",
+                "Description": "Tomato ketchup",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2103.20.40",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "2103.20.40.20",
+                    "Description": "In containers holding less than 1.4 kg",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2103.20.40.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

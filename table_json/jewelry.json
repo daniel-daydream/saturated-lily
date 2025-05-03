@@ -8,6 +8,54 @@
         "Description": "Articles of jewelry and parts thereof, of precious metal or of metal clad with precious metal:",
         "Subentries": [
           {
+            "HS Code": "7113.20",
+            "Description": "Of base metal clad with precious metal:",
+            "Subentries": [
+              {
+                "HS Code": "7113.20.10.00",
+                "Description": "Rope, curb, cable, chain and similar articles produced in continuous lengths, all the foregoing, whether or not cut to specific lengths and whether or not set with imitation pearls or imitation gemstones, suitable for use in the manufacture of articles provided for in this heading",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7113.20.30.00",
+                    "Description": "Clasps and parts thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7113.20.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Necklaces and neck chains, clad with gold:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7113.20.21.00",
+                        "Description": "Rope",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7113.20.25.00",
+                        "Description": "Mixed link",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7113.20.29.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Of precious metal whether or not plated or clad with precious metal:",
             "Subentries": [
@@ -52,27 +100,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "",
-                        "Description": "Necklaces and neck chains, of gold:",
-                        "Subentries": [
-                          {
-                            "HS Code": "7113.19.21.00",
-                            "Description": "Rope",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7113.19.25.00",
-                            "Description": "Mixed link",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7113.19.29.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
                         "HS Code": "7113.19.30.00",
                         "Description": "Clasps and parts thereof",
                         "Subentries": []
@@ -81,6 +108,11 @@
                         "HS Code": "7113.19.50",
                         "Description": "Other",
                         "Subentries": [
+                          {
+                            "HS Code": "7113.19.50.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
                           {
                             "HS Code": "",
                             "Description": "Of ISO standard platinum:",
@@ -106,63 +138,31 @@
                                 "Subentries": []
                               }
                             ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Necklaces and neck chains, of gold:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7113.19.21.00",
+                            "Description": "Rope",
+                            "Subentries": []
                           },
                           {
-                            "HS Code": "7113.19.50.90",
+                            "HS Code": "7113.19.25.00",
+                            "Description": "Mixed link",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7113.19.29.00",
                             "Description": "Other",
                             "Subentries": []
                           }
                         ]
                       }
                     ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "7113.20",
-            "Description": "Of base metal clad with precious metal:",
-            "Subentries": [
-              {
-                "HS Code": "7113.20.10.00",
-                "Description": "Rope, curb, cable, chain and similar articles produced in continuous lengths, all the foregoing, whether or not cut to specific lengths and whether or not set with imitation pearls or imitation gemstones, suitable for use in the manufacture of articles provided for in this heading",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "",
-                    "Description": "Necklaces and neck chains, clad with gold:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7113.20.21.00",
-                        "Description": "Rope",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7113.20.25.00",
-                        "Description": "Mixed link",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7113.20.29.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "7113.20.30.00",
-                    "Description": "Clasps and parts thereof",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7113.20.50.00",
-                    "Description": "Other",
-                    "Subentries": []
                   }
                 ]
               }

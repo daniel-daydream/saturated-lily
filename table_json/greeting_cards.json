@@ -1,0 +1,24 @@
+[
+  {
+    "HS Code": "49",
+    "Description": "Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",
+    "Subentries": [
+      {
+        "HS Code": "4909.00",
+        "Description": "Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings:",
+        "Subentries": [
+          {
+            "HS Code": "4909.00.20.00",
+            "Description": "Postcards",
+            "Subentries": []
+          },
+          {
+            "HS Code": "4909.00.40.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

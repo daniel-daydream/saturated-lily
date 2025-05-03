@@ -1,0 +1,171 @@
+[
+  {
+    "HS Code": "73",
+    "Description": "Articles of iron or steel",
+    "Subentries": [
+      {
+        "HS Code": "7306",
+        "Description": "Other tubes, pipes and hollow profiles (for example, open seamed or welded, riveted or similarly closed), of iron or steel:",
+        "Subentries": [
+          {
+            "HS Code": "7306.30",
+            "Description": "Other, welded, of circular cross section, of iron or nonalloy steel:",
+            "Subentries": [
+              {
+                "HS Code": "7306.30.10.00",
+                "Description": "Having a wall thickness of less than 1.65 mm",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Having a wall thickness of 1.65 mm or more:",
+                "Subentries": [
+                  {
+                    "HS Code": "7306.30.30.00",
+                    "Description": "Tapered steel pipes and tubes principally used as parts of illuminating articles",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7306.30.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7306.30.50.10",
+                        "Description": "Suitable for use in boilers, superheaters, heat exchangers, condensers, refining furnaces and feedwater heaters, whether or not cold drawn",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7306.30.50.15",
+                        "Description": "Other, cold-drawn",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7306.30.50.20",
+                        "Description": "Other, cold-rolled (cold-reduced) with a wall thickness not exceeding 2.54 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "With an outside diameter not exceeding 114.3 mm:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Galvanized:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "7306.30.50.28",
+                                    "Description": "Internally coated or lined with a non-electrically insulating material, suitable for use as electrical conduit",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Imported with coupling:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "7306.30.50.26",
+                                        "Description": "With an outside diameter not exceeding 50.8 mm",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "7306.30.50.27",
+                                        "Description": "With an outside diameter exceeding 50.8 mm but not exceeding 114.3 mm",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "7306.30.50.31",
+                                        "Description": "With an outside diameter not exceeding 50.8 mm",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "7306.30.50.33",
+                                        "Description": "With an outside diameter exceeding 50.8 mm but not exceeding 114.3 mm",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "7306.30.50.35",
+                                    "Description": "Tube and pipe hollows for redrawing",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Imported with coupling:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "7306.30.50.41",
+                                        "Description": "With an outside diameter not exceeding 50.8 mm",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "7306.30.50.43",
+                                        "Description": "With an outside diameter exceeding 50.8 mm but not exceeding 114.3 mm",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "7306.30.50.56",
+                                        "Description": "With an outside diameter not exceeding 50.8 mm",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "7306.30.50.57",
+                                        "Description": "With an outside diameter exceeding 50.8 mm but not exceeding 114.3 mm",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "With an outside diameter exceeding 114.3 mm but not exceeding 406.4 mm:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7306.30.50.85",
+                                "Description": "Galvanized",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7306.30.50.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

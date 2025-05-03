@@ -1,0 +1,240 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3907",
+        "Description": "Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms:",
+        "Subentries": [
+          {
+            "HS Code": "3907.30.00.00",
+            "Description": "Epoxide resins",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3907.40.00.00",
+            "Description": "Polycarbonates",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3907.50.00.00",
+            "Description": "Alkyd resins",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other polyesters:",
+            "Subentries": [
+              {
+                "HS Code": "3907.91",
+                "Description": "Unsaturated:",
+                "Subentries": [
+                  {
+                    "HS Code": "3907.91.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Allyl resins:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3907.91.20.00",
+                        "Description": "Allyl resins, uncompounded",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3907.91.40.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "3907.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "3907.99.20.00",
+                    "Description": "Thermoplastic liquid crystal aromatic polyester copolymers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3907.99.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "3907.99.50.10",
+                        "Description": "Polybutylene terephthalate",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3907.99.50.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "3908",
+        "Description": "Polyamides in primary forms:",
+        "Subentries": [
+          {
+            "HS Code": "3908.10.00.00",
+            "Description": "Polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "3909",
+        "Description": "Amino-resins, phenolic resins and polyurethanes, in primary forms:",
+        "Subentries": [
+          {
+            "HS Code": "3909.10.00.00",
+            "Description": "Urea resins; thiourea resins",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3909.20.00.00",
+            "Description": "Melamine resins",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3909.40.00.00",
+            "Description": "Phenolic resins",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3909.50",
+            "Description": "Polyurethanes:",
+            "Subentries": [
+              {
+                "HS Code": "3909.50.10.00",
+                "Description": "Elastomeric",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3909.50.20.00",
+                "Description": "Cements",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3909.50.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "3910.00.00.00",
+        "Description": "Silicones in primary forms",
+        "Subentries": []
+      },
+      {
+        "HS Code": "3911",
+        "Description": "Petroleum resins, coumarone-indene resins, polyterpenes, polysulfides, polysulfones and other products specified in note 3 to this chapter, not elsewhere specified or included, in primary forms:",
+        "Subentries": [
+          {
+            "HS Code": "3911.10.00.00",
+            "Description": "Petroleum resins, coumarone, indene or coumarone-indene resins; polyterpenes",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3911.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3911.90.10.00",
+                "Description": "Elastomeric",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Containing monomer units which are aromatic or modified aromatic, or which are obtained, derived or manufactured in whole or in part therefrom:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Thermoplastic:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3911.90.15.00",
+                            "Description": "Poly(nitrilomethanetetraarylnitrilo- [2,4,6-tris-(1-methyethyl)-1,3- phenylene]]-2,6-bis(1-methylethyl)- phenyl]-\u03c9-[[[2,6-bis(1-methylethyl)- phenyl]amino]methylene]amino carbodiimide or 2,4-diisocyanate-1,3,5-tris(1-methyl- ethyl) homopolymer with polyethylene",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3911.90.25.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Thermosetting:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3911.90.35.00",
+                            "Description": "1,1'-Bis(methylenedi-4,1-phenylene)- 1H-pyrrole-2,5-dione, copolymer with 4,4'-methylenebis(benzeneamine); and Hydrocarbon novolac cyanate ester",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3911.90.45.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3911.90.70.00",
+                        "Description": "Chlorinated synthetic rubber",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3911.90.91",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "3911.90.91.10",
+                            "Description": "Thermoplastic",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3911.90.91.50",
+                            "Description": "Thermosetting",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

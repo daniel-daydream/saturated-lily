@@ -1,0 +1,35 @@
+[
+  {
+    "HS Code": "72",
+    "Description": "Iron and steel",
+    "Subentries": [
+      {
+        "HS Code": "7216",
+        "Description": "Angles, shapes and sections of iron or nonalloy steel:",
+        "Subentries": [
+          {
+            "HS Code": "7216.50.00.00",
+            "Description": "Other angles, shapes and sections, not further worked than hot-rolled, hot-drawn or extruded",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "L or T sections, not further worked than hot-rolled, hot-drawn or extruded, of a height of less than 80 mm:",
+            "Subentries": [
+              {
+                "HS Code": "7216.21.00.00",
+                "Description": "L sections",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7216.22.00.00",
+                "Description": "T sections",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

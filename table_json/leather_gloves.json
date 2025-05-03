@@ -1,0 +1,148 @@
+[
+  {
+    "HS Code": "42",
+    "Description": "Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",
+    "Subentries": [
+      {
+        "HS Code": "4203",
+        "Description": "Articles of apparel and clothing accessories, of leather or of composition leather:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Gloves, mittens and mitts:",
+            "Subentries": [
+              {
+                "HS Code": "4203.21",
+                "Description": "Specially designed for use in sports:",
+                "Subentries": [
+                  {
+                    "HS Code": "4203.21.70.00",
+                    "Description": "Ice hockey gloves",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4203.21.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "4203.21.80.30",
+                        "Description": "Golf gloves",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4203.21.80.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Ski or snowmobile gloves, mittens and mitts:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4203.21.20.00",
+                        "Description": "Batting gloves",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4203.21.40.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4203.21.55.00",
+                        "Description": "Cross-country ski gloves, mittens and mitts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4203.21.60.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "4203.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4203.29.20.00",
+                        "Description": "Not seamed",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "4203.29.05.00",
+                            "Description": "With fourchettes or sidewalls which, at a minimum, extend from fingertip to fingertip between each of the four fingers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4203.29.08.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4203.29.15.00",
+                            "Description": "With fourchettes or sidewalls which, at a minimum, extend from fingertip to fingertip between each of the four fingers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4203.29.18.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4203.29.30",
+                            "Description": "Men's",
+                            "Subentries": [
+                              {
+                                "HS Code": "4203.29.30.10",
+                                "Description": "Not lined",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4203.29.30.20",
+                                "Description": "Lined",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "For other persons:",
+                            "Subentries": [
+                              {
+                                "HS Code": "4203.29.40.00",
+                                "Description": "Not lined",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4203.29.50.00",
+                                "Description": "Lined",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

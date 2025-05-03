@@ -1,0 +1,57 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8415",
+        "Description": "Air conditioning machines, comprising a motor-driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8415.90",
+            "Description": "Parts:",
+            "Subentries": [
+              {
+                "HS Code": "8415.90.40.00",
+                "Description": "Chassis, chassis bases and outer cabinets",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8415.90.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8415.90.80.25",
+                    "Description": "Air conditioning evaporator coils",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8415.90.80.45",
+                        "Description": "Of automotive air conditioners",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8415.90.80.65",
+                        "Description": "Of heat pumps",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8415.90.80.85",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

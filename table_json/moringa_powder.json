@@ -1,0 +1,198 @@
+[
+  {
+    "HS Code": "12",
+    "Description": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruits; industrial or medicinal plants; straw and fodder",
+    "Subentries": [
+      {
+        "HS Code": "1211",
+        "Description": "Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered:",
+        "Subentries": [
+          {
+            "HS Code": "1211.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1211.90.60.00",
+                "Description": "Tonka beans",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Mint leaves:",
+                "Subentries": [
+                  {
+                    "HS Code": "1211.90.20.00",
+                    "Description": "Crude or not manufactured",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1211.90.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1211.90.40.20",
+                        "Description": "Herbal teas and herbal infusions (single species, unmixed)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1211.90.40.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "1211.90.89",
+                    "Description": "Fresh or dried",
+                    "Subentries": [
+                      {
+                        "HS Code": "1211.90.89.40",
+                        "Description": "Basil",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1211.90.89.50",
+                        "Description": "Sage",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Substances having anesthetic, prophylactic or therapeutic properties and principally used as medicaments or as ingredients in medicaments:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1211.90.89.20",
+                            "Description": "Psyllium seed husks",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1211.90.89.31",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1211.90.89.80",
+                            "Description": "Herbal teas and herbal infusions (single species, unmixed)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1211.90.89.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1211.90.93.00",
+                    "Description": "Chilled or frozen",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "13",
+    "Description": "Lac; gums, resins and other vegetable saps and extracts",
+    "Subentries": [
+      {
+        "HS Code": "1302",
+        "Description": "Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Vegetable saps and extracts:",
+            "Subentries": [
+              {
+                "HS Code": "1302.11.00.00",
+                "Description": "Opium",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1302.12.00.00",
+                "Description": "Of licorice",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1302.13.00.00",
+                "Description": "Of hops",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1302.14.01.00",
+                "Description": "Of ephedra",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1302.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "1302.19.91",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1302.19.91.20",
+                        "Description": "Cashew nut shell liquid",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1302.19.91.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Ginseng; substances having anesthetic, prophylactic or therapeutic properties:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1302.19.21.00",
+                        "Description": "Poppy straw extract",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1302.19.41",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "1302.19.41.20",
+                            "Description": "Ginseng",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1302.19.41.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

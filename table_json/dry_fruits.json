@@ -1,0 +1,229 @@
+[
+  {
+    "HS Code": "08",
+    "Description": "Edible fruit and nuts; peel of citrus fruit or melons",
+    "Subentries": [
+      {
+        "HS Code": "0802",
+        "Description": "Other nuts, fresh or dried, whether or not shelled or peeled:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Almonds:",
+            "Subentries": [
+              {
+                "HS Code": "0802.11.00.00",
+                "Description": "In shell",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0802.12.00",
+                "Description": "Shelled",
+                "Subentries": [
+                  {
+                    "HS Code": "0802.12.00.05",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0802.12.00.15",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Hazelnuts or filberts (Corylus spp.):",
+            "Subentries": [
+              {
+                "HS Code": "0802.21.00.00",
+                "Description": "In shell",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0802.22.00.00",
+                "Description": "Shelled",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Walnuts:",
+            "Subentries": [
+              {
+                "HS Code": "0802.31.00.00",
+                "Description": "In shell",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0802.32.00.00",
+                "Description": "Shelled",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Chestnuts (Castanea spp.):",
+            "Subentries": [
+              {
+                "HS Code": "0802.41.00.00",
+                "Description": "In shell",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0802.42.00.00",
+                "Description": "Shelled",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Pistachios:",
+            "Subentries": [
+              {
+                "HS Code": "0802.51.00.00",
+                "Description": "In shell",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0802.52.00.00",
+                "Description": "Shelled",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Macadamia nuts:",
+            "Subentries": [
+              {
+                "HS Code": "0802.61.00.00",
+                "Description": "In shell",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0802.62.00.00",
+                "Description": "Shelled",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Kola nuts (Cola spp.):",
+            "Subentries": [
+              {
+                "HS Code": "0802.70.10.00",
+                "Description": "In shell",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0802.70.20.00",
+                "Description": "Shelled",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Areca nuts:",
+            "Subentries": [
+              {
+                "HS Code": "0802.80.10.00",
+                "Description": "In shell",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0802.80.20.00",
+                "Description": "Shelled",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "0802.91",
+                "Description": "Pine nuts, in shell:",
+                "Subentries": [
+                  {
+                    "HS Code": "0802.91.10.00",
+                    "Description": "Pignolia",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0802.91.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0802.92",
+                "Description": "Pine nuts, shelled:",
+                "Subentries": [
+                  {
+                    "HS Code": "0802.92.10.00",
+                    "Description": "Pignolia",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0802.92.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0802.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Pecans:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0802.99.10.00",
+                        "Description": "In shell",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0802.99.15.00",
+                        "Description": "Shelled",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0802.99.82.00",
+                        "Description": "In shell",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0802.99.98.00",
+                        "Description": "Shelled",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

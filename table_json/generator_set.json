@@ -8,6 +8,32 @@
         "Description": "Electric generating sets and rotary converters:",
         "Subentries": [
           {
+            "HS Code": "8502.20.00",
+            "Description": "Generating sets with spark-ignition internal combustion piston engines",
+            "Subentries": [
+              {
+                "HS Code": "8502.20.00.30",
+                "Description": "Of an output not exceeding 1.875 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8502.20.00.60",
+                "Description": "Of an output exceeding 1.875 kVA but not exceeding 6.25 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8502.20.00.70",
+                "Description": "Of an output exceeding 6.25 kVA but not exceeding 75 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8502.20.00.85",
+                "Description": "Of an output exceeding 75 kVA",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Generating sets with compression-ignition internal combustion piston engines (diesel or semi-diesel engines):",
             "Subentries": [
@@ -57,32 +83,6 @@
                     "Subentries": []
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "HS Code": "8502.20.00",
-            "Description": "Generating sets with spark-ignition internal combustion piston engines",
-            "Subentries": [
-              {
-                "HS Code": "8502.20.00.30",
-                "Description": "Of an output not exceeding 1.875 kVA",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8502.20.00.60",
-                "Description": "Of an output exceeding 1.875 kVA but not exceeding 6.25 kVA",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8502.20.00.70",
-                "Description": "Of an output exceeding 6.25 kVA but not exceeding 75 kVA",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8502.20.00.85",
-                "Description": "Of an output exceeding 75 kVA",
-                "Subentries": []
               }
             ]
           }

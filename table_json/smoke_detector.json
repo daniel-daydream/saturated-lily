@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8531",
+        "Description": "Electric sound or visual signaling apparatus (for example, bells, sirens, indicator panels, burglar or fire alarms), other than those of heading 8512 or 8530; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8531.10.00",
+            "Description": "Burglar or fire alarms and similar apparatus",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Smoke detectors:",
+                "Subentries": [
+                  {
+                    "HS Code": "8531.10.00.15",
+                    "Description": "Battery powered",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8531.10.00.25",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8531.10.00.35",
+                    "Description": "Burglar alarms",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8531.10.00.45",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -26,38 +26,6 @@
                     "Subentries": []
                   },
                   {
-                    "HS Code": "",
-                    "Description": "Knives with stainless steel handles:",
-                    "Subentries": [
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8211.91.30.00",
-                            "Description": "Valued under 25\u00a2 each, not over 25.9 cm in overall length",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8211.91.40.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8211.91.20.00",
-                            "Description": "Valued under 25\u00a2 each, not over 25.9 cm in overall length",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8211.91.25.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "8211.91.50",
                     "Description": "Knives with rubber or plastic handles",
                     "Subentries": [
@@ -88,6 +56,38 @@
                         "Subentries": []
                       }
                     ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Knives with stainless steel handles:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8211.91.20.00",
+                            "Description": "Valued under 25\u00a2 each, not over 25.9 cm in overall length",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8211.91.25.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8211.91.30.00",
+                            "Description": "Valued under 25\u00a2 each, not over 25.9 cm in overall length",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8211.91.40.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
               },
@@ -99,6 +99,27 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
+                      {
+                        "HS Code": "8211.92.20.00",
+                        "Description": "Kitchen and butcher knives",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8211.92.40",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8211.92.40.50",
+                            "Description": "Sheath-type knives",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8211.92.40.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
                       {
                         "HS Code": "8211.92.60.00",
                         "Description": "Hunting knives with wood handles",
@@ -120,27 +141,6 @@
                           },
                           {
                             "HS Code": "8211.92.90.60",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "8211.92.20.00",
-                        "Description": "Kitchen and butcher knives",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8211.92.40",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "8211.92.40.50",
-                            "Description": "Sheath-type knives",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8211.92.40.60",
                             "Description": "Other",
                             "Subentries": []
                           }

@@ -1,0 +1,572 @@
+[
+  {
+    "HS Code": "10",
+    "Description": "Cereals",
+    "Subentries": [
+      {
+        "HS Code": "1001",
+        "Description": "Wheat and meslin:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Durum wheat:",
+            "Subentries": [
+              {
+                "HS Code": "1001.11.00.00",
+                "Description": "Seed",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1001.19.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1001.19.00.25",
+                    "Description": "Certified Organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1001.19.00.51",
+                        "Description": "Grade 1",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1001.19.00.53",
+                        "Description": "Grade 2",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1001.19.00.69",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1001.91.00.00",
+                "Description": "Seed",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1001.99.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1001.99.00.05",
+                    "Description": "Canadian western extra strong hard red spring (CWES/HRS) wheat",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Certified organic:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1001.99.00.07",
+                            "Description": "Red spring wheat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1001.99.00.09",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1001.99.00.45",
+                            "Description": "White winter wheat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1001.99.00.55",
+                            "Description": "\"Canadian\" western red winter wheat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1001.99.00.65",
+                            "Description": "Soft white spring wheat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1001.99.00.97",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Red spring wheat:",
+                            "Subentries": [
+                              {
+                                "HS Code": "1001.99.00.36",
+                                "Description": "Other red spring wheat",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Grade 1:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "1001.99.00.10",
+                                    "Description": "Having a specified protein content not exceeding 12.9% by weight",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "1001.99.00.17",
+                                    "Description": "Having a specified protein content exceeding 12.9% but not exceeding 13.9% by weight.",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "1001.99.00.18",
+                                    "Description": "Having a specified protein content exceeding 13.9% by weight",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Grade 2:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "1001.99.00.27",
+                                    "Description": "Having a specified protein content not exceeding 12.9% by weight",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "1001.99.00.30",
+                                    "Description": "Having a specified protein content exceeding 12.9% but not exceeding 13.9% by weight.",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "1001.99.00.33",
+                                    "Description": "Having a specified protein content exceeding 13.9% by weight.",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1002",
+        "Description": "Rye:",
+        "Subentries": [
+          {
+            "HS Code": "1002.10.00",
+            "Description": "Seed",
+            "Subentries": [
+              {
+                "HS Code": "1002.10.00.10",
+                "Description": "Seeds of a kind used for sowing",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1002.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "1002.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "1003",
+        "Description": "Barley:",
+        "Subentries": [
+          {
+            "HS Code": "1003.10.00.00",
+            "Description": "Seed",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1003.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1003.90.20.00",
+                "Description": "For malting purposes",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1003.90.40",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1003.90.40.20",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1003.90.40.30",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1004",
+        "Description": "Oats:",
+        "Subentries": [
+          {
+            "HS Code": "1004.10.00.00",
+            "Description": "Seed",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1004.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "1004.90.00.10",
+                "Description": "Certified organic",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1004.90.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1005",
+        "Description": "Corn (maize):",
+        "Subentries": [
+          {
+            "HS Code": "1005.10.00",
+            "Description": "Seed",
+            "Subentries": [
+              {
+                "HS Code": "1005.10.00.10",
+                "Description": "Yellow corn",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1005.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "1005.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1005.90.20",
+                "Description": "Yellow dent corn",
+                "Subentries": [
+                  {
+                    "HS Code": "1005.90.20.15",
+                    "Description": "Certified Organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1005.90.20.25",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1005.90.40",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1005.90.40.40",
+                    "Description": "Popcorn",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1005.90.40.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1006",
+        "Description": "Rice:",
+        "Subentries": [
+          {
+            "HS Code": "1006.10.00.00",
+            "Description": "Rice in the husk (paddy or rough)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1006.20",
+            "Description": "Husked (brown) rice:",
+            "Subentries": [
+              {
+                "HS Code": "1006.20.20",
+                "Description": "Basmati",
+                "Subentries": [
+                  {
+                    "HS Code": "1006.20.20.10",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1006.20.20.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1006.20.40",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1006.20.40.40",
+                    "Description": "Medium grain",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1006.20.40.60",
+                    "Description": "Short grain",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1006.20.40.80",
+                    "Description": "Mixtures of any of the above",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Long grain:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1006.20.40.25",
+                        "Description": "Jasmine",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1006.20.40.35",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "1006.30",
+            "Description": "Semi-milled or wholly milled rice, whether or not polished or glazed:",
+            "Subentries": [
+              {
+                "HS Code": "1006.30.10",
+                "Description": "Parboiled",
+                "Subentries": [
+                  {
+                    "HS Code": "1006.30.10.20",
+                    "Description": "Long grain",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1006.30.10.40",
+                    "Description": "Other, including mixtures",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1006.30.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1006.30.90.15",
+                    "Description": "Certified Organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1006.30.90.65",
+                        "Description": "Medium grain",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1006.30.90.75",
+                        "Description": "Short grain",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1006.30.90.85",
+                        "Description": "Mixtures of any of the above",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Long grain:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1006.30.90.57",
+                            "Description": "Jasmine",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1006.30.90.59",
+                            "Description": "Basmati",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1006.30.90.61",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "1006.40.00.00",
+            "Description": "Broken rice",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "1007",
+        "Description": "Grain sorghum:",
+        "Subentries": [
+          {
+            "HS Code": "1007.10.00.00",
+            "Description": "Seed",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1007.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "1008",
+        "Description": "Buckwheat, millet and canary seeds; other cereals (including wild rice):",
+        "Subentries": [
+          {
+            "HS Code": "1008.10.00.00",
+            "Description": "Buckwheat",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1008.30.00.00",
+            "Description": "Canary seeds",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1008.40.00.00",
+            "Description": "Fonio (Digitaria spp.)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1008.50.00",
+            "Description": "Quinoa (Chenopodium quinoa)",
+            "Subentries": [
+              {
+                "HS Code": "1008.50.00.10",
+                "Description": "Certified organic",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1008.50.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "1008.60.00.00",
+            "Description": "Triticale",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1008.90.01",
+            "Description": "Other cereals (including wild rice)",
+            "Subentries": [
+              {
+                "HS Code": "1008.90.01.20",
+                "Description": "Wild rice",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1008.90.01.40",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Millet:",
+            "Subentries": [
+              {
+                "HS Code": "1008.21.00.00",
+                "Description": "Seed",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1008.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

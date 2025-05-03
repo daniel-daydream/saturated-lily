@@ -1,0 +1,35 @@
+[
+  {
+    "HS Code": "04",
+    "Description": "Dairy produce; birds eggs; natural honey; edible products of animal origin, not elsewhere specified or included",
+    "Subentries": [
+      {
+        "HS Code": "0401",
+        "Description": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter:",
+        "Subentries": [
+          {
+            "HS Code": "0401.10.00.00",
+            "Description": "Of a fat content, by weight, not exceeding 1 percent",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0401.20",
+            "Description": "Of a fat content, by weight, exceeding 1 percent but not exceeding 6 percent:",
+            "Subentries": [
+              {
+                "HS Code": "0401.20.20.00",
+                "Description": "For not over 11,356,236 liters entered in any calendar year",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0401.20.40.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

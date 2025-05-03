@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "31",
+    "Description": "Fertilizers",
+    "Subentries": [
+      {
+        "HS Code": "3102",
+        "Description": "Mineral or chemical fertilizers, nitrogenous:",
+        "Subentries": [
+          {
+            "HS Code": "3102.10.00",
+            "Description": "Urea, whether or not in aqueous solution",
+            "Subentries": [
+              {
+                "HS Code": "3102.10.00.10",
+                "Description": "Solid urea",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "3102.10.00.30",
+                    "Description": "Diesel exhaust fluid (DEF) of a kind meeting ISO 22241",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3102.10.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "23",
+    "Description": "Residues and waste from the food industries; prepared animal feed",
+    "Subentries": [
+      {
+        "HS Code": "2309",
+        "Description": "Preparations of a kind used in animal feeding:",
+        "Subentries": [
+          {
+            "HS Code": "2309.10.00",
+            "Description": "Dog or cat food, put up for retail sale",
+            "Subentries": [
+              {
+                "HS Code": "2309.10.00.10",
+                "Description": "In airtight containers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2309.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

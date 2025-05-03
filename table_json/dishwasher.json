@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8422",
+        "Description": "Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labeling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery (including heat-shrink wrapping machinery); machinery for aerating beverages; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Dishwashing machines:",
+            "Subentries": [
+              {
+                "HS Code": "8422.11.00.00",
+                "Description": "Of the household type",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8422.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

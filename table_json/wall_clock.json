@@ -1,0 +1,79 @@
+[
+  {
+    "HS Code": "91",
+    "Description": "Clocks and watches and parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "9105",
+        "Description": "Other clocks:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Wall clocks:",
+            "Subentries": [
+              {
+                "HS Code": "9105.21",
+                "Description": "Electrically operated:",
+                "Subentries": [
+                  {
+                    "HS Code": "9105.21.40",
+                    "Description": "With opto-electronic display only",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9105.21.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9105.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9105.29.10",
+                        "Description": "Not constructed or designed to operate for over 47 hours without rewinding",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9105.29.40.00",
+                        "Description": "Valued not over $5 each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9105.29.50.00",
+                        "Description": "Valued over $5 each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Constructed or designed to operate for over 47 hours without rewinding:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9105.29.20",
+                            "Description": "Having no jewels or only one jewel",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9105.29.30",
+                            "Description": "Having over one jewel",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

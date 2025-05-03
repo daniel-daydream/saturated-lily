@@ -1,0 +1,56 @@
+[
+  {
+    "HS Code": "04",
+    "Description": "Dairy produce; birds eggs; natural honey; edible products of animal origin, not elsewhere specified or included",
+    "Subentries": [
+      {
+        "HS Code": "0409.00.00",
+        "Description": "Natural honey",
+        "Subentries": [
+          {
+            "HS Code": "0409.00.00.05",
+            "Description": "Certified Organic",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "0409.00.00.10",
+                "Description": "Comb honey and honey packaged for retail sale",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0409.00.00.35",
+                    "Description": "White or lighter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0409.00.00.45",
+                    "Description": "Extra light amber",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0409.00.00.56",
+                    "Description": "Light amber",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0409.00.00.65",
+                    "Description": "Amber or darker",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

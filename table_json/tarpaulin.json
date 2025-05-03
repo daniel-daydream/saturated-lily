@@ -1,0 +1,46 @@
+[
+  {
+    "HS Code": "59",
+    "Description": "Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",
+    "Subentries": [
+      {
+        "HS Code": "5901",
+        "Description": "Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like; tracing cloth; prepared painting canvas; buckram and similar stiffened textile fabrics of a kind used for hat foundations:",
+        "Subentries": [
+          {
+            "HS Code": "5901.10",
+            "Description": "Textile fabrics coated with gum or amylaceous sub- stances, of a kind used for the outer covers of books or the like:",
+            "Subentries": [
+              {
+                "HS Code": "5901.10.10.00",
+                "Description": "Of man-made fibers (229)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5901.10.20.00",
+                "Description": "Other (229)",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "5901.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "5901.90.20.00",
+                "Description": "Of man-made fibers (229)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5901.90.40.00",
+                "Description": "Other (229)",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

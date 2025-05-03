@@ -1,0 +1,99 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8433",
+        "Description": "Harvesting or threshing machinery, including straw or fodder balers; grass or hay mowers; machines for cleaning, sorting or grading eggs, fruit or other agricultural produce, other than machinery of heading 8437; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Mowers for lawns, parks or sports grounds:",
+            "Subentries": [
+              {
+                "HS Code": "8433.11.00",
+                "Description": "Powered, with the cutting device rotating in a horizontal plane",
+                "Subentries": [
+                  {
+                    "HS Code": "8433.11.00.10",
+                    "Description": "Electric mowers, including battery operated",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8433.11.00.20",
+                        "Description": "Under 5.2 kW",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8433.11.00.30",
+                        "Description": "5.2 kW and over but under 7.46 kW",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8433.11.00.40",
+                        "Description": "7.46 kW and over",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8433.11.00.50",
+                        "Description": "Under 3.7 kW",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8433.11.00.60",
+                        "Description": "3.7 kW and over",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8433.19.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8433.19.00.10",
+                    "Description": "Greens mowers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8433.19.00.20",
+                    "Description": "Gang cutting units",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8433.19.00.30",
+                    "Description": "Other riding mowers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8433.19.00.40",
+                        "Description": "Gasoline powered",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8433.19.00.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

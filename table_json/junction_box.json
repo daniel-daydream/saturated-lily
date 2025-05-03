@@ -1,0 +1,127 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8536",
+        "Description": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp-holders and other connectors, junction boxes), for a voltage not exceeding 1,000 V; connectors for optical fibers, optical fiber bundles or cables:",
+        "Subentries": [
+          {
+            "HS Code": "8536.90",
+            "Description": "Other apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "8536.90.40.00",
+                "Description": "Terminals, electrical splices and electrical couplings; wafer probers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8536.90.60.00",
+                "Description": "Battery clamps of a kind used in motor vehicles of heading 8702, 8703, 8704 or 8711",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8536.90.85",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8536.90.85.10",
+                    "Description": "Electrical distribution ducts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8536.90.85.30",
+                    "Description": "Junction boxes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8536.90.85.85",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8538",
+        "Description": "Parts suitable for use solely or principally with the apparatus of heading 8535, 8536 or 8537:",
+        "Subentries": [
+          {
+            "HS Code": "8538.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "8538.90.40.00",
+                "Description": "Other, for the articles of subheading 8535.90.40, 8536.30.40 or 8536.50.40, of ceramic or metallic materials, electrically or mechanically reactive to changes in temperature",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Printed circuit assemblies:",
+                "Subentries": [
+                  {
+                    "HS Code": "8538.90.10.00",
+                    "Description": "Of an article of heading 8537 for one of the articles described in additional U.S. note 11 to chapter 85",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8538.90.30.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8538.90.60.00",
+                    "Description": "Molded parts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8538.90.81",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8538.90.81.20",
+                        "Description": "Of automatic circuit breakers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8538.90.81.40",
+                            "Description": "Metal contacts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8538.90.81.60",
+                            "Description": "Other parts of switchgear, switchboards, panel boards and distribution boards",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8538.90.81.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

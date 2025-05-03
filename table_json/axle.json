@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8483",
+        "Description": "Transmission shafts (including camshafts and crankshafts) and cranks; bearing housings, housed bearings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints); parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8483.20",
+            "Description": "Housed bearings, incorporating ball or roller bearings:",
+            "Subentries": [
+              {
+                "HS Code": "8483.20.40",
+                "Description": "Flange, take-up, cartridge and hanger units",
+                "Subentries": [
+                  {
+                    "HS Code": "8483.20.40.40",
+                    "Description": "Incorporating ball bearings",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8483.20.40.80",
+                    "Description": "Incorporating roller bearings",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8483.20.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8483.20.80.40",
+                    "Description": "Incorporating ball bearings",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8483.20.80.80",
+                    "Description": "Incorporating roller bearings",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

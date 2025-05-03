@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "70",
+    "Description": "Glass and glassware",
+    "Subentries": [
+      {
+        "HS Code": "7007",
+        "Description": "Safety glass, consisting of toughened (tempered) or laminated glass:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Laminated safety glass:",
+            "Subentries": [
+              {
+                "HS Code": "7007.21",
+                "Description": "Of size and shape suitable for incorporation in vehicles, aircraft, spacecraft or vessels:",
+                "Subentries": [
+                  {
+                    "HS Code": "7007.21.11",
+                    "Description": "Windshields",
+                    "Subentries": [
+                      {
+                        "HS Code": "7007.21.11.10",
+                        "Description": "For motor vehicles of chapter 87",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7007.21.11.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7007.21.51.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7007.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

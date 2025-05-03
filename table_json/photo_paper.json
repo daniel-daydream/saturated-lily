@@ -1,0 +1,138 @@
+[
+  {
+    "HS Code": "48",
+    "Description": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+    "Subentries": [
+      {
+        "HS Code": "4811",
+        "Description": "Paper, paperboard, cellulose wadding and webs of cellulose fibers, coated, impregnated, covered, surface-colored, surface-decorated or printed, in rolls or rectangular (including square) sheets, of any size, other than goods of the kind described in heading 4803, 4809 or 4810:",
+        "Subentries": [
+          {
+            "HS Code": "4811.90",
+            "Description": "Other paper, paperboard, cellulose wadding and webs of cellulose fibers:",
+            "Subentries": [
+              {
+                "HS Code": "4811.90.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "4811.90.90.10",
+                    "Description": "Tissue papers having a basis weight not exceeding 29 g/m\u00b2, in sheets",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4811.90.90.30",
+                    "Description": "Direct thermal coated paper",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4811.90.90.35",
+                    "Description": "Paper in sheets, lined or ruled, having a width of 152.4 to 360 mm inclusive and a length of 225.25 to 360 mm inclusive",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4811.90.90.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "In strips or rolls of a width exceeding 15 cm or in rectangular (including square) sheets with one side exceeding 36 cm and the other side exceeding 15 cm in the unfolded state:",
+                "Subentries": [
+                  {
+                    "HS Code": "4811.90.10.00",
+                    "Description": "Handmade paper",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4811.90.20.00",
+                        "Description": "Wholly or partly covered with flock, gelatin, metal or metal solutions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "4811.90.30.00",
+                            "Description": "Impregnated with latex",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "4811.90.40",
+                                "Description": "Weighing not over 15 g/m\u00b2",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "4811.90.40.10",
+                                    "Description": "Tissue papers, in sheets",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "4811.90.40.90",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "4811.90.60",
+                                "Description": "Weighing over 15 g/m\u00b2 but not over 30 g/m\u00b2",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "4811.90.60.10",
+                                    "Description": "Tissue papers having a basis weight not exceeding 29 g/m\u00b2, in sheets",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "4811.90.60.90",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "4811.90.80",
+                                "Description": "Weighing over 30 g/m\u00b2",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "4811.90.80.20",
+                                    "Description": "Gift Wrap (other than tissue)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "4811.90.80.30",
+                                    "Description": "Direct thermal coated paper",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "4811.90.80.50",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

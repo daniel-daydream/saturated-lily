@@ -1,0 +1,35 @@
+[
+  {
+    "HS Code": "38",
+    "Description": "Miscellaneous chemical products",
+    "Subentries": [
+      {
+        "HS Code": "3802",
+        "Description": "Activated carbon; activated natural mineral products; animal black, including spent animal black:",
+        "Subentries": [
+          {
+            "HS Code": "3802.10.00",
+            "Description": "Activated carbon",
+            "Subentries": [
+              {
+                "HS Code": "3802.10.00.10",
+                "Description": "Derived from coal",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3802.10.00.20",
+                "Description": "Derived from coconut",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3802.10.00.50",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

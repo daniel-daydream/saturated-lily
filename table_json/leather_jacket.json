@@ -1,0 +1,74 @@
+[
+  {
+    "HS Code": "42",
+    "Description": "Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",
+    "Subentries": [
+      {
+        "HS Code": "4203",
+        "Description": "Articles of apparel and clothing accessories, of leather or of composition leather:",
+        "Subentries": [
+          {
+            "HS Code": "4203.10",
+            "Description": "Articles of apparel:",
+            "Subentries": [
+              {
+                "HS Code": "4203.10.20.00",
+                "Description": "Of reptile leather",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4203.10.40",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Coats and jackets:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4203.10.40.10",
+                        "Description": "Anoraks",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "4203.10.40.30",
+                            "Description": "Men's and boys'",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4203.10.40.60",
+                            "Description": "Women's, girls' and infants'",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4203.10.40.85",
+                        "Description": "Men's and boys'",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4203.10.40.95",
+                        "Description": "Women's, girls' and infants'",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

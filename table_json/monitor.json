@@ -21,6 +21,11 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
+                    "HS Code": "8528.59.60.00",
+                    "Description": "Black and white or other monochrome",
+                    "Subentries": []
+                  },
+                  {
                     "HS Code": "",
                     "Description": "Color:",
                     "Subentries": [
@@ -29,19 +34,19 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
+                            "HS Code": "8528.59.05.00",
+                            "Description": "Incorporating video recording or reproducing apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.59.10.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
                             "HS Code": "",
                             "Description": "Other:",
                             "Subentries": [
-                              {
-                                "HS Code": "8528.59.45.00",
-                                "Description": "With a video display diagonal not exceeding 34.29 cm",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "8528.59.50.00",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
                               {
                                 "HS Code": "8528.59.15.00",
                                 "Description": "With a video display diagonal not exceeding 34.29 cm",
@@ -87,27 +92,22 @@
                                 "HS Code": "8528.59.40.00",
                                 "Description": "Other",
                                 "Subentries": []
+                              },
+                              {
+                                "HS Code": "8528.59.45.00",
+                                "Description": "With a video display diagonal not exceeding 34.29 cm",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8528.59.50.00",
+                                "Description": "Other",
+                                "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "8528.59.05.00",
-                            "Description": "Incorporating video recording or reproducing apparatus",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8528.59.10.00",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "8528.59.60.00",
-                    "Description": "Black and white or other monochrome",
-                    "Subentries": []
                   }
                 ]
               }

@@ -38,67 +38,14 @@
                 ]
               },
               {
-                "HS Code": "",
-                "Description": "Containers (with or without their closures) of a kind used for the conveyance or packing of perfume or other toilet preparations; other containers if fitted with or designed for use with ground glass stoppers:",
-                "Subentries": [
-                  {
-                    "HS Code": "7010.90.20",
-                    "Description": "Produced by automatic machine",
-                    "Subentries": [
-                      {
-                        "HS Code": "7010.90.20.10",
-                        "Description": "Of a capacity exceeding 1 liter",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7010.90.20.20",
-                        "Description": "Of a capacity exceeding 0.33 liter but not exceeding 1 liter",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7010.90.20.30",
-                        "Description": "Of a capacity exceeding 0.15 liter but not exceeding 0.33 liter",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7010.90.20.40",
-                        "Description": "Of a capacity not exceeding 0.15 liter",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "7010.90.30",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "7010.90.30.10",
-                        "Description": "Of a capacity exceeding 1 liter",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7010.90.30.20",
-                        "Description": "Of a capacity exceeding 0.33 liter but not exceeding 1 liter",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7010.90.30.30",
-                        "Description": "Of a capacity exceeding 0.15 liter but not exceeding 0.33 liter",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7010.90.30.40",
-                        "Description": "Of a capacity not exceeding 0.15 liter",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
                 "HS Code": "7010.90.50",
                 "Description": "Other containers (with or without their closures)",
                 "Subentries": [
+                  {
+                    "HS Code": "7010.90.50.55",
+                    "Description": "Of a capacity not exceeding 0.118 liter",
+                    "Subentries": []
+                  },
                   {
                     "HS Code": "",
                     "Description": "Of a capacity exceeding 1 liter:",
@@ -178,11 +125,64 @@
                         "Subentries": []
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Containers (with or without their closures) of a kind used for the conveyance or packing of perfume or other toilet preparations; other containers if fitted with or designed for use with ground glass stoppers:",
+                "Subentries": [
+                  {
+                    "HS Code": "7010.90.20",
+                    "Description": "Produced by automatic machine",
+                    "Subentries": [
+                      {
+                        "HS Code": "7010.90.20.10",
+                        "Description": "Of a capacity exceeding 1 liter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7010.90.20.20",
+                        "Description": "Of a capacity exceeding 0.33 liter but not exceeding 1 liter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7010.90.20.30",
+                        "Description": "Of a capacity exceeding 0.15 liter but not exceeding 0.33 liter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7010.90.20.40",
+                        "Description": "Of a capacity not exceeding 0.15 liter",
+                        "Subentries": []
+                      }
+                    ]
                   },
                   {
-                    "HS Code": "7010.90.50.55",
-                    "Description": "Of a capacity not exceeding 0.118 liter",
-                    "Subentries": []
+                    "HS Code": "7010.90.30",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7010.90.30.10",
+                        "Description": "Of a capacity exceeding 1 liter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7010.90.30.20",
+                        "Description": "Of a capacity exceeding 0.33 liter but not exceeding 1 liter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7010.90.30.30",
+                        "Description": "Of a capacity exceeding 0.15 liter but not exceeding 0.33 liter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7010.90.30.40",
+                        "Description": "Of a capacity not exceeding 0.15 liter",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               }

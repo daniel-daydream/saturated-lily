@@ -1,0 +1,67 @@
+[
+  {
+    "HS Code": "21",
+    "Description": "Miscellaneous edible preparations",
+    "Subentries": [
+      {
+        "HS Code": "2105.00",
+        "Description": "Ice cream and other edible ice, whether or not containing cocoa:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Ice cream:",
+            "Subentries": [
+              {
+                "HS Code": "2105.00.05.00",
+                "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2105.00.10.00",
+                "Description": "Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2105.00.20.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "2105.00.50.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Dairy products described in additional U.S. note 1 to chapter 4:",
+                "Subentries": [
+                  {
+                    "HS Code": "2105.00.25.00",
+                    "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2105.00.30.00",
+                    "Description": "Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2105.00.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

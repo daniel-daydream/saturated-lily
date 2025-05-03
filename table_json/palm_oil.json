@@ -1,0 +1,24 @@
+[
+  {
+    "HS Code": "15",
+    "Description": "Animal or vegetable fats and oils and their cleavage products prepared edible fats; animal or vegetable waxes",
+    "Subentries": [
+      {
+        "HS Code": "1511",
+        "Description": "Palm oil and its fractions, whether or not refined, but not chemically modified:",
+        "Subentries": [
+          {
+            "HS Code": "1511.10.00.00",
+            "Description": "Crude oil",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1511.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

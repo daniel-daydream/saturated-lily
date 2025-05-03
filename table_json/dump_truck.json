@@ -1,0 +1,62 @@
+[
+  {
+    "HS Code": "87",
+    "Description": "Vehicles other than railway or tramway rolling stock, and parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "8704",
+        "Description": "Motor vehicles for the transport of goods:",
+        "Subentries": [
+          {
+            "HS Code": "8704.10",
+            "Description": "Dumpers designed for off-highway use:",
+            "Subentries": [
+              {
+                "HS Code": "8704.10.10.00",
+                "Description": "Cab chassis",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8704.10.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8704.10.50.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Rear dump:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8704.10.50.20",
+                        "Description": "With a capacity of 40.8 metric tons or less",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8704.10.50.30",
+                        "Description": "With a capacity exceeding 40.8 metric tons but not exceeding 63.5 metric tons",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8704.10.50.40",
+                        "Description": "With a capacity exceeding 63.5 metric tons but not exceeding 90.7 metric tons",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8704.10.50.50",
+                        "Description": "With a capacity exceeding 90.7 metric tons",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

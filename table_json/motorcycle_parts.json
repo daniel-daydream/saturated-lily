@@ -1,0 +1,265 @@
+[
+  {
+    "HS Code": "87",
+    "Description": "Vehicles other than railway or tramway rolling stock, and parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "8714",
+        "Description": "Parts and accessories of vehicles of headings 8711 to 8713:",
+        "Subentries": [
+          {
+            "HS Code": "8714.10.00",
+            "Description": "Of motorcycles (including mopeds)",
+            "Subentries": [
+              {
+                "HS Code": "8714.10.00.10",
+                "Description": "Saddles and seats",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8714.10.00.20",
+                "Description": "Wheels",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8714.10.00.50",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8714.20.00.00",
+            "Description": "Of carriages for disabled persons",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "8714.91",
+                "Description": "Frames and forks, and parts thereof:",
+                "Subentries": [
+                  {
+                    "HS Code": "8714.91.50.00",
+                    "Description": "Sets of steel tubing cut to exact length and each set having the number of tubes needed for the assembly (with other parts) into the frame and fork of one bicycle",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8714.91.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Frames:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8714.91.20.00",
+                        "Description": "Valued over $600 each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8714.91.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8714.92",
+                "Description": "Wheel rims and spokes:",
+                "Subentries": [
+                  {
+                    "HS Code": "8714.92.10.00",
+                    "Description": "Wheel rims",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8714.92.50.00",
+                    "Description": "Spokes",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8714.93",
+                "Description": "Hubs, other than coaster braking hubs and hub brakes, and free-wheel sprocket-wheels:",
+                "Subentries": [
+                  {
+                    "HS Code": "8714.93.70",
+                    "Description": "Free-wheel sprocket-wheels",
+                    "Subentries": [
+                      {
+                        "HS Code": "8714.93.70.30",
+                        "Description": "Multiple free-wheel sprockets",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8714.93.70.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Hubs:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8714.93.05.00",
+                        "Description": "Aluminum alloy hubs with a hollow axle and lever-operated quick release mechanism",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8714.93.15.00",
+                            "Description": "Three speed",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8714.93.35.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Variable speed (except three speed) with internal gear changing mechanisms:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8714.93.24.00",
+                                "Description": "Two speed",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8714.93.28.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8714.94",
+                "Description": "Brakes, including coaster braking hubs and hub brakes, and parts thereof:",
+                "Subentries": [
+                  {
+                    "HS Code": "8714.94.30",
+                    "Description": "Drum brakes, caliper and cantilever bicycle brakes, and coaster brakes; parts thereof (including cable or inner wire therefor, fitted with fittings)",
+                    "Subentries": [
+                      {
+                        "HS Code": "8714.94.30.20",
+                        "Description": "Caliper and cantilever bicycle brakes",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8714.94.30.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Coaster brakes:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8714.94.30.40",
+                            "Description": "Designed for single-speed bicycles",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8714.94.30.50",
+                                "Description": "Designed for three-speed bicycles",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8714.94.30.60",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8714.94.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8714.95.00.00",
+                "Description": "Saddles",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8714.96",
+                "Description": "Pedals and crank-gear, and parts thereof:",
+                "Subentries": [
+                  {
+                    "HS Code": "8714.96.10.00",
+                    "Description": "Pedals and parts thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8714.96.50.00",
+                    "Description": "Cotterless-type crank sets and parts thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8714.96.90.00",
+                    "Description": "Other crank-gear and parts thereof",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8714.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8714.99.10.00",
+                    "Description": "Click twist grips and click stick levers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8714.99.50.00",
+                    "Description": "Derailleurs and parts thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8714.99.60.00",
+                    "Description": "Trigger and twist grip controls for three speed hubs, and parts thereof; bicycle handlebar stems wholly of aluminum alloy (including their hardware of any material), valued over $2.15 each; and bicycle handlebar stem rotor assemblies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8714.99.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

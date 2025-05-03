@@ -1,0 +1,199 @@
+[
+  {
+    "HS Code": "61",
+    "Description": "Articles of apparel and clothing accessories, knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6113.00",
+        "Description": "Garments, made up of knitted or crocheted fabrics of heading 5903, 5906 or 5907:",
+        "Subentries": [
+          {
+            "HS Code": "6113.00.10",
+            "Description": "Having an outer surface impregnated, coated, covered, or laminated with rubber or plastics material which completely obscures the underlying fabric",
+            "Subentries": [
+              {
+                "HS Code": "6113.00.10.12",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Coats and jackets:",
+                "Subentries": [
+                  {
+                    "HS Code": "6113.00.10.05",
+                    "Description": "Men's or boys'",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6113.00.10.10",
+                    "Description": "Women's or girls'",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "6113.00.90",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Coats and jackets:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of cotton:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6113.00.90.15",
+                        "Description": "Men's or boys' (334)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6113.00.90.20",
+                        "Description": "Women's or girls' (335)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6113.00.90.25",
+                        "Description": "Men's or boys' (634)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6113.00.90.30",
+                        "Description": "Women's or girls' (635)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Trousers, breeches and shorts:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of cotton:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6113.00.90.38",
+                        "Description": "Men's or boys' (347)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6113.00.90.42",
+                        "Description": "Women's or girls (348)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6113.00.90.44",
+                        "Description": "Men's or boys' (647)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6113.00.90.52",
+                        "Description": "Women's or girls' (648)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Overalls and coveralls:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of cotton:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6113.00.90.55",
+                        "Description": "Men's or boys' (359)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6113.00.90.60",
+                        "Description": "Women's or girls' (359)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6113.00.90.65",
+                        "Description": "Men's or boys' (659)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6113.00.90.70",
+                        "Description": "Women's or girls' (659)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of cotton:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6113.00.90.74",
+                        "Description": "Men's or boys' (359)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6113.00.90.82",
+                        "Description": "Women's or girls' (359)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6113.00.90.84",
+                        "Description": "Men's or boys' (659)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6113.00.90.86",
+                        "Description": "Women's or girls' (659)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

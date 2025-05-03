@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8511",
+        "Description": "Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines (for example, ignition magnetos, magneto-dynamos, ignition coils, spark plugs and glow plugs, starter motors); generators (for example, dynamos, alternators) and cut-outs of a kind used in conjunction with such engines; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8511.30.00",
+            "Description": "Distributors; ignition coils",
+            "Subentries": [
+              {
+                "HS Code": "8511.30.00.40",
+                "Description": "Distributors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8511.30.00.80",
+                "Description": "Ignition coils",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

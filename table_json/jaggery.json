@@ -1,0 +1,123 @@
+[
+  {
+    "HS Code": "17",
+    "Description": "Sugars and sugar confectionery",
+    "Subentries": [
+      {
+        "HS Code": "1702",
+        "Description": "Other sugars, including chemically pure lactose, maltose, glucose and fructose, in solid form; sugar syrups not containing added flavoring or coloring matter; artificial honey, whether or not mixed with natural honey; caramel:",
+        "Subentries": [
+          {
+            "HS Code": "1702.20",
+            "Description": "Maple sugar and maple syrup:",
+            "Subentries": [
+              {
+                "HS Code": "1702.20.40",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1702.20.40.10",
+                    "Description": "Maple sugar",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Maple syrup:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Certified organic:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1702.20.40.40",
+                            "Description": "In containers over 5 kg",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1702.20.40.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1702.20.40.60",
+                            "Description": "In containers over 5 kg",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1702.20.40.70",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Blended syrups described in additional U.S. note 4 to chapter 17:",
+                "Subentries": [
+                  {
+                    "HS Code": "1702.20.22",
+                    "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                    "Subentries": [
+                      {
+                        "HS Code": "1702.20.22.10",
+                        "Description": "Maple sugar",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1702.20.22.90",
+                        "Description": "Maple syrup",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1702.20.24",
+                    "Description": "Described in additional U.S. note 9 to this chapter and entered pursuant to its provisions",
+                    "Subentries": [
+                      {
+                        "HS Code": "1702.20.24.10",
+                        "Description": "Maple sugar",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1702.20.24.90",
+                        "Description": "Maple syrup",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1702.20.28",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1702.20.28.10",
+                        "Description": "Maple sugar",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1702.20.28.90",
+                        "Description": "Maple syrup",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

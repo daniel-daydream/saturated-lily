@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "25",
+    "Description": "Salt; sulfur; earths and stone; plastering materials, lime and cement",
+    "Subentries": [
+      {
+        "HS Code": "2515",
+        "Description": "Marble, travertine and other calcareous monumental or building stone of an apparent specific gravity of 2.5 or more, and alabaster, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Marble and travertine:",
+            "Subentries": [
+              {
+                "HS Code": "2515.11.00.00",
+                "Description": "Crude or roughly trimmed",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2515.12",
+                "Description": "Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape:",
+                "Subentries": [
+                  {
+                    "HS Code": "2515.12.10.00",
+                    "Description": "Marble",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2515.12.20.00",
+                    "Description": "Travertine",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

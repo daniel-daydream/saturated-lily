@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "08",
+    "Description": "Edible fruit and nuts; peel of citrus fruit or melons",
+    "Subentries": [
+      {
+        "HS Code": "0803",
+        "Description": "Bananas and plantains, fresh or dried:",
+        "Subentries": [
+          {
+            "HS Code": "0803.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "0803.90.00.25",
+                "Description": "Certified organic",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0803.90.00.35",
+                    "Description": "Fresh",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0803.90.00.45",
+                    "Description": "Dried",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

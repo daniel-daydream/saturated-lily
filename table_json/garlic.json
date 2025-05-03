@@ -1,0 +1,46 @@
+[
+  {
+    "HS Code": "07",
+    "Description": "Edible vegetables and certain roots and tubers",
+    "Subentries": [
+      {
+        "HS Code": "0703",
+        "Description": "Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled:",
+        "Subentries": [
+          {
+            "HS Code": "0703.20.00",
+            "Description": "Garlic",
+            "Subentries": [
+              {
+                "HS Code": "0703.20.00.20",
+                "Description": "Fresh whole peeled cloves",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0703.20.00.90",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Fresh whole bulbs:",
+                "Subentries": [
+                  {
+                    "HS Code": "0703.20.00.05",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0703.20.00.15",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

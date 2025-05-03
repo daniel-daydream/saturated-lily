@@ -1,0 +1,110 @@
+[
+  {
+    "HS Code": "61",
+    "Description": "Articles of apparel and clothing accessories, knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6101",
+        "Description": "Men's or boys' overcoats, carcoats, capes, cloaks, anoraks (including ski-jackets), windbreakers and similar articles, knitted or crocheted, other than those of heading 6103:",
+        "Subentries": [
+          {
+            "HS Code": "6101.20.00",
+            "Description": "Of cotton",
+            "Subentries": [
+              {
+                "HS Code": "6101.20.00.10",
+                "Description": "Men's (334)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6101.20.00.20",
+                "Description": "Boys' (334)",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "6101.30",
+            "Description": "Of man-made fibers:",
+            "Subentries": [
+              {
+                "HS Code": "6101.30.10.00",
+                "Description": "Containing 25 percent or more by weight of leather (634)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "6101.30.15.00",
+                    "Description": "Containing 23 percent or more by weight of wool or fine animal hair (434)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6101.30.20",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6101.30.20.10",
+                        "Description": "Men's (634)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6101.30.20.20",
+                        "Description": "Boys' (634)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "6101.90",
+            "Description": "Of other textile materials:",
+            "Subentries": [
+              {
+                "HS Code": "6101.90.05.00",
+                "Description": "Of wool or fine animal hair (434)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6101.90.10.00",
+                "Description": "Containing 70 percent or more by weight of silk or silk waste (734)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6101.90.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "6101.90.90.10",
+                    "Description": "Subject to cotton restraints (334)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6101.90.90.20",
+                    "Description": "Subject to wool restraints (434)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6101.90.90.30",
+                    "Description": "Subject to man-made fiber restraints (634)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6101.90.90.60",
+                    "Description": "Other (834)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

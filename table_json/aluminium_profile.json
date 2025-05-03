@@ -1,0 +1,106 @@
+[
+  {
+    "HS Code": "76",
+    "Description": "Aluminum and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "7604",
+        "Description": "Aluminum bars, rods and profiles:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of aluminum alloys:",
+            "Subentries": [
+              {
+                "HS Code": "7604.21.00",
+                "Description": "Hollow profiles",
+                "Subentries": [
+                  {
+                    "HS Code": "7604.21.00.10",
+                    "Description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7604.21.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7604.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7604.29.10",
+                    "Description": "Other profiles",
+                    "Subentries": [
+                      {
+                        "HS Code": "7604.29.10.10",
+                        "Description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7604.29.10.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Bars and rods:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7604.29.30",
+                        "Description": "Having a round cross section",
+                        "Subentries": [
+                          {
+                            "HS Code": "7604.29.30.30",
+                            "Description": "High-strength heat-treatable alloys of a kind described in statistical note 6 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7604.29.30.60",
+                            "Description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7604.29.30.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7604.29.50",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "7604.29.50.20",
+                            "Description": "High-strength heat-treatable alloys of a kind described in statistical note 6 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7604.29.50.50",
+                            "Description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7604.29.50.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

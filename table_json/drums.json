@@ -1,0 +1,34 @@
+[
+  {
+    "HS Code": "92",
+    "Description": "Musical instruments; parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "9206.00",
+        "Description": "Percussion musical instruments (for example, drums, xylophones, cymbals, castanets, maracas):",
+        "Subentries": [
+          {
+            "HS Code": "9206.00.20.00",
+            "Description": "Drums",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9206.00.40.00",
+            "Description": "Cymbals",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9206.00.60.00",
+            "Description": "Sets of tuned bells known as chimes, peals or carillons",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9206.00.80.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

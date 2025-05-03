@@ -1,0 +1,68 @@
+[
+  {
+    "HS Code": "94",
+    "Description": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated sign illuminated nameplates and the like; prefabricated buildings",
+    "Subentries": [
+      {
+        "HS Code": "9403",
+        "Description": "Other furniture and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9403.50",
+            "Description": "Wooden furniture of a kind used in the bedroom:",
+            "Subentries": [
+              {
+                "HS Code": "9403.50.40.00",
+                "Description": "Bent-wood furniture",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9403.50.60.00",
+                    "Description": "Designed for motor vehicle use",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9403.50.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9403.50.90.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Beds:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9403.50.90.41",
+                            "Description": "Cribs",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9403.50.90.42",
+                            "Description": "Toddler beds, bassinets, and cradles",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9403.50.90.45",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

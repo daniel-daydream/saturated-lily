@@ -1,0 +1,116 @@
+[
+  {
+    "HS Code": "69",
+    "Description": "Ceramic products",
+    "Subentries": [
+      {
+        "HS Code": "6910",
+        "Description": "Ceramic sinks, washbasins, washbasin pedestals, baths, bidets, water closet bowls, flush tanks, urinals and similar sanitary fixtures:",
+        "Subentries": [
+          {
+            "HS Code": "6910.10.00",
+            "Description": "Of porcelain or china",
+            "Subentries": [
+              {
+                "HS Code": "6910.10.00.05",
+                "Description": "Water closet bowls, flushometer type",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6910.10.00.10",
+                "Description": "Water closet bowls with tanks, in one piece",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6910.10.00.15",
+                "Description": "Flush tanks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6910.10.00.20",
+                "Description": "Other water closet bowls",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6910.10.00.30",
+                "Description": "Sinks and lavatories",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6910.10.00.50",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "6910.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "73",
+    "Description": "Articles of iron or steel",
+    "Subentries": [
+      {
+        "HS Code": "7324",
+        "Description": "Sanitary ware and parts thereof, of iron or steel:",
+        "Subentries": [
+          {
+            "HS Code": "7324.10.00",
+            "Description": "Sinks and wash basins, of stainless steel",
+            "Subentries": [
+              {
+                "HS Code": "7324.10.00.10",
+                "Description": "Stainless steel sinks with one or more drawn bowls (basins)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7324.10.00.50",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "7324.90.00.00",
+            "Description": "Other, including parts",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8419",
+        "Description": "Machinery, plant or laboratory equipment, whether or not electrically heated (excluding furnaces, ovens and other equipment of heading 8514), for the treatment of materials by a process involving a change of temperature such as heating, cooking, roasting, distilling, rectifying, sterilizing, pasteurizing, steaming, drying, evaporating, vaporizing, condensing or cooling, other than machinery or plant of a kind used for domestic purposes; instantaneous or storage water heaters, nonelectric; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8419.20.00",
+            "Description": "Medical, surgical or laboratory sterilizers",
+            "Subentries": [
+              {
+                "HS Code": "8419.20.00.10",
+                "Description": "Medical or surgical sterilizers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8419.20.00.20",
+                "Description": "Laboratory sterilizers",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "11",
+    "Description": "Products of the milling industry; malt; starches; inulin; wheat gluten",
+    "Subentries": [
+      {
+        "HS Code": "1106",
+        "Description": "Flour, meal and powder of the dried leguminous vegetables of heading 0713, of sago or of roots or tubers of heading 0714 or of the products of chapter 8:",
+        "Subentries": [
+          {
+            "HS Code": "1106.20",
+            "Description": "Of sago or of roots or tubers of heading 0714:",
+            "Subentries": [
+              {
+                "HS Code": "1106.20.10.00",
+                "Description": "Of Chinese water chestnuts",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1106.20.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

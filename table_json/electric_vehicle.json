@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "87",
+    "Description": "Vehicles other than railway or tramway rolling stock, and parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "8703",
+        "Description": "Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 8702), including station wagons and racing cars:",
+        "Subentries": [
+          {
+            "HS Code": "8703.80.00",
+            "Description": "Other vehicles, with only electric motors for propulsion",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "With an EPA-rated range not exceeding 250 miles:",
+                "Subentries": [
+                  {
+                    "HS Code": "8703.80.00.20",
+                    "Description": "New",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8703.80.00.45",
+                    "Description": "Used",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "With an EPA-rated range exceeding 250 miles:",
+                "Subentries": [
+                  {
+                    "HS Code": "8703.80.00.60",
+                    "Description": "New",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8703.80.00.80",
+                    "Description": "Used",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

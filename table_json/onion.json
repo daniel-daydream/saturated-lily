@@ -50,6 +50,16 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
+                            "HS Code": "0703.10.40.70",
+                            "Description": "Shallots",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0703.10.40.75",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
                             "HS Code": "",
                             "Description": "Onions:",
                             "Subentries": [
@@ -79,16 +89,6 @@
                                 "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "0703.10.40.70",
-                            "Description": "Shallots",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "0703.10.40.75",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
                       }

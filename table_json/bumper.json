@@ -1,0 +1,68 @@
+[
+  {
+    "HS Code": "87",
+    "Description": "Vehicles other than railway or tramway rolling stock, and parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "8708",
+        "Description": "Parts and accessories of the motor vehicles of headings 8701 to 8705:",
+        "Subentries": [
+          {
+            "HS Code": "8708.10",
+            "Description": "Bumpers and parts thereof:",
+            "Subentries": [
+              {
+                "HS Code": "8708.10.30",
+                "Description": "Bumpers",
+                "Subentries": [
+                  {
+                    "HS Code": "8708.10.30.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Stampings:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8708.10.30.20",
+                        "Description": "Of steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8708.10.30.30",
+                        "Description": "Of aluminum",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8708.10.30.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8708.10.60",
+                "Description": "Parts of bumpers",
+                "Subentries": [
+                  {
+                    "HS Code": "8708.10.60.10",
+                    "Description": "Stampings",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8708.10.60.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

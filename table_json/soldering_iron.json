@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8515",
+        "Description": "Electric (including electrically heated gas), laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutting; electric machines and apparatus for hot spraying of metals or cermets; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Brazing or soldering machines and apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "8515.11.00.00",
+                "Description": "Soldering irons and guns",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8515.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

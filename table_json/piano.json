@@ -1,0 +1,56 @@
+[
+  {
+    "HS Code": "92",
+    "Description": "Musical instruments; parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "9201",
+        "Description": "Pianos, including player pianos; harpsichords and other keyboard stringed instruments:",
+        "Subentries": [
+          {
+            "HS Code": "9201.10.00",
+            "Description": "Upright pianos",
+            "Subentries": [
+              {
+                "HS Code": "9201.10.00.05",
+                "Description": "Used",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9201.10.00.11",
+                    "Description": "Containing a case measuring less than 111.76 cm in height",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9201.10.00.21",
+                    "Description": "Containing a case measuring 111.76 cm or more but less than 121.92 cm in height",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9201.10.00.31",
+                    "Description": "Containing a case measuring 121.92 cm or more but less than 129.54 cm in height",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9201.10.00.41",
+                    "Description": "Containing a case measuring 129.54 cm or more in height",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9201.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

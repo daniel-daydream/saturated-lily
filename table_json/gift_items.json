@@ -1,0 +1,111 @@
+[
+  {
+    "HS Code": "95",
+    "Description": "Toys, games and sports requisites; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9505",
+        "Description": "Festive, carnival or other entertainment articles, including magic tricks and practical joke articles; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9505.10",
+            "Description": "Articles for Christmas festivities and parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "9505.10.30.00",
+                "Description": "Nativity scenes and figures thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Christmas ornaments:",
+                "Subentries": [
+                  {
+                    "HS Code": "9505.10.10.00",
+                    "Description": "Of glass",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9505.10.15.00",
+                        "Description": "Of wood",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9505.10.25.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9505.10.40",
+                    "Description": "Of plastics",
+                    "Subentries": [
+                      {
+                        "HS Code": "9505.10.40.10",
+                        "Description": "Artificial Christmas trees",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9505.10.40.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9505.10.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9505.10.50.10",
+                        "Description": "Artificial Christmas trees",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9505.10.50.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9505.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9505.90.20.00",
+                "Description": "Magic tricks and practical joke articles; parts and accessories thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9505.90.40.00",
+                "Description": "Confetti, paper spirals or streamers, party favors and noisemakers; parts and accessories thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9505.90.60.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "HS Code": "04",
+    "Description": "Dairy produce; birds eggs; natural honey; edible products of animal origin, not elsewhere specified or included",
+    "Subentries": [
+      {
+        "HS Code": "0405",
+        "Description": "Butter and other fats and oils derived from milk; dairy spreads:",
+        "Subentries": [
+          {
+            "HS Code": "0405.10",
+            "Description": "Butter:",
+            "Subentries": [
+              {
+                "HS Code": "0405.10.05.00",
+                "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0405.10.10.00",
+                "Description": "Described in additional U.S. note 6 to this chapter and entered pursuant to its provisions",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0405.10.20.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

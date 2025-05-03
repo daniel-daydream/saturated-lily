@@ -1,0 +1,68 @@
+[
+  {
+    "HS Code": "20",
+    "Description": "Preparations of vegetables, fruit, nuts or other parts of plants",
+    "Subentries": [
+      {
+        "HS Code": "2002",
+        "Description": "Tomatoes prepared or preserved otherwise than by vinegar or acetic acid:",
+        "Subentries": [
+          {
+            "HS Code": "2002.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "2002.90.40.00",
+                "Description": "In powder",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2002.90.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "2002.90.80.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Paste:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2002.90.80.10",
+                        "Description": "In containers holding less than 1.4 kg",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2002.90.80.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Puree:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2002.90.80.30",
+                        "Description": "In containers holding less than 1.4 kg",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2002.90.80.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "HS Code": "90",
+    "Description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9026",
+        "Description": "Instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases (for example, flow meters, level gauges, manometers, heat meters), excluding instruments and apparatus of heading 9014, 9015, 9028 or 9032; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9026.10",
+            "Description": "For measuring or checking the flow or level of liquids:",
+            "Subentries": [
+              {
+                "HS Code": "9026.10.20",
+                "Description": "Electrical",
+                "Subentries": [
+                  {
+                    "HS Code": "9026.10.20.40",
+                    "Description": "Flow meters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9026.10.20.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9026.10.40.00",
+                    "Description": "Flow meters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9026.10.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9026.20",
+            "Description": "For measuring or checking pressure:",
+            "Subentries": [
+              {
+                "HS Code": "9026.20.40.00",
+                "Description": "Electrical",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9026.20.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

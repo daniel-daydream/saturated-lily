@@ -1,0 +1,158 @@
+[
+  {
+    "HS Code": "12",
+    "Description": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruits; industrial or medicinal plants; straw and fodder",
+    "Subentries": [
+      {
+        "HS Code": "1211",
+        "Description": "Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered:",
+        "Subentries": [
+          {
+            "HS Code": "1211.20",
+            "Description": "Ginseng roots:",
+            "Subentries": [
+              {
+                "HS Code": "1211.20.10",
+                "Description": "Fresh or dried",
+                "Subentries": [
+                  {
+                    "HS Code": "1211.20.10.20",
+                    "Description": "Cultivated",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1211.20.10.90",
+                    "Description": "Wild",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1211.20.15.00",
+                "Description": "Chilled or frozen",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "1211.30.00.00",
+            "Description": "Coca leaf",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1211.40.00.00",
+            "Description": "Poppy straw",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1211.50.00.00",
+            "Description": "Ephedra",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1211.60.00.00",
+            "Description": "Bark of African cherry (Prunus Africana)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1211.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1211.90.60.00",
+                "Description": "Tonka beans",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Mint leaves:",
+                "Subentries": [
+                  {
+                    "HS Code": "1211.90.20.00",
+                    "Description": "Crude or not manufactured",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1211.90.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1211.90.40.20",
+                        "Description": "Herbal teas and herbal infusions (single species, unmixed)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1211.90.40.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "1211.90.89",
+                    "Description": "Fresh or dried",
+                    "Subentries": [
+                      {
+                        "HS Code": "1211.90.89.40",
+                        "Description": "Basil",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1211.90.89.50",
+                        "Description": "Sage",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Substances having anesthetic, prophylactic or therapeutic properties and principally used as medicaments or as ingredients in medicaments:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1211.90.89.20",
+                            "Description": "Psyllium seed husks",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1211.90.89.31",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1211.90.89.80",
+                            "Description": "Herbal teas and herbal infusions (single species, unmixed)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1211.90.89.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1211.90.93.00",
+                    "Description": "Chilled or frozen",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

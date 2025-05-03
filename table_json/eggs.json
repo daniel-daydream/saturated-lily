@@ -1,0 +1,83 @@
+[
+  {
+    "HS Code": "04",
+    "Description": "Dairy produce; birds eggs; natural honey; edible products of animal origin, not elsewhere specified or included",
+    "Subentries": [
+      {
+        "HS Code": "0407",
+        "Description": "Birds' eggs, in shell, fresh, preserved or cooked:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Fertilized eggs for incubation:",
+            "Subentries": [
+              {
+                "HS Code": "0407.11.00.00",
+                "Description": "Of fowls of the species Gallus domesticus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0407.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0407.21.00",
+                "Description": "Of fowls of the species Gallus domesticus",
+                "Subentries": [
+                  {
+                    "HS Code": "0407.21.00.30",
+                    "Description": "Fresh table eggs (consumer grades)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0407.21.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0407.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0408",
+        "Description": "Birds' eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, molded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Egg yolks:",
+            "Subentries": [
+              {
+                "HS Code": "0408.11.00.00",
+                "Description": "Dried",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0408.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0408.91.00.00",
+                "Description": "Dried",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0408.99.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

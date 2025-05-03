@@ -1,0 +1,51 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8517",
+        "Description": "Telephone sets, including smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 8443, 8525, 8527 or 8528; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other apparatus for transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network):",
+            "Subentries": [
+              {
+                "HS Code": "8517.61.00.00",
+                "Description": "Base stations",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8517.62.00",
+                "Description": "Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus",
+                "Subentries": [
+                  {
+                    "HS Code": "8517.62.00.10",
+                    "Description": "Modems, of a kind used with data processing machines of heading 8471",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8517.62.00.20",
+                    "Description": "Switching and routing apparatus",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8517.62.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8517.69.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,566 @@
+[
+  {
+    "HS Code": "06",
+    "Description": "Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",
+    "Subentries": [
+      {
+        "HS Code": "0601",
+        "Description": "Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant, in growth or in flower; chicory plants and roots other than roots of heading 1212:",
+        "Subentries": [
+          {
+            "HS Code": "0601.10",
+            "Description": "Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant:",
+            "Subentries": [
+              {
+                "HS Code": "0601.10.15.00",
+                "Description": "Tulip bulbs",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0601.10.30.00",
+                "Description": "Hyacinth bulbs",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0601.10.45.00",
+                "Description": "Lily bulbs",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0601.10.60.00",
+                "Description": "Narcissus bulbs",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0601.10.75.00",
+                "Description": "Crocus corms",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0601.10.85.00",
+                "Description": "Lily of the valley pips",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0601.10.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0601.10.90.20",
+                    "Description": "Iris bulbs",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0601.10.90.40",
+                    "Description": "Gladiolus corms",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0601.10.90.60",
+                    "Description": "Begonia (tuberous) tubers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0601.10.90.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0601.20",
+            "Description": "Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower; chicory plants and roots:",
+            "Subentries": [
+              {
+                "HS Code": "0601.20.10.00",
+                "Description": "Hyacinth bulbs, without soil attached",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0601.20.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0602",
+        "Description": "Other live plants (including their roots), cuttings and slips; mushroom spawn:",
+        "Subentries": [
+          {
+            "HS Code": "0602.10.00.00",
+            "Description": "Unrooted cuttings and slips",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0602.20.00.00",
+            "Description": "Trees, shrubs and bushes, grafted or not, of kinds which bear edible fruit or nuts",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0602.30.00.00",
+            "Description": "Rhododendrons and azaleas, grafted or not",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0602.40.00.00",
+            "Description": "Roses, grafted or not",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0602.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Herbaceous perennials:",
+                "Subentries": [
+                  {
+                    "HS Code": "0602.90.20.00",
+                    "Description": "Orchid plants",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0602.90.30",
+                        "Description": "With soil attached to roots",
+                        "Subentries": [
+                          {
+                            "HS Code": "0602.90.30.10",
+                            "Description": "Chrysanthemums",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0602.90.30.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "0602.90.40.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0602.90.50.00",
+                    "Description": "Mushroom spawn",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0602.90.60",
+                        "Description": "With soil attached to roots",
+                        "Subentries": [
+                          {
+                            "HS Code": "0602.90.60.10",
+                            "Description": "Trees and shrubs",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0602.90.60.20",
+                            "Description": "Poinsettias",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0602.90.60.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "0602.90.90",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "0602.90.90.10",
+                            "Description": "Trees and shrubs",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0602.90.90.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0603",
+        "Description": "Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared:",
+        "Subentries": [
+          {
+            "HS Code": "0603.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Fresh:",
+            "Subentries": [
+              {
+                "HS Code": "0603.11.00",
+                "Description": "Roses",
+                "Subentries": [
+                  {
+                    "HS Code": "0603.11.00.30",
+                    "Description": "Spray",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.11.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0603.12",
+                "Description": "Carnations:",
+                "Subentries": [
+                  {
+                    "HS Code": "0603.12.30.00",
+                    "Description": "Miniature (spray) carnations",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.12.70.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0603.13.00",
+                "Description": "Orchids",
+                "Subentries": [
+                  {
+                    "HS Code": "0603.13.00.50",
+                    "Description": "Dendrobium",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.13.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0603.14.00",
+                "Description": "Chrysanthemums",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Chrysanthemums:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0603.14.00.10",
+                        "Description": "Pom Pom",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0603.14.00.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0603.15.00.00",
+                "Description": "Lilies (Lillium spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0603.19.01",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0603.19.01.05",
+                    "Description": "Anthuriums",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.07",
+                    "Description": "Alstroemeria",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.09",
+                    "Description": "Aster",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.11",
+                    "Description": "Bells of Ireland",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.13",
+                    "Description": "Bird of Paradise",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.14",
+                    "Description": "Calla lilies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.15",
+                    "Description": "Daffodils",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.16",
+                    "Description": "Delphinium",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.17",
+                    "Description": "Freesia",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.18",
+                    "Description": "Gerbera",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.19",
+                    "Description": "Gladiolus",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.20",
+                    "Description": "Gypsophila",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.25",
+                    "Description": "Hydrangea",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.27",
+                    "Description": "Hypericum",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.29",
+                    "Description": "Lisianthus",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.31",
+                    "Description": "Peony",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.35",
+                    "Description": "Ranunculus",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.37",
+                    "Description": "Scabiosa",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.40",
+                    "Description": "Snapdragons",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.41",
+                    "Description": "Statice",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.42",
+                    "Description": "Stock",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.43",
+                    "Description": "Sunflowers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.45",
+                    "Description": "Tulips",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.55",
+                    "Description": "Campanula",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0603.19.01.97",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0604",
+        "Description": "Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared:",
+        "Subentries": [
+          {
+            "HS Code": "0604.20.00",
+            "Description": "Fresh",
+            "Subentries": [
+              {
+                "HS Code": "0604.20.00.05",
+                "Description": "Aralia",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.11",
+                "Description": "Aspidistra",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.15",
+                "Description": "Eucalyptus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.72",
+                "Description": "Mosses and lichens",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.82",
+                "Description": "Pittosporum",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.84",
+                "Description": "Ruscus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.86",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Evergreen Christmas trees:",
+                "Subentries": [
+                  {
+                    "HS Code": "0604.20.00.20",
+                    "Description": "Douglas fir",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0604.20.00.40",
+                    "Description": "Fir except Douglas fir",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0604.20.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Ferns:",
+                "Subentries": [
+                  {
+                    "HS Code": "0604.20.00.65",
+                    "Description": "Leather leaf",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0604.20.00.70",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Palms:",
+                "Subentries": [
+                  {
+                    "HS Code": "0604.20.00.74",
+                    "Description": "Chamadorea",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0604.20.00.78",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0604.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "0604.90.10.00",
+                "Description": "Mosses and lichens",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0604.90.30.00",
+                    "Description": "Dried or bleached",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0604.90.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

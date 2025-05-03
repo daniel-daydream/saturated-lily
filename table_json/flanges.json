@@ -1,0 +1,210 @@
+[
+  {
+    "HS Code": "73",
+    "Description": "Articles of iron or steel",
+    "Subentries": [
+      {
+        "HS Code": "7307",
+        "Description": "Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or steel:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "7307.91",
+                "Description": "Flanges:",
+                "Subentries": [
+                  {
+                    "HS Code": "7307.91.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "With an inside diameter of 360 mm or more:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7307.91.50.10",
+                            "Description": "Of iron or nonalloy steel",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7307.91.50.30",
+                            "Description": "Of alloy steel (except stainless steel)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7307.91.50.50",
+                            "Description": "Of iron or nonalloy steel",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7307.91.50.70",
+                            "Description": "Of alloy steel (except stainless steel)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Not machined, not tooled and not otherwise processed after forging:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7307.91.10.00",
+                        "Description": "Of iron or nonalloy steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7307.91.30.00",
+                        "Description": "Of alloy steel (except stainless steel)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7307.92",
+                "Description": "Threaded elbows, bends and sleeves:",
+                "Subentries": [
+                  {
+                    "HS Code": "7307.92.30",
+                    "Description": "Sleeves (couplings)",
+                    "Subentries": [
+                      {
+                        "HS Code": "7307.92.30.10",
+                        "Description": "Of iron or nonalloy steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7307.92.30.30",
+                        "Description": "Of alloy steel (except stainless steel)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7307.92.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7307.93",
+                "Description": "Butt welding fittings:",
+                "Subentries": [
+                  {
+                    "HS Code": "7307.93.90",
+                    "Description": "With an inside diameter of 360 mm or more",
+                    "Subentries": [
+                      {
+                        "HS Code": "7307.93.90.60",
+                        "Description": "Of alloy steel (except stainless steel)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of iron or nonalloy steel:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7307.93.90.10",
+                            "Description": "Not machined, not tooled and not otherwise processed after forging",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7307.93.90.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "With an inside diameter of less than 360 mm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7307.93.30",
+                        "Description": "Of iron or nonalloy steel",
+                        "Subentries": [
+                          {
+                            "HS Code": "7307.93.30.10",
+                            "Description": "Not machined, not tooled and not otherwise processed after forging",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7307.93.30.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7307.93.60.00",
+                        "Description": "Of alloy steel (except stainless steel)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7307.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7307.99.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7307.99.50.60",
+                        "Description": "Of alloy steel (except stainless steel)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of iron or nonalloy steel:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7307.99.50.15",
+                            "Description": "Nipples",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7307.99.50.45",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Not machined, not tooled and not otherwise processed after forging:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7307.99.10.00",
+                        "Description": "Of iron or nonalloy steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7307.99.30.00",
+                        "Description": "Of alloy steel (except stainless steel)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

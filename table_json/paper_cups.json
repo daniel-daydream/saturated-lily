@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "48",
+    "Description": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+    "Subentries": [
+      {
+        "HS Code": "4823",
+        "Description": "Other paper, paperboard, cellulose wadding and webs of cellulose fibers, cut to size or shape; other articles of paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibers:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Trays, dishes, plates, cups and the like, of paper or paperboard:",
+            "Subentries": [
+              {
+                "HS Code": "4823.61.00",
+                "Description": "Of bamboo",
+                "Subentries": [
+                  {
+                    "HS Code": "4823.61.00.20",
+                    "Description": "Cups and round nested food containers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4823.61.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "4823.69.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "4823.69.00.20",
+                    "Description": "Cups and round nested food containers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4823.69.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

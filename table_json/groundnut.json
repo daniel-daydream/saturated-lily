@@ -1,0 +1,188 @@
+[
+  {
+    "HS Code": "12",
+    "Description": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruits; industrial or medicinal plants; straw and fodder",
+    "Subentries": [
+      {
+        "HS Code": "1202",
+        "Description": "Peanuts (ground-nuts), not roasted or otherwise cooked, whether or not shelled or broken:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1202.41",
+                "Description": "In shell:",
+                "Subentries": [
+                  {
+                    "HS Code": "1202.41.05",
+                    "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                    "Subentries": [
+                      {
+                        "HS Code": "1202.41.05.20",
+                        "Description": "For use as oil stock",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1202.41.05.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1202.41.40",
+                    "Description": "Described in additional U.S. note 2 to this chapter and entered pursuant to its provisions",
+                    "Subentries": [
+                      {
+                        "HS Code": "1202.41.40.20",
+                        "Description": "For use as oil stock",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1202.41.40.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1202.41.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1202.41.80.20",
+                        "Description": "For use as oil stock",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1202.41.80.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1202.42",
+                "Description": "Shelled, whether or not broken:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Dry-blanched:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1202.42.10",
+                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                        "Subentries": [
+                          {
+                            "HS Code": "1202.42.10.20",
+                            "Description": "For use as oil stock",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1202.42.10.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "1202.42.15",
+                        "Description": "Described in additional U.S. note 2 to this chapter and entered pursuant to its provisions",
+                        "Subentries": [
+                          {
+                            "HS Code": "1202.42.15.20",
+                            "Description": "For use as oil stock",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1202.42.15.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "1202.42.20",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "1202.42.20.20",
+                            "Description": "For use as oil stock",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1202.42.20.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1202.42.50",
+                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                        "Subentries": [
+                          {
+                            "HS Code": "1202.42.50.20",
+                            "Description": "For use as oil stock",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1202.42.50.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "1202.42.60",
+                        "Description": "Described in additional U.S. note 2 to this chapter and entered pursuant to its provisions",
+                        "Subentries": [
+                          {
+                            "HS Code": "1202.42.60.20",
+                            "Description": "For use as oil stock",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1202.42.60.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "1202.42.90",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "1202.42.90.20",
+                            "Description": "For use as oil stock",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1202.42.90.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

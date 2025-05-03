@@ -34,6 +34,11 @@
                         "Description": "Other",
                         "Subentries": [
                           {
+                            "HS Code": "1704.90.35.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
                             "HS Code": "",
                             "Description": "Put up for retail sale:",
                             "Subentries": [
@@ -48,11 +53,6 @@
                                 "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "1704.90.35.90",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
                       }
@@ -94,6 +94,11 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
+                            "HS Code": "1704.90.90.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
                             "HS Code": "",
                             "Description": "Articles containing over 65 percent by dry weight of sugar described in additional U.S. note 2 to chapter 17:",
                             "Subentries": [
@@ -124,11 +129,6 @@
                                 "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "1704.90.90.00",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
                       }

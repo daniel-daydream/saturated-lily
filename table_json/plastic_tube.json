@@ -1,0 +1,51 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3917",
+        "Description": "Tubes, pipes and hoses and fittings therefor (for example, joints, elbows, flanges), of plastics:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Tubes, pipes and hoses, rigid:",
+            "Subentries": [
+              {
+                "HS Code": "3917.21.00.00",
+                "Description": "Of polymers of ethylene",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3917.22.00.00",
+                "Description": "Of polymers of propylene",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3917.23.00.00",
+                "Description": "Of polymers of vinyl chloride",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3917.29.00",
+                "Description": "Of other plastics",
+                "Subentries": [
+                  {
+                    "HS Code": "3917.29.00.50",
+                    "Description": "Less than 200 mm in length",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3917.29.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

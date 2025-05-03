@@ -1,0 +1,233 @@
+[
+  {
+    "HS Code": "11",
+    "Description": "Products of the milling industry; malt; starches; inulin; wheat gluten",
+    "Subentries": [
+      {
+        "HS Code": "1101.00.00",
+        "Description": "Wheat or meslin flour",
+        "Subentries": [
+          {
+            "HS Code": "1101.00.00.10",
+            "Description": "Hard spring wheat",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1101.00.00.20",
+            "Description": "Durum wheat",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1101.00.00.30",
+            "Description": "White winter wheat",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1101.00.00.50",
+                "Description": "Certified organic",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1101.00.00.60",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1102",
+        "Description": "Cereal flours other than of wheat or meslin:",
+        "Subentries": [
+          {
+            "HS Code": "1102.20.00.00",
+            "Description": "Corn (maize) flour",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1102.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1102.90.20.00",
+                "Description": "Buckwheat flour",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1102.90.25.00",
+                "Description": "Rice flour",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1102.90.27.00",
+                "Description": "Rye flour",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "1102.90.30.00",
+                    "Description": "Mixtures",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1102.90.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1103",
+        "Description": "Cereal groats, meal and pellets:",
+        "Subentries": [
+          {
+            "HS Code": "1103.20.00",
+            "Description": "Pellets",
+            "Subentries": [
+              {
+                "HS Code": "1103.20.00.10",
+                "Description": "Of wheat",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1103.20.00.90",
+                "Description": "Of other cereals",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Groats and meal:",
+            "Subentries": [
+              {
+                "HS Code": "1103.11.00",
+                "Description": "Of wheat",
+                "Subentries": [
+                  {
+                    "HS Code": "1103.11.00.20",
+                    "Description": "Semolina",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1103.11.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1103.13.00",
+                "Description": "Of corn (maize)",
+                "Subentries": [
+                  {
+                    "HS Code": "1103.13.00.20",
+                    "Description": "Cornmeal",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1103.13.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1103.19",
+                "Description": "Of other cereals:",
+                "Subentries": [
+                  {
+                    "HS Code": "1103.19.12.00",
+                    "Description": "Of oats",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1103.19.14.00",
+                    "Description": "Of rice",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1103.19.90.00",
+                    "Description": "Of other cereals",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "1104",
+        "Description": "Cereal grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled), except rice of heading 1006; germ of cereals, whole, rolled, flaked or ground:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Rolled or flaked grains:",
+            "Subentries": [
+              {
+                "HS Code": "1104.12.00.00",
+                "Description": "Of oats",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1104.19",
+                "Description": "Of other cereals:",
+                "Subentries": [
+                  {
+                    "HS Code": "1104.19.10.00",
+                    "Description": "Of barley",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1104.19.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1104.22.00.00",
+                "Description": "Of oats",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1104.23.00.00",
+                "Description": "Of corn (maize)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1104.29",
+                "Description": "Of other cereals:",
+                "Subentries": [
+                  {
+                    "HS Code": "1104.29.10.00",
+                    "Description": "Of barley",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1104.29.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

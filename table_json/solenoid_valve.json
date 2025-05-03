@@ -1,0 +1,84 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8481",
+        "Description": "Taps, cocks, valves and similar appliances, for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8481.20.00",
+            "Description": "Valves for oleohydraulic or pneumatic transmissions",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Hydraulic valves:",
+                "Subentries": [
+                  {
+                    "HS Code": "8481.20.00.40",
+                    "Description": "Flow control type",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.20.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Directional control",
+                    "Subentries": [
+                      {
+                        "HS Code": "8481.20.00.10",
+                        "Description": "Manual type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8481.20.00.20",
+                        "Description": "Solenoid type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8481.20.00.30",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8481.20.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Directional control:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8481.20.00.60",
+                        "Description": "Solenoid type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8481.20.00.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

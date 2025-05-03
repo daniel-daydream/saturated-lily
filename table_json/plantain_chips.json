@@ -1,0 +1,126 @@
+[
+  {
+    "HS Code": "20",
+    "Description": "Preparations of vegetables, fruit, nuts or other parts of plants",
+    "Subentries": [
+      {
+        "HS Code": "2005",
+        "Description": "Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 2006:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other vegetables and mixtures of vegetables:",
+            "Subentries": [
+              {
+                "HS Code": "2005.91",
+                "Description": "Bamboo Shoots:",
+                "Subentries": [
+                  {
+                    "HS Code": "2005.91.60.00",
+                    "Description": "In airtight containers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2005.91.97.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "2005.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "2005.99.10.00",
+                    "Description": "Carrots in airtight containers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2005.99.20.00",
+                    "Description": "Onions",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2005.99.30.00",
+                    "Description": "Sauerkraut",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2005.99.41",
+                    "Description": "Water chestnuts, other than Chinese water chestnuts",
+                    "Subentries": [
+                      {
+                        "HS Code": "2005.99.41.10",
+                        "Description": "Sliced",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2005.99.41.20",
+                        "Description": "Whole",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "2005.99.80.00",
+                    "Description": "Artichokes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2005.99.85.00",
+                    "Description": "Chickpeas (garbanzos)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2005.99.97.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Fruits of the genus Capsicum (peppers) or of the genus Pimenta (e.g., allspice):",
+                    "Subentries": [
+                      {
+                        "HS Code": "2005.99.50",
+                        "Description": "Pimientos (Capsicum anuum)",
+                        "Subentries": [
+                          {
+                            "HS Code": "2005.99.50.20",
+                            "Description": "In containers each holding not more than 227 g",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2005.99.50.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "2005.99.55",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "2005.99.55.10",
+                            "Description": "Sweet bell-type peppers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2005.99.55.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

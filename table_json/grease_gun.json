@@ -1,0 +1,100 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8467",
+        "Description": "Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or nonelectric motor, and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Pneumatic:",
+            "Subentries": [
+              {
+                "HS Code": "8467.11",
+                "Description": "Rotary type (including combined rotary-percussion):",
+                "Subentries": [
+                  {
+                    "HS Code": "8467.11.10",
+                    "Description": "Suitable for metal working",
+                    "Subentries": [
+                      {
+                        "HS Code": "8467.11.10.40",
+                        "Description": "Grinders, polishers and sanders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8467.11.10.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8467.11.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8467.11.50.10",
+                        "Description": "Rock drills",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8467.11.50.20",
+                        "Description": "Drills, other than rock drills; screwdrivers and nut runners",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8467.11.50.40",
+                        "Description": "Wrenches, other than nut runners",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8467.11.50.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8467.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8467.19.10.00",
+                    "Description": "Suitable for metal working",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8467.19.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8467.19.50.30",
+                        "Description": "Pneumatic, hand-held force feed lubricating equipment",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8467.19.50.60",
+                        "Description": "Designed for use in construction or mining",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8467.19.50.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

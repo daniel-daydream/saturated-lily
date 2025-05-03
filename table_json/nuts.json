@@ -1,0 +1,103 @@
+[
+  {
+    "HS Code": "08",
+    "Description": "Edible fruit and nuts; peel of citrus fruit or melons",
+    "Subentries": [
+      {
+        "HS Code": "0801",
+        "Description": "Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Brazil nuts:",
+            "Subentries": [
+              {
+                "HS Code": "0801.21.00.00",
+                "Description": "In shell",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0801.22.00.00",
+                "Description": "Shelled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0801.31.00.00",
+                "Description": "In shell",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0801.32.00.00",
+                "Description": "Shelled",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0802",
+        "Description": "Other nuts, fresh or dried, whether or not shelled or peeled:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Almonds:",
+            "Subentries": [
+              {
+                "HS Code": "0802.11.00.00",
+                "Description": "In shell",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0802.12.00",
+                "Description": "Shelled",
+                "Subentries": [
+                  {
+                    "HS Code": "0802.12.00.05",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0802.12.00.15",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0802.31.00.00",
+                "Description": "In shell",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0802.32.00.00",
+                "Description": "Shelled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0802.51.00.00",
+                "Description": "In shell",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0802.52.00.00",
+                "Description": "Shelled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0802.61.00.00",
+                "Description": "In shell",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0802.62.00.00",
+                "Description": "Shelled",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

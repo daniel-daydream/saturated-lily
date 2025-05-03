@@ -1,0 +1,89 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8413",
+        "Description": "Pumps for liquids, whether or not fitted with a measuring device; liquid elevators; part thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8413.70",
+            "Description": "Other centrifugal pumps:",
+            "Subentries": [
+              {
+                "HS Code": "8413.70.10.00",
+                "Description": "Stock pumps imported for use with machines for making cellulosic pulp, paper or paperboard",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8413.70.20",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8413.70.20.04",
+                    "Description": "Submersible pumps",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8413.70.20.30",
+                        "Description": "Single-stage, double-suction",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8413.70.20.40",
+                        "Description": "Multi-stage, single- or double-suction",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8413.70.20.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Single-stage, single-suction, close-coupled:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8413.70.20.05",
+                            "Description": "With discharge outlet under 5.08 cm in diameter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8413.70.20.15",
+                            "Description": "With discharge outlet 5.08 cm or over in diameter",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Single-stage, single-suction, frame- mounted:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8413.70.20.22",
+                            "Description": "With discharge outlet under 7.6 cm in diameter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8413.70.20.25",
+                            "Description": "With discharge outlet 7.6 cm or over in diameter",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

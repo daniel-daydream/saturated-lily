@@ -1,0 +1,165 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8413",
+        "Description": "Pumps for liquids, whether or not fitted with a measuring device; liquid elevators; part thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Parts:",
+            "Subentries": [
+              {
+                "HS Code": "8413.91",
+                "Description": "Of pumps:",
+                "Subentries": [
+                  {
+                    "HS Code": "8413.91.10.00",
+                    "Description": "Of fuel-injection pumps for compression-ignition engines",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8413.91.20.00",
+                    "Description": "Of stock pumps imported for use with machines for making cellulosic pulp, paper or paperboard",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8413.91.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8413.91.90.10",
+                        "Description": "Of subheading 8413.30.90",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8413.91.90.96",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of hydraulic fluid power pumps:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8413.91.90.55",
+                            "Description": "Fluid end blocks",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8413.91.90.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of subheading 8413.50.00:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8413.91.90.65",
+                            "Description": "Sucker rods of a kind described in statistical note 2 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8413.91.90.85",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8413.92.00.00",
+                "Description": "Of liquid elevators",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8483",
+        "Description": "Transmission shafts (including camshafts and crankshafts) and cranks; bearing housings, housed bearings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints); parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8483.40",
+            "Description": "Gears and gearing, other than toothed wheels, chain sprockets and other transmission elements entered separately; ball or roller screws; gear boxes and other speed changers, including torque converters:",
+            "Subentries": [
+              {
+                "HS Code": "8483.40.10.00",
+                "Description": "Torque converters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8483.40.80.00",
+                "Description": "Ball or roller screws",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8483.40.90.00",
+                "Description": "Gears and gearing, other than toothed wheels, chain sprockets and other transmission elements entered separately",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Gear boxes and other speed changers:",
+                "Subentries": [
+                  {
+                    "HS Code": "8483.40.70.00",
+                    "Description": "Other speed changers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Fixed ratio speed changers, multiple and variable ratio speed changers each ratio of which is selected by manual manipulation:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8483.40.30",
+                        "Description": "Imported for use with machines for making cellulosic pulp, paper or paperboard",
+                        "Subentries": [
+                          {
+                            "HS Code": "8483.40.30.40",
+                            "Description": "Fixed ratio speed changers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8483.40.30.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8483.40.50",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8483.40.50.10",
+                            "Description": "Fixed ratio speed changers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8483.40.50.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

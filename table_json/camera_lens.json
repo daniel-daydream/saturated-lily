@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "90",
+    "Description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9002",
+        "Description": "Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts of or fittings for instruments or apparatus, other than such elements of glass not optically worked; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Objective lenses and parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "9002.11",
+                "Description": "For cameras, projectors or photographic enlargers or reducers:",
+                "Subentries": [
+                  {
+                    "HS Code": "9002.11.40.00",
+                    "Description": "Projection",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9002.11.60.00",
+                        "Description": "Mounted lenses suitable for use in, and entered separately from, closed-circuit television cameras, with or without attached electrical or non-electrical closed-circuit television camera connectors, and with or without attached motors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9002.11.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "9002.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

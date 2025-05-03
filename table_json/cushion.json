@@ -1,0 +1,128 @@
+[
+  {
+    "HS Code": "94",
+    "Description": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated sign illuminated nameplates and the like; prefabricated buildings",
+    "Subentries": [
+      {
+        "HS Code": "9404",
+        "Description": "Mattress supports; articles of bedding and similar furnishing (for example, mattresses, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs or stuffed or internally fitted with any material or of cellular rubber or plastics, whether or not covered:",
+        "Subentries": [
+          {
+            "HS Code": "9404.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Pillows, cushions and similar furnishings:",
+                "Subentries": [
+                  {
+                    "HS Code": "9404.90.10",
+                    "Description": "Of cotton (369)",
+                    "Subentries": [
+                      {
+                        "HS Code": "9404.90.10.90",
+                        "Description": "Other (369)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Bed pillows (with outer covering of cotton), of a kind described in statistical note 5 to this chapter:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9404.90.10.30",
+                            "Description": "Foam fill (369)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9404.90.10.60",
+                            "Description": "Other fill (369)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9404.90.20",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9404.90.20.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Bed pillows, of a kind described in statistical note 5 to this chapter:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9404.90.20.30",
+                            "Description": "Foam fill",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9404.90.20.60",
+                            "Description": "Other fill",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9404.90.81.00",
+                    "Description": "Of cotton, not containing any embroidery, lace, braid, edging, trimming, piping exceeding 6.35 mm or applique work (369)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9404.90.96",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9404.90.96.05",
+                        "Description": "With outer shell of cotton (369)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9404.90.96.22",
+                        "Description": "With outer shell of man-made fibers (666)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9404.90.96.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "With outer shell of other textile materials:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9404.90.96.23",
+                            "Description": "Containing 85 percent or more by weight of silk or silk waste",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9404.90.96.36",
+                            "Description": "Other (899)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

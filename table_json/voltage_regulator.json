@@ -1,0 +1,138 @@
+[
+  {
+    "HS Code": "90",
+    "Description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9032",
+        "Description": "Automatic regulating or controlling instruments and apparatus; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other instruments and apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "9032.81.00",
+                "Description": "Hydraulic and pneumatic",
+                "Subentries": [
+                  {
+                    "HS Code": "9032.81.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Industrial process control instruments and apparatus:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9032.81.00.20",
+                        "Description": "Hydraulic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9032.81.00.60",
+                        "Description": "Pneumatic",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "9032.89",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9032.89.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9032.89.60.85",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Control instruments for air conditioning, refrigeration or heating systems:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9032.89.60.15",
+                            "Description": "Complete systems",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9032.89.60.25",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Process control instruments and apparatus:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9032.89.60.30",
+                            "Description": "Complete systems",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "9032.89.60.40",
+                                "Description": "Temperature control instruments",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9032.89.60.50",
+                                "Description": "Pressure and draft control instruments",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9032.89.60.60",
+                                "Description": "Flow and liquid level control instruments",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9032.89.60.70",
+                                "Description": "Humidity control instruments",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "9032.89.60.75",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Automatic voltage and voltage-current regulators:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9032.89.20.00",
+                        "Description": "Designed for use in a 6, 12 or 24 V system",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9032.89.40.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

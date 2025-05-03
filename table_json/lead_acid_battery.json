@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8507",
+        "Description": "Electric storage batteries, including separators therefor, whether or not rectangular (including square); parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8507.10.00",
+            "Description": "Lead-acid storage batteries, of a kind used for starting piston engines",
+            "Subentries": [
+              {
+                "HS Code": "8507.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "12 V batteries:",
+                "Subentries": [
+                  {
+                    "HS Code": "8507.10.00.30",
+                    "Description": "Not exceeding 6 kg in weight",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8507.10.00.60",
+                    "Description": "Exceeding 6 kg in weight",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

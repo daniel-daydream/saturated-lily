@@ -1,0 +1,46 @@
+[
+  {
+    "HS Code": "82",
+    "Description": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",
+    "Subentries": [
+      {
+        "HS Code": "8214",
+        "Description": "Other articles of cutlery (for example, hair clippers, butchers' or kitchen cleavers, chopping or mincing knives, paper knives); manicure or pedicure sets and instruments (including nail files); base metal parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8214.10.00.00",
+            "Description": "Paper knives, letter openers, erasing knives, pencil sharpeners (nonmechanical) and blades and other parts thereof",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8214.20",
+            "Description": "Manicure or pedicure sets and instruments (including nail files), and parts thereof:",
+            "Subentries": [
+              {
+                "HS Code": "8214.20.30.00",
+                "Description": "Cuticle or cornknives, cuticle pushers, nail files, nailcleaners, nail nippers and clippers, all the foregoing used for manicure or pedicure purposes, and parts thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Manicure and pedicure sets, and combinations thereof:",
+                "Subentries": [
+                  {
+                    "HS Code": "8214.20.60.00",
+                    "Description": "In leather containers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8214.20.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

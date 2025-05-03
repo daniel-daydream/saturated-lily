@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "08",
+    "Description": "Edible fruit and nuts; peel of citrus fruit or melons",
+    "Subentries": [
+      {
+        "HS Code": "0804",
+        "Description": "Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried:",
+        "Subentries": [
+          {
+            "HS Code": "0804.30",
+            "Description": "Pineapples:",
+            "Subentries": [
+              {
+                "HS Code": "0804.30.60.00",
+                "Description": "Reduced in size",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Not reduced in size:",
+                "Subentries": [
+                  {
+                    "HS Code": "0804.30.20.00",
+                    "Description": "In bulk",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0804.30.40",
+                    "Description": "In crates or other packages",
+                    "Subentries": [
+                      {
+                        "HS Code": "0804.30.40.10",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0804.30.40.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "HS Code": "40",
+    "Description": "Rubber and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "4015",
+        "Description": "Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanized rubber other than hard rubber:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Gloves, mittens and mitts:",
+            "Subentries": [
+              {
+                "HS Code": "4015.12",
+                "Description": "Of a kind used for medical, surgical, dental or veterinary purposes:",
+                "Subentries": [
+                  {
+                    "HS Code": "4015.12.10",
+                    "Description": "Of a kind used for medical or surgical purposes",
+                    "Subentries": [
+                      {
+                        "HS Code": "4015.12.10.10",
+                        "Description": "Medical gloves, mittens and mitts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4015.12.10.20",
+                        "Description": "Surgical gloves, mittens and mitts",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "4015.12.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "4015.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "4015.19.11",
+                    "Description": "Seamless",
+                    "Subentries": [
+                      {
+                        "HS Code": "4015.19.11.10",
+                        "Description": "Disposable",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4015.19.11.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "4015.19.51.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3924",
+        "Description": "Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics:",
+        "Subentries": [
+          {
+            "HS Code": "3924.10",
+            "Description": "Tableware and kitchenware:",
+            "Subentries": [
+              {
+                "HS Code": "3924.10.10.00",
+                "Description": "Salt, pepper, mustard and ketchup dispensers and similar dispensers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3924.10.20.00",
+                "Description": "Plates, cups, saucers, soup bowls, cereal bowls, sugar bowls, creamers, gravy boats, serving dishes and platters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3924.10.30.00",
+                "Description": "Trays",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3924.10.40.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "40",
+    "Description": "Rubber and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "4016",
+        "Description": "Other articles of vulcanized rubber other than hard rubber:",
+        "Subentries": [
+          {
+            "HS Code": "4016.10.00.00",
+            "Description": "Of cellular rubber",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

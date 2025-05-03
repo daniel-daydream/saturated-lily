@@ -1,0 +1,56 @@
+[
+  {
+    "HS Code": "57",
+    "Description": "Carpets and other textile floor coverings",
+    "Subentries": [
+      {
+        "HS Code": "5705.00",
+        "Description": "Other carpets and other textile floor coverings, whether or not made up:",
+        "Subentries": [
+          {
+            "HS Code": "5705.00.10.00",
+            "Description": "Of coir",
+            "Subentries": []
+          },
+          {
+            "HS Code": "5705.00.20",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "5705.00.20.20",
+                "Description": "Of cotton (369)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5705.00.20.30",
+                "Description": "Of man-made fibers (665)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5705.00.20.90",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Of wool or fine animal hair:",
+                "Subentries": [
+                  {
+                    "HS Code": "5705.00.20.05",
+                    "Description": "Needlepoint (465)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5705.00.20.15",
+                    "Description": "Other (465)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

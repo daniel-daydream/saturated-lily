@@ -1,0 +1,46 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8447",
+        "Description": "Knitting machines, stitch-bonding machines and machines for making gimped yarn, tulle, lace, embroidery, trimmings, braid or net and machines for tufting:",
+        "Subentries": [
+          {
+            "HS Code": "8447.20",
+            "Description": "Flat knitting machines; stitch-bonding machines:",
+            "Subentries": [
+              {
+                "HS Code": "8447.20.40.00",
+                "Description": "Warp knitting machines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8447.20.60.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "V-bed flat knitting machines:",
+                "Subentries": [
+                  {
+                    "HS Code": "8447.20.20.00",
+                    "Description": "Power driven flat knitting machines over 50.8 cm in width",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8447.20.30.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

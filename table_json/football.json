@@ -1,0 +1,111 @@
+[
+  {
+    "HS Code": "95",
+    "Description": "Toys, games and sports requisites; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9506",
+        "Description": "Articles and equipment for general physical exercise, gymnastics, athletics, other sports (including table-tennis) or outdoor games, not specified or included elsewhere in this chapter; swimming pools and wading pools; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Balls, other than golf balls and table-tennis balls:",
+            "Subentries": [
+              {
+                "HS Code": "9506.61.00.00",
+                "Description": "Lawn-tennis balls",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9506.62",
+                "Description": "Inflatable balls:",
+                "Subentries": [
+                  {
+                    "HS Code": "9506.62.40",
+                    "Description": "Footballs and soccer balls",
+                    "Subentries": [
+                      {
+                        "HS Code": "9506.62.40.40",
+                        "Description": "Footballs",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9506.62.40.80",
+                        "Description": "Soccer balls",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9506.62.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9506.62.80.20",
+                        "Description": "Basketballs",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9506.62.80.40",
+                        "Description": "Volleyballs",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9506.62.80.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "9506.69",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9506.69.20",
+                    "Description": "Baseballs and softballs",
+                    "Subentries": [
+                      {
+                        "HS Code": "9506.69.20.40",
+                        "Description": "Baseballs",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9506.69.20.80",
+                        "Description": "Softballs",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9506.69.40.00",
+                    "Description": "Noninflatable hollow balls not over 19 cm in diameter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9506.69.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9506.69.60.10",
+                        "Description": "Polo balls",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9506.69.60.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

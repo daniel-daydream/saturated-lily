@@ -1,0 +1,79 @@
+[
+  {
+    "HS Code": "71",
+    "Description": "Natural or cultured pearls, precious or semi-precious stones,precious metals, metals clad with precious metal and articles thereof; imitation jewelry; coin",
+    "Subentries": [
+      {
+        "HS Code": "7117",
+        "Description": "Imitation jewelry:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of base metal, whether or not plated with precious metal:",
+            "Subentries": [
+              {
+                "HS Code": "7117.11.00.00",
+                "Description": "Cuff links and studs",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7117.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7117.19.30.00",
+                    "Description": "Religious articles of a purely devotional charac- ter designed to be worn on apparel or carried on or about or attached to the person",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Rope, curb, cable, chain and similar articles produced in continuous lengths, all the foregoing, whether or not cut to specific lengths and whether or not set with imitation pearls or imitation gemstones, suitable for use in the manufacture of articles provided for in this heading:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7117.19.20.00",
+                        "Description": "Valued over 33 cents per meter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Valued not over 33 cents per meter:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7117.19.05.00",
+                            "Description": "Toy jewelry valued not over 8 cents per piece",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7117.19.15.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7117.19.60.00",
+                        "Description": "Toy jewelry valued not over 8 cents per piece",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7117.19.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

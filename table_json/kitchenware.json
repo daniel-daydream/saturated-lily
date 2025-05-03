@@ -47,9 +47,19 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
+                    "HS Code": "8215.99.50.00",
+                    "Description": "Other (including parts)",
+                    "Subentries": []
+                  },
+                  {
                     "HS Code": "",
                     "Description": "Forks:",
                     "Subentries": [
+                      {
+                        "HS Code": "8215.99.20.00",
+                        "Description": "With rubber or plastic handles",
+                        "Subentries": []
+                      },
                       {
                         "HS Code": "",
                         "Description": "With stainless steel handles:",
@@ -89,11 +99,6 @@
                         ]
                       },
                       {
-                        "HS Code": "8215.99.20.00",
-                        "Description": "With rubber or plastic handles",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "",
                         "Description": "Other:",
                         "Subentries": [
@@ -127,22 +132,6 @@
                     "Description": "Spoons and ladles:",
                     "Subentries": [
                       {
-                        "HS Code": "",
-                        "Description": "With stainless steel handles:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8215.99.30.00",
-                            "Description": "Spoons valued under 25\u00a2 each",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8215.99.35.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
                         "HS Code": "8215.99.40",
                         "Description": "With base metal (except stainless steel) or nonmetal handles",
                         "Subentries": [
@@ -162,13 +151,24 @@
                         "HS Code": "8215.99.45.00",
                         "Description": "Other",
                         "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "With stainless steel handles:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8215.99.30.00",
+                            "Description": "Spoons valued under 25\u00a2 each",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8215.99.35.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "8215.99.50.00",
-                    "Description": "Other (including parts)",
-                    "Subentries": []
                   }
                 ]
               }

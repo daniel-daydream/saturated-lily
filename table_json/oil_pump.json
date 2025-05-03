@@ -1,0 +1,46 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8413",
+        "Description": "Pumps for liquids, whether or not fitted with a measuring device; liquid elevators; part thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8413.30",
+            "Description": "Fuel, lubricating or cooling medium pumps for internal combustion piston engines:",
+            "Subentries": [
+              {
+                "HS Code": "8413.30.10.00",
+                "Description": "Fuel-injection pumps for compression-ignition engines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8413.30.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8413.30.90.30",
+                    "Description": "Fuel pumps",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8413.30.90.60",
+                    "Description": "Lubricating pumps",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8413.30.90.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

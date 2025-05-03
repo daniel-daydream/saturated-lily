@@ -1,0 +1,104 @@
+[
+  {
+    "HS Code": "07",
+    "Description": "Edible vegetables and certain roots and tubers",
+    "Subentries": [
+      {
+        "HS Code": "0701",
+        "Description": "Potatoes, fresh or chilled:",
+        "Subentries": [
+          {
+            "HS Code": "0701.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "0701.90.10",
+                "Description": "Yellow (Solano) potatoes",
+                "Subentries": [
+                  {
+                    "HS Code": "0701.90.10.10",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0701.90.10.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0701.90.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "In immediate containers of not over 1200 kg net weight:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0701.90.50.05",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0701.90.50.17",
+                        "Description": "Russet or netted gem varieties",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0701.90.50.21",
+                        "Description": "Red skin varieties",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0701.90.50.37",
+                        "Description": "White varieties",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0701.90.50.41",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0701.90.50.43",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0701.90.50.46",
+                        "Description": "Russet or netted gem varieties",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0701.90.50.56",
+                        "Description": "Red skin varieties",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0701.90.50.66",
+                        "Description": "White varieties",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0701.90.50.76",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

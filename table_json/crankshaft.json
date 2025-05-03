@@ -1,0 +1,74 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8483",
+        "Description": "Transmission shafts (including camshafts and crankshafts) and cranks; bearing housings, housed bearings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints); parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8483.10",
+            "Description": "Transmission shafts (including camshafts and crankshafts) and cranks:",
+            "Subentries": [
+              {
+                "HS Code": "8483.10.50.00",
+                "Description": "Other transmission shafts and cranks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Camshafts and crankshafts:",
+                "Subentries": [
+                  {
+                    "HS Code": "8483.10.10",
+                    "Description": "Designed for use solely or principally with spark-ignition internal combustion piston engines or rotary engines",
+                    "Subentries": [
+                      {
+                        "HS Code": "8483.10.10.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "For vehicles of chapter 87:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8483.10.10.10",
+                            "Description": "For motorcycles",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8483.10.10.30",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8483.10.30",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8483.10.30.10",
+                        "Description": "For vehicles of chapter 87",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8483.10.30.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "92",
+    "Description": "Musical instruments; parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "9202",
+        "Description": "Other string musical instruments (for example, guitars, violins, harps):",
+        "Subentries": [
+          {
+            "HS Code": "9202.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9202.90.60.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Guitars:",
+                "Subentries": [
+                  {
+                    "HS Code": "9202.90.20.00",
+                    "Description": "Valued not over $100 each, excluding the value of the case",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9202.90.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

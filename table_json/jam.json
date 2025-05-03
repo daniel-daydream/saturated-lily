@@ -1,0 +1,160 @@
+[
+  {
+    "HS Code": "20",
+    "Description": "Preparations of vegetables, fruit, nuts or other parts of plants",
+    "Subentries": [
+      {
+        "HS Code": "2007",
+        "Description": "Jams, fruit jellies, marmalades, fruit or nut pure\u00e9 and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "2007.91",
+                "Description": "Citrus fruit:",
+                "Subentries": [
+                  {
+                    "HS Code": "2007.91.10.00",
+                    "Description": "Pastes and pure\u00e9s",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2007.91.40.00",
+                    "Description": "Orange marmalade",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2007.91.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "2007.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Fruit jellies:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2007.99.05.00",
+                        "Description": "Lingonberry and raspberry",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2007.99.10.00",
+                        "Description": "Strawberry",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2007.99.15.00",
+                        "Description": "Currant and other berry",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2007.99.20.00",
+                        "Description": "Apricot",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2007.99.25.00",
+                        "Description": "Cherry",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2007.99.30.00",
+                        "Description": "Guava",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2007.99.35.00",
+                        "Description": "Peach",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2007.99.40.00",
+                        "Description": "Pineapple",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2007.99.45.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2007.99.48.00",
+                        "Description": "Apple, quince and pear",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2007.99.50",
+                        "Description": "Guava and mango",
+                        "Subentries": [
+                          {
+                            "HS Code": "2007.99.50.10",
+                            "Description": "Guava",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2007.99.50.20",
+                            "Description": "Mango",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "2007.99.55.00",
+                        "Description": "Papaya",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2007.99.60.00",
+                        "Description": "Strawberry",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2007.99.65",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "2007.99.65.10",
+                            "Description": "Red Raspberry",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2007.99.65.25",
+                            "Description": "Peach",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2007.99.65.35",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "2007.99.70.00",
+                        "Description": "Currant and berry",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2007.99.75.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

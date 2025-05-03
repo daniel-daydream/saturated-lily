@@ -1,0 +1,57 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8467",
+        "Description": "Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or nonelectric motor, and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other tools:",
+            "Subentries": [
+              {
+                "HS Code": "8467.81.00.00",
+                "Description": "Chain saws",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8467.89",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8467.89.10.00",
+                    "Description": "Suitable for metal working",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8467.89.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8467.89.50.30",
+                        "Description": "Gasoline powered grass and weed trimmers and brushcutters",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8467.89.50.60",
+                        "Description": "Other, designed for use in agriculture or horticulture",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8467.89.50.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "HS Code": "09",
+    "Description": "Coffee, tea, mat\u00e9 and spices",
+    "Subentries": [
+      {
+        "HS Code": "0910",
+        "Description": "Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices:",
+        "Subentries": [
+          {
+            "HS Code": "0910.20.00.00",
+            "Description": "Saffron",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

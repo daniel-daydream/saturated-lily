@@ -1,0 +1,73 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8421",
+        "Description": "Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus, for liquids or gases; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Filtering or purifying machinery and apparatus for liquids:",
+            "Subentries": [
+              {
+                "HS Code": "8421.21.00.00",
+                "Description": "For filtering or purifying water",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8421.22.00.00",
+                "Description": "For filtering or purifying beverages other than water",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8421.23.00.00",
+                "Description": "Oil or fuel filters for internal combustion engines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8421.29.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8421.29.00.05",
+                    "Description": "Refrigerant recovery and recycling units",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8421.29.00.15",
+                        "Description": "Oil-separation equipment",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8421.29.00.40",
+                            "Description": "Hydraulic fluid power filters, rated at 1,000 kPa or greater",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8421.29.00.65",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

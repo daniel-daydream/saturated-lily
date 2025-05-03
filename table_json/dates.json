@@ -1,0 +1,90 @@
+[
+  {
+    "HS Code": "08",
+    "Description": "Edible fruit and nuts; peel of citrus fruit or melons",
+    "Subentries": [
+      {
+        "HS Code": "0804",
+        "Description": "Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried:",
+        "Subentries": [
+          {
+            "HS Code": "0804.10",
+            "Description": "Dates:",
+            "Subentries": [
+              {
+                "HS Code": "0804.10.80.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Whole, with or without pits:",
+                "Subentries": [
+                  {
+                    "HS Code": "0804.10.20",
+                    "Description": "Packed in units weighing (with the immediate container, if any) not more than 4.6 kg",
+                    "Subentries": [
+                      {
+                        "HS Code": "0804.10.20.10",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0804.10.20.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0804.10.40.00",
+                        "Description": "With pits",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0804.10.60.00",
+                        "Description": "With pits removed",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0804.20",
+            "Description": "Figs:",
+            "Subentries": [
+              {
+                "HS Code": "0804.20.80.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Whole:",
+                "Subentries": [
+                  {
+                    "HS Code": "0804.20.40.00",
+                    "Description": "In immediate containers weighing with their contents over 0.5 kg each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0804.20.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

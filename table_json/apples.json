@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "08",
+    "Description": "Edible fruit and nuts; peel of citrus fruit or melons",
+    "Subentries": [
+      {
+        "HS Code": "0808",
+        "Description": "Apples, pears and quinces, fresh:",
+        "Subentries": [
+          {
+            "HS Code": "0808.10.00",
+            "Description": "Apples",
+            "Subentries": [
+              {
+                "HS Code": "0808.10.00.30",
+                "Description": "Valued not over 22\u00a2 per kg",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Valued over 22\u00a2 per kg:",
+                "Subentries": [
+                  {
+                    "HS Code": "0808.10.00.45",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0808.10.00.65",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

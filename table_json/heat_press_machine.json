@@ -1,0 +1,82 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8443",
+        "Description": "Printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442; other printers, copying machines and facsimile machines, whether or not combined; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442:",
+            "Subentries": [
+              {
+                "HS Code": "8443.11",
+                "Description": "Offset printing machinery, reel-fed:",
+                "Subentries": [
+                  {
+                    "HS Code": "8443.11.10.00",
+                    "Description": "Double-width newspaper printing presses",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8443.11.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8443.12.00.00",
+                "Description": "Offset printing machinery, sheet-fed, office type (using sheets with one side not exceeding 22 cm and the other side not exceeding 36 cm in the unfolded state)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8443.13.00.00",
+                "Description": "Other offset printing machinery",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8443.14.00.00",
+                "Description": "Letterpress printing machinery, reel fed, excluding flexographic printing",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8443.15.00.00",
+                "Description": "Letterpress printing machinery, other than reel fed, excluding flexographic printing",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8443.16.00.00",
+                "Description": "Flexographic printing machinery",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8443.17.00.00",
+                "Description": "Gravure printing machinery",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8443.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8443.19.20.00",
+                    "Description": "Textile printing machinery",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8443.19.30.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

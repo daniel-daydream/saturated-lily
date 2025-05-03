@@ -1,0 +1,422 @@
+[
+  {
+    "HS Code": "12",
+    "Description": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruits; industrial or medicinal plants; straw and fodder",
+    "Subentries": [
+      {
+        "HS Code": "1209",
+        "Description": "Seeds, fruits and spores of a kind used for sowing:",
+        "Subentries": [
+          {
+            "HS Code": "1209.10.00.00",
+            "Description": "Sugar beet seeds",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1209.30.00",
+            "Description": "Seeds of herbaceous plants cultivated principally for their flowers",
+            "Subentries": [
+              {
+                "HS Code": "1209.30.00.10",
+                "Description": "Petunia",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1209.30.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Seeds of forage plants:",
+            "Subentries": [
+              {
+                "HS Code": "1209.21.00",
+                "Description": "Alfalfa (lucerne) seeds",
+                "Subentries": [
+                  {
+                    "HS Code": "1209.21.00.20",
+                    "Description": "Certified",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1209.21.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1209.22",
+                "Description": "Clover (Trifolium spp.) seeds:",
+                "Subentries": [
+                  {
+                    "HS Code": "1209.22.20.00",
+                    "Description": "White and ladino",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1209.22.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1209.22.40.20",
+                        "Description": "Alsike",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.22.40.30",
+                        "Description": "Crimson",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.22.40.60",
+                        "Description": "Sweet",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.22.40.95",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Red:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1209.22.40.41",
+                            "Description": "Double cut",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1209.22.40.49",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1209.23.00",
+                "Description": "Fescue seeds",
+                "Subentries": [
+                  {
+                    "HS Code": "1209.23.00.20",
+                    "Description": "Tall",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1209.23.00.60",
+                    "Description": "Meadow",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1209.23.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Creeping red:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1209.23.00.31",
+                        "Description": "Certified",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.23.00.39",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1209.24.00.00",
+                "Description": "Kentucky blue grass (Poa pratensis L.) seeds",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1209.25.00",
+                "Description": "Rye grass (Lolium multiflorium Lam., Lolium perenne L.) seeds",
+                "Subentries": [
+                  {
+                    "HS Code": "1209.25.00.20",
+                    "Description": "Annual",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1209.25.00.40",
+                    "Description": "Perennial",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1209.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "1209.29.10.00",
+                    "Description": "Beet",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1209.29.91",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1209.29.91.20",
+                        "Description": "Bent grass (genus Agrostis)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.29.91.30",
+                        "Description": "Birdsfoot trefoil",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.29.91.40",
+                        "Description": "Orchard grass",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.29.91.60",
+                        "Description": "Sudan grass",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.29.91.76",
+                        "Description": "Wild rye",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.29.91.79",
+                        "Description": "Other grass",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.29.91.96",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Wheatgrass:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1209.29.91.25",
+                            "Description": "Husked",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1209.29.91.26",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1209.29.91.36",
+                            "Description": "Meadow",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1209.29.91.37",
+                            "Description": "Smooth",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1209.29.91.38",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1209.29.91.71",
+                            "Description": "Crested",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1209.29.91.74",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1209.91",
+                "Description": "Vegetable seeds:",
+                "Subentries": [
+                  {
+                    "HS Code": "1209.91.10.00",
+                    "Description": "Cauliflower",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1209.91.20.00",
+                    "Description": "Celery",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1209.91.40.00",
+                    "Description": "Onion",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1209.91.50.00",
+                    "Description": "Parsley",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1209.91.60",
+                    "Description": "Pepper",
+                    "Subentries": [
+                      {
+                        "HS Code": "1209.91.60.10",
+                        "Description": "Sweet pepper",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.91.60.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1209.91.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1209.91.80.05",
+                        "Description": "Broccoli",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.91.80.10",
+                        "Description": "Carrot",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.91.80.20",
+                        "Description": "Radish",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.91.80.30",
+                        "Description": "Spinach",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.91.80.40",
+                        "Description": "Cucumber",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.91.80.45",
+                        "Description": "Kale",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.91.80.47",
+                        "Description": "Kohlrabi",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.91.80.50",
+                        "Description": "Lettuce",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.91.80.54",
+                        "Description": "Parsnip",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.91.80.55",
+                        "Description": "Pumpkin",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.91.80.60",
+                        "Description": "Squash",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.91.80.70",
+                        "Description": "Tomato",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.91.80.74",
+                        "Description": "Turnip",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.91.80.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Cabbage:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1209.91.80.08",
+                            "Description": "Green cabbage",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1209.91.80.09",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1209.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "1209.99.20.00",
+                    "Description": "Tree and shrub",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1209.99.41",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1209.99.41.70",
+                        "Description": "Tobacco",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.99.41.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

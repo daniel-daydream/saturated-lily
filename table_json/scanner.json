@@ -1,0 +1,217 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8443",
+        "Description": "Printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442; other printers, copying machines and facsimile machines, whether or not combined; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other printers, copying machines and facsimile machines, whether or not combined:",
+            "Subentries": [
+              {
+                "HS Code": "8443.31.00.00",
+                "Description": "Machines which perform two or more of the functions of printing, copying or facsimile transmission, capable of connecting to an automatic data processing machine or to a network",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8443.32",
+                "Description": "Other, capable of connecting to an automatic data processing machine or to a network:",
+                "Subentries": [
+                  {
+                    "HS Code": "8443.32.10",
+                    "Description": "Printer units",
+                    "Subentries": [
+                      {
+                        "HS Code": "8443.32.10.30",
+                        "Description": "Light bar electronic type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8443.32.10.40",
+                        "Description": "Ink jet",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8443.32.10.50",
+                        "Description": "Thermal transfer",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8443.32.10.60",
+                        "Description": "Ionographic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8443.32.10.70",
+                        "Description": "Daisy wheel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8443.32.10.80",
+                        "Description": "Dot matrix",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8443.32.10.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Laser:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8443.32.10.10",
+                            "Description": "Capable of producing more than 20 pages per minute",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8443.32.10.20",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8443.32.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8443.39",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8443.39.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Copying machines:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8443.39.50.00",
+                        "Description": "Thermocopying apparatus",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8443.39.60.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Electrostatic photocopying apparatus:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8443.39.10.00",
+                            "Description": "Operating by reproducing the original image directly onto the copy (direct process)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8443.39.20.00",
+                            "Description": "Operating by reproducing the original image via an intermediate onto the copy (indirect process)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other photocopying apparatus:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8443.39.30.00",
+                            "Description": "Incorporating an optical system",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8443.39.40.00",
+                            "Description": "Of the contact type",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8471",
+        "Description": "Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "8471.60",
+            "Description": "Input or output units, whether or not containing storage units in the same housing:",
+            "Subentries": [
+              {
+                "HS Code": "8471.60.10",
+                "Description": "Combined input/output units",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.60.10.10",
+                    "Description": "With cathode-ray tube (CRT)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.60.20.00",
+                    "Description": "Keyboards",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.70.00",
+                    "Description": "Units suitable for physical incorporation into automatic data processing machines or units thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.80.00",
+                    "Description": "Optical scanners and magnetic ink recognition devices",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8471.60.90.30",
+                        "Description": "Card key and magnetic media entry devices",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8471.60.90.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

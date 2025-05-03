@@ -1,0 +1,101 @@
+[
+  {
+    "HS Code": "71",
+    "Description": "Natural or cultured pearls, precious or semi-precious stones,precious metals, metals clad with precious metal and articles thereof; imitation jewelry; coin",
+    "Subentries": [
+      {
+        "HS Code": "7108",
+        "Description": "Gold (including gold plated with platinum) unwrought or in semimanufactured forms, or in powder form:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Nonmonetary:",
+            "Subentries": [
+              {
+                "HS Code": "7108.11.00.00",
+                "Description": "Powder",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7108.12",
+                "Description": "Other unwrought forms:",
+                "Subentries": [
+                  {
+                    "HS Code": "7108.12.10",
+                    "Description": "Bullion and dore",
+                    "Subentries": [
+                      {
+                        "HS Code": "7108.12.10.20",
+                        "Description": "Dore",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Bullion:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7108.12.10.13",
+                            "Description": "Containing by weight not less than 99.95 percent of gold",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7108.12.10.17",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7108.12.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7108.12.50.10",
+                        "Description": "Containing by weight not less than 99.95 percent of gold",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7108.12.50.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7108.13",
+                "Description": "Other semimanufactured forms:",
+                "Subentries": [
+                  {
+                    "HS Code": "7108.13.10.00",
+                    "Description": "Gold leaf",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7108.13.55.00",
+                        "Description": "Rectangular or near rectangular shapes, containing 99.5 percent or more by weight of gold and not otherwise marked or decorated than with weight, purity, or other identifying information",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7108.13.70.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

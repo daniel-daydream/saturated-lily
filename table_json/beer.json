@@ -1,0 +1,35 @@
+[
+  {
+    "HS Code": "22",
+    "Description": "Beverages, spirits and vinegar",
+    "Subentries": [
+      {
+        "HS Code": "2203.00.00",
+        "Description": "Beer made from malt",
+        "Subentries": [
+          {
+            "HS Code": "2203.00.00.90",
+            "Description": "In containers each holding over 4 liters",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "In containers each holding not over 4 liters:",
+            "Subentries": [
+              {
+                "HS Code": "2203.00.00.30",
+                "Description": "In glass containers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2203.00.00.60",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

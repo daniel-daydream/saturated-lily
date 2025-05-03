@@ -1,0 +1,67 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3920",
+        "Description": "Other plates, sheets, film, foil and strip, of plastics, noncellular and not reinforced, laminated, supported or similarly combined with other materials:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of other plastics:",
+            "Subentries": [
+              {
+                "HS Code": "3920.91.00.00",
+                "Description": "Of poly(vinyl butyral)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3920.92.00.00",
+                "Description": "Of polyamides",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3920.93.00.00",
+                "Description": "Of amino-resins",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3920.94.00.00",
+                "Description": "Of phenolic resins",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3920.99",
+                "Description": "Of other plastics:",
+                "Subentries": [
+                  {
+                    "HS Code": "3920.99.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Film, strip and sheets, all the foregoing which are flexible:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3920.99.10.00",
+                        "Description": "Over 0.152 mm in thickness, and not in rolls",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3920.99.20.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

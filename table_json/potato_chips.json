@@ -1,0 +1,35 @@
+[
+  {
+    "HS Code": "20",
+    "Description": "Preparations of vegetables, fruit, nuts or other parts of plants",
+    "Subentries": [
+      {
+        "HS Code": "2005",
+        "Description": "Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 2006:",
+        "Subentries": [
+          {
+            "HS Code": "2005.20.00",
+            "Description": "Potatoes",
+            "Subentries": [
+              {
+                "HS Code": "2005.20.00.20",
+                "Description": "Potato chips",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2005.20.00.40",
+                "Description": "Potato granules",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2005.20.00.70",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

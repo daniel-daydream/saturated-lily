@@ -1,0 +1,79 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3924",
+        "Description": "Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics:",
+        "Subentries": [
+          {
+            "HS Code": "3924.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3924.90.05.00",
+                "Description": "Nursing nipples and finger cots",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3924.90.10",
+                "Description": "Curtains and drapes, including panels and valances; napkins, table covers, mats, scarves, runners, doilies, centerpieces, antimacassars and furniture slipcovers; and like furnishings",
+                "Subentries": [
+                  {
+                    "HS Code": "3924.90.10.10",
+                    "Description": "Curtains and drapes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3924.90.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3924.90.20.00",
+                "Description": "Picture frames",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3924.90.56",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3924.90.56.10",
+                    "Description": "Gates for confining children or pets",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3924.90.56.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "73",
+    "Description": "Articles of iron or steel",
+    "Subentries": [
+      {
+        "HS Code": "7324",
+        "Description": "Sanitary ware and parts thereof, of iron or steel:",
+        "Subentries": [
+          {
+            "HS Code": "7324.90.00.00",
+            "Description": "Other, including parts",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

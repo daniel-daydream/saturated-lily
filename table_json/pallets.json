@@ -1,0 +1,112 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3923",
+        "Description": "Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other closures, of plastics:",
+        "Subentries": [
+          {
+            "HS Code": "3923.10",
+            "Description": "Boxes, cases, crates and similar articles:",
+            "Subentries": [
+              {
+                "HS Code": "3923.10.20.00",
+                "Description": "Specially shaped or fitted for the conveyance or packing of semiconductor wafers, masks or reticles of subheadings 3923.10 or 8486.90",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3923.10.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "44",
+    "Description": "Wood and articles of wood; wood charcoal",
+    "Subentries": [
+      {
+        "HS Code": "4415",
+        "Description": "Packing cases, boxes, crates, drums and similar packings, of wood; cable-drums, of wood; pallets, box-pallets and other load boards, of wood; pallet collars of wood:",
+        "Subentries": [
+          {
+            "HS Code": "4415.10",
+            "Description": "Cases, boxes, crates, drums and similar packings; cable-drums:",
+            "Subentries": [
+              {
+                "HS Code": "4415.10.30.00",
+                "Description": "Packing boxes and cases with solid sides, lids and bottoms",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4415.10.60.00",
+                "Description": "Containers designed for use in the harvesting of fruits and vegetables",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4415.10.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "4415.20",
+            "Description": "Pallets, box-pallets and other load boards; pallet collars:",
+            "Subentries": [
+              {
+                "HS Code": "4415.20.40.00",
+                "Description": "Containers designed for use in the harvesting of fruits and vegetables",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4415.20.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "73",
+    "Description": "Articles of iron or steel",
+    "Subentries": [
+      {
+        "HS Code": "7310",
+        "Description": "Tanks, casks, drums, cans, boxes and similar containers, for any material (other than compressed or liquefied gas), of iron or steel, of a capacity not exceeding 300 liters, whether or not lined or heat insulated, but not fitted with mechanical or thermal equipment:",
+        "Subentries": [
+          {
+            "HS Code": "7310.10.00",
+            "Description": "Of a capacity of 50 liters or more",
+            "Subentries": [
+              {
+                "HS Code": "7310.10.00.05",
+                "Description": "Refillable stainless steel kegs, whether or not pressurized, of a kind described in statistical note 1 to this chapter.",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7310.10.00.15",
+                "Description": "Empty steel drums and barrels",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7310.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

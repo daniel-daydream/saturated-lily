@@ -1,0 +1,163 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8407",
+        "Description": "Spark-ignition reciprocating or rotary internal combustion piston engines:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Marine propulsion engines:",
+            "Subentries": [
+              {
+                "HS Code": "8407.21.00",
+                "Description": "Outboard motors",
+                "Subentries": [
+                  {
+                    "HS Code": "8407.21.00.40",
+                    "Description": "Less than 22.38 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8407.21.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8407.29.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8407.29.00.10",
+                    "Description": "Inboard engines with outboard drive",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Inboard engines with inboard drive:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8407.29.00.20",
+                        "Description": "Less than 746 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8407.29.00.30",
+                        "Description": "746 W or greater, but not exceeding 18.65 kW",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8407.29.00.40",
+                        "Description": "Exceeding 18.65 kW",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8408",
+        "Description": "Compression-ignition internal combustion piston engines (diesel or semi-diesel engines):",
+        "Subentries": [
+          {
+            "HS Code": "8408.10.00",
+            "Description": "Marine propulsion engines",
+            "Subentries": [
+              {
+                "HS Code": "8408.10.00.05",
+                "Description": "Not exceeding 111.9 kW",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.10.00.15",
+                "Description": "Exceeding 111.9 kW but not exceeding 149.2 kW",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.10.00.20",
+                "Description": "Exceeding 149.2 kW but not exceeding 223.8 kW",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.10.00.30",
+                "Description": "Exceeding 223.8 kW but not exceeding 373 kW",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.10.00.40",
+                "Description": "Exceeding 373 kW but not exceeding 746 kW",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.10.00.50",
+                "Description": "Exceeding 746 kW",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8408.90",
+            "Description": "Other engines:",
+            "Subentries": [
+              {
+                "HS Code": "8408.90.10",
+                "Description": "To be installed in agricultural or horticultural machinery or equipment",
+                "Subentries": [
+                  {
+                    "HS Code": "8408.90.10.40",
+                    "Description": "Not exceeding 37.3 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8408.90.10.80",
+                    "Description": "Exceeding 37.3 kW",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8408.90.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8408.90.90.10",
+                    "Description": "Not exceeding 149.2 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8408.90.90.20",
+                    "Description": "Exceeding 149.2 kW but not exceeding 373 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8408.90.90.30",
+                    "Description": "Exceeding 373 kW but not exceeding 746 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8408.90.90.40",
+                    "Description": "Exceeding 746 kW but not exceeding 1,119 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8408.90.90.50",
+                    "Description": "Exceeding 1,119 kW",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

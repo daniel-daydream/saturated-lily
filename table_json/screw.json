@@ -107,19 +107,19 @@
                             "Description": "Other:",
                             "Subentries": [
                               {
+                                "HS Code": "7318.15.20.41",
+                                "Description": "Right-angle anchor bolts",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7318.15.20.46",
+                                "Description": "Other",
+                                "Subentries": []
+                              },
+                              {
                                 "HS Code": "",
                                 "Description": "Other:",
                                 "Subentries": [
-                                  {
-                                    "HS Code": "7318.15.20.91",
-                                    "Description": "Of stainless steel",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "7318.15.20.95",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  },
                                   {
                                     "HS Code": "7318.15.20.51",
                                     "Description": "Of stainless steel",
@@ -139,18 +139,18 @@
                                     "HS Code": "7318.15.20.65",
                                     "Description": "Other",
                                     "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7318.15.20.91",
+                                    "Description": "Of stainless steel",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7318.15.20.95",
+                                    "Description": "Other",
+                                    "Subentries": []
                                   }
                                 ]
-                              },
-                              {
-                                "HS Code": "7318.15.20.41",
-                                "Description": "Right-angle anchor bolts",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "7318.15.20.46",
-                                "Description": "Other",
-                                "Subentries": []
                               }
                             ]
                           }
@@ -177,6 +177,11 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
+                            "HS Code": "7318.15.50.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
                             "HS Code": "",
                             "Description": "Continuously threaded rod:",
                             "Subentries": [
@@ -191,11 +196,6 @@
                                 "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "7318.15.50.90",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
                       }
@@ -214,22 +214,22 @@
                             "Description": "Other:",
                             "Subentries": [
                               {
-                                "HS Code": "7318.15.60.70",
-                                "Description": "Of stainless steel",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "7318.15.60.80",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "7318.15.60.10",
                                 "Description": "Of stainless steel",
                                 "Subentries": []
                               },
                               {
                                 "HS Code": "7318.15.60.40",
+                                "Description": "Other",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7318.15.60.70",
+                                "Description": "Of stainless steel",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7318.15.60.80",
                                 "Description": "Other",
                                 "Subentries": []
                               }
@@ -255,9 +255,24 @@
                                 "Description": "Other:",
                                 "Subentries": [
                                   {
+                                    "HS Code": "7318.15.80.30",
+                                    "Description": "Of stainless steel",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7318.15.80.45",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  },
+                                  {
                                     "HS Code": "",
                                     "Description": "Other:",
                                     "Subentries": [
+                                      {
+                                        "HS Code": "7318.15.80.55",
+                                        "Description": "Of stainless steel",
+                                        "Subentries": []
+                                      },
                                       {
                                         "HS Code": "7318.15.80.82",
                                         "Description": "Of stainless steel",
@@ -266,11 +281,6 @@
                                       {
                                         "HS Code": "7318.15.80.85",
                                         "Description": "Other",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "7318.15.80.55",
-                                        "Description": "Of stainless steel",
                                         "Subentries": []
                                       },
                                       {
@@ -290,16 +300,6 @@
                                         ]
                                       }
                                     ]
-                                  },
-                                  {
-                                    "HS Code": "7318.15.80.30",
-                                    "Description": "Of stainless steel",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "7318.15.80.45",
-                                    "Description": "Other",
-                                    "Subentries": []
                                   }
                                 ]
                               }
@@ -320,16 +320,6 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "7318.16.00.60",
-                        "Description": "Of stainless steel",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7318.16.00.85",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "7318.16.00.15",
                         "Description": "Non-locking chrome-plated",
                         "Subentries": []
@@ -341,6 +331,16 @@
                       },
                       {
                         "HS Code": "7318.16.00.45",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7318.16.00.60",
+                        "Description": "Of stainless steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7318.16.00.85",
                         "Description": "Other",
                         "Subentries": []
                       }

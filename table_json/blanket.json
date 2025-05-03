@@ -8,22 +8,6 @@
         "Description": "Blankets and traveling rugs:",
         "Subentries": [
           {
-            "HS Code": "6301.40.00",
-            "Description": "Blankets (other than electric blankets) and traveling rugs, of synthetic fibers",
-            "Subentries": [
-              {
-                "HS Code": "6301.40.00.10",
-                "Description": "Woven (666)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "6301.40.00.20",
-                "Description": "Other (666)",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "6301.20.00",
             "Description": "Blankets (other than electric blankets) and traveling rugs, of wool or fine animal hair",
             "Subentries": [
@@ -51,6 +35,22 @@
               {
                 "HS Code": "6301.30.00.20",
                 "Description": "Other (369)",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "6301.40.00",
+            "Description": "Blankets (other than electric blankets) and traveling rugs, of synthetic fibers",
+            "Subentries": [
+              {
+                "HS Code": "6301.40.00.10",
+                "Description": "Woven (666)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6301.40.00.20",
+                "Description": "Other (666)",
                 "Subentries": []
               }
             ]

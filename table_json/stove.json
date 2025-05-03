@@ -79,22 +79,22 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
-                        "HS Code": "7321.19.00.60",
-                        "Description": "Of cast iron",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7321.19.00.80",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
                         "HS Code": "7321.19.00.20",
                         "Description": "Hibachis",
                         "Subentries": []
                       },
                       {
                         "HS Code": "7321.19.00.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7321.19.00.60",
+                        "Description": "Of cast iron",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7321.19.00.80",
                         "Description": "Other",
                         "Subentries": []
                       }

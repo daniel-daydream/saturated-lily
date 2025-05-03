@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "87",
+    "Description": "Vehicles other than railway or tramway rolling stock, and parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "8713",
+        "Description": "Carriages for disabled persons, whether or not motorized or otherwise mechanically propelled:",
+        "Subentries": [
+          {
+            "HS Code": "8713.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "8713.90.00.30",
+                "Description": "Three-wheeled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8713.90.00.60",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

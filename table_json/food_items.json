@@ -122,6 +122,126 @@
             ]
           },
           {
+            "HS Code": "1602.50",
+            "Description": "Of bovine animals :",
+            "Subentries": [
+              {
+                "HS Code": "1602.50.05.00",
+                "Description": "Offal",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "1602.50.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1602.50.90.20",
+                        "Description": "Prepared meals",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1602.50.90.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Not containing cereals or vegetables:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Cured or pickled:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1602.50.07",
+                            "Description": "Corned beef in airtight containers",
+                            "Subentries": [
+                              {
+                                "HS Code": "1602.50.07.20",
+                                "Description": "In containers holding less than 1 kg",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "1602.50.07.40",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "1602.50.08.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1602.50.21",
+                            "Description": "In airtight containers",
+                            "Subentries": [
+                              {
+                                "HS Code": "1602.50.21.20",
+                                "Description": "In containers holding less than 1 kg",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "1602.50.21.40",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "1602.50.60.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "1602.90",
+            "Description": "Other, including preparations of blood of any animal:",
+            "Subentries": [
+              {
+                "HS Code": "1602.90.10.00",
+                "Description": "Frog meat",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1602.90.91",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1602.90.91.60",
+                    "Description": "Canned",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1602.90.91.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Of poultry of heading 0105:",
             "Subentries": [
@@ -146,6 +266,11 @@
                 "Description": "Of chickens",
                 "Subentries": [
                   {
+                    "HS Code": "1602.32.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
                     "HS Code": "",
                     "Description": "Prepared meals:",
                     "Subentries": [
@@ -160,11 +285,6 @@
                         "Subentries": []
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "1602.32.00.40",
-                    "Description": "Other",
-                    "Subentries": []
                   }
                 ]
               },
@@ -172,6 +292,11 @@
                 "HS Code": "1602.39.00",
                 "Description": "Other",
                 "Subentries": [
+                  {
+                    "HS Code": "1602.39.00.45",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
                   {
                     "HS Code": "",
                     "Description": "Prepared meals:",
@@ -187,11 +312,6 @@
                         "Subentries": []
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "1602.39.00.45",
-                    "Description": "Other",
-                    "Subentries": []
                   }
                 ]
               }
@@ -316,126 +436,6 @@
                 ]
               }
             ]
-          },
-          {
-            "HS Code": "1602.50",
-            "Description": "Of bovine animals :",
-            "Subentries": [
-              {
-                "HS Code": "1602.50.05.00",
-                "Description": "Offal",
-                "Subentries": []
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "",
-                    "Description": "Not containing cereals or vegetables:",
-                    "Subentries": [
-                      {
-                        "HS Code": "",
-                        "Description": "Cured or pickled:",
-                        "Subentries": [
-                          {
-                            "HS Code": "1602.50.07",
-                            "Description": "Corned beef in airtight containers",
-                            "Subentries": [
-                              {
-                                "HS Code": "1602.50.07.20",
-                                "Description": "In containers holding less than 1 kg",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "1602.50.07.40",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "1602.50.08.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "1602.50.21",
-                            "Description": "In airtight containers",
-                            "Subentries": [
-                              {
-                                "HS Code": "1602.50.21.20",
-                                "Description": "In containers holding less than 1 kg",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "1602.50.21.40",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "1602.50.60.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "1602.50.90",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "1602.50.90.20",
-                        "Description": "Prepared meals",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1602.50.90.40",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "1602.90",
-            "Description": "Other, including preparations of blood of any animal:",
-            "Subentries": [
-              {
-                "HS Code": "1602.90.10.00",
-                "Description": "Frog meat",
-                "Subentries": []
-              },
-              {
-                "HS Code": "1602.90.91",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "1602.90.91.60",
-                    "Description": "Canned",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "1602.90.91.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              }
-            ]
           }
         ]
       },
@@ -471,6 +471,120 @@
         "Description": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs:",
         "Subentries": [
           {
+            "HS Code": "1604.20",
+            "Description": "Other prepared or preserved fish:",
+            "Subentries": [
+              {
+                "HS Code": "1604.20.05",
+                "Description": "Products containing meat of crustaceans, molluscs or other aquatic invertebrates; prepared meals",
+                "Subentries": [
+                  {
+                    "HS Code": "1604.20.05.10",
+                    "Description": "Prepared meals",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1604.20.05.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "1604.20.10.00",
+                    "Description": "Pastes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1604.20.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1604.20.60.10",
+                        "Description": "Pre-cooked and frozen",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1604.20.60.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Balls, cakes and puddings:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1604.20.15.00",
+                        "Description": "In oil",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Not in oil:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1604.20.30.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "In immediate containers weighing with their contents not over 6.8 kg each:",
+                            "Subentries": [
+                              {
+                                "HS Code": "1604.20.20.00",
+                                "Description": "In airtight containers",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "1604.20.25.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Fish sticks and similar products of any size or shape, if breaded, coated with batter or similarly prepared:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1604.20.40.00",
+                        "Description": "Neither cooked nor in oil",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1604.20.50",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "1604.20.50.10",
+                            "Description": "Pre-cooked and frozen",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1604.20.50.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Fish, whole or in pieces, but not minced:",
             "Subentries": [
@@ -504,6 +618,11 @@
                     "Description": "Other",
                     "Subentries": [
                       {
+                        "HS Code": "1604.11.40.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "",
                         "Description": "Canned:",
                         "Subentries": [
@@ -528,11 +647,6 @@
                             "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "1604.11.40.50",
-                        "Description": "Other",
-                        "Subentries": []
                       }
                     ]
                   }
@@ -988,120 +1102,6 @@
             ]
           },
           {
-            "HS Code": "1604.20",
-            "Description": "Other prepared or preserved fish:",
-            "Subentries": [
-              {
-                "HS Code": "1604.20.05",
-                "Description": "Products containing meat of crustaceans, molluscs or other aquatic invertebrates; prepared meals",
-                "Subentries": [
-                  {
-                    "HS Code": "1604.20.05.10",
-                    "Description": "Prepared meals",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "1604.20.05.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "1604.20.10.00",
-                    "Description": "Pastes",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Balls, cakes and puddings:",
-                    "Subentries": [
-                      {
-                        "HS Code": "1604.20.15.00",
-                        "Description": "In oil",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Not in oil:",
-                        "Subentries": [
-                          {
-                            "HS Code": "",
-                            "Description": "In immediate containers weighing with their contents not over 6.8 kg each:",
-                            "Subentries": [
-                              {
-                                "HS Code": "1604.20.20.00",
-                                "Description": "In airtight containers",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "1604.20.25.00",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "1604.20.30.00",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Fish sticks and similar products of any size or shape, if breaded, coated with batter or similarly prepared:",
-                    "Subentries": [
-                      {
-                        "HS Code": "1604.20.40.00",
-                        "Description": "Neither cooked nor in oil",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1604.20.50",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "1604.20.50.10",
-                            "Description": "Pre-cooked and frozen",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "1604.20.50.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "1604.20.60",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "1604.20.60.10",
-                        "Description": "Pre-cooked and frozen",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1604.20.60.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "",
             "Description": "Caviar and caviar substitutes:",
             "Subentries": [
@@ -1159,6 +1159,22 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
+                    "HS Code": "1605.10.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1605.10.60.10",
+                        "Description": "In airtight containers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1605.10.60.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "",
                     "Description": "Crabmeat:",
                     "Subentries": [
@@ -1169,6 +1185,16 @@
                           {
                             "HS Code": "1605.10.20.10",
                             "Description": "King crab",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1605.10.20.30",
+                            "Description": "Dungeness",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1605.10.20.90",
+                            "Description": "Other",
                             "Subentries": []
                           },
                           {
@@ -1188,11 +1214,6 @@
                             ]
                           },
                           {
-                            "HS Code": "1605.10.20.30",
-                            "Description": "Dungeness",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "",
                             "Description": "Swimming crabs (Portunidae):",
                             "Subentries": [
@@ -1207,11 +1228,6 @@
                                 "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "1605.10.20.90",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
                       },
@@ -1220,12 +1236,27 @@
                         "Description": "Other",
                         "Subentries": [
                           {
+                            "HS Code": "1605.10.40.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
                             "HS Code": "",
                             "Description": "Frozen:",
                             "Subentries": [
                               {
                                 "HS Code": "1605.10.40.02",
                                 "Description": "King crab",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "1605.10.40.15",
+                                "Description": "Dungeness",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "1605.10.40.35",
+                                "Description": "Other",
                                 "Subentries": []
                               },
                               {
@@ -1245,11 +1276,6 @@
                                 ]
                               },
                               {
-                                "HS Code": "1605.10.40.15",
-                                "Description": "Dungeness",
-                                "Subentries": []
-                              },
-                              {
                                 "HS Code": "",
                                 "Description": "Swimming crabs (Portunidae):",
                                 "Subentries": [
@@ -1264,107 +1290,10 @@
                                     "Subentries": []
                                   }
                                 ]
-                              },
-                              {
-                                "HS Code": "1605.10.40.35",
-                                "Description": "Other",
-                                "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "1605.10.40.40",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "1605.10.60",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "1605.10.60.10",
-                        "Description": "In airtight containers",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1605.10.60.90",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "",
-            "Description": "Shrimps and prawns:",
-            "Subentries": [
-              {
-                "HS Code": "1605.21",
-                "Description": "Not in airtight containers:",
-                "Subentries": [
-                  {
-                    "HS Code": "1605.21.05.00",
-                    "Description": "Products containing fish meat; prepared meals",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "1605.21.10",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "",
-                        "Description": "Frozen, imported in accordance with statistical note 1 to this chapter:",
-                        "Subentries": [
-                          {
-                            "HS Code": "1605.21.10.20",
-                            "Description": "Breaded",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "1605.21.10.30",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "1605.21.10.50",
-                        "Description": "Other, imported in accordance with statistical note 1 to this chapter",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "1605.29",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "1605.29.05.00",
-                    "Description": "Products containing fish meat; prepared meals",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "1605.29.10",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "1605.29.10.10",
-                        "Description": "Frozen, imported in accordance with statistical note 1 to this chapter",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1605.29.10.40",
-                        "Description": "Other, imported in accordance with statistical note 1 to this chapter",
-                        "Subentries": []
                       }
                     ]
                   }
@@ -1454,6 +1383,77 @@
                     "HS Code": "1605.40.10.90",
                     "Description": "Other",
                     "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Shrimps and prawns:",
+            "Subentries": [
+              {
+                "HS Code": "1605.21",
+                "Description": "Not in airtight containers:",
+                "Subentries": [
+                  {
+                    "HS Code": "1605.21.05.00",
+                    "Description": "Products containing fish meat; prepared meals",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1605.21.10",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1605.21.10.50",
+                        "Description": "Other, imported in accordance with statistical note 1 to this chapter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Frozen, imported in accordance with statistical note 1 to this chapter:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1605.21.10.20",
+                            "Description": "Breaded",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1605.21.10.30",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1605.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "1605.29.05.00",
+                    "Description": "Products containing fish meat; prepared meals",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1605.29.10",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1605.29.10.10",
+                        "Description": "Frozen, imported in accordance with statistical note 1 to this chapter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1605.29.10.40",
+                        "Description": "Other, imported in accordance with statistical note 1 to this chapter",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               }
@@ -1590,9 +1590,19 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
+                        "HS Code": "1605.56.60.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "",
                         "Description": "Clams:",
                         "Subentries": [
+                          {
+                            "HS Code": "1605.56.30.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
                           {
                             "HS Code": "",
                             "Description": "In airtight containers:",
@@ -1619,18 +1629,8 @@
                                 ]
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "1605.56.30.00",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "1605.56.60.00",
-                        "Description": "Other",
-                        "Subentries": []
                       }
                     ]
                   }

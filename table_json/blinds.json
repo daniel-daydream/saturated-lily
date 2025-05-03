@@ -1,0 +1,221 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3925",
+        "Description": "Builders' ware of plastics, not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "3925.30",
+            "Description": "Shutters, blinds (including venetian blinds) and similar articles and parts thereof:",
+            "Subentries": [
+              {
+                "HS Code": "3925.30.10.00",
+                "Description": "Blinds (including venetian blinds)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3925.30.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "63",
+    "Description": "Other made up textile articles; sets; worn clothing and worn textile articles; rags",
+    "Subentries": [
+      {
+        "HS Code": "6303",
+        "Description": "Curtains (including drapes) and interior blinds; curtain or bed valances:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "6303.91.00",
+                "Description": "Of cotton",
+                "Subentries": [
+                  {
+                    "HS Code": "6303.91.00.10",
+                    "Description": "Window curtains (including drapes) and window valances (369)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6303.91.00.20",
+                    "Description": "Other (369)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "6303.92",
+                "Description": "Of synthetic fibers:",
+                "Subentries": [
+                  {
+                    "HS Code": "6303.92.10.00",
+                    "Description": "Made up from fabrics described in subheading 5407.61.11, 5407.61.21 or 5407.61.91 (666)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6303.92.20",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6303.92.20.10",
+                        "Description": "Window curtains (including drapes) and window valances (666)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6303.92.20.30",
+                            "Description": "Window shades and window blinds (666)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6303.92.20.50",
+                            "Description": "Other (666)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6303.99.00",
+                "Description": "Of other textile materials",
+                "Subentries": [
+                  {
+                    "HS Code": "6303.99.00.10",
+                    "Description": "Of artificial fibers (666)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6303.99.00.30",
+                        "Description": "Containing 85 percent or more by weight of silk or silk waste",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6303.99.00.60",
+                        "Description": "Other (899)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "76",
+    "Description": "Aluminum and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "7616",
+        "Description": "Other articles of aluminum:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "7616.91.00.00",
+                "Description": "Cloth, grill, netting and fencing, of aluminum wire",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7616.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7616.99.10.00",
+                    "Description": "Luggage frames",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7616.99.51",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7616.99.51.20",
+                        "Description": "Laminated goods consisting of 2 or more flat-rolled sheets of aluminum held together with an adhesive or having a core of non-metallic material",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7616.99.51.30",
+                        "Description": "Ladders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7616.99.51.40",
+                        "Description": "Venetian blinds and parts thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7616.99.51.50",
+                        "Description": "Hangers and supports for pipes and tubes",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7616.99.51.60",
+                            "Description": "Castings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7616.99.51.70",
+                            "Description": "Forgings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7616.99.51.75",
+                                "Description": "Articles of wire",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7616.99.51.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

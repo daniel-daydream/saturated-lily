@@ -1,0 +1,254 @@
+[
+  {
+    "HS Code": "61",
+    "Description": "Articles of apparel and clothing accessories, knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6112",
+        "Description": "Track suits, ski-suits and swimwear, knitted or crocheted:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Men's or boys' swimwear:",
+            "Subentries": [
+              {
+                "HS Code": "6112.31.00",
+                "Description": "Of synthetic fibers",
+                "Subentries": [
+                  {
+                    "HS Code": "6112.31.00.10",
+                    "Description": "Men's (659)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6112.31.00.20",
+                    "Description": "Boys' (659)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "6112.39.00",
+                "Description": "Of other textile materials",
+                "Subentries": [
+                  {
+                    "HS Code": "6112.39.00.10",
+                    "Description": "Of cotton (359)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6112.39.00.15",
+                        "Description": "Containing 70 percent or more by weight of silk or silk waste (759)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6112.39.00.90",
+                        "Description": "Other (859)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6112.41.00",
+                "Description": "Of synthetic fibers",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of fabric containing by weight 5 percent or more elastomeric yarn or rubber thread:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6112.41.00.10",
+                        "Description": "Women's (659)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6112.41.00.20",
+                        "Description": "Girls' (659)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6112.41.00.30",
+                        "Description": "Women's (659)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6112.41.00.40",
+                        "Description": "Girls' (659)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6112.49.00",
+                "Description": "Of other textile materials",
+                "Subentries": [
+                  {
+                    "HS Code": "6112.49.00.10",
+                    "Description": "Of cotton (359)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6112.49.00.15",
+                        "Description": "Containing 70 percent or more by weight of silk or silk waste (759)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6112.49.00.90",
+                        "Description": "Other (859)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "62",
+    "Description": "Articles of apparel and clothing accessories, not knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6211",
+        "Description": "Track suits, ski-suits and swimwear; other garments:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Swimwear:",
+            "Subentries": [
+              {
+                "HS Code": "6211.11",
+                "Description": "Men's or boys':",
+                "Subentries": [
+                  {
+                    "HS Code": "6211.11.10",
+                    "Description": "Of man-made fibers",
+                    "Subentries": [
+                      {
+                        "HS Code": "6211.11.10.10",
+                        "Description": "Men's (659)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6211.11.10.20",
+                        "Description": "Boys' (659)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "6211.11.40.00",
+                    "Description": "Containing 70 percent or more by weight of silk or silk waste (759)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6211.11.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6211.11.80.40",
+                        "Description": "Other (859)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of cotton:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6211.11.80.10",
+                            "Description": "Men's (359)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6211.11.80.20",
+                            "Description": "Boys' (359)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6211.12",
+                "Description": "Women's or girls':",
+                "Subentries": [
+                  {
+                    "HS Code": "6211.12.10",
+                    "Description": "Of man-made fibers",
+                    "Subentries": [
+                      {
+                        "HS Code": "6211.12.10.10",
+                        "Description": "Women's (659)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6211.12.10.20",
+                        "Description": "Girls' (659)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "6211.12.40.00",
+                    "Description": "Containing 70 percent or more by weight of silk or silk waste (759)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6211.12.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6211.12.80.30",
+                        "Description": "Other (859)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of cotton:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6211.12.80.10",
+                            "Description": "Women's (359)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6211.12.80.20",
+                            "Description": "Girls' (359)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

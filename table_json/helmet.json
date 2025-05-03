@@ -1,0 +1,117 @@
+[
+  {
+    "HS Code": "65",
+    "Description": "Headgear and parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "6506",
+        "Description": "Other headgear, whether or not lined or trimmed:",
+        "Subentries": [
+          {
+            "HS Code": "6506.10",
+            "Description": "Safety headgear:",
+            "Subentries": [
+              {
+                "HS Code": "6506.10.30",
+                "Description": "Of reinforced or laminated plastics",
+                "Subentries": [
+                  {
+                    "HS Code": "6506.10.30.30",
+                    "Description": "Motorcycle helmets",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6506.10.30.45",
+                        "Description": "Athletic, recreational and sporting headgear",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6506.10.30.75",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6506.10.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "6506.10.60.30",
+                    "Description": "Motorcycle helmets",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6506.10.60.45",
+                        "Description": "Athletic, recreational and sporting headgear",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6506.10.60.75",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "6506.91.00",
+                "Description": "Of rubber or plastics",
+                "Subentries": [
+                  {
+                    "HS Code": "6506.91.00.30",
+                    "Description": "Bathing caps",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6506.91.00.45",
+                    "Description": "Visors, or other headgear which provides no covering for the crown of the head",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6506.91.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "6506.99",
+                "Description": "Of other materials:",
+                "Subentries": [
+                  {
+                    "HS Code": "6506.99.30.00",
+                    "Description": "Of furskin",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6506.99.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "HS Code": "19",
+    "Description": "Preparations of cereals, flour, starch or milk; bakers' wares",
+    "Subentries": [
+      {
+        "HS Code": "1902",
+        "Description": "Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagna, gnocchi, ravioli, cannelloni; couscous, whether or not prepared:",
+        "Subentries": [
+          {
+            "HS Code": "1902.20.00",
+            "Description": "Stuffed pasta, whether or not cooked or otherwise prepared",
+            "Subentries": [
+              {
+                "HS Code": "1902.20.00.20",
+                "Description": "Canned",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "1902.20.00.40",
+                    "Description": "Frozen",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1902.20.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Uncooked pasta, not stuffed or otherwise prepared:",
+            "Subentries": [
+              {
+                "HS Code": "1902.11",
+                "Description": "Containing eggs:",
+                "Subentries": [
+                  {
+                    "HS Code": "1902.11.20",
+                    "Description": "Exclusively pasta",
+                    "Subentries": [
+                      {
+                        "HS Code": "1902.11.20.90",
+                        "Description": "Product of a country other than an EU country",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Product of a European Union (EU) country:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1902.11.20.10",
+                            "Description": "Subject to the Inward Processing Regime (IPR)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1902.11.20.20",
+                            "Description": "Subject to the EU reduced export refund in accordance with the US-EU Pasta agreement",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1902.11.20.30",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1902.11.40.00",
+                    "Description": "Other, including pasta packaged with sauce preparations",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1902.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "1902.19.20",
+                    "Description": "Exclusively pasta",
+                    "Subentries": [
+                      {
+                        "HS Code": "1902.19.20.90",
+                        "Description": "Product of a country other than an EU country",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Product of a European Union (EU) Country:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1902.19.20.10",
+                            "Description": "Subject to the Inward Processing Regime (IPR)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1902.19.20.20",
+                            "Description": "Subject to the EU reduced export refund in accordance with the US-EU Pasta agreement",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1902.19.20.30",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1902.19.40.00",
+                    "Description": "Other, including pasta packaged with sauce preparations",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

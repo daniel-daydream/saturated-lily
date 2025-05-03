@@ -1,0 +1,190 @@
+[
+  {
+    "HS Code": "29",
+    "Description": "Organic chemicals",
+    "Subentries": [
+      {
+        "HS Code": "2918",
+        "Description": "Carboxylic acids with additional oxygen function and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulfonated, nitrated or nitrosated derivatives:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Carboxylic acids with alcohol function but without other oxygen function, their anhydrides, halides, peroxides, peroxyacids and their derivatives:",
+            "Subentries": [
+              {
+                "HS Code": "2918.11",
+                "Description": "Lactic acid, its salts and esters:",
+                "Subentries": [
+                  {
+                    "HS Code": "2918.11.10.00",
+                    "Description": "Lactic acid",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2918.11.51.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "2918.12.00.00",
+                "Description": "Tartaric acid",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2918.13",
+                "Description": "Salts and esters of tartaric acid:",
+                "Subentries": [
+                  {
+                    "HS Code": "2918.13.10.00",
+                    "Description": "Potassium antimony tartrate (Tartar emetic)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2918.13.20.00",
+                    "Description": "Potassium bitartrate (Cream of tartar)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2918.13.30.00",
+                    "Description": "Potassium sodium tartrate (Rochelle salts)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2918.13.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "2918.14.00.00",
+                "Description": "Citric acid",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2918.15",
+                "Description": "Salts and esters of citric acid:",
+                "Subentries": [
+                  {
+                    "HS Code": "2918.15.10.00",
+                    "Description": "Sodium citrate",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2918.15.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "2918.16",
+                "Description": "Gluconic acid, its salts and esters:",
+                "Subentries": [
+                  {
+                    "HS Code": "2918.16.10.00",
+                    "Description": "Gluconic acid",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2918.16.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "2918.16.50.10",
+                        "Description": "Sodium gluconate",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2918.16.50.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "2918.17.00.01",
+                "Description": "2,2-Diphenyl-2-hydroxyacetic acid (benzilic acid)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2918.18.00.00",
+                "Description": "Chlorobenzilate (ISO)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2918.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Aromatic:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2918.19.11.00",
+                        "Description": "Benzilic acid, methyl ester",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Phenylglycolic acid (Mandelic acid), its salts and esters:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2918.19.12.00",
+                            "Description": "Mandelic acid",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2918.19.15.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2918.19.20.00",
+                            "Description": "Products described in additional U.S. note 3 to section VI",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2918.19.31.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2918.19.60.00",
+                        "Description": "Malic acid",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2918.19.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8483",
+        "Description": "Transmission shafts (including camshafts and crankshafts) and cranks; bearing housings, housed bearings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints); parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8483.50",
+            "Description": "Flywheels and pulleys, including pulley blocks:",
+            "Subentries": [
+              {
+                "HS Code": "8483.50.40.00",
+                "Description": "Gray-iron awning or tackle pulleys, not over 6.4 cm in wheel diameter",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8483.50.60.00",
+                    "Description": "Flywheels",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8483.50.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8483.50.90.40",
+                        "Description": "Grooved pulleys",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8483.50.90.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

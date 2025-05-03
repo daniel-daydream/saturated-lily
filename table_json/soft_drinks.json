@@ -81,6 +81,22 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
+                    "HS Code": "2202.99.91",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "2202.99.91.10",
+                        "Description": "In aluminum containers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2202.99.91.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
                     "HS Code": "",
                     "Description": "Milk-based drinks:",
                     "Subentries": [
@@ -147,22 +163,6 @@
                             "Subentries": []
                           }
                         ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "2202.99.91",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "2202.99.91.10",
-                        "Description": "In aluminum containers",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "2202.99.91.20",
-                        "Description": "Other",
-                        "Subentries": []
                       }
                     ]
                   }

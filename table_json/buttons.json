@@ -1,0 +1,73 @@
+[
+  {
+    "HS Code": "96",
+    "Description": "Miscellaneous manufactured articles",
+    "Subentries": [
+      {
+        "HS Code": "9606",
+        "Description": "Buttons, press-fasteners, snap-fasteners and press-studs, button molds and other parts of these articles; button blanks:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Buttons:",
+            "Subentries": [
+              {
+                "HS Code": "9606.21",
+                "Description": "Of plastics, not covered with textile material:",
+                "Subentries": [
+                  {
+                    "HS Code": "9606.21.20.00",
+                    "Description": "Of casein",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9606.21.40.00",
+                    "Description": "Of acrylic resin, of polyester resin or of both such resins",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9606.21.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9606.22.00.00",
+                "Description": "Of base metal, not covered with textile material",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9606.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9606.29.20.00",
+                    "Description": "Of acrylic resin, of polyester resin or of both such resins, covered with textile material",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9606.29.40.00",
+                        "Description": "Of pearl or shell",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9606.29.60.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

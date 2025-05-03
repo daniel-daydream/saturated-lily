@@ -1,0 +1,124 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8543",
+        "Description": "Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this chapter; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8543.70",
+            "Description": "Other machines and apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "8543.70.20.00",
+                "Description": "Physical vapor deposition apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8543.70.60.00",
+                "Description": "Articles designed for connection to telegraphic or telephonic apparatus or instruments or to telegraphic or telephonic networks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8543.70.71.00",
+                "Description": "Electric luminescent lamps",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Electric synchros and transducers; flight data recorders; defrosters and demisters with electric resistors for aircraft:",
+                "Subentries": [
+                  {
+                    "HS Code": "8543.70.42.00",
+                    "Description": "Flight data recorders",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8543.70.45.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8543.70.80.00",
+                    "Description": "Microwave amplifiers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8543.70.85.00",
+                        "Description": "For electrical nerve stimulation",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8543.70.88.00",
+                        "Description": "Electrical machines with translation or dictionary functions; video game console controllers which use infrared transmissions to operate or access the various functions and capabilities of the console",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8543.70.89.00",
+                        "Description": "Other portable battery operated electronic readers for recording and reproducing text, still images or audio files",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8543.70.91.00",
+                        "Description": "Digital signal processing apparatus capable of connecting to a wired or wireless network for the mixing of sound",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8543.70.93.01",
+                        "Description": "Portable interactive electronic education devices primarily designed for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8543.70.95.00",
+                        "Description": "Touch-sensitive data input devices (so-called \"touch screens\") without display capabilities, for incorporation into apparatus having a display, which function by detecting the presence and location of a touch within the display area (such sensing may be obtained by means of resistance, electrostatic capacity, acoustic pulse recognition, infra-red lights or other touch-sensitive technology)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8543.70.97.00",
+                        "Description": "Plasma cleaner machines that remove organic contaminants from electron microscopy specimens and specimen holders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8543.70.98",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8543.70.98.10",
+                            "Description": "Amplifiers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8543.70.98.20",
+                            "Description": "Special effects pedals for use with musical instruments",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8543.70.98.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

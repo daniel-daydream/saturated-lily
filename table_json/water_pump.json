@@ -8,117 +8,6 @@
         "Description": "Pumps for liquids, whether or not fitted with a measuring device; liquid elevators; part thereof:",
         "Subentries": [
           {
-            "HS Code": "",
-            "Description": "Pumps fitted or designed to be fitted with a measuring device:",
-            "Subentries": [
-              {
-                "HS Code": "8413.11.00.00",
-                "Description": "Pumps for dispensing fuel or lubricants, of the type used in filling-stations or in garages",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8413.19.00.00",
-                "Description": "Other",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8413.81.00",
-                "Description": "Pumps",
-                "Subentries": [
-                  {
-                    "HS Code": "8413.81.00.20",
-                    "Description": "Turbine pumps",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8413.81.00.30",
-                    "Description": "Household water systems, self-contained; and windmill pumps",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8413.81.00.40",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "8413.82.00.00",
-                "Description": "Liquid elevators",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8413.91",
-                "Description": "Of pumps:",
-                "Subentries": [
-                  {
-                    "HS Code": "8413.91.10.00",
-                    "Description": "Of fuel-injection pumps for compression-ignition engines",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8413.91.20.00",
-                    "Description": "Of stock pumps imported for use with machines for making cellulosic pulp, paper or paperboard",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8413.91.90",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "8413.91.90.10",
-                        "Description": "Of subheading 8413.30.90",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Of hydraulic fluid power pumps:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8413.91.90.55",
-                            "Description": "Fluid end blocks",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8413.91.90.60",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Of subheading 8413.50.00:",
-                        "Subentries": [
-                          {
-                            "HS Code": "8413.91.90.65",
-                            "Description": "Sucker rods of a kind described in statistical note 2 to this chapter",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8413.91.90.85",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "8413.91.90.96",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "8413.92.00.00",
-                "Description": "Of liquid elevators",
-                "Subentries": []
-              }
-            ]
-          },
-          {
             "HS Code": "8413.20.00.00",
             "Description": "Hand pumps, other than those of subheading 8413.11 or 8413.19",
             "Subentries": []
@@ -179,6 +68,11 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
+                    "HS Code": "8413.50.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
                     "HS Code": "",
                     "Description": "Hydraulic fluid power pumps",
                     "Subentries": [
@@ -193,11 +87,6 @@
                         "Subentries": []
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "8413.50.00.90",
-                    "Description": "Other",
-                    "Subentries": []
                   }
                 ]
               }
@@ -274,6 +163,21 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
+                        "HS Code": "8413.70.20.30",
+                        "Description": "Single-stage, double-suction",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8413.70.20.40",
+                        "Description": "Multi-stage, single- or double-suction",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8413.70.20.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "",
                         "Description": "Single-stage, single-suction, close-coupled:",
                         "Subentries": [
@@ -304,25 +208,121 @@
                             "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "8413.70.20.30",
-                        "Description": "Single-stage, double-suction",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8413.70.20.40",
-                        "Description": "Multi-stage, single- or double-suction",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8413.70.20.90",
-                        "Description": "Other",
-                        "Subentries": []
                       }
                     ]
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Pumps fitted or designed to be fitted with a measuring device:",
+            "Subentries": [
+              {
+                "HS Code": "8413.11.00.00",
+                "Description": "Pumps for dispensing fuel or lubricants, of the type used in filling-stations or in garages",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8413.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8413.81.00",
+                "Description": "Pumps",
+                "Subentries": [
+                  {
+                    "HS Code": "8413.81.00.20",
+                    "Description": "Turbine pumps",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8413.81.00.30",
+                    "Description": "Household water systems, self-contained; and windmill pumps",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8413.81.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8413.82.00.00",
+                "Description": "Liquid elevators",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8413.91",
+                "Description": "Of pumps:",
+                "Subentries": [
+                  {
+                    "HS Code": "8413.91.10.00",
+                    "Description": "Of fuel-injection pumps for compression-ignition engines",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8413.91.20.00",
+                    "Description": "Of stock pumps imported for use with machines for making cellulosic pulp, paper or paperboard",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8413.91.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8413.91.90.10",
+                        "Description": "Of subheading 8413.30.90",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8413.91.90.96",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of hydraulic fluid power pumps:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8413.91.90.55",
+                            "Description": "Fluid end blocks",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8413.91.90.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of subheading 8413.50.00:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8413.91.90.65",
+                            "Description": "Sucker rods of a kind described in statistical note 2 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8413.91.90.85",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8413.92.00.00",
+                "Description": "Of liquid elevators",
+                "Subentries": []
               }
             ]
           }

@@ -1,0 +1,132 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8423",
+        "Description": "Weighing machinery (excluding balances of a sensitivity of 5 cg or better), including weight-operated counting or checking machines; weighing machine weights of all kinds; parts of weighing machinery:",
+        "Subentries": [
+          {
+            "HS Code": "8423.10.00",
+            "Description": "Personal weighing machines, including baby scales; household scales",
+            "Subentries": [
+              {
+                "HS Code": "8423.10.00.10",
+                "Description": "Digital electronic type",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8423.10.00.30",
+                    "Description": "Of a kind suitable for carrying on the person",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8423.10.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8423.20",
+            "Description": "Scales for continuous weighing of goods on conveyors:",
+            "Subentries": [
+              {
+                "HS Code": "8423.20.10.00",
+                "Description": "Using electronic means for gauging weights",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8423.20.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other weighing machinery:",
+            "Subentries": [
+              {
+                "HS Code": "8423.81.00",
+                "Description": "Having a maximum weighing capacity not exceeding 30 kg",
+                "Subentries": [
+                  {
+                    "HS Code": "8423.81.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Digital electronic type:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8423.81.00.10",
+                        "Description": "Counting scales",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8423.81.00.20",
+                        "Description": "Retail scales, non-computing",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8423.81.00.30",
+                        "Description": "Retail scales, computing",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8423.81.00.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8423.82.00",
+                "Description": "Having a maximum weighing capacity exceeding 30 kg but not exceeding 5,000 kg",
+                "Subentries": [
+                  {
+                    "HS Code": "8423.82.00.10",
+                    "Description": "Digital electronic type",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8423.82.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8423.89",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8423.89.10.00",
+                    "Description": "Using electronic means for gauging",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8423.89.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

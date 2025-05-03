@@ -1,0 +1,1583 @@
+[
+  {
+    "HS Code": "24",
+    "Description": "Tobacco and manufactured tobacco substitutes",
+    "Subentries": [
+      {
+        "HS Code": "2401",
+        "Description": "Unmanufactured tobacco (whether or not threshed or similarly processed); tobacco refuse:",
+        "Subentries": [
+          {
+            "HS Code": "2401.10",
+            "Description": "Tobacco, not stemmed/stripped:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Containing over 35 percent wrapper tobacco:",
+                "Subentries": [
+                  {
+                    "HS Code": "2401.10.21",
+                    "Description": "Wrapper tobacco",
+                    "Subentries": [
+                      {
+                        "HS Code": "2401.10.21.20",
+                        "Description": "Connecticut shade",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2401.10.21.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "2401.10.29",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "2401.10.29.20",
+                        "Description": "Connecticut shade",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2401.10.29.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Not containing wrapper tobacco, or not containing over 35 percent wrapper tobacco:",
+                "Subentries": [
+                  {
+                    "HS Code": "2401.10.53",
+                    "Description": "Cigar binder and filler",
+                    "Subentries": [
+                      {
+                        "HS Code": "2401.10.53.40",
+                        "Description": "Binder",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2401.10.53.50",
+                        "Description": "Filler",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Oriental or Turkish type:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2401.10.44.00",
+                        "Description": "Cigarette leaf",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2401.10.48.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2401.10.95",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "2401.10.95.10",
+                            "Description": "Fire-cured Kentucky and Tennessee",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.10.95.15",
+                            "Description": "Dark-air cured Kentucky and Tennessee",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.10.95.20",
+                            "Description": "Virginia fire-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.10.95.25",
+                            "Description": "Virginia sun-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.10.95.30",
+                            "Description": "Blackfat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.10.95.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Flue-cured, burley and other light air-cured leaf:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2401.10.61",
+                            "Description": "To be used in products other than cigarettes",
+                            "Subentries": [
+                              {
+                                "HS Code": "2401.10.61.30",
+                                "Description": "Flue-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.10.61.60",
+                                "Description": "Burley",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.10.61.80",
+                                "Description": "Maryland",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.10.61.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2401.10.63",
+                                "Description": "Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2401.10.63.30",
+                                    "Description": "Flue-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.10.63.60",
+                                    "Description": "Burley",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.10.63.80",
+                                    "Description": "Maryland",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.10.63.90",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "2401.10.65",
+                                "Description": "Other",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2401.10.65.30",
+                                    "Description": "Flue-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.10.65.60",
+                                    "Description": "Burley",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.10.65.80",
+                                    "Description": "Maryland",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.10.65.90",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "2401.20",
+            "Description": "Tobacco, partly or wholly stemmed/stripped:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Not threshed or similarly processed:",
+                "Subentries": [
+                  {
+                    "HS Code": "2401.20.05.00",
+                    "Description": "Leaf tobacco, the product of two or more countries or dependencies, when mixed or packed together",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Containing over 35 percent wrapper tobacco:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2401.20.14",
+                            "Description": "Wrapper tobacco",
+                            "Subentries": [
+                              {
+                                "HS Code": "2401.20.14.20",
+                                "Description": "Connecticut shade",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.20.14.40",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "2401.20.18.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Not containing wrapper tobacco, or not containing over 35 percent wrapper tobacco:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2401.20.29",
+                            "Description": "Cigar binder and filler",
+                            "Subentries": [
+                              {
+                                "HS Code": "2401.20.29.70",
+                                "Description": "Binder",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.20.29.90",
+                                "Description": "Filler",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Oriental or Turkish type:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2401.20.23.00",
+                                "Description": "Cigarette leaf",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.20.26.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2401.20.57",
+                                "Description": "Other",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2401.20.57.10",
+                                    "Description": "Fire-cured Kentucky and Tennessee",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.57.15",
+                                    "Description": "Dark-air cured Kentucky and Tennessee",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.57.20",
+                                    "Description": "Virginia fire-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.57.25",
+                                    "Description": "Virginia sun-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.57.30",
+                                    "Description": "Blackfat",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.57.40",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Flue-cured, burley and other light air-cured leaf:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2401.20.31",
+                                    "Description": "To be used in products other than cigarettes",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "2401.20.31.10",
+                                        "Description": "Flue-cured",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "2401.20.31.20",
+                                        "Description": "Burley",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "2401.20.31.30",
+                                        "Description": "Maryland",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "2401.20.31.40",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "2401.20.33",
+                                        "Description": "Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions",
+                                        "Subentries": [
+                                          {
+                                            "HS Code": "2401.20.33.10",
+                                            "Description": "Flue-cured",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "2401.20.33.20",
+                                            "Description": "Burley",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "2401.20.33.30",
+                                            "Description": "Maryland",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "2401.20.33.40",
+                                            "Description": "Other",
+                                            "Subentries": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "HS Code": "2401.20.35",
+                                        "Description": "Other",
+                                        "Subentries": [
+                                          {
+                                            "HS Code": "2401.20.35.10",
+                                            "Description": "Flue-cured",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "2401.20.35.20",
+                                            "Description": "Burley",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "2401.20.35.30",
+                                            "Description": "Maryland",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "2401.20.35.40",
+                                            "Description": "Other",
+                                            "Subentries": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Threshed or similarly processed:",
+                "Subentries": [
+                  {
+                    "HS Code": "2401.20.60",
+                    "Description": "From cigar leaf",
+                    "Subentries": [
+                      {
+                        "HS Code": "2401.20.60.20",
+                        "Description": "Connecticut shade",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2401.20.60.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2401.20.75.00",
+                        "Description": "Oriental or Turkish type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2401.20.83",
+                            "Description": "To be used in products other than cigarettes",
+                            "Subentries": [
+                              {
+                                "HS Code": "2401.20.83.10",
+                                "Description": "Flue-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.20.83.20",
+                                "Description": "Burley",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.20.83.30",
+                                "Description": "Maryland",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.20.83.35",
+                                "Description": "Fire-cured Kentucky and Tennessee",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.20.83.40",
+                                "Description": "Dark-air cured Kentucky and Tennessee",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.20.83.50",
+                                "Description": "Virginia fire-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.20.83.55",
+                                "Description": "Virginia sun-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.20.83.60",
+                                "Description": "Blackfat",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.20.83.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2401.20.85",
+                                "Description": "Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2401.20.85.10",
+                                    "Description": "Flue-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.85.20",
+                                    "Description": "Burley",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.85.30",
+                                    "Description": "Maryland",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.85.35",
+                                    "Description": "Fire-cured Kentucky and Tennessee",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.85.40",
+                                    "Description": "Dark-air cured Kentucky and Tennessee",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.85.50",
+                                    "Description": "Virginia fire-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.85.55",
+                                    "Description": "Virginia sun-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.85.60",
+                                    "Description": "Blackfat",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.85.90",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "2401.20.87",
+                                "Description": "Other",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2401.20.87.10",
+                                    "Description": "Flue-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.87.20",
+                                    "Description": "Burley",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.87.30",
+                                    "Description": "Maryland",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.87.35",
+                                    "Description": "Fire-cured Kentucky and Tennessee",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.87.40",
+                                    "Description": "Dark-air cured Kentucky and Tennessee",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.87.50",
+                                    "Description": "Virginia fire-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.87.55",
+                                    "Description": "Virginia sun-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.87.60",
+                                    "Description": "Blackfat",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.20.87.90",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "2401.30",
+            "Description": "Tobacco refuse:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "From cigar leaf:",
+                "Subentries": [
+                  {
+                    "HS Code": "2401.30.09.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Tobacco stems:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2401.30.03.00",
+                        "Description": "Not cut, not ground and not pulverized",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2401.30.06.00",
+                        "Description": "Cut, ground or pulverized",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "From Oriental or Turkish type tobacco:",
+                "Subentries": [
+                  {
+                    "HS Code": "2401.30.19.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Tobacco stems",
+                    "Subentries": [
+                      {
+                        "HS Code": "2401.30.13.00",
+                        "Description": "Not cut, not ground and not pulverized",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2401.30.16.00",
+                        "Description": "Cut, ground or pulverized",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "To be used in products other than cigarettes:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2401.30.27",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "2401.30.27.10",
+                            "Description": "Flue-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.27.20",
+                            "Description": "Burley",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.27.35",
+                            "Description": "Fire-cured Kentucky and Tennessee",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.27.40",
+                            "Description": "Dark air-cured Kentucky and Tennessee",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.27.50",
+                            "Description": "Virginia fire-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.27.60",
+                            "Description": "Virginia sun-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.27.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Tobacco stems:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2401.30.23",
+                            "Description": "Not cut, not ground and not pulverized",
+                            "Subentries": [
+                              {
+                                "HS Code": "2401.30.23.10",
+                                "Description": "Flue-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.23.20",
+                                "Description": "Burley",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.23.35",
+                                "Description": "Fire-cured Kentucky and Tennessee",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.23.40",
+                                "Description": "Dark air-cured Kentucky and Tennessee",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.23.50",
+                                "Description": "Virginia fire-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.23.60",
+                                "Description": "Virginia sun-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.23.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "2401.30.25",
+                            "Description": "Cut, ground or pulverized",
+                            "Subentries": [
+                              {
+                                "HS Code": "2401.30.25.10",
+                                "Description": "Flue-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.25.20",
+                                "Description": "Burley",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.25.35",
+                                "Description": "Fire-cured Kentucky and Tennessee",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.25.40",
+                                "Description": "Dark air-cured Kentucky and Tennessee",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.25.50",
+                                "Description": "Virginia fire-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.25.60",
+                                "Description": "Virginia sun-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.25.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2401.30.70",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "2401.30.70.10",
+                            "Description": "Flue-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.70.20",
+                            "Description": "Burley",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.70.35",
+                            "Description": "Fire-cured Kentucky and Tennessee",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.70.40",
+                            "Description": "Dark air-cured Kentucky and Tennessee",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.70.50",
+                            "Description": "Virginia fire-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.70.60",
+                            "Description": "Virginia sun-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2401.30.70.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2401.30.37",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "2401.30.37.10",
+                                "Description": "Flue-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.37.20",
+                                "Description": "Burley",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.37.35",
+                                "Description": "Fire-cured Kentucky and Tennessee",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.37.40",
+                                "Description": "Dark air-cured Kentucky and Tennessee",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.37.50",
+                                "Description": "Virginia fire-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.37.60",
+                                "Description": "Virginia sun-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2401.30.37.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Tobacco stems:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2401.30.33",
+                                "Description": "Not cut, not ground and not pulverized",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2401.30.33.10",
+                                    "Description": "Flue-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.30.33.20",
+                                    "Description": "Burley",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.30.33.35",
+                                    "Description": "Fire-cured Kentucky and Tennessee",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.30.33.40",
+                                    "Description": "Dark air-cured Kentucky and Tennessee",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.30.33.50",
+                                    "Description": "Virginia fire-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.30.33.60",
+                                    "Description": "Virginia sun-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.30.33.90",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "2401.30.35",
+                                "Description": "Cut, ground or pulverized",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2401.30.35.10",
+                                    "Description": "Flue-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.30.35.20",
+                                    "Description": "Burley",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.30.35.35",
+                                    "Description": "Fire-cured Kentucky and Tennessee",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.30.35.40",
+                                    "Description": "Dark air-cured Kentucky and Tennessee",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.30.35.50",
+                                    "Description": "Virginia fire-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.30.35.60",
+                                    "Description": "Virginia sun-cured",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2401.30.35.90",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "2402",
+        "Description": "Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes:",
+        "Subentries": [
+          {
+            "HS Code": "2402.10",
+            "Description": "Cigars, cheroots and cigarillos, containing tobacco:",
+            "Subentries": [
+              {
+                "HS Code": "2402.10.30",
+                "Description": "Each valued less than 15\u00a2",
+                "Subentries": [
+                  {
+                    "HS Code": "2402.10.30.30",
+                    "Description": "Small cigars, cheroots and cigarillos (weighing not more than 1.36 kg/1000)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2402.10.30.70",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "2402.10.60.00",
+                "Description": "Each valued 15\u00a2 or over but less than 23\u00a2",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2402.10.80",
+                "Description": "Each valued 23\u00a2 or over",
+                "Subentries": [
+                  {
+                    "HS Code": "2402.10.80.30",
+                    "Description": "Small cigars, cheroots and cigarillos (weighing not more than 1.36 kg/1000)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2402.10.80.50",
+                    "Description": "Other, each valued 23\u00a2 or more but not more than 76\u00a2",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2402.10.80.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "2402.20",
+            "Description": "Cigarettes containing tobacco:",
+            "Subentries": [
+              {
+                "HS Code": "2402.20.10.00",
+                "Description": "Containing clove",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "2402.20.80.00",
+                    "Description": "Paper-wrapped",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2402.20.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "2402.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "2403",
+        "Description": "Other manufactured tobacco and manufactured tobacco substitutes; \"homogenized\" or \"reconstituted\" tobacco; tobacco extracts and essences:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Smoking tobacco, whether or not containing tobacco substitutes in any proportion:",
+            "Subentries": [
+              {
+                "HS Code": "2403.11.00.00",
+                "Description": "Water pipe tobacco, specified in subheading note 1 to this chapter",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2403.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "2403.19.20",
+                    "Description": "Prepared for marketing to the ultimate consumer in the identical form and package in which imported",
+                    "Subentries": [
+                      {
+                        "HS Code": "2403.19.20.20",
+                        "Description": "Pipe tobacco",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2403.19.20.50",
+                        "Description": "Roll-your-own tobacco for making cigarettes",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2403.19.20.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2403.19.30",
+                        "Description": "To be used in products other than cigarettes",
+                        "Subentries": [
+                          {
+                            "HS Code": "2403.19.30.50",
+                            "Description": "Flue-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2403.19.30.60",
+                            "Description": "Burley",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2403.19.30.80",
+                            "Description": "Maryland",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2403.19.30.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2403.19.60",
+                            "Description": "Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions",
+                            "Subentries": [
+                              {
+                                "HS Code": "2403.19.60.50",
+                                "Description": "Flue-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2403.19.60.60",
+                                "Description": "Burley",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2403.19.60.80",
+                                "Description": "Maryland",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2403.19.60.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "2403.19.90",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "2403.19.90.50",
+                                "Description": "Flue-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2403.19.90.60",
+                                "Description": "Burley",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2403.19.90.80",
+                                "Description": "Maryland",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2403.19.90.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "2403.91",
+                "Description": "\"Homogenized\" or \"reconstituted\" tobacco:",
+                "Subentries": [
+                  {
+                    "HS Code": "2403.91.20.00",
+                    "Description": "Suitable for use as wrapper tobacco",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2403.91.43",
+                        "Description": "To be used in products other than cigarettes",
+                        "Subentries": [
+                          {
+                            "HS Code": "2403.91.43.50",
+                            "Description": "Flue-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2403.91.43.60",
+                            "Description": "Burley",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2403.91.43.80",
+                            "Description": "Maryland",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2403.91.43.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2403.91.45",
+                            "Description": "Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions",
+                            "Subentries": [
+                              {
+                                "HS Code": "2403.91.45.50",
+                                "Description": "Flue-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2403.91.45.60",
+                                "Description": "Burley",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2403.91.45.80",
+                                "Description": "Maryland",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2403.91.45.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "2403.91.47",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "2403.91.47.50",
+                                "Description": "Flue-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2403.91.47.60",
+                                "Description": "Burley",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2403.91.47.80",
+                                "Description": "Maryland",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2403.91.47.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "2403.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "2403.99.21",
+                    "Description": "Prepared for marketing to the ultimate consumer in the identical form and package in which imported",
+                    "Subentries": [
+                      {
+                        "HS Code": "2403.99.21.30",
+                        "Description": "Chewing tobacco",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2403.99.21.40",
+                        "Description": "Snuff and snuff flours of a kind described in statistical note 1 to this chapter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2403.99.21.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2403.99.31",
+                        "Description": "To be used in products other than cigarettes",
+                        "Subentries": [
+                          {
+                            "HS Code": "2403.99.31.50",
+                            "Description": "Flue-cured",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2403.99.31.60",
+                            "Description": "Burley",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2403.99.31.65",
+                                "Description": "Partially manufactured, blended or mixed tobacco",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2403.99.31.70",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2403.99.60",
+                            "Description": "Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions",
+                            "Subentries": [
+                              {
+                                "HS Code": "2403.99.60.50",
+                                "Description": "Flue-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2403.99.60.60",
+                                "Description": "Burley",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2403.99.60.65",
+                                    "Description": "Partially manufactured, blended or mixed tobacco",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2403.99.60.70",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "2403.99.90",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "2403.99.90.50",
+                                "Description": "Flue-cured",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2403.99.90.60",
+                                "Description": "Burley",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2403.99.90.65",
+                                    "Description": "Partially manufactured, blended or mixed tobacco",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2403.99.90.70",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "2404",
+        "Description": "Products containing tobacco, reconstituted tobacco, nicotine, or tobacco or nicotine substitutes, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Products intended for inhalation without combustion:",
+            "Subentries": [
+              {
+                "HS Code": "2404.11.00.00",
+                "Description": "Containing tobacco or reconstituted tobacco",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2404.12",
+                "Description": "Other, containing nicotine:",
+                "Subentries": [
+                  {
+                    "HS Code": "2404.12.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Mixtures for personal electric or electronic vaporizing devices:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2404.12.05.00",
+                        "Description": "Mixtures containing 5 percent or more by weight of one or more aromatic or modified aromatic substances",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2404.12.10.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "2404.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "2404.19.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Mixtures for personal electric or electronic vaporizing devices:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2404.19.05.00",
+                        "Description": "Mixtures containing 5 percent or more by weight of one or more aromatic or modified aromatic substances",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2404.19.10.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "2404.91.00.00",
+                "Description": "For oral application",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2404.92.00.00",
+                "Description": "For transdermal application",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2404.99.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

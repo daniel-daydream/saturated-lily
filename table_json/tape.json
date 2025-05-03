@@ -46,6 +46,11 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
+                        "HS Code": "3919.10.20.55",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "",
                         "Description": "Transparent tape, not exceeding 55 m in length:",
                         "Subentries": [
@@ -60,11 +65,6 @@
                             "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "3919.10.20.55",
-                        "Description": "Other",
-                        "Subentries": []
                       }
                     ]
                   }

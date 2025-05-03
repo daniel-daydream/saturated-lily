@@ -1,0 +1,142 @@
+[
+  {
+    "HS Code": "49",
+    "Description": "Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",
+    "Subentries": [
+      {
+        "HS Code": "4901",
+        "Description": "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets:",
+        "Subentries": [
+          {
+            "HS Code": "4901.10.00",
+            "Description": "In single sheets, whether or not folded",
+            "Subentries": [
+              {
+                "HS Code": "4901.10.00.20",
+                "Description": "Reproduction proofs",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4901.10.00.40",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "4901.91.00",
+                "Description": "Dictionaries and encyclopedias, and serial installments thereof",
+                "Subentries": [
+                  {
+                    "HS Code": "4901.91.00.20",
+                    "Description": "Dictionaries (including thesauruses)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4901.91.00.40",
+                    "Description": "Encyclopedias",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "4901.99.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "4901.99.00.10",
+                    "Description": "Textbooks",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4901.99.00.20",
+                    "Description": "Bound newspapers, journals and periodicals provided for in Legal Note 3 to this chapter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4901.99.00.30",
+                    "Description": "Directories",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4901.99.00.40",
+                        "Description": "Bibles, testaments, prayer books and other religious books",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4901.99.00.50",
+                        "Description": "Technical, scientific and professional books",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Art and pictorial books:",
+                        "Subentries": [
+                          {
+                            "HS Code": "4901.99.00.60",
+                            "Description": "Valued under $5 each",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4901.99.00.65",
+                            "Description": "Valued $5 or more each",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "4901.99.00.70",
+                            "Description": "Hardbound books",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4901.99.00.75",
+                            "Description": "Rack size paperbound books",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "4901.99.00.91",
+                                "Description": "Containing not more than 4 pages each (excluding covers)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4901.99.00.92",
+                                "Description": "Containing 5 or more pages each, but not more than 48 pages each (excluding covers)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4901.99.00.93",
+                                "Description": "Containing 49 or more pages each (excluding covers)",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

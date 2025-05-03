@@ -1,0 +1,139 @@
+[
+  {
+    "HS Code": "83",
+    "Description": "Miscellaneous articles of base metal",
+    "Subentries": [
+      {
+        "HS Code": "8302",
+        "Description": "Base metal mountings, fittings and similar articles suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like; base metal hat racks, hat-pegs, brackets and similar fixtures; castors with mountings of base metal; automatic door closers of base metal; and base metal parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8302.20.00.00",
+            "Description": "Castors, and parts thereof",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "87",
+    "Description": "Vehicles other than railway or tramway rolling stock, and parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "8716",
+        "Description": "Trailers and semi-trailers; other vehicles, not mechanically propelled; and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8716.90",
+            "Description": "Parts:",
+            "Subentries": [
+              {
+                "HS Code": "8716.90.10",
+                "Description": "Parts of farm wagons and carts:",
+                "Subentries": [
+                  {
+                    "HS Code": "8716.90.10.10",
+                    "Description": "Road wheels",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8716.90.10.20",
+                    "Description": "Wheel and tire assemblies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8716.90.10.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8716.90.30.00",
+                "Description": "Castors, other than those of heading 8302",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8716.90.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8716.90.50.10",
+                    "Description": "Axles and parts thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8716.90.50.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Wheels:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8716.90.50.35",
+                        "Description": "Steel wheels measuring 30 to 42 cm in diameter, whether or not assembled",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Wheels:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8716.90.50.48",
+                                "Description": "Other wheels",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Having a diameter of at least 57 cm but not more than 63 cm:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "8716.90.50.46",
+                                    "Description": "Of aluminum",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "8716.90.50.47",
+                                    "Description": "Of steel",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Wheels with tires:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8716.90.50.56",
+                                "Description": "Wheels with tires for off-the-highway use",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8716.90.50.59",
+                                "Description": "Wheels with other tires",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

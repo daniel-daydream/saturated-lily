@@ -1,0 +1,261 @@
+[
+  {
+    "HS Code": "97",
+    "Description": "Works of art, collectors' pieces and antiques",
+    "Subentries": [
+      {
+        "HS Code": "9701",
+        "Description": "Painting, drawings and pastels, executed entirely by hand, other than drawings of heading 4906 and other than hand-painted or hand-decorated manufacture articles; collages, mosaics and similar decorative plaques:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of an age exceeding 100 years:",
+            "Subentries": [
+              {
+                "HS Code": "9701.21.00.00",
+                "Description": "Paintings, drawings, and pastels",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9701.22.00.00",
+                "Description": "Mosaics",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9701.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9701.91.00.00",
+                "Description": "Paintings, drawings, and pastels",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9701.92.00.00",
+                "Description": "Mosaics",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9701.99.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9702",
+        "Description": "Original engravings, prints and lithographs:",
+        "Subentries": [
+          {
+            "HS Code": "9702.10.00.00",
+            "Description": "Of an age exceeding 100 years",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9702.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "9703",
+        "Description": "Original sculptures and statuary, in any material:",
+        "Subentries": [
+          {
+            "HS Code": "9703.10.00.00",
+            "Description": "Of an age exceeding 100 years",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9703.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "9704.00.00.00",
+        "Description": "Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery (stamped paper) and the like, used or unused, other than those of heading 4907",
+        "Subentries": []
+      },
+      {
+        "HS Code": "9705",
+        "Description": "Collections and collectors\u2019 pieces of archaeological, ethnographic, historical, zoological, botanical, mineralogical, anatomical, paleontological or numismatic interest:",
+        "Subentries": [
+          {
+            "HS Code": "9705.10.00",
+            "Description": "Collections and collectors\u2019 pieces of archaeological, ethnographic or historical interest",
+            "Subentries": [
+              {
+                "HS Code": "9705.10.00.10",
+                "Description": "Archaeological pieces of a kind described in statistical note 1 to this chapter",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9705.10.00.20",
+                "Description": "Ethnographic pieces of a kind described in statistical note 1 to this chapter",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9705.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Collections and collectors\u2019 pieces of zoological, botanical, mineralogical, anatomical or paleontological interest:",
+            "Subentries": [
+              {
+                "HS Code": "9705.21.00.00",
+                "Description": "Human specimens and parts thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9705.22.00.00",
+                "Description": "Extinct or endangered species and parts thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9705.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Collections and collectors\u2019 pieces of numismatic interest:",
+            "Subentries": [
+              {
+                "HS Code": "9705.31.00",
+                "Description": "Of an age exceeding 100 years",
+                "Subentries": [
+                  {
+                    "HS Code": "9705.31.00.01",
+                    "Description": "Coins made prior to the 14th century and not known to be the direct products of excavations, finds or archaeological sites",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Of an age equal to or exceeding 250 years:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9705.31.00.10",
+                            "Description": "Gold",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9705.31.00.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of an age exceeding 100 years but less than 250 years:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9705.31.00.50",
+                            "Description": "Gold",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9705.31.00.65",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "9705.39.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "9705.39.00.10",
+                    "Description": "Gold",
+                    "Subentries": [
+                      {
+                        "HS Code": "9705.39.00.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9706",
+        "Description": "Antiques of an age exceeding 100 years:",
+        "Subentries": [
+          {
+            "HS Code": "9706.10.00",
+            "Description": "Of an age exceeding 250 years",
+            "Subentries": [
+              {
+                "HS Code": "9706.10.00.20",
+                "Description": "Silverware",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9706.10.00.40",
+                "Description": "Furniture",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9706.10.00.60",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9706.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "9706.90.00.20",
+                "Description": "Silverware",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9706.90.00.40",
+                "Description": "Furniture",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9706.90.00.60",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

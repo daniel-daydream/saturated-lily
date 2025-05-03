@@ -1,0 +1,96 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8456",
+        "Description": "Machine tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron-beam, ionic-beam or plasma arc processes; water-jet cutting machines:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Operated by laser or other light or photon beam processes",
+            "Subentries": [
+              {
+                "HS Code": "8456.11",
+                "Description": "Operated by laser:",
+                "Subentries": [
+                  {
+                    "HS Code": "8456.11.10",
+                    "Description": "For working metal",
+                    "Subentries": [
+                      {
+                        "HS Code": "8456.11.10.10",
+                        "Description": "Numerically controlled",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8456.11.10.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8456.11.70.00",
+                        "Description": "Of a kind used solely or principally for the manufacture of printed circuits, printed circuit assemblies, parts of heading 8517 or parts of automatic data processing units",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8456.11.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8456.12",
+                "Description": "Operated by other light or photon beam processes:",
+                "Subentries": [
+                  {
+                    "HS Code": "8456.12.10",
+                    "Description": "For working metal",
+                    "Subentries": [
+                      {
+                        "HS Code": "8456.12.10.10",
+                        "Description": "Numerically controlled",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8456.12.10.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8456.12.70.00",
+                        "Description": "Of a kind used solely or principally for the manufacture of printed circuits, printed circuit assemblies, parts of heading 8517 or parts of automatic data processing",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8456.12.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

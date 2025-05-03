@@ -1,0 +1,79 @@
+[
+  {
+    "HS Code": "90",
+    "Description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9018",
+        "Description": "Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Syringes, needles, catheters, cannulae and the like; parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "9018.31.00",
+                "Description": "Syringes, with or without needles; parts and accessories thereof",
+                "Subentries": [
+                  {
+                    "HS Code": "9018.31.00.90",
+                    "Description": "Parts and accessories",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Syringes, with or without their needles:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9018.31.00.40",
+                        "Description": "Hypodermic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9018.31.00.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "9018.32.00.00",
+                "Description": "Tubular metal needles and needles for sutures and parts and accessories thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9018.39.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "9018.39.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Bougies, catheters, drains and sondes, and parts and accessories thereof:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9018.39.00.20",
+                        "Description": "Rubber catheters",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9018.39.00.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

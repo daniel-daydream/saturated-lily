@@ -1,0 +1,69 @@
+[
+  {
+    "HS Code": "30",
+    "Description": "Pharmaceutical products",
+    "Subentries": [
+      {
+        "HS Code": "3005",
+        "Description": "Wadding, gauze, bandages and similar articles (for example, dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes:",
+        "Subentries": [
+          {
+            "HS Code": "3005.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3005.90.10.00",
+                "Description": "Coated or impregnated with pharmaceutical substances",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3005.90.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3005.90.50.10",
+                    "Description": "Laparotomy sponges",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3005.90.50.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "48",
+    "Description": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+    "Subentries": [
+      {
+        "HS Code": "4818",
+        "Description": "Toilet paper and similar paper, cellulose wadding or webs of cellulose fibers, of a kind used for household or sanitary purposes, in rolls of a width not exceeding 36 cm, or cut to size or shape; handkerchiefs, cleansing tissues, towels, tablecloths, table napkins, bed sheets and similar household, sanitary or hospital articles, articles of apparel and clothing accessories, of paper pulp, paper, cellulose wadding or webs of cellulose fibers:",
+        "Subentries": [
+          {
+            "HS Code": "4818.20.00",
+            "Description": "Handkerchiefs, cleansing or facial tissues and towels",
+            "Subentries": [
+              {
+                "HS Code": "4818.20.00.20",
+                "Description": "Towels",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4818.20.00.40",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

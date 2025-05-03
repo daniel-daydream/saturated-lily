@@ -1,0 +1,73 @@
+[
+  {
+    "HS Code": "62",
+    "Description": "Articles of apparel and clothing accessories, not knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6217",
+        "Description": "Other made up clothing accessories; parts of garments or of clothing accessories, other than those of   heading 6212:",
+        "Subentries": [
+          {
+            "HS Code": "6217.10",
+            "Description": "Accessories:",
+            "Subentries": [
+              {
+                "HS Code": "6217.10.10",
+                "Description": "Containing 70 percent or more by weight of silk or silk waste",
+                "Subentries": [
+                  {
+                    "HS Code": "6217.10.10.10",
+                    "Description": "Headbands, ponytail holders and similar articles",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6217.10.10.90",
+                    "Description": "Other (759)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "6217.10.85.00",
+                    "Description": "Headbands, ponytail holders and similar articles",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6217.10.95",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "6217.10.95.10",
+                        "Description": "Of cotton (359)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6217.10.95.20",
+                        "Description": "Of wool or fine animal hair (459)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6217.10.95.30",
+                        "Description": "Of man-made fibers (659)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6217.10.95.50",
+                        "Description": "Other (859)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

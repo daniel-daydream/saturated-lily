@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8424",
+        "Description": "Mechanical appliances (whether or not hand operated) for projecting, dispersing or spraying liquids or powders; fire extinguishers, whether or not charged; spray guns and similar appliances; steam or sand blasting machines and similar jet projecting machines; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8424.20",
+            "Description": "Spray guns and similar appliances:",
+            "Subentries": [
+              {
+                "HS Code": "8424.20.10.00",
+                "Description": "Simple piston pump sprays and powder bellows",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8424.20.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

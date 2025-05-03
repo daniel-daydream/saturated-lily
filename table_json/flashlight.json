@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8513",
+        "Description": "Portable electric lamps designed to function by their own source of energy (for example, dry batteries, storage batteries, magnetos), other than lighting equipment of heading 8512; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8513.10",
+            "Description": "Lamps:",
+            "Subentries": [
+              {
+                "HS Code": "8513.10.20.00",
+                "Description": "Flashlights",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8513.10.40.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

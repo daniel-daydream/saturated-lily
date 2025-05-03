@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8518",
+        "Description": "Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers; audio-frequency electric amplifiers; electric sound amplifier sets; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8518.40",
+            "Description": "Audio-frequency electric amplifiers:",
+            "Subentries": [
+              {
+                "HS Code": "8518.40.10.00",
+                "Description": "For use as repeaters in line telephony",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8518.40.20.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

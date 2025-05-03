@@ -1,0 +1,533 @@
+[
+  {
+    "HS Code": "92",
+    "Description": "Musical instruments; parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "9201",
+        "Description": "Pianos, including player pianos; harpsichords and other keyboard stringed instruments:",
+        "Subentries": [
+          {
+            "HS Code": "9201.10.00",
+            "Description": "Upright pianos",
+            "Subentries": [
+              {
+                "HS Code": "9201.10.00.05",
+                "Description": "Used",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9201.10.00.11",
+                    "Description": "Containing a case measuring less than 111.76 cm in height",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9201.10.00.21",
+                    "Description": "Containing a case measuring 111.76 cm or more but less than 121.92 cm in height",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9201.10.00.31",
+                    "Description": "Containing a case measuring 121.92 cm or more but less than 129.54 cm in height",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9201.10.00.41",
+                    "Description": "Containing a case measuring 129.54 cm or more in height",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9201.20.00",
+            "Description": "Grand pianos",
+            "Subentries": [
+              {
+                "HS Code": "9201.20.00.05",
+                "Description": "Used",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9201.20.00.11",
+                    "Description": "Containing a case measuring less than 152.40 cm in length",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9201.20.00.21",
+                    "Description": "Containing a case measuring 152.40 cm or more but less than 167.64 cm in length",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9201.20.00.31",
+                    "Description": "Containing a case measuring 167.64 cm or more but less than 180.34 cm in length",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9201.20.00.41",
+                    "Description": "Containing a case measuring 180.34 cm or more but less than 195.58 cm in length",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9201.20.00.51",
+                    "Description": "Containing a case measuring 195.58 cm or more in length",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9201.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "9202",
+        "Description": "Other string musical instruments (for example, guitars, violins, harps):",
+        "Subentries": [
+          {
+            "HS Code": "9202.10.00.00",
+            "Description": "Played with a bow",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9202.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9202.90.60.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Guitars:",
+                "Subentries": [
+                  {
+                    "HS Code": "9202.90.20.00",
+                    "Description": "Valued not over $100 each, excluding the value of the case",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9202.90.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9205",
+        "Description": "Wind musical instruments (for example, keyboard pipe organs, accordions, clarinets, trumpets, bagpipes), other than fairground organs and mechanical street organs:",
+        "Subentries": [
+          {
+            "HS Code": "9205.10.00",
+            "Description": "Brass-wind instruments",
+            "Subentries": [
+              {
+                "HS Code": "9205.10.00.40",
+                "Description": "Valued not over $10 each",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9205.10.00.80",
+                "Description": "Valued over $10 each",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9205.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9205.90.60.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Keyboard pipe organs; harmoniums and similar keyboard instruments with free metal reeds:",
+                "Subentries": [
+                  {
+                    "HS Code": "9205.90.12.00",
+                    "Description": "Keyboard pipe organs",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9205.90.14.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Accordions and similar instruments; mouth organs:",
+                "Subentries": [
+                  {
+                    "HS Code": "9205.90.19.00",
+                    "Description": "Mouth organs",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Accordions and similar instruments:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9205.90.15.00",
+                        "Description": "Piano accordions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9205.90.18.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Woodwind instruments:",
+                "Subentries": [
+                  {
+                    "HS Code": "9205.90.20.00",
+                    "Description": "Bagpipes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9205.90.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9205.90.40.20",
+                        "Description": "Clarinets",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9205.90.40.40",
+                        "Description": "Saxophones",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9205.90.40.60",
+                        "Description": "Flutes and piccolos (except bamboo)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9205.90.40.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9206.00",
+        "Description": "Percussion musical instruments (for example, drums, xylophones, cymbals, castanets, maracas):",
+        "Subentries": [
+          {
+            "HS Code": "9206.00.20.00",
+            "Description": "Drums",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9206.00.40.00",
+            "Description": "Cymbals",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9206.00.60.00",
+            "Description": "Sets of tuned bells known as chimes, peals or carillons",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9206.00.80.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "9207",
+        "Description": "Musical instruments, the sound of which is produced, or must be amplified, electrically (for example, organs, guitars, accordions):",
+        "Subentries": [
+          {
+            "HS Code": "9207.10.00",
+            "Description": "Keyboard instruments, other than accordions",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Music synthesizers:",
+                "Subentries": [
+                  {
+                    "HS Code": "9207.10.00.05",
+                    "Description": "Valued under $100 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9207.10.00.10",
+                    "Description": "Valued $100 or over each",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "With more than one keyboard:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9207.10.00.45",
+                        "Description": "Valued under $200 each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9207.10.00.55",
+                        "Description": "Valued $200 or over each",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "With one keyboard:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9207.10.00.60",
+                        "Description": "Hand-held",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9207.10.00.65",
+                            "Description": "Valued under $100 each",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9207.10.00.75",
+                            "Description": "Valued $100 or over each",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9207.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "9207.90.00.40",
+                "Description": "Fretted stringed instruments",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9207.90.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9208",
+        "Description": "Music boxes, fairground organs, mechanical street organs, mechanical singing birds, musical saws and other musical instruments not falling within any other heading of this chapter; decoy calls of all kinds; whistles, call horns and other mouth-blown sound signaling instruments:",
+        "Subentries": [
+          {
+            "HS Code": "9208.10.00.00",
+            "Description": "Music boxes",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9208.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "9208.90.00.40",
+                "Description": "Musical instruments",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9208.90.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9209",
+        "Description": "Parts (for example, mechanisms for music boxes) and accessories (for example, cards, discs and rolls for mechanical instruments) of musical instruments; metronomes, tuning forks and pitch pipes of all kinds:",
+        "Subentries": [
+          {
+            "HS Code": "9209.30.00.00",
+            "Description": "Musical instrument strings",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9209.91",
+                "Description": "Parts and accessories for pianos:",
+                "Subentries": [
+                  {
+                    "HS Code": "9209.91.40.00",
+                    "Description": "Tuning pins",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9209.91.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9209.92",
+                "Description": "Parts and accessories for the musical instruments of heading 9202:",
+                "Subentries": [
+                  {
+                    "HS Code": "9209.92.20.00",
+                    "Description": "Mutes, collapsible musical instrument stands and music holders for attachment to musical instruments",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9209.92.40.00",
+                    "Description": "Tuning pins",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9209.92.60.00",
+                    "Description": "Bows, parts of bows, bow hair, chin rests and other parts and accessories for string instruments played with a bow",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9209.92.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9209.94",
+                "Description": "Parts and accessories for the musical instruments of heading 9207:",
+                "Subentries": [
+                  {
+                    "HS Code": "9209.94.40.00",
+                    "Description": "Collapsible musical instrument stands",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9209.94.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9209.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9209.99.05.00",
+                    "Description": "Metronomes, tuning forks and pitch pipes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9209.99.10.00",
+                    "Description": "Mutes for musical instruments; pedals, dampers and spurs for drums; pedals and holders for cymbals; lyres and other music holders for attachment to musical instruments; and collapsible stands for holding music or for holding musical instruments",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9209.99.16.00",
+                        "Description": "For pipe organs of subheading 9205.90.12",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9209.99.18.00",
+                        "Description": "For instruments of subheading 9205.90.14",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9209.99.20.00",
+                        "Description": "For bagpipes",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9209.99.40",
+                        "Description": "For other woodwind and brass wind musical instruments",
+                        "Subentries": [
+                          {
+                            "HS Code": "9209.99.40.40",
+                            "Description": "For woodwind musical instruments",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9209.99.40.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "9209.99.61.00",
+                        "Description": "For music boxes",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9209.99.80.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

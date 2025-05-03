@@ -1,0 +1,111 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8471",
+        "Description": "Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "8471.70",
+            "Description": "Storage units:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Magnetic disk drive units:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "For a disk of a diameter exceeding 21 cm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8471.70.10.00",
+                        "Description": "Without read-write unit assembled therein; read-write units entered separately",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8471.70.20.00",
+                        "Description": "Units for physical incorporation into automatic data processing machines or units thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8471.70.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8471.70.40",
+                        "Description": "Not assembled in cabinets, and without attached external power supply",
+                        "Subentries": [
+                          {
+                            "HS Code": "8471.70.40.35",
+                            "Description": "Flexible (floppy) magnetic disk drive units",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8471.70.40.65",
+                            "Description": "Hard magnetic disk drive units",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8471.70.40.95",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8471.70.50",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8471.70.50.35",
+                            "Description": "Flexible (floppy) magnetic disk drive units",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8471.70.50.65",
+                            "Description": "Hard magnetic disk drive units",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8471.70.50.95",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other storage units:",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.70.60.00",
+                    "Description": "Not assembled in cabinets for placing on a table, desk, wall, floor or similar place",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.70.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

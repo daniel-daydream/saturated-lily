@@ -1,0 +1,922 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8471",
+        "Description": "Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "8471.30.01.00",
+            "Description": "Portable automatic data processing machines, weighing not more than 10 kg, consisting of at least a central processing unit, a keyboard and a display",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8471.50.01",
+            "Description": "Processing units other than those of subheading 8471.41 or 8471.49, whether or not containing in the same housing one or two of the following types of unit: storage units, input units, output units",
+            "Subentries": [
+              {
+                "HS Code": "8471.50.01.10",
+                "Description": "With cathode-ray tube (CRT)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8471.50.01.50",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8471.60",
+            "Description": "Input or output units, whether or not containing storage units in the same housing:",
+            "Subentries": [
+              {
+                "HS Code": "8471.60.10",
+                "Description": "Combined input/output units",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.60.10.10",
+                    "Description": "With cathode-ray tube (CRT)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.60.20.00",
+                    "Description": "Keyboards",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.70.00",
+                    "Description": "Units suitable for physical incorporation into automatic data processing machines or units thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.80.00",
+                    "Description": "Optical scanners and magnetic ink recognition devices",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.60.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8471.60.90.30",
+                        "Description": "Card key and magnetic media entry devices",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8471.60.90.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8471.70",
+            "Description": "Storage units:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Magnetic disk drive units:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "For a disk of a diameter exceeding 21 cm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8471.70.10.00",
+                        "Description": "Without read-write unit assembled therein; read-write units entered separately",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8471.70.20.00",
+                        "Description": "Units for physical incorporation into automatic data processing machines or units thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8471.70.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8471.70.40",
+                        "Description": "Not assembled in cabinets, and without attached external power supply",
+                        "Subentries": [
+                          {
+                            "HS Code": "8471.70.40.35",
+                            "Description": "Flexible (floppy) magnetic disk drive units",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8471.70.40.65",
+                            "Description": "Hard magnetic disk drive units",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8471.70.40.95",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8471.70.50",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8471.70.50.35",
+                            "Description": "Flexible (floppy) magnetic disk drive units",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8471.70.50.65",
+                            "Description": "Hard magnetic disk drive units",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8471.70.50.95",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other storage units:",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.70.60.00",
+                    "Description": "Not assembled in cabinets for placing on a table, desk, wall, floor or similar place",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.70.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8471.80",
+            "Description": "Other units of automatic data processing machines:",
+            "Subentries": [
+              {
+                "HS Code": "8471.80.10.00",
+                "Description": "Control or adapter units",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.80.40.00",
+                    "Description": "Units suitable for physical incorporation into automatic data processing machines",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.80.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8471.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other automatic data processing machines:",
+            "Subentries": [
+              {
+                "HS Code": "8471.41.01",
+                "Description": "Comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined",
+                "Subentries": [
+                  {
+                    "HS Code": "8471.41.01.10",
+                    "Description": "With cathode-ray tube (CRT)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8471.41.01.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8471.49.00.00",
+                "Description": "Other, entered in the form of systems",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8472",
+        "Description": "Other office machines (for example, hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coin-sorting machines, coin-counting or wrapping machines, pencil-sharpening machines, perforating or stapling machines):",
+        "Subentries": [
+          {
+            "HS Code": "8472.10.00.00",
+            "Description": "Duplicating machines",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8472.30.00.00",
+            "Description": "Machines for sorting or folding mail or for inserting mail in envelopes or bands, machines for opening, closing or sealing mail and machines for affixing or canceling postage stamps",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8472.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "8472.90.05.00",
+                "Description": "Addressing machines and address plate embossing machines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8472.90.10.00",
+                "Description": "Automatic teller machines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8472.90.40.00",
+                "Description": "Pencil sharpeners",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8472.90.50.00",
+                "Description": "Typewriters other than printers of heading 8443; word processing machines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8472.90.60.00",
+                "Description": "Numbering, dating and check-writing machines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8472.90.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8472.90.90.40",
+                    "Description": "Desktop note counters and note scanners",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8472.90.90.60",
+                    "Description": "Other currency and coin handling machines",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8472.90.90.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8473",
+        "Description": "Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings 8470 to 8472:",
+        "Subentries": [
+          {
+            "HS Code": "8473.30",
+            "Description": "Parts and accessories of the machines of heading 8471:",
+            "Subentries": [
+              {
+                "HS Code": "8473.30.91.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Not incorporating a cathode ray tube:",
+                "Subentries": [
+                  {
+                    "HS Code": "8473.30.11",
+                    "Description": "Printed circuit assemblies",
+                    "Subentries": [
+                      {
+                        "HS Code": "8473.30.11.40",
+                        "Description": "Memory modules suitable for use solely or principally with machines of heading 8471",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8473.30.11.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8473.30.20.00",
+                    "Description": "Parts and accessories, including face plates and lock latches, of printed circuit assemblies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8473.30.51.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8473.40",
+            "Description": "Parts and accessories of the machines of heading 8472:",
+            "Subentries": [
+              {
+                "HS Code": "8473.40.10.00",
+                "Description": "Printed circuit assemblies for automatic teller machines of subheading 8472.90.10",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8473.40.21.00",
+                "Description": "Printed circuit assemblies of word processing machines of 8472.90.50",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8473.40.41.00",
+                "Description": "Other parts and accessories of the machines of 8472.90.50",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8473.40.86.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8473.50",
+            "Description": "Parts and accessories equally suitable for use with machines of two or more of the headings 8470 to 8472:",
+            "Subentries": [
+              {
+                "HS Code": "8473.50.30.00",
+                "Description": "Printed circuit assemblies",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8473.50.60.00",
+                "Description": "Parts and accessories, including face plates and lock latches, of printed circuit assemblies",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8473.50.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Parts and accessories of the machines of heading 8470:",
+            "Subentries": [
+              {
+                "HS Code": "8473.21.00.00",
+                "Description": "Of the electronic calculating machines of subheading 8470.10, 8470.21 or 8470.29",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8473.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8517",
+        "Description": "Telephone sets, including smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 8443, 8525, 8527 or 8528; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other apparatus for transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network):",
+            "Subentries": [
+              {
+                "HS Code": "8517.61.00.00",
+                "Description": "Base stations",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8517.62.00",
+                "Description": "Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus",
+                "Subentries": [
+                  {
+                    "HS Code": "8517.62.00.10",
+                    "Description": "Modems, of a kind used with data processing machines of heading 8471",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8517.62.00.20",
+                    "Description": "Switching and routing apparatus",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8517.62.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8517.69.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8528",
+        "Description": "Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Projectors:",
+            "Subentries": [
+              {
+                "HS Code": "8528.62.00.00",
+                "Description": "Capable of directly connecting to and designed for use with an automatic data processing machine of heading 8471",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8528.69",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8528.69.70.00",
+                    "Description": "Black and white or other monochrome",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Color:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Incomplete or unfinished (including assemblies consisting of the parts specified in subdivisions (a), (b), (c) and (e) in additional U.S. note 9 to this chapter plus a power supply), presented without a display device:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8528.69.05.00",
+                            "Description": "Incorporating video recording or reproducing apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.69.10.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Non-high definition, with a cathode-ray tube:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8528.69.15.00",
+                            "Description": "Incorporating video recording or reproducing apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.69.20.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "High definition, with a cathode-ray tube:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8528.69.25.00",
+                            "Description": "Incorporating video recording or reproducing apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.69.30.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "With a flat panel screen:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Incorporating video recording or reproducing apparatus:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8528.69.35.00",
+                                "Description": "With a video display diagonal not exceeding 34.29 cm",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8528.69.40.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8528.69.45.00",
+                                "Description": "With a video display diagonal not exceeding 34.29 cm",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8528.69.50.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8528.69.55.00",
+                            "Description": "Incorporating video recording or reproducing apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.69.60.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8528.71",
+                "Description": "Not designed to incorporate a video display or screen:",
+                "Subentries": [
+                  {
+                    "HS Code": "8528.71.10.00",
+                    "Description": "Incorporating video recording or reproducing apparatus",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8528.71.20.00",
+                        "Description": "Set top boxes which have a communications function",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8528.71.30.00",
+                        "Description": "Printed circuit assemblies incorporating a tuner, of a kind used with data processing machines of heading 8471",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8528.71.40.00",
+                            "Description": "Color",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.71.45.00",
+                            "Description": "Black and white or other monochrome",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8528.72",
+                "Description": "Other, color:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Incomplete or unfinished (including assemblies for television receivers consisting of all the parts specified in additional U.S. note 9 to this chapter plus a power supply), presented without a display device:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8528.72.04.00",
+                        "Description": "Incorporating video recording or reproducing apparatus",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8528.72.08.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Non-high definition, having a single picture tube intended for direct viewing (non-projection type), with a video display diagonal not exceeding 35.56 cm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Incorporating video recording or reproducing apparatus:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8528.72.12.00",
+                            "Description": "With a video display diagonal not exceeding 34.29 cm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.72.16.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8528.72.20.00",
+                            "Description": "With a video display diagonal not exceeding 34.29 cm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.72.24.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Non-high definition, having a single picture tube intended for direct viewing (non-projection type), with a video display diagonal exceeding 35.56 cm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8528.72.28.00",
+                        "Description": "Incorporating video recording or reproducing apparatus",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8528.72.32.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Non-high definition, projection type, with a cathode-ray tube:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8528.72.36.00",
+                        "Description": "Incorporating video recording or reproducing apparatus",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8528.72.40.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "High definition, non-projection type, with a cathode-ray tube:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8528.72.44.00",
+                        "Description": "Incorporating video recording or reproducing apparatus",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8528.72.48.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "High definition, projection type, with a cathode-ray tube:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8528.72.52.00",
+                        "Description": "Incorporating video recording or reproducing apparatus",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8528.72.56.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "With a flat panel screen:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Incorporating video recording or reproducing apparatus:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8528.72.62.00",
+                            "Description": "With a video display diagonal not exceeding 34.29 cm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.72.64",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "With a video display diagonal:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "8528.72.64.20",
+                                    "Description": "Not exceeding 75 cm",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "8528.72.64.30",
+                                    "Description": "Exceeding 75 cm but not exceeding 88 cm",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "8528.72.64.40",
+                                    "Description": "Exceeding 88 cm but not exceeding 113 cm",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "8528.72.64.60",
+                                    "Description": "Exceeding 113 cm",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8528.72.68.00",
+                            "Description": "With a video display diagonal not exceeding 34.29 cm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.72.72",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "8528.72.72.90",
+                                "Description": "Other, including plasma-type",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "LCD-type (direct-view), with a video display diagonal:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "8528.72.72.20",
+                                    "Description": "Not exceeding 75 cm",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "8528.72.72.30",
+                                    "Description": "Exceeding 75 cm but not exceeding 88 cm",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "8528.72.72.40",
+                                    "Description": "Exceeding 88 cm but not exceeding 113 cm",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "8528.72.72.60",
+                                    "Description": "Exceeding 113 cm",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Incorporating video recording or reproducing apparatus:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8528.72.76.00",
+                            "Description": "With a video display diagonal not exceeding 34.29 cm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.72.80.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8528.72.84.00",
+                            "Description": "With a video display diagonal not exceeding 34.29 cm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.72.97.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8528.73.00.00",
+                "Description": "Other, monochrome",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

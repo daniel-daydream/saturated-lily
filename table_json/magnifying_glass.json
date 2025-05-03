@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "90",
+    "Description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9011",
+        "Description": "Compound optical microscopes, including those for photomicrography, cinemicrography or microprojection; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9011.10",
+            "Description": "Stereoscopic microscopes:",
+            "Subentries": [
+              {
+                "HS Code": "9011.10.40.00",
+                "Description": "Provided with a means for photographing the image",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9011.10.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

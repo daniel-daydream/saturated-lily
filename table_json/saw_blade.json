@@ -1,0 +1,46 @@
+[
+  {
+    "HS Code": "82",
+    "Description": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",
+    "Subentries": [
+      {
+        "HS Code": "8202",
+        "Description": "Handsaws, and metal parts thereof; blades for saws of all kinds (including slitting, slotting or toothless saw blades), and base metal parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Circular saw blades (including slitting or slotting saw blades), and parts thereof:",
+            "Subentries": [
+              {
+                "HS Code": "8202.31.00.00",
+                "Description": "With working part of steel",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8202.39.00",
+                "Description": "Other, including parts",
+                "Subentries": [
+                  {
+                    "HS Code": "8202.39.00.10",
+                    "Description": "With diamond working parts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8202.39.00.40",
+                    "Description": "Diamond sawblade cores",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8202.39.00.70",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

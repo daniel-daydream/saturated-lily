@@ -1,0 +1,368 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8425",
+        "Description": "Pulley tackle and hoists other than skip hoists; winches and capstans; jacks:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Pulley tackle and hoists other than skip hoists or hoists of a kind used for raising vehicles:",
+            "Subentries": [
+              {
+                "HS Code": "8425.11.00.00",
+                "Description": "Powered by electric motor",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8425.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Winches; capstans:",
+            "Subentries": [
+              {
+                "HS Code": "8425.31.01.00",
+                "Description": "Powered by electric motor",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8425.39.01.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Jacks; hoists of a kind used for raising vehicles:",
+            "Subentries": [
+              {
+                "HS Code": "8425.41.00.00",
+                "Description": "Built-in jacking systems of a type used in garages",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8425.42.00.00",
+                "Description": "Other jacks and hoists, hydraulic",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8425.49.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8426",
+        "Description": "Ships' derricks; cranes, including cable cranes; mobile lifting frames, straddle carriers and works trucks fitted with a crane:",
+        "Subentries": [
+          {
+            "HS Code": "8426.20.00.00",
+            "Description": "Tower cranes",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8426.30.00.00",
+            "Description": "Portal or pedestal jib cranes",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Overhead traveling cranes, transporter cranes, gantry cranes, bridge cranes, mobile lifting frames and straddle carriers:",
+            "Subentries": [
+              {
+                "HS Code": "8426.11.00.00",
+                "Description": "Overhead traveling cranes on fixed support",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8426.12.00.00",
+                "Description": "Mobile lifting frames on tires and straddle carriers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8426.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other machinery, self-propelled:",
+            "Subentries": [
+              {
+                "HS Code": "8426.41.00",
+                "Description": "On tires",
+                "Subentries": [
+                  {
+                    "HS Code": "8426.41.00.05",
+                    "Description": "Works trucks fitted with a crane",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8426.41.00.10",
+                        "Description": "Cable operated",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8426.41.00.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8426.49.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8426.49.00.10",
+                    "Description": "Cable operated",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8426.49.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other machinery:",
+            "Subentries": [
+              {
+                "HS Code": "8426.91.00.00",
+                "Description": "Designed for mounting on road vehicles",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8426.99.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8427",
+        "Description": "Fork-lift trucks; other works trucks fitted with lifting or handling equipment:",
+        "Subentries": [
+          {
+            "HS Code": "8427.10",
+            "Description": "Self-propelled trucks powered by an electric motor:",
+            "Subentries": [
+              {
+                "HS Code": "8427.10.40.00",
+                "Description": "Rider-type, counterbalanced fork-lift trucks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8427.10.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Operator riding:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8427.10.80.20",
+                        "Description": "Aerial work platforms of a kind described in statistical note 3 to this chapter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8427.10.80.30",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Automated guided vehicle (AGV):",
+                    "Subentries": [
+                      {
+                        "HS Code": "8427.10.80.40",
+                        "Description": "Aerial work platforms of a kind described in statistical note 3 to this chapter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8427.10.80.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8427.10.80.70",
+                        "Description": "Aerial work platforms of a kind described in statistical note 3 to this chapter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8427.10.80.95",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8427.20",
+            "Description": "Other self-propelled trucks:",
+            "Subentries": [
+              {
+                "HS Code": "8427.20.40.00",
+                "Description": "Rider-type, counterbalanced fork-lift trucks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8427.20.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8427.20.80.20",
+                    "Description": "Aerial work platforms of a kind described in statistical note 3 to this chapter.",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8427.20.80.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8427.90.00",
+            "Description": "Other trucks",
+            "Subentries": [
+              {
+                "HS Code": "8427.90.00.20",
+                "Description": "Aerial work platforms of a kind described in statistical note 3 to this chapter.",
+                "Subentries": [
+                  {
+                    "HS Code": "8427.90.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8428",
+        "Description": "Other lifting, handling, loading or unloading machinery (for example, elevators, escalators, conveyors, teleferics):",
+        "Subentries": [
+          {
+            "HS Code": "8428.10.00.00",
+            "Description": "Passenger or freight elevators other than continuous action; skip hoists",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8428.20.00",
+            "Description": "Pneumatic elevators and conveyors",
+            "Subentries": [
+              {
+                "HS Code": "8428.20.00.10",
+                "Description": "Conveyors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8428.20.00.50",
+                "Description": "Elevators",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8428.40.00.00",
+            "Description": "Escalators and moving walkways",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8428.60.00.00",
+            "Description": "Teleferics, chair lifts, ski draglines; traction mechanisms for funiculars",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8428.70.00.00",
+            "Description": "Industrial robots",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8428.90.03",
+            "Description": "Other machinery",
+            "Subentries": [
+              {
+                "HS Code": "8428.90.03.10",
+                "Description": "Woodland log handling equipment (other than skidders)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8428.90.03.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other continuous-action elevators and conveyors, for goods or materials:",
+            "Subentries": [
+              {
+                "HS Code": "8428.31.00.00",
+                "Description": "Specially designed for underground use",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8428.32.00.00",
+                "Description": "Other, bucket type",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8428.33.00.00",
+                "Description": "Other, belt type",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8428.39.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

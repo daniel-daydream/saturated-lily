@@ -66,21 +66,6 @@
                         "Description": "Other:",
                         "Subentries": [
                           {
-                            "HS Code": "9404.29.90.85",
-                            "Description": "For use in a crib or toddler bed",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9404.29.90.87",
-                            "Description": "Of a width exceeding 91 cm, of a length exceeding 184 cm, and a depth exceeding 8 cm",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "9404.29.90.95",
-                            "Description": "Other",
-                            "Subentries": []
-                          },
-                          {
                             "HS Code": "9404.29.90.05",
                             "Description": "For use in a crib or toddler bed",
                             "Subentries": []
@@ -92,6 +77,21 @@
                           },
                           {
                             "HS Code": "9404.29.90.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9404.29.90.85",
+                            "Description": "For use in a crib or toddler bed",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9404.29.90.87",
+                            "Description": "Of a width exceeding 91 cm, of a length exceeding 184 cm, and a depth exceeding 8 cm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9404.29.90.95",
                             "Description": "Other",
                             "Subentries": []
                           }

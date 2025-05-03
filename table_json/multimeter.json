@@ -1,0 +1,51 @@
+[
+  {
+    "HS Code": "90",
+    "Description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9030",
+        "Description": "Oscilloscopes, spectrum analyzers and other instruments and apparatus for measuring or checking electrical quantities, excluding meters of heading 9028; instruments and apparatus for measuring or detecting alpha, beta, gamma, X-ray, cosmic or other ionizing radiations; parts and accessories thereof:\u200b",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):",
+            "Subentries": [
+              {
+                "HS Code": "9030.31.00.00",
+                "Description": "Multimeters, without a recording device",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9030.32.00.00",
+                "Description": "Multimeters, with a recording device",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9030.33",
+                "Description": "Other, without a recording device:",
+                "Subentries": [
+                  {
+                    "HS Code": "9030.33.34.00",
+                    "Description": "Resistance measuring instruments",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9030.33.38.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9030.39.01.00",
+                "Description": "Other, with a recording device",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

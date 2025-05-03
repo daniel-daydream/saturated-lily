@@ -1,0 +1,74 @@
+[
+  {
+    "HS Code": "15",
+    "Description": "Animal or vegetable fats and oils and their cleavage products prepared edible fats; animal or vegetable waxes",
+    "Subentries": [
+      {
+        "HS Code": "1512",
+        "Description": "Sunflower-seed, safflower or cottonseed oil, and fractions thereof, whether or not refined, but not chemically modified:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Sunflower-seed or safflower oil and fractions thereof:",
+            "Subentries": [
+              {
+                "HS Code": "1512.11.00",
+                "Description": "Crude oil",
+                "Subentries": [
+                  {
+                    "HS Code": "1512.11.00.40",
+                    "Description": "Safflower oil",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Sunflower-seed oil:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1512.11.00.25",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1512.11.00.35",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1512.19.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1512.19.00.40",
+                    "Description": "Safflower oil",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Sunflower-seed oil:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1512.19.00.25",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1512.19.00.35",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

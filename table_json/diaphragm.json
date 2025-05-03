@@ -1,0 +1,58 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8484",
+        "Description": "Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals:",
+        "Subentries": [
+          {
+            "HS Code": "8484.20.00.00",
+            "Description": "Mechanical seals",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "90",
+    "Description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9021",
+        "Description": "Orthopedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9021.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9021.90.40",
+                "Description": "Parts and accessories for hearing aids and for pacemakers for stimulating heart muscles",
+                "Subentries": [
+                  {
+                    "HS Code": "9021.90.40.40",
+                    "Description": "For hearing aids",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9021.90.40.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9021.90.81.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

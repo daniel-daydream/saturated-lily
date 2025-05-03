@@ -1,0 +1,19 @@
+[
+  {
+    "HS Code": "30",
+    "Description": "Pharmaceutical products",
+    "Subentries": [
+      {
+        "HS Code": "3006",
+        "Description": "Pharmaceutical goods specified in note 4 to this chapter:",
+        "Subentries": [
+          {
+            "HS Code": "3006.50.00.00",
+            "Description": "First-aid boxes and kits",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

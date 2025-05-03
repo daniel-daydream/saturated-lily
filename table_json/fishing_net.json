@@ -1,0 +1,74 @@
+[
+  {
+    "HS Code": "56",
+    "Description": "Wadding, felt and nonwovens; special yarns, twine, cordage, ropes and cables and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "5608",
+        "Description": "Knotted netting of twine, cordage or rope; made up fishing nets and other made up nets, of textile materials:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of man-made textile materials:",
+            "Subentries": [
+              {
+                "HS Code": "5608.11.00",
+                "Description": "Made up fishing nets",
+                "Subentries": [
+                  {
+                    "HS Code": "5608.11.00.10",
+                    "Description": "Hand-cast string-drawn",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5608.11.00.90",
+                    "Description": "Other (229)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5608.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "5608.19.10",
+                    "Description": "Fish netting",
+                    "Subentries": [
+                      {
+                        "HS Code": "5608.19.10.10",
+                        "Description": "Salmon gill netting, of nylon or other polyamides (229)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5608.19.10.20",
+                        "Description": "Other (229)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5608.19.20",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "5608.19.20.10",
+                        "Description": "Bait bags with draw string closures",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5608.19.20.90",
+                        "Description": "Other (229)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

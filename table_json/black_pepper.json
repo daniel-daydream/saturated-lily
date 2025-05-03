@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "09",
+    "Description": "Coffee, tea, mat\u00e9 and spices",
+    "Subentries": [
+      {
+        "HS Code": "0904",
+        "Description": "Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum (peppers) or of the genus Pimenta (e.g., allspice):",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Pepper of the genus Piper:",
+            "Subentries": [
+              {
+                "HS Code": "0904.11.00",
+                "Description": "Neither crushed nor ground",
+                "Subentries": [
+                  {
+                    "HS Code": "0904.11.00.20",
+                    "Description": "Black",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0904.11.00.40",
+                    "Description": "White",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0904.12.00.00",
+                "Description": "Crushed or ground",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

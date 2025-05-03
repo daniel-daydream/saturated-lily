@@ -1,0 +1,493 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8481",
+        "Description": "Taps, cocks, valves and similar appliances, for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8481.10.00",
+            "Description": "Pressure-reducing valves",
+            "Subentries": [
+              {
+                "HS Code": "8481.10.00.20",
+                "Description": "Hydraulic fluid power type",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8481.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Pneumatic fluid power type:",
+                "Subentries": [
+                  {
+                    "HS Code": "8481.10.00.40",
+                    "Description": "Filter-regulators and filter-regulator-lubricators",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.10.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8481.20.00",
+            "Description": "Valves for oleohydraulic or pneumatic transmissions",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Hydraulic valves:",
+                "Subentries": [
+                  {
+                    "HS Code": "8481.20.00.40",
+                    "Description": "Flow control type",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.20.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Directional control",
+                    "Subentries": [
+                      {
+                        "HS Code": "8481.20.00.10",
+                        "Description": "Manual type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8481.20.00.20",
+                        "Description": "Solenoid type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8481.20.00.30",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8481.20.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Directional control:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8481.20.00.60",
+                        "Description": "Solenoid type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8481.20.00.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8481.30",
+            "Description": "Check (nonreturn) valves:",
+            "Subentries": [
+              {
+                "HS Code": "8481.30.10",
+                "Description": "Of copper",
+                "Subentries": [
+                  {
+                    "HS Code": "8481.30.10.10",
+                    "Description": "Having a pressure rating under 850 kPa",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.30.10.90",
+                    "Description": "Having a pressure rating of 850 kPa or over",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8481.30.20",
+                "Description": "Of iron or steel",
+                "Subentries": [
+                  {
+                    "HS Code": "8481.30.20.10",
+                    "Description": "Of iron",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.30.20.90",
+                    "Description": "Of steel",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8481.30.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8481.40.00.00",
+            "Description": "Safety or relief valves",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8481.80",
+            "Description": "Other appliances:",
+            "Subentries": [
+              {
+                "HS Code": "8481.80.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8481.80.90.05",
+                    "Description": "Solenoid valves",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.80.90.10",
+                    "Description": "Ballcock mechanisms",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.80.90.15",
+                    "Description": "Regulator valves, self-operating, for controlling variables such as temperature, pressure, flow and liquid level",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8481.80.90.30",
+                        "Description": "With hydraulic actuators",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8481.80.90.45",
+                        "Description": "With thermostatic actuators",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8481.80.90.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "With electrical or electro-hydraulic actuators:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8481.80.90.20",
+                            "Description": "Control valves designed for proportional operation by a signal from a control device",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.90.25",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "With pneumatic actuators:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8481.80.90.35",
+                            "Description": "Control valves designed for proportional operation by a signal from a control device",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.90.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Hand operated:",
+                "Subentries": [
+                  {
+                    "HS Code": "8481.80.10",
+                    "Description": "Of copper",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Having a pressure rating under 850 kPa:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8481.80.10.20",
+                            "Description": "Bath and shower faucets",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.10.30",
+                            "Description": "Sink and lavatory faucets",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.10.40",
+                            "Description": "Supply stops",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.10.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Having a pressure rating of 850 kPa or over:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8481.80.10.60",
+                            "Description": "Gate type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.10.70",
+                            "Description": "Globe type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.10.75",
+                            "Description": "Plug type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.10.85",
+                            "Description": "Ball type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.10.90",
+                            "Description": "Butterfly type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.10.95",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8481.80.30",
+                    "Description": "Of iron or steel",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Of iron:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8481.80.30.10",
+                            "Description": "Gate type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.30.15",
+                            "Description": "Globe type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.30.20",
+                            "Description": "Plug type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.30.25",
+                            "Description": "Ball type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.30.30",
+                            "Description": "Butterfly type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.30.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of steel:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8481.80.30.55",
+                            "Description": "Gate type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.30.60",
+                            "Description": "Globe type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.30.65",
+                            "Description": "Plug type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.30.70",
+                            "Description": "Ball type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.30.75",
+                            "Description": "Butterfly type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.80.30.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8481.80.50",
+                    "Description": "Of other materials",
+                    "Subentries": [
+                      {
+                        "HS Code": "8481.80.50.40",
+                        "Description": "Pressure spray can valves",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8481.80.50.60",
+                        "Description": "Bath, shower, sink and lavatory faucets",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8481.80.50.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8481.90",
+            "Description": "Parts:",
+            "Subentries": [
+              {
+                "HS Code": "8481.90.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of valves of subheading 8481.20:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8481.90.90.20",
+                        "Description": "Valve bodies",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8481.90.90.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8481.90.90.60",
+                        "Description": "Valve bodies",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8481.90.90.81",
+                            "Description": "Steel forgings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8481.90.90.85",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Of hand operated and check appliances:",
+                "Subentries": [
+                  {
+                    "HS Code": "8481.90.10.00",
+                    "Description": "Of copper",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.90.30.00",
+                    "Description": "Of iron or steel",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.90.50.00",
+                    "Description": "Of other materials",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

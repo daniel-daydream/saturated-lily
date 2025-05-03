@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "40",
+    "Description": "Rubber and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "4009",
+        "Description": "Tubes, pipes and hoses, of vulcanized rubber other than hard rubber, with or without their fittings (for example, joints, elbows, flanges):",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Reinforced or otherwise combined only with metal:",
+            "Subentries": [
+              {
+                "HS Code": "4009.21.00.00",
+                "Description": "Without fittings",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4009.22.00",
+                "Description": "With fittings",
+                "Subentries": [
+                  {
+                    "HS Code": "4009.22.00.20",
+                    "Description": "Brake hoses for the vehicles of subheadings 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29 or headings 8702, 8703, 8704, 8705 or 8711",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4009.22.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

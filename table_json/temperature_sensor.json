@@ -1,0 +1,127 @@
+[
+  {
+    "HS Code": "90",
+    "Description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9025",
+        "Description": "Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9025.80",
+            "Description": "Other instruments:",
+            "Subentries": [
+              {
+                "HS Code": "9025.80.10.00",
+                "Description": "Electrical",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9025.80.15.00",
+                    "Description": "Barometers, not combined with other instruments",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.80.20.00",
+                    "Description": "Hydrometers and similar floating instruments, whether or not incorporating a thermometer, non-recording",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.80.35.00",
+                    "Description": "Hygrometers and psychrometers, non-recording",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.80.40.00",
+                    "Description": "Thermographs, barographs, hygrographs and other recording instruments",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.80.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Thermometers and pyrometers, not combined with other instruments:",
+            "Subentries": [
+              {
+                "HS Code": "9025.11",
+                "Description": "Liquid-filled, for direct reading:",
+                "Subentries": [
+                  {
+                    "HS Code": "9025.11.20.00",
+                    "Description": "Clinical",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.11.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9025.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9025.19.40.00",
+                    "Description": "Pyrometers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9025.19.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Clinical",
+                        "Subentries": [
+                          {
+                            "HS Code": "9025.19.80.10",
+                            "Description": "Infrared thermometers of a kind described in statistical note 2 of this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9025.19.80.20",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "9025.19.80.60",
+                            "Description": "Infrared thermometers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9025.19.80.85",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8431",
+        "Description": "Parts suitable for use solely or principally with the machinery of headings 8425 to 8430:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of machinery of heading 8428:",
+            "Subentries": [
+              {
+                "HS Code": "8431.31.00",
+                "Description": "Of passenger or freight elevators other than continuous action, skip hoists or escalators",
+                "Subentries": [
+                  {
+                    "HS Code": "8431.31.00.20",
+                    "Description": "Of skip hoists",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8431.31.00.40",
+                    "Description": "Of escalators",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8431.31.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8431.39.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8431.39.00.10",
+                    "Description": "Of elevators and conveyors",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8431.39.00.50",
+                        "Description": "Of oil and gas field machinery",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8431.39.00.70",
+                        "Description": "Of the woodland log handling equipment of statistical reporting number 8428.90.0310",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8431.39.00.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

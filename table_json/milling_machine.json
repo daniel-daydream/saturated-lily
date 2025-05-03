@@ -1,0 +1,89 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8459",
+        "Description": "Machine tools (including way-type unit head machines) for drilling, boring, milling, threading or tapping by removing metal, other than lathes (including turning centers) of heading 8458:",
+        "Subentries": [
+          {
+            "HS Code": "8459.10.00.00",
+            "Description": "Way-type unit head machines",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other drilling machines:",
+            "Subentries": [
+              {
+                "HS Code": "8459.21.00",
+                "Description": "Numerically controlled",
+                "Subentries": [
+                  {
+                    "HS Code": "8459.21.00.40",
+                    "Description": "Used or rebuilt",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8459.21.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8459.29.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8459.29.00.10",
+                    "Description": "Used or rebuilt",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8459.29.00.20",
+                    "Description": "Other, valued under $3,025 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8459.29.00.40",
+                        "Description": "Multiple spindle",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8459.29.00.50",
+                            "Description": "Radial",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8459.29.00.70",
+                            "Description": "Upright, excluding sensitive (hand- directed), turret and deep-hole machines",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8459.29.00.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

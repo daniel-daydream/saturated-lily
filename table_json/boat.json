@@ -1,0 +1,34 @@
+[
+  {
+    "HS Code": "89",
+    "Description": "Ships, boats and floating structures",
+    "Subentries": [
+      {
+        "HS Code": "8901",
+        "Description": "Cruise ships, excursion boats, ferry boats, cargo ships, barges and similar vessels for the transport of persons or goods:",
+        "Subentries": [
+          {
+            "HS Code": "8901.10.00.00",
+            "Description": "Cruise ships, excursion boats and similar vessels principally designed for the transport of persons; ferry boats of all kinds",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8901.20.00.00",
+            "Description": "Tankers",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8901.30.00.00",
+            "Description": "Refrigerated vessels, other than those of subheading 8901.20",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8901.90.00.00",
+            "Description": "Other vessels for the transport of goods and other vessels for the transport of both persons and goods",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

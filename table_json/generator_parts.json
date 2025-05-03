@@ -1,0 +1,99 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8503.00",
+        "Description": "Parts suitable for use solely or principally with the machines of heading 8501 or 8502:",
+        "Subentries": [
+          {
+            "HS Code": "8503.00.20.00",
+            "Description": "Commutators",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Stators and rotors for the goods of heading 8501:",
+            "Subentries": [
+              {
+                "HS Code": "8503.00.35.00",
+                "Description": "For motors of under 18.65 W",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8503.00.45.00",
+                "Description": "For generators suitable for use on aircraft",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8503.00.65.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "8503.00.75.00",
+                "Description": "For motors of under 18.65 W",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8503.00.90.00",
+                "Description": "For generators suitable for use on aircraft",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8503.00.95",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8503.00.95.20",
+                    "Description": "Parts of motors",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Parts of generators:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8503.00.95.46",
+                        "Description": "For AC generators (alternators) classified in statistical reporting number 8501.64.0121",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8503.00.95.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8503.00.95.70",
+                        "Description": "Parts of wind-powered generating sets classified in subheading 8502.31.00",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8503.00.95.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

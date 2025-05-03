@@ -1,0 +1,88 @@
+[
+  {
+    "HS Code": "29",
+    "Description": "Organic chemicals",
+    "Subentries": [
+      {
+        "HS Code": "2905",
+        "Description": "Acyclic alcohols and their halogenated, sulfonated, nitrated or nitrosated derivatives:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other polyhydric alcohols:",
+            "Subentries": [
+              {
+                "HS Code": "2905.41.00.00",
+                "Description": "2-Ethyl-2-(hydroxymethyl)propane-1,3-diol (Trimethylolpropane)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2905.42.00.00",
+                "Description": "Pentaerythritol",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2905.43.00.00",
+                "Description": "Mannitol",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2905.44.00.00",
+                "Description": "D-Glucitol (Sorbitol)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2905.45.00.00",
+                "Description": "Glycerol",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2905.49",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "2905.49.10.00",
+                    "Description": "Triols and tetrols",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2905.49.20.00",
+                    "Description": "Esters of glycerol formed with acids of heading 2904",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2905.49.50.01",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Polyhydric alcohols derived from sugars:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2905.49.30.00",
+                            "Description": "Xylitol",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2905.49.40.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

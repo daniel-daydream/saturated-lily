@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "33",
+    "Description": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+    "Subentries": [
+      {
+        "HS Code": "3302",
+        "Description": "Mixtures of odoriferous substances and mixtures (including alcoholic solutions) with a basis of one or more of these substances, of a kind used as raw materials in industry; other preparations based on odoriferous substances, of a kind used for the manufacture of beverages:",
+        "Subentries": [
+          {
+            "HS Code": "3302.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3302.90.10",
+                "Description": "Containing no alcohol or not over 10 percent of alcohol by weight",
+                "Subentries": [
+                  {
+                    "HS Code": "3302.90.10.10",
+                    "Description": "Perfume oil mixtures and blends, consisting of products ready for use as finished perfume bases",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3302.90.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3302.90.20",
+                "Description": "Containing over 10 percent of alcohol by weight",
+                "Subentries": [
+                  {
+                    "HS Code": "3302.90.20.10",
+                    "Description": "Perfume oil mixtures and blends, consisting of products ready for use as finished perfume bases",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3302.90.20.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "74",
+    "Description": "Copper and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "7408",
+        "Description": "Copper wire:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of refined copper:",
+            "Subentries": [
+              {
+                "HS Code": "7408.11",
+                "Description": "Of which the maximum cross-sectional dimension exceeds 6 mm:",
+                "Subentries": [
+                  {
+                    "HS Code": "7408.11.30.00",
+                    "Description": "With a maximum cross-sectional dimension over 9.5 mm",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7408.11.60.00",
+                    "Description": "With a maximum cross-sectional dimension over 6 mm but not over 9.5 mm",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7408.19.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "7408.19.00.30",
+                    "Description": "With a maximum cross-sectional dimension of 3 mm or less",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7408.19.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

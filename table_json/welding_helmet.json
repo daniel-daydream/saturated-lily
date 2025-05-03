@@ -1,0 +1,74 @@
+[
+  {
+    "HS Code": "65",
+    "Description": "Headgear and parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "6506",
+        "Description": "Other headgear, whether or not lined or trimmed:",
+        "Subentries": [
+          {
+            "HS Code": "6506.10",
+            "Description": "Safety headgear:",
+            "Subentries": [
+              {
+                "HS Code": "6506.10.30",
+                "Description": "Of reinforced or laminated plastics",
+                "Subentries": [
+                  {
+                    "HS Code": "6506.10.30.30",
+                    "Description": "Motorcycle helmets",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6506.10.30.45",
+                        "Description": "Athletic, recreational and sporting headgear",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6506.10.30.75",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6506.10.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "6506.10.60.30",
+                    "Description": "Motorcycle helmets",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6506.10.60.45",
+                        "Description": "Athletic, recreational and sporting headgear",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6506.10.60.75",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

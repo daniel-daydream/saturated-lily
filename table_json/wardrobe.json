@@ -1,0 +1,57 @@
+[
+  {
+    "HS Code": "94",
+    "Description": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated sign illuminated nameplates and the like; prefabricated buildings",
+    "Subentries": [
+      {
+        "HS Code": "9403",
+        "Description": "Other furniture and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9403.60",
+            "Description": "Other wooden furniture:",
+            "Subentries": [
+              {
+                "HS Code": "9403.60.40.00",
+                "Description": "Bent-wood furniture",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9403.60.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "9403.60.80.10",
+                    "Description": "Play yards and other enclosures for confining children",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9403.60.80.40",
+                    "Description": "Dining tables",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9403.60.80.89",
+                        "Description": "Of teak (Tectona spp.)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9403.60.80.93",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

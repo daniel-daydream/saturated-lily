@@ -4,6 +4,28 @@
     "Description": "Articles of apparel and clothing accessories, knitted or crocheted",
     "Subentries": [
       {
+        "HS Code": "6101",
+        "Description": "Men's or boys' overcoats, carcoats, capes, cloaks, anoraks (including ski-jackets), windbreakers and similar articles, knitted or crocheted, other than those of heading 6103:",
+        "Subentries": [
+          {
+            "HS Code": "6101.20.00",
+            "Description": "Of cotton",
+            "Subentries": [
+              {
+                "HS Code": "6101.20.00.10",
+                "Description": "Men's (334)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6101.20.00.20",
+                "Description": "Boys' (334)",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
         "HS Code": "6110",
         "Description": "Sweaters, pullovers, sweatshirts, waistcoats (vests) and similar articles, knitted or crocheted:",
         "Subentries": [
@@ -324,28 +346,6 @@
                     ]
                   }
                 ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "HS Code": "6101",
-        "Description": "Men's or boys' overcoats, carcoats, capes, cloaks, anoraks (including ski-jackets), windbreakers and similar articles, knitted or crocheted, other than those of heading 6103:",
-        "Subentries": [
-          {
-            "HS Code": "6101.20.00",
-            "Description": "Of cotton",
-            "Subentries": [
-              {
-                "HS Code": "6101.20.00.10",
-                "Description": "Men's (334)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "6101.20.00.20",
-                "Description": "Boys' (334)",
-                "Subentries": []
               }
             ]
           }

@@ -1,0 +1,57 @@
+[
+  {
+    "HS Code": "22",
+    "Description": "Beverages, spirits and vinegar",
+    "Subentries": [
+      {
+        "HS Code": "2207",
+        "Description": "Undenatured ethyl alcohol of an alcoholic strength by volume of 80 percent vol. or higher; ethyl alcohol and other spirits, denatured, of any strength:",
+        "Subentries": [
+          {
+            "HS Code": "2207.10",
+            "Description": "Undenatured ethyl alcohol of an alcoholic strength by volume of 80 percent vol. or higher:",
+            "Subentries": [
+              {
+                "HS Code": "2207.10.30.00",
+                "Description": "For beverage purposes",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2207.10.60",
+                "Description": "For nonbeverage purposes",
+                "Subentries": [
+                  {
+                    "HS Code": "2207.10.60.10",
+                    "Description": "For fuel use",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2207.10.60.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "2207.20.00",
+            "Description": "Ethyl alcohol and other spirits, denatured, of any strength",
+            "Subentries": [
+              {
+                "HS Code": "2207.20.00.10",
+                "Description": "For fuel use",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2207.20.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

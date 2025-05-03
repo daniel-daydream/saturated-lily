@@ -1,0 +1,78 @@
+[
+  {
+    "HS Code": "68",
+    "Description": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+    "Subentries": [
+      {
+        "HS Code": "6804",
+        "Description": "Millstones, grindstones, grinding wheels and the like, without frameworks, for grinding, sharpening, polishing, trueing or cutting, hand sharpening or polishing stones, and parts thereof, of natural stone, of agglomerated natural or artificial abrasives, or of ceramics, with or without parts of other materials:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other millstones, grindstones, grinding wheels and the like:",
+            "Subentries": [
+              {
+                "HS Code": "6804.21.00",
+                "Description": "Of agglomerated synthetic or natural diamond",
+                "Subentries": [
+                  {
+                    "HS Code": "6804.21.00.10",
+                    "Description": "Segments for circular sawblades, consisting of diamond agglomerated with metal",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6804.21.00.20",
+                    "Description": "Articles consisting of a continuous rim segment of diamond agglomerated with metal, attached to circular plates of steel (whether or not attached to non-steel plates)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6804.21.00.30",
+                    "Description": "Articles consisting of multiple segments of diamond agglomerated with metal, attached to circular plates of steel, without cutting parts (whether or not attached to non-steel plates)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6804.21.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "6804.22",
+                "Description": "Of other agglomerated abrasives or of ceramics:",
+                "Subentries": [
+                  {
+                    "HS Code": "6804.22.10.00",
+                    "Description": "Bonded with synthetic resins",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6804.22.40.00",
+                        "Description": "Abrasive wheels",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6804.22.60.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "6804.23.00.00",
+                "Description": "Of natural stone",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

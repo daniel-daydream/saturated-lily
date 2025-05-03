@@ -1,0 +1,200 @@
+[
+  {
+    "HS Code": "76",
+    "Description": "Aluminum and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "7606",
+        "Description": "Aluminum plates, sheets and strip, of a thickness exceeding 0.2 mm:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Rectangular (including square):",
+            "Subentries": [
+              {
+                "HS Code": "7606.11",
+                "Description": "Of aluminum, not alloyed:",
+                "Subentries": [
+                  {
+                    "HS Code": "7606.11.30",
+                    "Description": "Not clad",
+                    "Subentries": [
+                      {
+                        "HS Code": "7606.11.30.30",
+                        "Description": "With a thickness of more than 6.3 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7606.11.30.60",
+                        "Description": "With a thickness of 6.3 mm or less",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7606.11.60.00",
+                    "Description": "Clad",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7606.12",
+                "Description": "Of aluminum alloys:",
+                "Subentries": [
+                  {
+                    "HS Code": "7606.12.30",
+                    "Description": "Not clad",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "With a thickness of more than 6.3 mm:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7606.12.30.15",
+                            "Description": "High-strength heat-treatable alloys of a kind described in statistical note 6 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7606.12.30.25",
+                            "Description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7606.12.30.35",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "With a thickness of 6.3 mm or less:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Aluminum can stock:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7606.12.30.45",
+                                "Description": "Body stock",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7606.12.30.55",
+                                "Description": "Lid stock",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7606.12.30.91",
+                                "Description": "Heat-treatable industrial alloys of a kind described in statistical note 7 to this chapter",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7606.12.30.96",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7606.12.60.00",
+                    "Description": "Clad",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7606.91",
+                "Description": "Of aluminum, not alloyed:",
+                "Subentries": [
+                  {
+                    "HS Code": "7606.91.30",
+                    "Description": "Not clad",
+                    "Subentries": [
+                      {
+                        "HS Code": "7606.91.30.55",
+                        "Description": "With a thickness of more than 6.3 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7606.91.30.95",
+                        "Description": "With a thickness of 6.3 mm or less",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7606.91.60",
+                    "Description": "Clad",
+                    "Subentries": [
+                      {
+                        "HS Code": "7606.91.60.55",
+                        "Description": "With a thickness of more than 6.3 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7606.91.60.95",
+                        "Description": "With a thickness of 6.3 mm or less",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7606.92",
+                "Description": "Of aluminum alloys:",
+                "Subentries": [
+                  {
+                    "HS Code": "7606.92.30",
+                    "Description": "Not clad",
+                    "Subentries": [
+                      {
+                        "HS Code": "7606.92.30.25",
+                        "Description": "With a thickness of more than 6.3 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7606.92.30.35",
+                        "Description": "With a thickness of 6.3 mm or less",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7606.92.60",
+                    "Description": "Clad",
+                    "Subentries": [
+                      {
+                        "HS Code": "7606.92.60.55",
+                        "Description": "With a thickness of more than 6.3 mm",
+                        "Subentries": [
+                          {
+                            "HS Code": "7606.92.60.95",
+                            "Description": "With a thickness of 6.3 mm or less",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

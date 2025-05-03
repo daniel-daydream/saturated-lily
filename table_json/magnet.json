@@ -1,0 +1,72 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8505",
+        "Description": "Electromagnets; permanent magnets and articles intended to become permanent magnets after magnetization; electromagnetic or permanent magnet chucks, clamps and similar holding devices; electromagnetic couplings, clutches and brakes; electromagnetic lifting heads; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Permanent magnets and articles intended to become permanent magnets after magnetization:",
+            "Subentries": [
+              {
+                "HS Code": "8505.11.00",
+                "Description": "Of metal",
+                "Subentries": [
+                  {
+                    "HS Code": "8505.11.00.10",
+                    "Description": "Alnico",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8505.11.00.30",
+                    "Description": "Ceramic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8505.11.00.50",
+                    "Description": "Sintered samarium-cobalt",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8505.11.00.70",
+                    "Description": "Sintered neodymium-iron-boron",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8505.11.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8505.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8505.19.10.00",
+                    "Description": "Flexible magnets",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8505.19.20.00",
+                    "Description": "Composite good containing flexible magnets",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8505.19.30.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

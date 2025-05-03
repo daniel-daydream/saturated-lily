@@ -1,0 +1,138 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3922",
+        "Description": "Baths, shower baths, sinks, washbasins, bidets, lavatory pans, seats and covers, flushing cisterns and similar sanitary ware, of plastics:",
+        "Subentries": [
+          {
+            "HS Code": "3922.20.00.00",
+            "Description": "Lavatory seats and covers",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "69",
+    "Description": "Ceramic products",
+    "Subentries": [
+      {
+        "HS Code": "6910",
+        "Description": "Ceramic sinks, washbasins, washbasin pedestals, baths, bidets, water closet bowls, flush tanks, urinals and similar sanitary fixtures:",
+        "Subentries": [
+          {
+            "HS Code": "6910.10.00",
+            "Description": "Of porcelain or china",
+            "Subentries": [
+              {
+                "HS Code": "6910.10.00.05",
+                "Description": "Water closet bowls, flushometer type",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6910.10.00.10",
+                "Description": "Water closet bowls with tanks, in one piece",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6910.10.00.15",
+                "Description": "Flush tanks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6910.10.00.20",
+                "Description": "Other water closet bowls",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6910.10.00.30",
+                "Description": "Sinks and lavatories",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6910.10.00.50",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "83",
+    "Description": "Miscellaneous articles of base metal",
+    "Subentries": [
+      {
+        "HS Code": "8302",
+        "Description": "Base metal mountings, fittings and similar articles suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like; base metal hat racks, hat-pegs, brackets and similar fixtures; castors with mountings of base metal; automatic door closers of base metal; and base metal parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8302.10",
+            "Description": "Hinges, and parts thereof:",
+            "Subentries": [
+              {
+                "HS Code": "8302.10.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8302.10.90.30",
+                    "Description": "Suitable for interior and exterior doors (except garage, overhead or sliding doors)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8302.10.90.60",
+                    "Description": "Suitable for furniture and cabinets",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8302.10.90.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Of iron or steel, of aluminum or of zinc:",
+                "Subentries": [
+                  {
+                    "HS Code": "8302.10.30.00",
+                    "Description": "Designed for motor vehicles",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8302.10.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8302.10.60.30",
+                        "Description": "Suitable for interior and exterior doors (except garage, overhead or sliding doors)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8302.10.60.60",
+                        "Description": "Suitable for furniture and cabinets",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8302.10.60.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

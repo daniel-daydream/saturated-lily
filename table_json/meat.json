@@ -1,0 +1,1345 @@
+[
+  {
+    "HS Code": "02",
+    "Description": "Meat and edible meat offal",
+    "Subentries": [
+      {
+        "HS Code": "0201",
+        "Description": "Meat of bovine animals, fresh or chilled:",
+        "Subentries": [
+          {
+            "HS Code": "0201.10",
+            "Description": "Carcasses and half-carcasses:",
+            "Subentries": [
+              {
+                "HS Code": "0201.10.05",
+                "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                "Subentries": [
+                  {
+                    "HS Code": "0201.10.05.10",
+                    "Description": "Veal",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0201.10.05.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0201.10.10",
+                "Description": "Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions",
+                "Subentries": [
+                  {
+                    "HS Code": "0201.10.10.10",
+                    "Description": "Veal",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0201.10.10.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0201.10.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0201.10.50.10",
+                    "Description": "Veal",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0201.10.50.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0201.20",
+            "Description": "Other cuts with bone in:",
+            "Subentries": [
+              {
+                "HS Code": "0201.20.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0201.20.80.10",
+                    "Description": "Bison",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0201.20.80.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions:",
+                "Subentries": [
+                  {
+                    "HS Code": "0201.20.06.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Processed:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0201.20.02.00",
+                        "Description": "High-quality beef cuts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0201.20.04.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions:",
+                "Subentries": [
+                  {
+                    "HS Code": "0201.20.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0201.20.50.15",
+                        "Description": "Fresh or chilled bone in veal cuts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0201.20.50.25",
+                            "Description": "Rib cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0201.20.50.35",
+                            "Description": "Chuck cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0201.20.50.45",
+                            "Description": "Loin cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0201.20.50.65",
+                            "Description": "Hip cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0201.20.50.75",
+                            "Description": "Flank or plate cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0201.20.50.91",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Processed:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0201.20.10.00",
+                        "Description": "High-quality beef cuts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0201.20.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0201.30",
+            "Description": "Boneless:",
+            "Subentries": [
+              {
+                "HS Code": "0201.30.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0201.30.80.10",
+                    "Description": "Bison",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0201.30.80.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions:",
+                "Subentries": [
+                  {
+                    "HS Code": "0201.30.06.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Processed:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0201.30.02.00",
+                        "Description": "High-quality beef cuts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0201.30.04.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions:",
+                "Subentries": [
+                  {
+                    "HS Code": "0201.30.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0201.30.50.15",
+                        "Description": "Fresh or chilled boneless veal cuts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0201.30.50.25",
+                            "Description": "Rib cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0201.30.50.35",
+                            "Description": "Chuck cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0201.30.50.45",
+                            "Description": "Loin cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0201.30.50.55",
+                            "Description": "Brisket cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0201.30.50.65",
+                            "Description": "Hip cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0201.30.50.75",
+                            "Description": "Flank or plate cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0201.30.50.85",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Processed:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0201.30.10.00",
+                        "Description": "High-quality beef cuts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0201.30.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0202",
+        "Description": "Meat of bovine animals, frozen:",
+        "Subentries": [
+          {
+            "HS Code": "0202.10",
+            "Description": "Carcasses and half-carcasses:",
+            "Subentries": [
+              {
+                "HS Code": "0202.10.05",
+                "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                "Subentries": [
+                  {
+                    "HS Code": "0202.10.05.10",
+                    "Description": "Veal",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0202.10.05.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0202.10.10",
+                "Description": "Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions",
+                "Subentries": [
+                  {
+                    "HS Code": "0202.10.10.10",
+                    "Description": "Veal",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0202.10.10.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0202.10.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0202.10.50.10",
+                    "Description": "Veal",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0202.10.50.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0202.20",
+            "Description": "Other cuts with bone in:",
+            "Subentries": [
+              {
+                "HS Code": "0202.20.80.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions:",
+                "Subentries": [
+                  {
+                    "HS Code": "0202.20.06.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Processed:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0202.20.02.00",
+                        "Description": "High-quality beef cuts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0202.20.04.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions:",
+                "Subentries": [
+                  {
+                    "HS Code": "0202.20.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0202.20.50.25",
+                        "Description": "Rib cuts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0202.20.50.35",
+                        "Description": "Chuck cuts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0202.20.50.45",
+                        "Description": "Loin cuts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0202.20.50.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Processed:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0202.20.10.00",
+                        "Description": "High-quality beef cuts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0202.20.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0202.30",
+            "Description": "Boneless:",
+            "Subentries": [
+              {
+                "HS Code": "0202.30.80.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions:",
+                "Subentries": [
+                  {
+                    "HS Code": "0202.30.06.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Processed:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0202.30.02.00",
+                        "Description": "High-quality beef cuts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0202.30.04.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions:",
+                "Subentries": [
+                  {
+                    "HS Code": "0202.30.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0202.30.50.15",
+                        "Description": "Frozen boneless veal cuts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0202.30.50.25",
+                            "Description": "Rib cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0202.30.50.35",
+                            "Description": "Chuck cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0202.30.50.45",
+                            "Description": "Loin cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0202.30.50.55",
+                            "Description": "Brisket cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0202.30.50.65",
+                            "Description": "Hip cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0202.30.50.75",
+                            "Description": "Flank or plate cuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0202.30.50.85",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Processed:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0202.30.10.00",
+                        "Description": "High-quality beef cuts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0202.30.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0203",
+        "Description": "Meat of swine, fresh, chilled, or frozen:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Fresh or chilled:",
+            "Subentries": [
+              {
+                "HS Code": "0203.11.00.00",
+                "Description": "Carcasses and half-carcasses",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0203.12",
+                "Description": "Hams, shoulders and cuts thereof, with bone in:",
+                "Subentries": [
+                  {
+                    "HS Code": "0203.12.10",
+                    "Description": "Processed",
+                    "Subentries": [
+                      {
+                        "HS Code": "0203.12.10.10",
+                        "Description": "Hams and cuts thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0203.12.10.20",
+                        "Description": "Shoulders and cuts thereof",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0203.12.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0203.12.90.10",
+                        "Description": "Hams and cuts thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0203.12.90.20",
+                        "Description": "Shoulders and cuts thereof",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0203.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0203.19.20",
+                    "Description": "Processed",
+                    "Subentries": [
+                      {
+                        "HS Code": "0203.19.20.10",
+                        "Description": "Spare ribs",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0203.19.20.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0203.19.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0203.19.40.10",
+                        "Description": "Bellies",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0203.19.40.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Frozen:",
+            "Subentries": [
+              {
+                "HS Code": "0203.21.00.00",
+                "Description": "Carcasses and half-carcasses",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0203.22",
+                "Description": "Hams, shoulders and cuts thereof, with bone in:",
+                "Subentries": [
+                  {
+                    "HS Code": "0203.22.10.00",
+                    "Description": "Processed",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0203.22.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0203.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0203.29.20.00",
+                    "Description": "Processed",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0203.29.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0204",
+        "Description": "Meat of sheep or goats, fresh, chilled or frozen:",
+        "Subentries": [
+          {
+            "HS Code": "0204.10.00.00",
+            "Description": "Carcasses and half-carcasses of lamb, fresh or chilled",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0204.30.00.00",
+            "Description": "Carcasses and half-carcasses of lamb, frozen",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0204.50.00.00",
+            "Description": "Meat of goats",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other meat of sheep, fresh or chilled:",
+            "Subentries": [
+              {
+                "HS Code": "0204.21.00.00",
+                "Description": "Carcasses and half-carcasses",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0204.22",
+                "Description": "Other cuts with bone in:",
+                "Subentries": [
+                  {
+                    "HS Code": "0204.22.20",
+                    "Description": "Lamb",
+                    "Subentries": [
+                      {
+                        "HS Code": "0204.22.20.10",
+                        "Description": "Shoulders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0204.22.20.20",
+                        "Description": "Legs",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0204.22.20.30",
+                        "Description": "Loins",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0204.22.20.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0204.22.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0204.23",
+                "Description": "Boneless:",
+                "Subentries": [
+                  {
+                    "HS Code": "0204.23.20.00",
+                    "Description": "Lamb",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0204.23.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other meat of sheep, frozen:",
+            "Subentries": [
+              {
+                "HS Code": "0204.41.00.00",
+                "Description": "Carcasses and half-carcasses",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0204.42",
+                "Description": "Other cuts with bone in:",
+                "Subentries": [
+                  {
+                    "HS Code": "0204.42.20",
+                    "Description": "Lamb",
+                    "Subentries": [
+                      {
+                        "HS Code": "0204.42.20.10",
+                        "Description": "Shoulders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0204.42.20.20",
+                        "Description": "Legs",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0204.42.20.30",
+                        "Description": "Loins",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0204.42.20.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0204.42.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0204.43",
+                "Description": "Boneless:",
+                "Subentries": [
+                  {
+                    "HS Code": "0204.43.20.00",
+                    "Description": "Lamb",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0204.43.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0205.00.00.00",
+        "Description": "Meat of horses, asses, mules or hinnies, fresh, chilled or frozen",
+        "Subentries": []
+      },
+      {
+        "HS Code": "0206",
+        "Description": "Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen:",
+        "Subentries": [
+          {
+            "HS Code": "0206.10.00.00",
+            "Description": "Of bovine animals, fresh or chilled",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0206.30.00.00",
+            "Description": "Of swine, fresh or chilled",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0206.80.00.00",
+            "Description": "Other, fresh or chilled",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0206.90.00",
+            "Description": "Other, frozen",
+            "Subentries": [
+              {
+                "HS Code": "0206.90.00.20",
+                "Description": "Of sheep (including lamb)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0206.90.00.40",
+                "Description": "Of goats, horses, asses, mules or hinnies",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Of bovine animals, frozen:",
+            "Subentries": [
+              {
+                "HS Code": "0206.21.00.00",
+                "Description": "Tongues",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0206.22.00.00",
+                "Description": "Livers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0206.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Of swine, frozen:",
+            "Subentries": [
+              {
+                "HS Code": "0206.41.00.00",
+                "Description": "Livers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0206.49.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0207",
+        "Description": "Meat and edible offal, of the poultry of heading 0105, fresh, chilled or frozen:",
+        "Subentries": [
+          {
+            "HS Code": "0207.60",
+            "Description": "Of guinea fowls:",
+            "Subentries": [
+              {
+                "HS Code": "0207.60.10.00",
+                "Description": "Not cut in pieces, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.60.20.00",
+                "Description": "Not cut in pieces, frozen",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.60.30.00",
+                "Description": "Fatty livers, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.60.40.00",
+                "Description": "Other, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.60.60",
+                "Description": "Other, frozen",
+                "Subentries": [
+                  {
+                    "HS Code": "0207.60.60.20",
+                    "Description": "Livers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0207.60.60.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Of chickens:",
+            "Subentries": [
+              {
+                "HS Code": "0207.11.00",
+                "Description": "Not cut in pieces, fresh or chilled",
+                "Subentries": [
+                  {
+                    "HS Code": "0207.11.00.20",
+                    "Description": "Young (broilers, fryers, roasters and capons)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0207.11.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0207.12.00",
+                "Description": "Not cut in pieces, frozen",
+                "Subentries": [
+                  {
+                    "HS Code": "0207.12.00.20",
+                    "Description": "Young (broilers, fryers, roasters and capons)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0207.12.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0207.13.00.00",
+                "Description": "Cuts and offal, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.14.00",
+                "Description": "Cuts and offal, frozen",
+                "Subentries": [
+                  {
+                    "HS Code": "0207.14.00.20",
+                    "Description": "Livers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0207.14.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Of turkeys:",
+            "Subentries": [
+              {
+                "HS Code": "0207.24.00.00",
+                "Description": "Not cut in pieces, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.25",
+                "Description": "Not cut in pieces, frozen:",
+                "Subentries": [
+                  {
+                    "HS Code": "0207.25.20.00",
+                    "Description": "Valued less than 88\u00a2/kg",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0207.25.40.00",
+                    "Description": "Valued 88\u00a2 or more per kg",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0207.26.00.00",
+                "Description": "Cuts and offal, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.27.00",
+                "Description": "Cuts and offal, frozen",
+                "Subentries": [
+                  {
+                    "HS Code": "0207.27.00.20",
+                    "Description": "Livers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0207.27.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Of ducks:",
+            "Subentries": [
+              {
+                "HS Code": "0207.41.00.00",
+                "Description": "Not cut in pieces, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.42.00.00",
+                "Description": "Not cut in pieces, frozen",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.43.00.00",
+                "Description": "Fatty livers, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.44.00.00",
+                "Description": "Other, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.45.00",
+                "Description": "Other, frozen",
+                "Subentries": [
+                  {
+                    "HS Code": "0207.45.00.20",
+                    "Description": "Livers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0207.45.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Of geese:",
+            "Subentries": [
+              {
+                "HS Code": "0207.51.00.00",
+                "Description": "Not cut in pieces, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.52.00.00",
+                "Description": "Not cut in pieces, frozen",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.53.00.00",
+                "Description": "Fatty livers, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.54.00.00",
+                "Description": "Other, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0207.55.00",
+                "Description": "Other, frozen",
+                "Subentries": [
+                  {
+                    "HS Code": "0207.55.00.20",
+                    "Description": "Livers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0207.55.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0208",
+        "Description": "Other meat and edible meat offal, fresh, chilled or frozen:",
+        "Subentries": [
+          {
+            "HS Code": "0208.10.00.00",
+            "Description": "Of rabbits or hares",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0208.30.00.00",
+            "Description": "Of primates",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0208.40.01.00",
+            "Description": "Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia).",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0208.50.00.00",
+            "Description": "Of reptiles (including snakes and turtles)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0208.60.00.00",
+            "Description": "Of camels and other camelids (Camelidae)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0208.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "0208.90.20.00",
+                "Description": "Deer",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0208.90.25.00",
+                "Description": "Frogs\u02bc legs",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0208.90.30.00",
+                "Description": "Quail, eviscerated, not in pieces",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0208.90.91.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0209",
+        "Description": "Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked:",
+        "Subentries": [
+          {
+            "HS Code": "0209.10.00.00",
+            "Description": "Of pigs",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0209.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "0210",
+        "Description": "Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal:",
+        "Subentries": [
+          {
+            "HS Code": "0210.20.00.00",
+            "Description": "Meat of bovine animals",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Meat of swine:",
+            "Subentries": [
+              {
+                "HS Code": "0210.11.00",
+                "Description": "Hams, shoulders and cuts thereof, with bone in",
+                "Subentries": [
+                  {
+                    "HS Code": "0210.11.00.10",
+                    "Description": "Hams and cuts thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0210.11.00.20",
+                    "Description": "Shoulders and cuts thereof",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0210.12.00",
+                "Description": "Bellies (streaky) and cuts thereof",
+                "Subentries": [
+                  {
+                    "HS Code": "0210.12.00.20",
+                    "Description": "Bacon",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0210.12.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0210.19.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0210.19.00.10",
+                    "Description": "Canadian style bacon",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0210.19.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other, including edible flours and meals of meat or meat offal:",
+            "Subentries": [
+              {
+                "HS Code": "0210.91.00.00",
+                "Description": "Of primates",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0210.92.01.00",
+                "Description": "Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0210.93.00.00",
+                "Description": "Of reptiles (including snakes and turtles)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0210.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0210.99.20.00",
+                    "Description": "Meat of poultry of heading 0105",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0210.99.91.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

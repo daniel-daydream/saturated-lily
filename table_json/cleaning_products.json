@@ -1,0 +1,239 @@
+[
+  {
+    "HS Code": "34",
+    "Description": "Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modeling pastes, dental waxes and dental preparations with a basis of plaster",
+    "Subentries": [
+      {
+        "HS Code": "3402",
+        "Description": "Organic surface-active agents (other than soap); surface-active preparations, washing preparations (including auxiliary washing preparations) and cleaning preparations, whether or not containing soap, other than those of heading 3401:",
+        "Subentries": [
+          {
+            "HS Code": "3402.50",
+            "Description": "Preparations put up for retail sale:",
+            "Subentries": [
+              {
+                "HS Code": "3402.50.11.00",
+                "Description": "Containing any aromatic or modified aromatic surface-active agent",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3402.50.51.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3402.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3402.90.10.00",
+                "Description": "Synthetic detergents",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "3402.90.30.00",
+                    "Description": "Containing any aromatic or modified aromatic surface-active agent",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3402.90.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "3402.90.50.10",
+                        "Description": "Washing preparations",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3402.90.50.30",
+                        "Description": "Cleaning preparations",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3402.90.50.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Anionic organic surface-active agents, whether or not put up for retail sale:",
+            "Subentries": [
+              {
+                "HS Code": "3402.31",
+                "Description": "Linear alkylbenzene sulfonic acids and their salts:",
+                "Subentries": [
+                  {
+                    "HS Code": "3402.31.10.00",
+                    "Description": "Aromatic or modified aromatic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3402.31.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3402.39",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "3402.39.10.00",
+                    "Description": "Aromatic or modified aromatic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3402.39.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "3402.39.90.10",
+                        "Description": "Salts of sulfated alcohols",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3402.39.90.20",
+                        "Description": "Salts of sulfated polyethers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3402.39.90.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other organic surface-active agents, whether or not put up for retail sale:",
+            "Subentries": [
+              {
+                "HS Code": "3402.41",
+                "Description": "Cationic:",
+                "Subentries": [
+                  {
+                    "HS Code": "3402.41.10.00",
+                    "Description": "Aromatic or modified aromatic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3402.41.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3402.42",
+                "Description": "Non-ionic:",
+                "Subentries": [
+                  {
+                    "HS Code": "3402.42.10.00",
+                    "Description": "Aromatic or modified aromatic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3402.42.20",
+                        "Description": "Fatty substances of animal, vegetable or microbial origin",
+                        "Subentries": [
+                          {
+                            "HS Code": "3402.42.20.10",
+                            "Description": "Polyethers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3402.42.20.20",
+                            "Description": "Esters and ether-esters of polyhydric alcohols",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3402.42.20.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "3402.42.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "3402.49",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "3402.49.10.00",
+                    "Description": "Aromatic or modified aromatic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3402.49.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "3405",
+        "Description": "Polishes and creams, for footwear, furniture, floors, coachwork, glass or metal, scouring pastes and powders and similar preparations (whether or not in the form of paper, wadding, felt, nonwovens, cellular plastics or cellular rubber, impregnated, coated or covered with such preparations), excluding waxes of heading 3404:",
+        "Subentries": [
+          {
+            "HS Code": "3405.10.00.00",
+            "Description": "Polishes, creams and similar preparations for footwear or leather",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3405.20.00.00",
+            "Description": "Polishes, creams and similar preparations for the maintenance of wooden furniture, floors or other woodwork",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3405.30.00.00",
+            "Description": "Polishes and similar preparations for coachwork, other than metal polishes",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3405.40.00.00",
+            "Description": "Scouring pastes and powders and other scouring preparations",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3405.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

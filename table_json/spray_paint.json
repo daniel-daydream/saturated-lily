@@ -1,0 +1,40 @@
+[
+  {
+    "HS Code": "32",
+    "Description": "Tanning or dyeing extracts; dyes, pigments, paints, varnishes, putty and mastics",
+    "Subentries": [
+      {
+        "HS Code": "3208",
+        "Description": "Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in a nonaqueous medium; solutions as defined in note 4 to this chapter:",
+        "Subentries": [
+          {
+            "HS Code": "3208.20.00.00",
+            "Description": "Based on acrylic or vinyl polymers",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3208.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "3209",
+        "Description": "Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in an aqueous medium:",
+        "Subentries": [
+          {
+            "HS Code": "3209.10.00.00",
+            "Description": "Based on acrylic or vinyl polymers",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3209.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

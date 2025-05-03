@@ -1,0 +1,121 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8422",
+        "Description": "Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labeling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery (including heat-shrink wrapping machinery); machinery for aerating beverages; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8422.30",
+            "Description": "Machinery for filling, closing, sealing or labeling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; machinery for aerating beverages:",
+            "Subentries": [
+              {
+                "HS Code": "8422.30.11.00",
+                "Description": "Can-sealing machines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8422.30.91",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8422.30.91.10",
+                    "Description": "Machines for aerating beverages",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8422.30.91.20",
+                    "Description": "Labeling machines",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Machinery for filling, closing, sealing, capsuling or labeling bottles, cans or similar containers:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8422.30.91.70",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Machines for filling, whether or not capable of performing other operations:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8422.30.91.30",
+                                "Description": "Vacuum or gas packaging",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8422.30.91.40",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Machines which perform only the following operations: capping, lidding, sealing or closing:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8422.30.91.50",
+                                "Description": "Vacuum or gas packaging",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8422.30.91.60",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Machinery for filling, closing, sealing, capsuling or labeling boxes, bags or similar containers:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8422.30.91.80",
+                            "Description": "Machines for opening, filling and closing bags",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8422.30.91.85",
+                            "Description": "Machines for forming, filling and sealing bags/pouches",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8422.30.91.86",
+                            "Description": "Machines for opening, filling and closing boxes",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8422.30.91.87",
+                            "Description": "Machines for skin and blister packaging",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8422.30.91.91",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

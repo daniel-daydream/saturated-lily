@@ -1,0 +1,19 @@
+[
+  {
+    "HS Code": "22",
+    "Description": "Beverages, spirits and vinegar",
+    "Subentries": [
+      {
+        "HS Code": "2201",
+        "Description": "Waters, including natural or artificial mineral waters and aerated waters, not containing added sugar or other sweetening matter nor flavored; ice and snow:",
+        "Subentries": [
+          {
+            "HS Code": "2201.10.00.00",
+            "Description": "Mineral waters and aerated waters",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8481",
+        "Description": "Taps, cocks, valves and similar appliances, for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8481.30",
+            "Description": "Check (nonreturn) valves:",
+            "Subentries": [
+              {
+                "HS Code": "8481.30.10",
+                "Description": "Of copper",
+                "Subentries": [
+                  {
+                    "HS Code": "8481.30.10.10",
+                    "Description": "Having a pressure rating under 850 kPa",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.30.10.90",
+                    "Description": "Having a pressure rating of 850 kPa or over",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8481.30.20",
+                "Description": "Of iron or steel",
+                "Subentries": [
+                  {
+                    "HS Code": "8481.30.20.10",
+                    "Description": "Of iron",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8481.30.20.90",
+                    "Description": "Of steel",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8481.30.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

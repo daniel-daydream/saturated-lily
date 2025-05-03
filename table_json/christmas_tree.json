@@ -1,0 +1,196 @@
+[
+  {
+    "HS Code": "06",
+    "Description": "Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",
+    "Subentries": [
+      {
+        "HS Code": "0604",
+        "Description": "Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared:",
+        "Subentries": [
+          {
+            "HS Code": "0604.20.00",
+            "Description": "Fresh",
+            "Subentries": [
+              {
+                "HS Code": "0604.20.00.05",
+                "Description": "Aralia",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.11",
+                "Description": "Aspidistra",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.15",
+                "Description": "Eucalyptus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.72",
+                "Description": "Mosses and lichens",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.82",
+                "Description": "Pittosporum",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.84",
+                "Description": "Ruscus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0604.20.00.86",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Evergreen Christmas trees:",
+                "Subentries": [
+                  {
+                    "HS Code": "0604.20.00.20",
+                    "Description": "Douglas fir",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0604.20.00.40",
+                    "Description": "Fir except Douglas fir",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0604.20.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Ferns:",
+                "Subentries": [
+                  {
+                    "HS Code": "0604.20.00.65",
+                    "Description": "Leather leaf",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0604.20.00.70",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Palms:",
+                "Subentries": [
+                  {
+                    "HS Code": "0604.20.00.74",
+                    "Description": "Chamadorea",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0604.20.00.78",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "95",
+    "Description": "Toys, games and sports requisites; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9505",
+        "Description": "Festive, carnival or other entertainment articles, including magic tricks and practical joke articles; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9505.10",
+            "Description": "Articles for Christmas festivities and parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "9505.10.30.00",
+                "Description": "Nativity scenes and figures thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Christmas ornaments:",
+                "Subentries": [
+                  {
+                    "HS Code": "9505.10.10.00",
+                    "Description": "Of glass",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9505.10.15.00",
+                        "Description": "Of wood",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9505.10.25.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9505.10.40",
+                    "Description": "Of plastics",
+                    "Subentries": [
+                      {
+                        "HS Code": "9505.10.40.10",
+                        "Description": "Artificial Christmas trees",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9505.10.40.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9505.10.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9505.10.50.10",
+                        "Description": "Artificial Christmas trees",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9505.10.50.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

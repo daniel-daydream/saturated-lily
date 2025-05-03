@@ -1,0 +1,103 @@
+[
+  {
+    "HS Code": "20",
+    "Description": "Preparations of vegetables, fruit, nuts or other parts of plants",
+    "Subentries": [
+      {
+        "HS Code": "2001",
+        "Description": "Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid:",
+        "Subentries": [
+          {
+            "HS Code": "2001.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Capers:",
+                "Subentries": [
+                  {
+                    "HS Code": "2001.90.10.00",
+                    "Description": "In immediate containers holding more than 3.4 kg",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2001.90.20.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "2001.90.42.00",
+                    "Description": "Chestnuts, other than Chinese water chestnuts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2001.90.45.00",
+                    "Description": "Mangoes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2001.90.48.00",
+                    "Description": "Chinese water chestnuts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2001.90.50.00",
+                    "Description": "Walnuts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2001.90.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Vegetables:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2001.90.25.00",
+                        "Description": "Artichokes",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2001.90.30.00",
+                        "Description": "Beans",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2001.90.33.00",
+                        "Description": "Nopalitos",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2001.90.34.00",
+                        "Description": "Onions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2001.90.35.00",
+                        "Description": "Pimientos (Capsicum anuum)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2001.90.38.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

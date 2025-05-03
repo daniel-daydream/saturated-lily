@@ -1,0 +1,95 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8414",
+        "Description": "Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters; gas-tight biological safety cabinets, whether or not fitted with filters; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8414.30",
+            "Description": "Compressors of a kind used in refrigerating equipment (including air conditioning):",
+            "Subentries": [
+              {
+                "HS Code": "8414.30.40.00",
+                "Description": "Not exceeding 1/4 horsepower",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8414.30.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Screw type:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8414.30.80.10",
+                        "Description": "Not exceeding 200 horsepower",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8414.30.80.20",
+                        "Description": "Exceeding 200 horsepower",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8414.30.80.90",
+                        "Description": "For ammonia",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "For all refrigerants except ammonia",
+                        "Subentries": [
+                          {
+                            "HS Code": "8414.30.80.30",
+                            "Description": "For motor vehicles",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8414.30.80.50",
+                                "Description": "Exceeding 1/4 horsepower but not exceeding 1 horsepower",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.30.80.60",
+                                "Description": "Exceeding 1 horsepower but not exceeding 3 horsepower",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.30.80.70",
+                                "Description": "Exceeding 3 horsepower but not exceeding 10 horsepower",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.30.80.80",
+                                "Description": "Exceeding 10 horsepower",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

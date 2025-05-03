@@ -51,9 +51,19 @@
                         "Subentries": []
                       },
                       {
+                        "HS Code": "8482.10.50.68",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "",
                         "Description": "Angular contact bearings:",
                         "Subentries": [
+                          {
+                            "HS Code": "8482.10.50.28",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
                           {
                             "HS Code": "",
                             "Description": "Wheel hub bearings units:",
@@ -69,11 +79,6 @@
                                 "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "8482.10.50.28",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
                       },
@@ -81,6 +86,16 @@
                         "HS Code": "",
                         "Description": "Radial bearings:",
                         "Subentries": [
+                          {
+                            "HS Code": "8482.10.50.60",
+                            "Description": "Double row ball bearings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8482.10.50.64",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
                           {
                             "HS Code": "",
                             "Description": "Single row bearings:",
@@ -122,23 +137,8 @@
                                 ]
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "8482.10.50.60",
-                            "Description": "Double row ball bearings",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "8482.10.50.64",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "8482.10.50.68",
-                        "Description": "Other",
-                        "Subentries": []
                       }
                     ]
                   }
@@ -282,22 +282,6 @@
                 "Description": "Balls, needles and rollers",
                 "Subentries": [
                   {
-                    "HS Code": "",
-                    "Description": "Balls:",
-                    "Subentries": [
-                      {
-                        "HS Code": "8482.91.00.10",
-                        "Description": "Of alloy steel",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "8482.91.00.20",
-                        "Description": "Other",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "8482.91.00.40",
                     "Description": "Needles",
                     "Subentries": []
@@ -321,6 +305,22 @@
                     "HS Code": "8482.91.00.90",
                     "Description": "Other",
                     "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Balls:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8482.91.00.10",
+                        "Description": "Of alloy steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8482.91.00.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               },
@@ -342,6 +342,11 @@
                         "Description": "For tapered roller bearings",
                         "Subentries": [
                           {
+                            "HS Code": "8482.99.15.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
                             "HS Code": "",
                             "Description": "Cups:",
                             "Subentries": [
@@ -356,11 +361,6 @@
                                 "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "8482.99.15.80",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
                       },

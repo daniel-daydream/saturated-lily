@@ -1,0 +1,412 @@
+[
+  {
+    "HS Code": "72",
+    "Description": "Iron and steel",
+    "Subentries": [
+      {
+        "HS Code": "7208",
+        "Description": "Flat-rolled products of iron or nonalloy steel, of a width of 600 mm or more, hot-rolled, not clad, plated or coated:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other, in coils, not further worked than hot-rolled:",
+            "Subentries": [
+              {
+                "HS Code": "7208.36.00",
+                "Description": "Of a thickness exceeding 10 mm",
+                "Subentries": [
+                  {
+                    "HS Code": "7208.36.00.30",
+                    "Description": "High-strength steel",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7208.36.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7208.37.00",
+                "Description": "Of a thickness of 4.75 mm or more but not exceeding 10 mm",
+                "Subentries": [
+                  {
+                    "HS Code": "7208.37.00.30",
+                    "Description": "High-strength steel",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7208.37.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7208.38.00",
+                "Description": "Of a thickness of 3 mm or more but less than 4.75 mm",
+                "Subentries": [
+                  {
+                    "HS Code": "7208.38.00.15",
+                    "Description": "High-strength steel",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7208.38.00.30",
+                        "Description": "With untrimmed edges",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7208.38.00.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7208.39.00",
+                "Description": "Of a thickness of less than 3 mm",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "High-strength steel:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7208.39.00.20",
+                        "Description": "\u201cAdvanced\u201d or \u201cultra\u201d of a kind described in statistical note 4 to this chapter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7208.39.00.25",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7208.39.00.30",
+                        "Description": "With untrimmed edges",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7208.39.00.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "7209",
+        "Description": "Flat-rolled products of iron or nonalloy steel, of a width of 600 mm or more, cold-rolled (cold-reduced), not clad, plated or coated:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "In coils, not further worked than cold-rolled (cold-reduced):",
+            "Subentries": [
+              {
+                "HS Code": "7209.15.00.00",
+                "Description": "Of a thickness of 3 mm or more",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7209.16.00",
+                "Description": "Of a thickness exceeding 1 mm but less than 3 mm",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of high-strength steel:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7209.16.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Annealed:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7209.16.00.40",
+                            "Description": "\u201cAdvanced\u201d or \u201cultra\u201d of a kind described in statistical note 4 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7209.16.00.45",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7209.16.00.70",
+                        "Description": "Annealed",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7209.16.00.91",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7209.17.00",
+                "Description": "Of a thickness of 0.5 mm or more but not exceeding 1 mm",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Of high-strength steel:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7209.17.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Annealed:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7209.17.00.40",
+                            "Description": "\u201cAdvanced\u201d or \u201cultra\u201d of a kind described in statistical note 4 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7209.17.00.45",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7209.17.00.70",
+                        "Description": "Annealed",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7209.17.00.91",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7209.18",
+                "Description": "Of a thickness of less than 0.5 mm:",
+                "Subentries": [
+                  {
+                    "HS Code": "7209.18.15",
+                    "Description": "Of high-strength steel",
+                    "Subentries": [
+                      {
+                        "HS Code": "7209.18.15.30",
+                        "Description": "Annealed",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7209.18.15.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7209.18.25",
+                        "Description": "Of a thickness of less than 0.361 mm (blackplate)",
+                        "Subentries": [
+                          {
+                            "HS Code": "7209.18.25.20",
+                            "Description": "Annealed",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7209.18.25.85",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7209.18.60",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "7209.18.60.20",
+                            "Description": "Annealed",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7209.18.60.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "7211",
+        "Description": "Flat-rolled products of iron or nonalloy steel, of a width of less than 600 mm, not clad, plated or coated:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Not further worked than cold-rolled (cold-reduced):",
+            "Subentries": [
+              {
+                "HS Code": "7211.23",
+                "Description": "Containing by weight less than 0.25 percent of carbon:",
+                "Subentries": [
+                  {
+                    "HS Code": "7211.23.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7211.23.60.30",
+                        "Description": "Of a thickness exceeding 1.25 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7211.23.60.60",
+                        "Description": "Of a thickness exceeding 0.25 mm but not exceeding 1.25 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7211.23.60.90",
+                        "Description": "Of a thickness not exceeding 0.25 mm:",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of a width of less than 300 mm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7211.23.30.00",
+                        "Description": "Of a thickness exceeding 0.25 mm but not exceeding 1.25 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7211.23.45.00",
+                        "Description": "Of a thickness not exceeding 0.25 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of a thickness exceeding 1.25 mm:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7211.23.15.00",
+                            "Description": "Of high-strength steel",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7211.23.20.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7211.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7211.29.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7211.29.60.30",
+                        "Description": "Of a thickness exceeding 1.25 mm",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7211.29.60.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of a width of less than 300 mm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7211.29.20",
+                        "Description": "Of a thickness exceeding 0.25 mm",
+                        "Subentries": [
+                          {
+                            "HS Code": "7211.29.20.30",
+                            "Description": "Of a width less than 51 mm, in coils",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7211.29.20.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "7211.29.45.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -31,6 +31,11 @@
                     "Subentries": []
                   },
                   {
+                    "HS Code": "6109.10.00.27",
+                    "Description": "Other (338)",
+                    "Subentries": []
+                  },
+                  {
                     "HS Code": "",
                     "Description": "Other T-shirts:",
                     "Subentries": [
@@ -61,11 +66,6 @@
                         "Subentries": []
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "6109.10.00.27",
-                    "Description": "Other (338)",
-                    "Subentries": []
                   }
                 ]
               },
@@ -82,6 +82,11 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
+                      {
+                        "HS Code": "6109.10.00.70",
+                        "Description": "Other (339)",
+                        "Subentries": []
+                      },
                       {
                         "HS Code": "",
                         "Description": "T-shirts:",
@@ -113,11 +118,6 @@
                             "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "6109.10.00.70",
-                        "Description": "Other (339)",
-                        "Subentries": []
                       }
                     ]
                   }
@@ -137,6 +137,16 @@
                     "HS Code": "",
                     "Description": "Men's or boys':",
                     "Subentries": [
+                      {
+                        "HS Code": "6109.90.10.47",
+                        "Description": "Thermal undershirts (652)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6109.90.10.49",
+                        "Description": "Other (638)",
+                        "Subentries": []
+                      },
                       {
                         "HS Code": "",
                         "Description": "T-shirts:",
@@ -168,16 +178,6 @@
                             "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "6109.90.10.47",
-                        "Description": "Thermal undershirts (652)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6109.90.10.49",
-                        "Description": "Other (638)",
-                        "Subentries": []
                       }
                     ]
                   },
@@ -185,6 +185,16 @@
                     "HS Code": "",
                     "Description": "Women's or girls':",
                     "Subentries": [
+                      {
+                        "HS Code": "6109.90.10.75",
+                        "Description": "Thermal undershirts (652)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6109.90.10.90",
+                        "Description": "Other (639)",
+                        "Subentries": []
+                      },
                       {
                         "HS Code": "",
                         "Description": "T-shirts:",
@@ -216,16 +226,6 @@
                             "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "6109.90.10.75",
-                        "Description": "Thermal undershirts (652)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "6109.90.10.90",
-                        "Description": "Other (639)",
-                        "Subentries": []
                       }
                     ]
                   }

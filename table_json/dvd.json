@@ -1,0 +1,68 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8523",
+        "Description": "Discs, tapes, solid-state non-volatile storage devices, \"smart cards\" and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Optical media:",
+            "Subentries": [
+              {
+                "HS Code": "8523.41.00.00",
+                "Description": "Unrecorded",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8523.49",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8523.49.20",
+                    "Description": "For reproducing phenomena other than sound or image",
+                    "Subentries": [
+                      {
+                        "HS Code": "8523.49.20.10",
+                        "Description": "Prepackaged software for automatic data processing machines, of a kind sold at retail",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8523.49.20.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8523.49.30.00",
+                    "Description": "For reproducing sound only",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8523.49.40.00",
+                        "Description": "For reproducing representations of instructions, data, sound, and image, recorded in a machine readable binary form, and capable of being manipulated or providing interactivity to a user, by means of an automatic data processing machine; proprietary format recorded discs",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8523.49.50.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

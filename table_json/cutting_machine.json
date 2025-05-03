@@ -1,0 +1,305 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8461",
+        "Description": "Machine tools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear finishing, sawing, cutting-off and other machine tools working by removing metal or cermets, not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "8461.20",
+            "Description": "Shaping or slotting machines:",
+            "Subentries": [
+              {
+                "HS Code": "8461.20.40.00",
+                "Description": "Numerically controlled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8461.20.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8461.20.80.30",
+                    "Description": "Used or rebuilt",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8461.20.80.70",
+                    "Description": "Other, valued under $3,025 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8461.20.80.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8461.30",
+            "Description": "Broaching machines:",
+            "Subentries": [
+              {
+                "HS Code": "8461.30.40",
+                "Description": "Numerically controlled",
+                "Subentries": [
+                  {
+                    "HS Code": "8461.30.40.20",
+                    "Description": "Used or rebuilt",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8461.30.40.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8461.30.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8461.30.80.20",
+                    "Description": "Used or rebuilt",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8461.30.80.40",
+                    "Description": "Other, valued under $3,025 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8461.30.80.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8461.40",
+            "Description": "Gear cutting, gear grinding or gear finishing machines:",
+            "Subentries": [
+              {
+                "HS Code": "8461.40.10",
+                "Description": "Gear cutting machines",
+                "Subentries": [
+                  {
+                    "HS Code": "8461.40.10.10",
+                    "Description": "Used or rebuilt",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8461.40.10.20",
+                        "Description": "For bevel gears",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8461.40.10.30",
+                            "Description": "Gear hobbers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8461.40.10.40",
+                            "Description": "Gear shapers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8461.40.10.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8461.40.50",
+                "Description": "Gear grinding or finishing machines",
+                "Subentries": [
+                  {
+                    "HS Code": "8461.40.50.20",
+                    "Description": "Used or rebuilt",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8461.40.50.40",
+                    "Description": "Other, valued under $3,025 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8461.40.50.50",
+                        "Description": "For bevel gears",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8461.40.50.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8461.50",
+            "Description": "Sawing or cutting-off machines:",
+            "Subentries": [
+              {
+                "HS Code": "8461.50.40",
+                "Description": "Numerically controlled",
+                "Subentries": [
+                  {
+                    "HS Code": "8461.50.40.10",
+                    "Description": "Used or rebuilt",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8461.50.40.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8461.50.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8461.50.80.10",
+                    "Description": "Used or rebuilt",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8461.50.80.20",
+                    "Description": "Other, valued under $3,025 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8461.50.80.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8461.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "8461.90.30",
+                "Description": "Numerically controlled",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Planing machines:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8461.90.30.20",
+                        "Description": "Used or rebuilt",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8461.90.30.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8461.90.30.60",
+                        "Description": "Used or rebuilt",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8461.90.30.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8461.90.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Planing machines:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8461.90.60.10",
+                        "Description": "Used or rebuilt",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8461.90.60.20",
+                        "Description": "Other, valued under $3,025 each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8461.90.60.30",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8461.90.60.40",
+                        "Description": "Used or rebuilt",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8461.90.60.50",
+                        "Description": "Other, valued under $3,025 each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8461.90.60.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

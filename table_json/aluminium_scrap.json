@@ -1,0 +1,34 @@
+[
+  {
+    "HS Code": "76",
+    "Description": "Aluminum and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "7602.00.00",
+        "Description": "Aluminum waste and scrap",
+        "Subentries": [
+          {
+            "HS Code": "7602.00.00.35",
+            "Description": "Recyclable beverage containers",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7602.00.00.95",
+            "Description": "Recyclable aluminum from industrial processes, including turnings, borings, shavings, filings, clippings and chips",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7602.00.00.97",
+            "Description": "Other recyclable aluminum",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7602.00.00.98",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "HS Code": "25",
+    "Description": "Salt; sulfur; earths and stone; plastering materials, lime and cement",
+    "Subentries": [
+      {
+        "HS Code": "2523",
+        "Description": "Portland cement, aluminous cement, slag cement, supersulfate cement and similar hydraulic cements, whether or not colored or in the form of clinkers:",
+        "Subentries": [
+          {
+            "HS Code": "2523.10.00.00",
+            "Description": "Cement clinkers",
+            "Subentries": []
+          },
+          {
+            "HS Code": "2523.30.00.00",
+            "Description": "Aluminous cement",
+            "Subentries": []
+          },
+          {
+            "HS Code": "2523.90.00.00",
+            "Description": "Other hydraulic cements",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Portland cement:",
+            "Subentries": [
+              {
+                "HS Code": "2523.21.00.00",
+                "Description": "White cement, whether or not artificially colored",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2523.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

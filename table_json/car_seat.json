@@ -1,0 +1,164 @@
+[
+  {
+    "HS Code": "94",
+    "Description": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated sign illuminated nameplates and the like; prefabricated buildings",
+    "Subentries": [
+      {
+        "HS Code": "9401",
+        "Description": "Seats (other than those of heading 9402), whether or not convertible into beds, and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9401.20.00.00",
+            "Description": "Seats of a kind used for motor vehicles",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9401.80",
+            "Description": "Other seats:",
+            "Subentries": [
+              {
+                "HS Code": "9401.80.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "9401.80.60.24",
+                    "Description": "Stationary activity centers for children",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9401.80.60.25",
+                    "Description": "Other seats for children",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9401.80.60.28",
+                    "Description": "Other household",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9401.80.60.30",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Child safety seats:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9401.80.60.21",
+                        "Description": "With detachable hard-shell seat",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.60.23",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Of rubber or plastics:",
+                "Subentries": [
+                  {
+                    "HS Code": "9401.80.20",
+                    "Description": "Of reinforced or laminated plastics",
+                    "Subentries": [
+                      {
+                        "HS Code": "9401.80.20.01",
+                        "Description": "Children\u02bcs highchairs and booster seats except for motor vehicle; bath seats, infant walkers, bouncers with seats, swings for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.20.05",
+                        "Description": "Stationary activity centers for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.20.11",
+                        "Description": "Other household",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.20.31",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "9401.80.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9401.80.40.01",
+                        "Description": "Children\u02bcs highchairs and booster seats except for motor vehicle; bath seats, infant walkers, bouncers with seats, swings for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9401.80.40.04",
+                        "Description": "Stationary activity centers for children",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9401.80.40.46",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Outdoor:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "With textile covered cushions or textile seating or backing material:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "9401.80.40.06",
+                                    "Description": "Household",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "9401.80.40.15",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "9401.80.40.26",
+                                    "Description": "Household",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "9401.80.40.35",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

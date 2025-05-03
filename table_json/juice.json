@@ -1,0 +1,556 @@
+[
+  {
+    "HS Code": "20",
+    "Description": "Preparations of vegetables, fruit, nuts or other parts of plants",
+    "Subentries": [
+      {
+        "HS Code": "2009",
+        "Description": "Fruit or nut juices (including grape must and coconut water) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter:",
+        "Subentries": [
+          {
+            "HS Code": "2009.50.00",
+            "Description": "Tomato juice",
+            "Subentries": [
+              {
+                "HS Code": "2009.50.00.10",
+                "Description": "In airtight containers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2009.50.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "2009.90",
+            "Description": "Mixtures of juices:",
+            "Subentries": [
+              {
+                "HS Code": "2009.90.20.00",
+                "Description": "Vegetable",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2009.90.40.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Orange juice:",
+            "Subentries": [
+              {
+                "HS Code": "2009.11.00",
+                "Description": "Frozen",
+                "Subentries": [
+                  {
+                    "HS Code": "2009.11.00.20",
+                    "Description": "In containers each holding less than 0.946 liter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2009.11.00.40",
+                    "Description": "In containers each holding 0.946 liter or more but not more than 3.785 liters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2009.11.00.60",
+                    "Description": "In containers of more than 3.785 liters",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "2009.12",
+                "Description": "Not frozen, of a Brix value not exceeding 20:",
+                "Subentries": [
+                  {
+                    "HS Code": "2009.12.25.00",
+                    "Description": "Not concentrated and not made from a juice having a degree of concentration of 1.5 or more (as determined before correction to the nearest 0.5 degree)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2009.12.45.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "2009.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Grapefruit juice; pomelo juice:",
+            "Subentries": [
+              {
+                "HS Code": "2009.21",
+                "Description": "Of a Brix value not exceeding 20:",
+                "Subentries": [
+                  {
+                    "HS Code": "2009.21.20.00",
+                    "Description": "Not concentrated and not made from a juice having a degree of concentration of 1.5 or more (as determined before correction to the nearest 0.5 degree)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2009.21.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "2009.21.40.20",
+                        "Description": "Frozen",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2009.21.40.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "2009.29.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "2009.29.00.20",
+                    "Description": "Frozen",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2009.29.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Juice of any other single citrus fruit:",
+            "Subentries": [
+              {
+                "HS Code": "2009.31",
+                "Description": "Of a Brix value not exceeding 20:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Lime:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2009.31.10",
+                        "Description": "Unfit for beverage purposes",
+                        "Subentries": [
+                          {
+                            "HS Code": "2009.31.10.20",
+                            "Description": "Not concentrated",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2009.31.10.40",
+                            "Description": "Concentrated",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "2009.31.20",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "2009.31.20.20",
+                            "Description": "Not concentrated",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2009.31.20.40",
+                            "Description": "Concentrated",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2009.31.40.00",
+                        "Description": "Not concentrated",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2009.31.60",
+                        "Description": "Concentrated",
+                        "Subentries": [
+                          {
+                            "HS Code": "2009.31.60.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Lemon juice:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2009.31.60.20",
+                                "Description": "Frozen",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2009.31.60.40",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "2009.39",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "2009.39.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "2009.39.60.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Lemon juice:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2009.39.60.20",
+                            "Description": "Frozen",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2009.39.60.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Lime:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2009.39.10.00",
+                        "Description": "Unfit for beverage purposes",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2009.39.20.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Pineapple juice:",
+            "Subentries": [
+              {
+                "HS Code": "2009.41",
+                "Description": "Of a Brix value not exceeding 20:",
+                "Subentries": [
+                  {
+                    "HS Code": "2009.41.20.00",
+                    "Description": "Not concentrated, or having a degree of concentration of not more than 3.5 (as determined before correction to the nearest 0.5 degree)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2009.41.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "2009.41.40.20",
+                        "Description": "Frozen",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2009.41.40.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "2009.49",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "2009.49.20.00",
+                    "Description": "Not concentrated, or having a degree of concentration of not more than 3.5 (as determined before correction to the nearest 0.5 degree)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2009.49.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "2009.49.40.20",
+                        "Description": "Frozen",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2009.49.40.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Grape juice (including grape must):",
+            "Subentries": [
+              {
+                "HS Code": "2009.61.00",
+                "Description": "Of a Brix value not exceeding 30",
+                "Subentries": [
+                  {
+                    "HS Code": "2009.61.00.20",
+                    "Description": "Not concentrated",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Concentrated:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2009.61.00.40",
+                        "Description": "Frozen",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2009.61.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "2009.69.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "2009.69.00.40",
+                    "Description": "Frozen",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2009.69.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Apple juice:",
+            "Subentries": [
+              {
+                "HS Code": "2009.71.00.00",
+                "Description": "Of a Brix value not exceeding 20",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2009.79.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "2009.79.00.20",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Frozen:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2009.79.00.15",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2009.79.00.17",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Juice of any other single fruit, nut or vegetable:",
+            "Subentries": [
+              {
+                "HS Code": "2009.81.00.00",
+                "Description": "Cranberry (Vaccinium macrocarpon, Vaccinium oxycoccos) juice; lingonberry (Vaccinium, vitis-idaea) juice",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2009.89",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "2009.89.80",
+                    "Description": "Vegetable juice",
+                    "Subentries": [
+                      {
+                        "HS Code": "2009.89.80.31",
+                        "Description": "In airtight containers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2009.89.80.39",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Fruit juice:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2009.89.20.00",
+                        "Description": "Pear juice",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2009.89.40.00",
+                        "Description": "Prune juice",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2009.89.65",
+                        "Description": "Cherry Juice",
+                        "Subentries": [
+                          {
+                            "HS Code": "2009.89.65.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Tart cherry juice concentrate:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2009.89.65.15",
+                                "Description": "Certified organic",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2009.89.65.20",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Tart cherry juice:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2009.89.65.30",
+                                "Description": "Certified organic",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2009.89.65.40",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "2009.89.70",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "2009.89.70.70",
+                            "Description": "Mango Juice",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2009.89.70.91",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Berry juice:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2009.89.70.31",
+                                "Description": "Blueberry juice, including concentrate",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2009.89.70.55",
+                                "Description": "Red raspberry juice, including concentrate",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2009.89.70.65",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

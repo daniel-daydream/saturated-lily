@@ -1,0 +1,63 @@
+[
+  {
+    "HS Code": "08",
+    "Description": "Edible fruit and nuts; peel of citrus fruit or melons",
+    "Subentries": [
+      {
+        "HS Code": "0805",
+        "Description": "Citrus fruit, fresh or dried:",
+        "Subentries": [
+          {
+            "HS Code": "0805.50",
+            "Description": "Lemons (Citrus limon, Citrus limonum) and limes (Citrus aurantifolia, Citrus latifolia):",
+            "Subentries": [
+              {
+                "HS Code": "0805.50.20",
+                "Description": "Lemons",
+                "Subentries": [
+                  {
+                    "HS Code": "0805.50.20.10",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0805.50.20.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Limes:",
+                "Subentries": [
+                  {
+                    "HS Code": "0805.50.30",
+                    "Description": "Tahitian limes, Persian limes and other limes of the Citrus latifolia variety",
+                    "Subentries": [
+                      {
+                        "HS Code": "0805.50.30.20",
+                        "Description": "Certified organic",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0805.50.30.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0805.50.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

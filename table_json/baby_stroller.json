@@ -1,0 +1,24 @@
+[
+  {
+    "HS Code": "87",
+    "Description": "Vehicles other than railway or tramway rolling stock, and parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "8715.00.00",
+        "Description": "Baby carriages (including strollers) and parts thereof",
+        "Subentries": [
+          {
+            "HS Code": "8715.00.00.20",
+            "Description": "Baby carriages (including strollers)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8715.00.00.40",
+            "Description": "Parts",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

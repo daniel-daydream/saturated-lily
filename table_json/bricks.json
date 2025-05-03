@@ -1,0 +1,57 @@
+[
+  {
+    "HS Code": "69",
+    "Description": "Ceramic products",
+    "Subentries": [
+      {
+        "HS Code": "6904",
+        "Description": "Ceramic building bricks, flooring blocks, support or filler tiles and the like:",
+        "Subentries": [
+          {
+            "HS Code": "6904.10.00",
+            "Description": "Building bricks",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Solid bricks:",
+                "Subentries": [
+                  {
+                    "HS Code": "6904.10.00.10",
+                    "Description": "Heat insulating",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6904.10.00.20",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Hollow bricks:",
+                "Subentries": [
+                  {
+                    "HS Code": "6904.10.00.30",
+                    "Description": "Heat insulating",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6904.10.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "6904.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

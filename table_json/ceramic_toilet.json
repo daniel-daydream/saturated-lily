@@ -1,0 +1,50 @@
+[
+  {
+    "HS Code": "69",
+    "Description": "Ceramic products",
+    "Subentries": [
+      {
+        "HS Code": "6910",
+        "Description": "Ceramic sinks, washbasins, washbasin pedestals, baths, bidets, water closet bowls, flush tanks, urinals and similar sanitary fixtures:",
+        "Subentries": [
+          {
+            "HS Code": "6910.10.00",
+            "Description": "Of porcelain or china",
+            "Subentries": [
+              {
+                "HS Code": "6910.10.00.05",
+                "Description": "Water closet bowls, flushometer type",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6910.10.00.10",
+                "Description": "Water closet bowls with tanks, in one piece",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6910.10.00.15",
+                "Description": "Flush tanks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6910.10.00.20",
+                "Description": "Other water closet bowls",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6910.10.00.30",
+                "Description": "Sinks and lavatories",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6910.10.00.50",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

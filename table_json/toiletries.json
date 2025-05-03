@@ -1,0 +1,153 @@
+[
+  {
+    "HS Code": "33",
+    "Description": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+    "Subentries": [
+      {
+        "HS Code": "3306",
+        "Description": "Preparations for oral or dental hygiene, including denture fixative pastes and powders; yarn used to clean between the teeth (dental floss), in individual retail packages:",
+        "Subentries": [
+          {
+            "HS Code": "3306.10.00.00",
+            "Description": "Dentifrices",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3306.20.00.00",
+            "Description": "Yarn used to clean between the teeth (dental floss)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3306.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "3307",
+        "Description": "Pre-shave, shaving or after-shave preparations, personal deodorants, bath preparations, depilatories and other perfumery, cosmetic or toilet preparations, not elsewhere specified or included; prepared room deodorizers, whether or not perfumed or having disinfectant properties:",
+        "Subentries": [
+          {
+            "HS Code": "3307.10",
+            "Description": "Pre-shave, shaving or after-shave preparations:",
+            "Subentries": [
+              {
+                "HS Code": "3307.10.10.00",
+                "Description": "Not containing alcohol",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3307.10.20.00",
+                "Description": "Containing alcohol",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3307.20.00.00",
+            "Description": "Personal deodorants and antiperspirants",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3307.30",
+            "Description": "Perfumed bath salts and other bath preparations:",
+            "Subentries": [
+              {
+                "HS Code": "3307.30.10.00",
+                "Description": "Bath salts, whether or not perfumed",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3307.30.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3307.90.00.00",
+            "Description": "Other",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Preparations for perfuming or deodorizing rooms, including odoriferous preparations used during religious rites:",
+            "Subentries": [
+              {
+                "HS Code": "3307.41.00.00",
+                "Description": "\"Agarbatti\" and other odoriferous preparations which operate by burning",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3307.49.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "34",
+    "Description": "Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modeling pastes, dental waxes and dental preparations with a basis of plaster",
+    "Subentries": [
+      {
+        "HS Code": "3401",
+        "Description": "Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, molded pieces or shapes, whether or not containing soap; organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent:",
+        "Subentries": [
+          {
+            "HS Code": "3401.20.00.00",
+            "Description": "Soap in other forms",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3401.30",
+            "Description": "Organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap:",
+            "Subentries": [
+              {
+                "HS Code": "3401.30.10.00",
+                "Description": "Containing any aromatic or modified aromatic surface-active agent",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3401.30.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Soap and organic surface-active products and preparations, in the form of bars, cakes, molded pieces or shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent:",
+            "Subentries": [
+              {
+                "HS Code": "3401.11",
+                "Description": "For toilet use (including medicated products):",
+                "Subentries": [
+                  {
+                    "HS Code": "3401.11.10.00",
+                    "Description": "Castile soap",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3401.11.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3401.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

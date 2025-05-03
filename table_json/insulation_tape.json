@@ -1,0 +1,138 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3919",
+        "Description": "Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls:",
+        "Subentries": [
+          {
+            "HS Code": "3919.10",
+            "Description": "In rolls of a width not exceeding 20 cm:",
+            "Subentries": [
+              {
+                "HS Code": "3919.10.10",
+                "Description": "Having a light-reflecting surface produced in whole or in part by glass grains (ballotini)",
+                "Subentries": [
+                  {
+                    "HS Code": "3919.10.10.10",
+                    "Description": "Pavement marking tape",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3919.10.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3919.10.20",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3919.10.20.10",
+                    "Description": "Filament reinforced tape",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3919.10.20.20",
+                    "Description": "Electrical tape",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3919.10.20.55",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Transparent tape, not exceeding 55 m in length:",
+                        "Subentries": [
+                          {
+                            "HS Code": "3919.10.20.30",
+                            "Description": "Not exceeding 5 cm in width",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "3919.10.20.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "3919.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3919.90.10.00",
+                "Description": "Having a light-reflecting surface produced in whole or in part by glass grains (ballotini)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3919.90.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3919.90.50.10",
+                    "Description": "Reflectorized sheeting",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3919.90.50.20",
+                    "Description": "Filament reinforced tape",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3919.90.50.30",
+                    "Description": "Electrical tape",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3919.90.50.40",
+                    "Description": "Transparent tape",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3919.90.50.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8546",
+        "Description": "Electrical insulators of any material:",
+        "Subentries": [
+          {
+            "HS Code": "8546.10.00.00",
+            "Description": "Of glass",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

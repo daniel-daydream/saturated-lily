@@ -1,0 +1,57 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8473",
+        "Description": "Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings 8470 to 8472:",
+        "Subentries": [
+          {
+            "HS Code": "8473.30",
+            "Description": "Parts and accessories of the machines of heading 8471:",
+            "Subentries": [
+              {
+                "HS Code": "8473.30.91.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Not incorporating a cathode ray tube:",
+                "Subentries": [
+                  {
+                    "HS Code": "8473.30.11",
+                    "Description": "Printed circuit assemblies",
+                    "Subentries": [
+                      {
+                        "HS Code": "8473.30.11.40",
+                        "Description": "Memory modules suitable for use solely or principally with machines of heading 8471",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8473.30.11.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8473.30.20.00",
+                    "Description": "Parts and accessories, including face plates and lock latches, of printed circuit assemblies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8473.30.51.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

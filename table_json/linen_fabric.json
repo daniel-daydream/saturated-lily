@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "53",
+    "Description": "Other vegetable textile fibers; paper yarn and woven fabric of paper yarn",
+    "Subentries": [
+      {
+        "HS Code": "5309",
+        "Description": "Woven fabrics of flax:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Containing 85 percent or more by weight of flax:",
+            "Subentries": [
+              {
+                "HS Code": "5309.11.00",
+                "Description": "Unbleached or bleached",
+                "Subentries": [
+                  {
+                    "HS Code": "5309.11.00.10",
+                    "Description": "Of a width exceeding 127 cm (810)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5309.11.00.90",
+                    "Description": "Other (810)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5309.19.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "5309.19.00.10",
+                    "Description": "Of a width exceeding 127 cm (810)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5309.19.00.90",
+                    "Description": "Other (810)",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

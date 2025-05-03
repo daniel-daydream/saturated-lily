@@ -1,0 +1,35 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8510",
+        "Description": "Shavers, hair clippers and hair-removing appliances, with self-contained electric motor; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8510.10.00.00",
+            "Description": "Shavers",
+            "Subentries": []
+          },
+          {
+            "HS Code": "8510.20",
+            "Description": "Hair clippers:",
+            "Subentries": [
+              {
+                "HS Code": "8510.20.10.00",
+                "Description": "Hair clippers to be used for agricultural or horticultural purposes",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8510.20.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

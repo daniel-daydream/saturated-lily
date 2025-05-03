@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "32",
+    "Description": "Tanning or dyeing extracts; dyes, pigments, paints, varnishes, putty and mastics",
+    "Subentries": [
+      {
+        "HS Code": "3214",
+        "Description": "Glaziers' putty, grafting putty, resin cements, caulking compounds and other mastics; painters' fillings; nonrefractory surfacing preparations for facades, indoor walls, floors, ceilings or the like:",
+        "Subentries": [
+          {
+            "HS Code": "3214.10.00",
+            "Description": "Glazier's putty, grafting putty, resin cements, caulking compounds and other mastics; painters' fillings",
+            "Subentries": [
+              {
+                "HS Code": "3214.10.00.90",
+                "Description": "Painters' fillings",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Mastics:",
+                "Subentries": [
+                  {
+                    "HS Code": "3214.10.00.10",
+                    "Description": "Caulking compounds",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3214.10.00.20",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

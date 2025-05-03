@@ -1,0 +1,355 @@
+[
+  {
+    "HS Code": "03",
+    "Description": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+    "Subentries": [
+      {
+        "HS Code": "0306",
+        "Description": "Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked crustaceans, whether in shell or not, whether or not cooked before or during the smoking process; crustaceans, in shell, cooked by steaming or by boiling in water, whether or not chilled, frozen, dried, salted or in brine:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Frozen:",
+            "Subentries": [
+              {
+                "HS Code": "0306.11.00",
+                "Description": "Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)",
+                "Subentries": [
+                  {
+                    "HS Code": "0306.11.00.10",
+                    "Description": "Carribbean spiny lobster (Panulirus argus)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0306.11.00.20",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.12.00",
+                "Description": "Lobsters (Homarus spp.)",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "In airtight containers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0306.12.00.10",
+                        "Description": "In brine",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.12.00.30",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0306.12.00.50",
+                        "Description": "In brine",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.12.00.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.14",
+                "Description": "Crabs:",
+                "Subentries": [
+                  {
+                    "HS Code": "0306.14.20.00",
+                    "Description": "Crabmeat",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0306.14.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0306.14.40.20",
+                        "Description": "Snow crab",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.14.40.30",
+                        "Description": "Dungeness crab",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.14.40.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "King crab:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0306.14.40.03",
+                            "Description": "Red king crab (Paralithodes camtschaticus)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.14.40.06",
+                            "Description": "Blue king crab (Paralithodes platypus)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.14.40.09",
+                            "Description": "Golden/brown king crab (Lithodes aequispinus)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.14.40.12",
+                            "Description": "Southern red santolla king crab (Lithodes santolla formerly L. antarcticus)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.14.40.15",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.15.00.00",
+                "Description": "Norway lobsters (Nephrops norvegicus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0306.16.00",
+                "Description": "Cold-water shrimps and prawns (Pandalus spp., Crangon crangon)",
+                "Subentries": [
+                  {
+                    "HS Code": "0306.16.00.40",
+                    "Description": "Peeled, imported in accordance with statistical note 1 to this chapter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Shell-on, imported in accordance with statistical note 1 to this chapter:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0306.16.00.03",
+                        "Description": "Count size (headless weight) less than 33 per kg (15s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.06",
+                        "Description": "Count size (headless weight) 33-45 per kg (15-20s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.09",
+                        "Description": "Count size (headless weight) 46-55 per kg (21-25s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.12",
+                        "Description": "Count size (headless weight) 56-66 per kg (26-30s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.15",
+                        "Description": "Count size (headless weight) 67-88 per kg (31-40s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.18",
+                        "Description": "Count size (headless weight) 89-110 per kg (41-50s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.21",
+                        "Description": "Count size (headless weight) 111-132 per kg (51-60s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.24",
+                        "Description": "Count size (headless weight) 133-154 per kg (61-70s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.27",
+                        "Description": "Count size (headless weight) more than 154 per kg (70s)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.17.00",
+                "Description": "Other shrimps and prawns",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Shell-on, imported in accordance with statistical note 1 to this chapter:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Farmed:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0306.17.00.04",
+                            "Description": "Count size (headless weight) less than 33 per kg (15s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.05",
+                            "Description": "Count size (headless weight) 33-45 per kg (15-20s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.07",
+                            "Description": "Count size (headless weight) 46-55 per kg (21-25s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.08",
+                            "Description": "Count size (headless weight) 56-66 per kg (26-30s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.10",
+                            "Description": "Count size (headless weight) 67-88 per kg (31-40s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.11",
+                            "Description": "Count size (headless weight) 89-110 per kg (41-50s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.13",
+                            "Description": "Count size (headless weight) 111-132 per kg (51-60s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.14",
+                            "Description": "Count size (headless weight) 133-154 per kg (61-70s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.16",
+                            "Description": "Count size (headless weight) more than 154 per kg (70s)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Not farmed:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0306.17.00.17",
+                            "Description": "Count size (headless weight) less than 33 per kg (15s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.19",
+                            "Description": "Count size (headless weight) 33-45 per kg (15-20s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.20",
+                            "Description": "Count size (headless weight) 46-55 per kg (21-25s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.22",
+                            "Description": "Count size (headless weight) 56-66 per kg (26-30s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.23",
+                            "Description": "Count size (headless weight) 67-88 per kg (31-40s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.25",
+                            "Description": "Count size (headless weight) 89-110 per kg (41-50s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.26",
+                            "Description": "Count size (headless weight) 111-132 per kg (51-60s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.28",
+                            "Description": "Count size (headless weight) 133-154 per kg (61-70s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.29",
+                            "Description": "Count size (headless weight) more than 154 per kg (70s)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Peeled, imported in accordance with statistical note 1 to this chapter:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0306.17.00.41",
+                        "Description": "Farmed",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.17.00.42",
+                        "Description": "Not farmed",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.19.01",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0306.19.01.10",
+                    "Description": "Freshwater crawfish",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0306.19.01.30",
+                    "Description": "Antarctic krill (Euphausia superba)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0306.19.01.61",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

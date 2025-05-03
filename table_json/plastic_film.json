@@ -1,0 +1,162 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3920",
+        "Description": "Other plates, sheets, film, foil and strip, of plastics, noncellular and not reinforced, laminated, supported or similarly combined with other materials:",
+        "Subentries": [
+          {
+            "HS Code": "3920.10.00.00",
+            "Description": "Of polymers of ethylene",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3920.20.00",
+            "Description": "Of polymers of propylene",
+            "Subentries": [
+              {
+                "HS Code": "3920.20.00.15",
+                "Description": "Strip put up in packaging for use as decorative or gift-wrapping ribbon",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3920.20.00.20",
+                "Description": "Gift wrap",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3920.20.00.55",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3920.30.00.00",
+            "Description": "Of polymers of styrene",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Of polymers of vinyl chloride:",
+            "Subentries": [
+              {
+                "HS Code": "3920.43",
+                "Description": "Containing by weight not less than 6 percent of plasticizers:",
+                "Subentries": [
+                  {
+                    "HS Code": "3920.43.10.00",
+                    "Description": "Made in imitation of patent leather",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3920.43.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3920.49.00.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3920.61.00.00",
+                "Description": "Of polycarbonates",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3920.62.00",
+                "Description": "Of poly(ethylene terephthalate)",
+                "Subentries": [
+                  {
+                    "HS Code": "3920.62.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Metallized PET film:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3920.62.00.20",
+                        "Description": "Gift wrap",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3920.62.00.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "3920.63",
+                "Description": "Of unsaturated polyesters:",
+                "Subentries": [
+                  {
+                    "HS Code": "3920.63.10.00",
+                    "Description": "Flexible",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3920.63.20.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "3920.69.00.00",
+                "Description": "Of other polyesters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3920.71.00.00",
+                "Description": "Of regenerated cellulose",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3920.73.00.00",
+                "Description": "Of cellulose acetate",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3920.79",
+                "Description": "Of other cellulose derivatives:",
+                "Subentries": [
+                  {
+                    "HS Code": "3920.79.05.00",
+                    "Description": "Of vulcanized fiber",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3920.79.10.00",
+                        "Description": "Film, strip and sheets, not over 0.076 mm in thickness",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3920.79.50.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8483",
+        "Description": "Transmission shafts (including camshafts and crankshafts) and cranks; bearing housings, housed bearings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints); parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8483.30",
+            "Description": "Bearing housings; plain shaft bearings:",
+            "Subentries": [
+              {
+                "HS Code": "8483.30.40",
+                "Description": "Flange, take-up, cartridge and hanger units",
+                "Subentries": [
+                  {
+                    "HS Code": "8483.30.40.40",
+                    "Description": "Ball or roller bearing type",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8483.30.40.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8483.30.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Bearing housings:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8483.30.80.20",
+                        "Description": "Ball or roller bearing type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8483.30.80.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Plain shaft bearings:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "With housing:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8483.30.80.55",
+                            "Description": "Rod end bearings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8483.30.80.65",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Without housing:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8483.30.80.70",
+                            "Description": "Spherical",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8483.30.80.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8483.90",
+            "Description": "Toothed wheels, chain sprockets and other transmission elements presented separately; parts:",
+            "Subentries": [
+              {
+                "HS Code": "8483.90.10",
+                "Description": "Chain sprockets and parts thereof",
+                "Subentries": [
+                  {
+                    "HS Code": "8483.90.10.10",
+                    "Description": "Forged",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8483.90.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8483.90.50",
+                "Description": "Parts of gearing, gear boxes and other speed changers",
+                "Subentries": [
+                  {
+                    "HS Code": "8483.90.50.10",
+                    "Description": "Forged gear blanks",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8483.90.50.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Parts of bearing housings and plain shaft bearings:",
+                "Subentries": [
+                  {
+                    "HS Code": "8483.90.20.00",
+                    "Description": "Parts of flange, take-up, cartridge and hanger units",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8483.90.30.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8483.90.70.00",
+                    "Description": "Parts of articles of subheading 8483.20",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8483.90.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8483.90.80.10",
+                        "Description": "Parts of articles of subheading 8483.60.80",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8483.90.80.40",
+                        "Description": "Parts of universal joints",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8483.90.80.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

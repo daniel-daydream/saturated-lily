@@ -1,0 +1,176 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8415",
+        "Description": "Air conditioning machines, comprising a motor-driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other, except parts:",
+            "Subentries": [
+              {
+                "HS Code": "8415.81.01",
+                "Description": "Incorporating a refrigerating unit and a valve for reversal of the cooling/heat cycle (reversible heat pumps)",
+                "Subentries": [
+                  {
+                    "HS Code": "8415.81.01.30",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Self-contained:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8415.81.01.10",
+                        "Description": "Not exceeding 17.58 kW per hour",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8415.81.01.20",
+                        "Description": "Exceeding 17.58 kW per hour",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8415.82.01",
+                "Description": "Other, incorporating a refrigerating unit",
+                "Subentries": [
+                  {
+                    "HS Code": "8415.82.01.70",
+                    "Description": "Other air conditioning machines incorporating a refrigerating unit",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Self-contained machines and remote condenser type air conditioners other than year-round units:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8415.82.01.05",
+                        "Description": "Not exceeding 17.58 kW per hour",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8415.82.01.10",
+                        "Description": "Exceeding 17.58 kW per hour",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Year-round units (heating and cooling):",
+                    "Subentries": [
+                      {
+                        "HS Code": "8415.82.01.15",
+                        "Description": "Not exceeding 17.58 kW per hour",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8415.82.01.20",
+                        "Description": "Exceeding 17.58 kW per hour",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Room or central station air conditioning units for use with water chillers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8415.82.01.30",
+                        "Description": "Room fan coil units",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8415.82.01.35",
+                        "Description": "Central station air handlers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8415.82.01.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Dehumidifiers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8415.82.01.55",
+                        "Description": "With a rated water removal capacity of less than 35 liters over a 24 hour period",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8415.82.01.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8415.83.00",
+                "Description": "Not incorporating a refrigerating unit",
+                "Subentries": [
+                  {
+                    "HS Code": "8415.83.00.90",
+                    "Description": "Other air conditioning machines not incorporating a refrigerating unit",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Heat exchangers including condensing units:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8415.83.00.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Condensing units:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8415.83.00.50",
+                            "Description": "Not exceeding 17.58 kW per hour",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8415.83.00.60",
+                            "Description": "Exceeding 17.58 kW per hour",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8479",
+        "Description": "Machines and mechanical appliances having individual functions, not specified or included elsewhere in this chapter; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8479.60.00.00",
+            "Description": "Evaporative air coolers",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

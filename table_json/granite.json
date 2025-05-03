@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "25",
+    "Description": "Salt; sulfur; earths and stone; plastering materials, lime and cement",
+    "Subentries": [
+      {
+        "HS Code": "2516",
+        "Description": "Granite, porphyry, basalt, sandstone and other monumental or building stone, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Granite:",
+            "Subentries": [
+              {
+                "HS Code": "2516.11.00.00",
+                "Description": "Crude or roughly trimmed",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2516.12.00",
+                "Description": "Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",
+                "Subentries": [
+                  {
+                    "HS Code": "2516.12.00.30",
+                    "Description": "Having a thickness of 7.5 cm or more",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2516.12.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

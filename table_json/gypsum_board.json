@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "68",
+    "Description": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+    "Subentries": [
+      {
+        "HS Code": "6809",
+        "Description": "Articles of plaster or of compositions based on plaster:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Boards, sheets, panels, tiles and similar articles, not ornamented:",
+            "Subentries": [
+              {
+                "HS Code": "6809.11.00",
+                "Description": "Faced or reinforced with paper or paperboard only",
+                "Subentries": [
+                  {
+                    "HS Code": "6809.11.00.10",
+                    "Description": "Of gypsum plaster",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6809.11.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "6809.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

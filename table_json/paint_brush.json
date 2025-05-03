@@ -1,0 +1,35 @@
+[
+  {
+    "HS Code": "96",
+    "Description": "Miscellaneous manufactured articles",
+    "Subentries": [
+      {
+        "HS Code": "9603",
+        "Description": "Brooms, brushes (including brushes constituting parts of machines, appliances or vehicles), hand-operated mechanical floor sweepers, not motorized, mops and feather dusters; prepared knots and tufts for broom or brush making; paint pads and rollers; squeegees (other than roller squeegees):",
+        "Subentries": [
+          {
+            "HS Code": "9603.30",
+            "Description": "Artists' brushes, writing brushes and similar brushes for the application of cosmetics:",
+            "Subentries": [
+              {
+                "HS Code": "9603.30.20.00",
+                "Description": "Valued not over 5\u00a2 each",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9603.30.40.00",
+                "Description": "Valued over 5\u00a2 but not over 10\u00a2 each",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9603.30.60.00",
+                "Description": "Valued over 10\u00a2 each",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

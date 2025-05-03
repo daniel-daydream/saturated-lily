@@ -1,0 +1,182 @@
+[
+  {
+    "HS Code": "44",
+    "Description": "Wood and articles of wood; wood charcoal",
+    "Subentries": [
+      {
+        "HS Code": "4411",
+        "Description": "Fiberboard of wood or other ligneous materials, whether or not bonded with resins or other organic substances:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Medium density fiberboard (MDF):",
+            "Subentries": [
+              {
+                "HS Code": "4411.12",
+                "Description": "Of a thickness not exceeding 5 mm:",
+                "Subentries": [
+                  {
+                    "HS Code": "4411.12.10.00",
+                    "Description": "Not mechanically worked or surface covered",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "4411.12.20.00",
+                            "Description": "Laminated boards bonded in whole or in part, or impregnated, with synthetic resins",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4411.12.30.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4411.12.60.00",
+                            "Description": "Not surface covered (except for oil treatment)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4411.12.90",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "4411.12.90.10",
+                                "Description": "Standard wood molding",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4411.12.90.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "4411.13",
+                "Description": "Of a thickness exceeding 5 mm but not exceeding 9 mm:",
+                "Subentries": [
+                  {
+                    "HS Code": "4411.13.10.00",
+                    "Description": "Not mechanically worked or surface covered",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "4411.13.20.00",
+                            "Description": "Laminated boards bonded in whole or in part, or impregnated, with synthetic resins",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4411.13.30.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4411.13.60.00",
+                            "Description": "Not surface covered (except for oil treatment)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4411.13.90",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "4411.13.90.10",
+                                "Description": "Standard wood molding",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4411.13.90.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "4411.14",
+                "Description": "Of a thickness exceeding 9 mm:",
+                "Subentries": [
+                  {
+                    "HS Code": "4411.14.10.00",
+                    "Description": "Not mechanically worked or surface covered",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "4411.14.20.00",
+                            "Description": "Laminated boards bonded in whole or in part, or impregnated, with synthetic resins",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4411.14.30.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4411.14.60.00",
+                            "Description": "Not surface covered (except for oil treatment)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4411.14.90",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "4411.14.90.10",
+                                "Description": "Standard wood molding",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4411.14.90.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

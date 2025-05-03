@@ -1,0 +1,139 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8523",
+        "Description": "Discs, tapes, solid-state non-volatile storage devices, \"smart cards\" and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Magnetic media:",
+            "Subentries": [
+              {
+                "HS Code": "8523.21.00.00",
+                "Description": "Cards incorporating a magnetic stripe",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8523.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8523.29.10.00",
+                    "Description": "Unrecorded magnetic media",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8523.29.20.00",
+                        "Description": "Magnetic tapes for reproducing phenomena other than sound or image",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8523.29.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other magnetic tapes:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Of a width not exceeding 4 mm:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8523.29.30.00",
+                                "Description": "News sound recordings relating to current events",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8523.29.40",
+                                "Description": "Other",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "8523.29.40.10",
+                                    "Description": "Sound recordings on cassette tapes",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "8523.29.40.20",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Of a width exceeding 4 mm but not exceeding 6.5 mm:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8523.29.50",
+                                "Description": "Video tape recordings",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "8523.29.50.10",
+                                    "Description": "In cassettes",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "8523.29.50.20",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "8523.29.60.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Of a width exceeding 6.5 mm:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8523.29.70",
+                                "Description": "Video tape recordings",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "8523.29.70.10",
+                                    "Description": "Of a width not exceeding 16 mm, in cassettes",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "8523.29.70.20",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "8523.29.80.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

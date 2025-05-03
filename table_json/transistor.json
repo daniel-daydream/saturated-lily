@@ -1,0 +1,74 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8541",
+        "Description": "Semiconductor devices (for example, diodes, transistors, semiconductor-based transducers); photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes (LED), whether or not assembled with other light-emitting diodes (LED); mounted piezo-electric crystals; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Transistors, other than photosensitive transistors:",
+            "Subentries": [
+              {
+                "HS Code": "8541.21.00",
+                "Description": "With a dissipation rate of less than 1 W",
+                "Subentries": [
+                  {
+                    "HS Code": "8541.21.00.40",
+                    "Description": "Unmounted chips, dice and wafers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8541.21.00.75",
+                        "Description": "With an operating frequency not less than 100 MHz",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8541.21.00.95",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8541.29.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8541.29.00.40",
+                    "Description": "Unmounted chips, dice and wafers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8541.29.00.75",
+                        "Description": "With an operating frequency not less than 30 MHz",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8541.29.00.95",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

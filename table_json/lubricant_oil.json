@@ -20,6 +20,16 @@
                     "Description": "Motor fuel",
                     "Subentries": [
                       {
+                        "HS Code": "2710.12.15.20",
+                        "Description": "Jet fuel, naphtha-type",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2710.12.15.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "",
                         "Description": "Gasoline:",
                         "Subentries": [
@@ -45,16 +55,6 @@
                             ]
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "2710.12.15.20",
-                        "Description": "Jet fuel, naphtha-type",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "2710.12.15.50",
-                        "Description": "Other",
-                        "Subentries": []
                       }
                     ]
                   },
@@ -118,6 +118,11 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
+                    "HS Code": "2710.19.16.00",
+                    "Description": "Kerosene-type jet fuel",
+                    "Subentries": []
+                  },
+                  {
                     "HS Code": "",
                     "Description": "Distillate and residual fuel oils (including blended fuel oils):",
                     "Subentries": [
@@ -125,6 +130,11 @@
                         "HS Code": "2710.19.06",
                         "Description": "Testing under 25 degrees A.P.I.",
                         "Subentries": [
+                          {
+                            "HS Code": "2710.19.06.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
                           {
                             "HS Code": "",
                             "Description": "Having a Saybolt Universal viscosity at 37.8\u02daC of 45 seconds or more but not more than 125 seconds (No. 4-type fuel oils):",
@@ -161,11 +171,6 @@
                                 "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "2710.19.06.50",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
                       },
@@ -173,6 +178,11 @@
                         "HS Code": "2710.19.11",
                         "Description": "Testing 25 degrees A.P.I. or more",
                         "Subentries": [
+                          {
+                            "HS Code": "2710.19.11.50",
+                            "Description": "Having a Saybolt Universal viscosity at 37.8\u02daC of more than 125 seconds (heavy fuel oils)",
+                            "Subentries": []
+                          },
                           {
                             "HS Code": "",
                             "Description": "Having a Saybolt Universal viscosity at 37.8\u02daC of less than 45 seconds (light fuel oils):",
@@ -263,20 +273,10 @@
                                 "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "2710.19.11.50",
-                            "Description": "Having a Saybolt Universal viscosity at 37.8\u02daC of more than 125 seconds (heavy fuel oils)",
-                            "Subentries": []
                           }
                         ]
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "2710.19.16.00",
-                    "Description": "Kerosene-type jet fuel",
-                    "Subentries": []
                   },
                   {
                     "HS Code": "",
@@ -371,6 +371,16 @@
                         "Description": "Mixtures of hydrocarbons not elsewhere specified or included, which contain by weight not over 50 percent of any single hydrocarbon compound",
                         "Subentries": [
                           {
+                            "HS Code": "2710.19.45.45",
+                            "Description": "Insulating or transformer oils",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2710.19.45.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
                             "HS Code": "",
                             "Description": "White mineral oil:",
                             "Subentries": [
@@ -385,16 +395,6 @@
                                 "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "2710.19.45.45",
-                            "Description": "Insulating or transformer oils",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "2710.19.45.90",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
                       },

@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8483",
+        "Description": "Transmission shafts (including camshafts and crankshafts) and cranks; bearing housings, housed bearings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints); parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8483.60",
+            "Description": "Clutches and shaft couplings (including universal joints):",
+            "Subentries": [
+              {
+                "HS Code": "8483.60.40",
+                "Description": "Clutches and universal joints",
+                "Subentries": [
+                  {
+                    "HS Code": "8483.60.40.40",
+                    "Description": "Clutches",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8483.60.40.80",
+                    "Description": "Universal joints",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8483.60.80.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "HS Code": "04",
+    "Description": "Dairy produce; birds eggs; natural honey; edible products of animal origin, not elsewhere specified or included",
+    "Subentries": [
+      {
+        "HS Code": "0402",
+        "Description": "Milk and cream, concentrated or containing added sugar or other sweetening matter:",
+        "Subentries": [
+          {
+            "HS Code": "0402.10",
+            "Description": "In powder, granules or other solid forms, of a fat content, by weight, not exceeding 1.5 percent:",
+            "Subentries": [
+              {
+                "HS Code": "0402.10.05.00",
+                "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0402.10.10.00",
+                "Description": "Described in additional U.S. note 7 to this chapter and entered pursuant to its provisions",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0402.10.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "In powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5 percent:",
+            "Subentries": [
+              {
+                "HS Code": "0402.21",
+                "Description": "Not containing added sugar or other sweetening matter:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0402.21.02.00",
+                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0402.21.05.00",
+                        "Description": "Described in additional U.S. note 7 to this chapterand entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0402.21.25.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0402.21.27.00",
+                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0402.21.30.00",
+                        "Description": "Described in additional U.S. note 8 to this chapterand entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0402.21.50.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0402.21.73.00",
+                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0402.21.75.00",
+                        "Description": "Described in additional U.S. note 9 to this chapter and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0402.21.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0402.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0402.29.05.00",
+                    "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0402.29.10.00",
+                    "Description": "Described in additional U.S. note 10 to this chapter and entered pursuant to its provisions",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0402.29.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

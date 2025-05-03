@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "15",
+    "Description": "Animal or vegetable fats and oils and their cleavage products prepared edible fats; animal or vegetable waxes",
+    "Subentries": [
+      {
+        "HS Code": "1513",
+        "Description": "Coconut (copra), palm kernel or babassu oil, and fractions thereof, whether or not refined, but not chemically modified:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Coconut (copra) oil and its fractions:",
+            "Subentries": [
+              {
+                "HS Code": "1513.11.00.00",
+                "Description": "Crude oil",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1513.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

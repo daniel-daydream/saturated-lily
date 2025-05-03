@@ -1,0 +1,73 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8419",
+        "Description": "Machinery, plant or laboratory equipment, whether or not electrically heated (excluding furnaces, ovens and other equipment of heading 8514), for the treatment of materials by a process involving a change of temperature such as heating, cooking, roasting, distilling, rectifying, sterilizing, pasteurizing, steaming, drying, evaporating, vaporizing, condensing or cooling, other than machinery or plant of a kind used for domestic purposes; instantaneous or storage water heaters, nonelectric; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Dryers:",
+            "Subentries": [
+              {
+                "HS Code": "8419.33",
+                "Description": "Lyophilisation apparatus, freeze drying units and spray dryers:",
+                "Subentries": [
+                  {
+                    "HS Code": "8419.33.10.00",
+                    "Description": "For agricultural products",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8419.33.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8419.34.00.00",
+                "Description": "Other, for agricultural products",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8419.35",
+                "Description": "Other, for wood, paper pulp, paper or paperboard",
+                "Subentries": [
+                  {
+                    "HS Code": "8419.35.10.00",
+                    "Description": "For wood",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8419.35.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8419.39.02",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8419.39.02.70",
+                    "Description": "For foods and beverages",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8419.39.02.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

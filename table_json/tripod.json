@@ -1,0 +1,106 @@
+[
+  {
+    "HS Code": "96",
+    "Description": "Miscellaneous manufactured articles",
+    "Subentries": [
+      {
+        "HS Code": "9620.00",
+        "Description": "Monopods, bipods, tripods and similar articles:",
+        "Subentries": [
+          {
+            "HS Code": "9620.00.10.00",
+            "Description": "Accessories suitable for use solely or principally with the apparatus of heading 8519 or 8521",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9620.00.15.00",
+            "Description": "Accessories for the articles of heading 9005",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9620.00.20.00",
+            "Description": "Accessories for photographic (other than cinematographic) cameras of heading 9006",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9620.00.25.00",
+            "Description": "Accessories for cinematographic cameras of heading 9007",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9620.00.30",
+            "Description": "Accessories for the instruments and appliances, including rangefinders, of heading 9015",
+            "Subentries": [
+              {
+                "HS Code": "9620.00.30.10",
+                "Description": "Of rangefinders",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9620.00.30.20",
+                "Description": "Of theodolites and tachymeters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9620.00.30.30",
+                "Description": "Of levels",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9620.00.30.40",
+                "Description": "Of photogrammetrical surveying instruments and apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9620.00.30.50",
+                "Description": "Of seismographs",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9620.00.30.60",
+                "Description": "Of other geophysical instruments and apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9620.00.30.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9620.00.50.00",
+                "Description": "Of plastics",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9620.00.55.00",
+                "Description": "Of wood",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9620.00.60.00",
+                "Description": "Of graphite or other carbon",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9620.00.65.00",
+                "Description": "Of iron or steel",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9620.00.70.00",
+                "Description": "Of aluminum",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

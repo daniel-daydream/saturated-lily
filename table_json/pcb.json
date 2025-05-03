@@ -12,6 +12,16 @@
             "Description": "Plastics impregnated, not flexible type:",
             "Subentries": [
               {
+                "HS Code": "8534.00.00.50",
+                "Description": "Having a base wholly of impregnated paper",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8534.00.00.70",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
                 "HS Code": "",
                 "Description": "Having a base wholly of impregnated glass:",
                 "Subentries": [
@@ -26,16 +36,6 @@
                     "Subentries": []
                   }
                 ]
-              },
-              {
-                "HS Code": "8534.00.00.50",
-                "Description": "Having a base wholly of impregnated paper",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8534.00.00.70",
-                "Description": "Other",
-                "Subentries": []
               }
             ]
           },

@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "90",
+    "Description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9032",
+        "Description": "Automatic regulating or controlling instruments and apparatus; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9032.10.00",
+            "Description": "Thermostats",
+            "Subentries": [
+              {
+                "HS Code": "9032.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "For air conditioning, refrigeration or heating systems:",
+                "Subentries": [
+                  {
+                    "HS Code": "9032.10.00.30",
+                    "Description": "Designed for wall mounting",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9032.10.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

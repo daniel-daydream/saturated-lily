@@ -1,0 +1,193 @@
+[
+  {
+    "HS Code": "42",
+    "Description": "Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silkworm gut)",
+    "Subentries": [
+      {
+        "HS Code": "4202",
+        "Description": "Trunks, suitcases, vanity cases, attache cases, briefcases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; traveling bags, insulated food or beverage bags, toiletry bags, knapsacks and backpacks, handbags, shopping bags, wallets, purses, map cases, cigarette cases, tobacco pouches, tool bags, sports bags, bottle cases, jewelry boxes, powder cases, cutlery cases and similar containers, of leather or of composition leather, of sheeting of plastics, of textile materials, of vulcanized fiber or of paperboard, or wholly or mainly covered with such materials or with paper:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Trunks, suitcases, vanity cases, attache cases, briefcases, school satchels and similar containers:",
+            "Subentries": [
+              {
+                "HS Code": "4202.11.00",
+                "Description": "With outer surface of leather or of composition leather",
+                "Subentries": [
+                  {
+                    "HS Code": "4202.11.00.30",
+                    "Description": "Attache cases, briefcases, school satchels, occupational luggage cases and similar containers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4202.11.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "4202.12",
+                "Description": "With outer surface of plastics or of textile materials:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "With outer surface of plastics:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4202.12.21",
+                        "Description": "Trunks, suitcases, vanity cases and similar containers",
+                        "Subentries": [
+                          {
+                            "HS Code": "4202.12.21.20",
+                            "Description": "Structured, rigid on all sides",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4202.12.21.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "4202.12.29",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Structured, rigid on all sides:",
+                            "Subentries": [
+                              {
+                                "HS Code": "4202.12.29.10",
+                                "Description": "Attache cases, briefcases and similar containers",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4202.12.29.25",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "4202.12.29.35",
+                                "Description": "Attache cases, briefcases and similar containers",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4202.12.29.85",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "With outer surface of textile materials:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4202.12.81",
+                        "Description": "Of man-made fibers",
+                        "Subentries": [
+                          {
+                            "HS Code": "4202.12.81.30",
+                            "Description": "Attache cases, briefcases, school satchels, occupational luggage cases and similar containers (670)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4202.12.81.70",
+                            "Description": "Other (670)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "4202.12.89",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Attache cases, briefcases, school satchels, occupational luggage cases and similar containers:",
+                            "Subentries": [
+                              {
+                                "HS Code": "4202.12.89.10",
+                                "Description": "Containing 85 percent or more by weight of silk or silk waste",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4202.12.89.20",
+                                "Description": "Of cotton (369)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4202.12.89.40",
+                                "Description": "Other (870)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "4202.12.89.50",
+                                "Description": "Containing 85 percent or more by weight of silk or silk waste",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4202.12.89.60",
+                                "Description": "Of cotton (369)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "4202.12.89.80",
+                                "Description": "Other (870)",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of vegetable fibers and not of pile or tufted construction:",
+                        "Subentries": [
+                          {
+                            "HS Code": "4202.12.40.00",
+                            "Description": "Of cotton (369)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4202.12.60.00",
+                            "Description": "Other (870)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "4202.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8419",
+        "Description": "Machinery, plant or laboratory equipment, whether or not electrically heated (excluding furnaces, ovens and other equipment of heading 8514), for the treatment of materials by a process involving a change of temperature such as heating, cooking, roasting, distilling, rectifying, sterilizing, pasteurizing, steaming, drying, evaporating, vaporizing, condensing or cooling, other than machinery or plant of a kind used for domestic purposes; instantaneous or storage water heaters, nonelectric; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8419.50",
+            "Description": "Heat exchange units:",
+            "Subentries": [
+              {
+                "HS Code": "8419.50.10.00",
+                "Description": "Brazed aluminum plate-fin heat exchangers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8419.50.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "HS Code": "82",
+    "Description": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",
+    "Subentries": [
+      {
+        "HS Code": "8205",
+        "Description": "Handtools (including glass cutters) not elsewhere specified or included; blow torches and similar self-contained torches; vises, clamps and the like, other than accessories for and parts of machine tools or water-jet cutting machines; anvils; portable forges; hand- or pedal-operated grinding wheels with frameworks; base metal parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other handtools (including glass cutters) and parts thereof:",
+            "Subentries": [
+              {
+                "HS Code": "8205.51",
+                "Description": "Household tools, and parts thereof:",
+                "Subentries": [
+                  {
+                    "HS Code": "8205.51.45.00",
+                    "Description": "Of copper",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8205.51.60.00",
+                    "Description": "Of aluminum",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8205.51.75.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of iron or steel:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8205.51.15.00",
+                        "Description": "Carving and butcher steels, with or without handles",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8205.51.30",
+                        "Description": "Other (including parts)",
+                        "Subentries": [
+                          {
+                            "HS Code": "8205.51.30.30",
+                            "Description": "Kitchen and table implements",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8205.51.30.60",
+                            "Description": "Other (including parts)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8205.59",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8205.59.10.00",
+                    "Description": "Pipe tools, and parts thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8205.59.20.00",
+                    "Description": "Powder-actuated handtools, and parts thereof",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8205.59.30",
+                    "Description": "Crowbars, track tools and wedges, and parts thereof",
+                    "Subentries": [
+                      {
+                        "HS Code": "8205.59.30.10",
+                        "Description": "Crowbars",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8205.59.30.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8205.59.60.00",
+                        "Description": "Of copper",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8205.59.70.00",
+                        "Description": "Of aluminum",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8205.59.80.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of iron or steel",
+                        "Subentries": [
+                          {
+                            "HS Code": "8205.59.45.00",
+                            "Description": "Caulking guns",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8205.59.55",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "8205.59.55.60",
+                                "Description": "Other (including parts)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Edged handtools:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "8205.59.55.05",
+                                    "Description": "Single edge razor blades other than for shaving",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "8205.59.55.10",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

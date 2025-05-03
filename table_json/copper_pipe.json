@@ -1,0 +1,84 @@
+[
+  {
+    "HS Code": "74",
+    "Description": "Copper and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "7411",
+        "Description": "Copper tubes and pipes:",
+        "Subentries": [
+          {
+            "HS Code": "7411.10",
+            "Description": "Of refined copper:",
+            "Subentries": [
+              {
+                "HS Code": "7411.10.10",
+                "Description": "Seamless",
+                "Subentries": [
+                  {
+                    "HS Code": "7411.10.10.30",
+                    "Description": "Having an outside diameter of 6 mm or more but not exceeding 16 mm, in coils on spools",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7411.10.10.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7411.10.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Of copper alloys:",
+            "Subentries": [
+              {
+                "HS Code": "7411.21",
+                "Description": "Of copper-zinc base alloys (brass):",
+                "Subentries": [
+                  {
+                    "HS Code": "7411.21.10.00",
+                    "Description": "Seamless",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7411.21.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7411.22.00.00",
+                "Description": "Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel-silver)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7411.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "7411.29.10.00",
+                    "Description": "Seamless",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7411.29.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

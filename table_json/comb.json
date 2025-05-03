@@ -20,6 +20,11 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
+                        "HS Code": "9615.11.10.00",
+                        "Description": "Valued not over $4.50 per gross",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "9615.11.40.00",
                         "Description": "Not set with imitation pearls or imitation gemstones",
                         "Subentries": []
@@ -27,11 +32,6 @@
                       {
                         "HS Code": "9615.11.50.00",
                         "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9615.11.10.00",
-                        "Description": "Valued not over $4.50 per gross",
                         "Subentries": []
                       },
                       {
@@ -59,6 +59,11 @@
                 "Description": "Other:",
                 "Subentries": [
                   {
+                    "HS Code": "9615.19.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
                     "HS Code": "",
                     "Description": "Combs:",
                     "Subentries": [
@@ -73,11 +78,6 @@
                         "Subentries": []
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "9615.19.60.00",
-                    "Description": "Other",
-                    "Subentries": []
                   }
                 ]
               }

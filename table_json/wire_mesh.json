@@ -1,0 +1,148 @@
+[
+  {
+    "HS Code": "73",
+    "Description": "Articles of iron or steel",
+    "Subentries": [
+      {
+        "HS Code": "7314",
+        "Description": "Cloth (including endless bands), grill, netting and fencing, of iron or steel wire; expanded metal of iron or steel:",
+        "Subentries": [
+          {
+            "HS Code": "7314.20.00.00",
+            "Description": "Grill, netting and fencing, welded at the intersection, of wire with a maximum cross-sectional dimension of 3 mm or more and having a mesh size of 100 cm2 or more",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Woven cloth:",
+            "Subentries": [
+              {
+                "HS Code": "7314.12",
+                "Description": "Endless bands for machinery, of stainless steel:",
+                "Subentries": [
+                  {
+                    "HS Code": "7314.12.10.00",
+                    "Description": "With meshes not finer than 12 wires to the lineal centimeter in warp or filling",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7314.12.20.00",
+                    "Description": "With meshes finer than 12 but not finer than 36 wires to the lineal centimeter in warp or filling",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "With meshes finer than 36 wires to the lineal centimeter in warp or filling:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7314.12.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Fourdrinier wires, seamed or not seamed, suitable for use in papermaking machines:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7314.12.30.00",
+                            "Description": "With 94 or more wires to the lineal centimeter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7314.12.60.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7314.14",
+                "Description": "Other woven cloth, of stainless steel:",
+                "Subentries": [
+                  {
+                    "HS Code": "7314.14.10.00",
+                    "Description": "With meshes not finer than 12 wires to the lineal centimeter in warp or filling",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7314.14.20.00",
+                    "Description": "With meshes finer than 12 but not finer than 36 wires to the lineal centimeter in warp or filling",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "With meshes finer than 36 wires to the lineal centimeter in warp or maximum:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7314.14.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Fourdrinier wires, seamed or not seamed, suitable for use in papermaking machines:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7314.14.30.00",
+                            "Description": "With 94 or more wires to the lineal centimeter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7314.14.60.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7314.19.01.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7314.31",
+                "Description": "Plated or coated with zinc:",
+                "Subentries": [
+                  {
+                    "HS Code": "7314.31.10.00",
+                    "Description": "Wire fencing plated or coated with zinc, whether or not covered with plastic material",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7314.31.50",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7314.31.50.10",
+                        "Description": "Welded wire stucco netting, furred, not reinforced with supplemental horizontal wire",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7314.31.50.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7314.39.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

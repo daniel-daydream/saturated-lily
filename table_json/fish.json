@@ -1,0 +1,4228 @@
+[
+  {
+    "HS Code": "03",
+    "Description": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+    "Subentries": [
+      {
+        "HS Code": "0301",
+        "Description": "Live fish:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Ornamental fish:",
+            "Subentries": [
+              {
+                "HS Code": "0301.11.00",
+                "Description": "Freshwater",
+                "Subentries": [
+                  {
+                    "HS Code": "0301.11.00.10",
+                    "Description": "Koi (common) carp (Cyprinus carpio)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0301.11.00.20",
+                    "Description": "Goldfish( Carassius auratus), Crucian carp (Carassius carassius)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0301.11.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0301.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other live fish:",
+            "Subentries": [
+              {
+                "HS Code": "0301.91.00.00",
+                "Description": "Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0301.92.00.00",
+                "Description": "Eels (Anguilla spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0301.93.02",
+                "Description": "Carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)",
+                "Subentries": [
+                  {
+                    "HS Code": "0301.93.02.10",
+                    "Description": "Grass carp (Ctenopharyngodon idellus), silver carp (Hypophthalmichthys molitrix) and bighead carp (Aristichthys nobilis)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0301.93.02.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0301.94.01.00",
+                "Description": "Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0301.95.00.00",
+                "Description": "Southern Bluefin tunas (Thunnus maccoyii)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0301.99.03",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0301.99.03.10",
+                    "Description": "Tench (Tinca tinca), sheatfish (Silurus glanis)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0301.99.03.15",
+                    "Description": "Bighead carp (Aristichthys nobilis)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0301.99.03.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0302",
+        "Description": "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 0304:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Salmonidae, excluding edible fish offal of subheadings 0302.91 to 0302.99:",
+            "Subentries": [
+              {
+                "HS Code": "0302.11.00",
+                "Description": "Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache  and Oncorhynchus chrysogaster)",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.11.00.10",
+                    "Description": "Rainbow trout (Salmo gairdneri), farmed",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.11.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.13.00",
+                "Description": "Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus)",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.13.00.22",
+                    "Description": "Chum (dog)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.13.00.32",
+                    "Description": "Pink (humpie)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.13.00.42",
+                    "Description": "Sockeye (red)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.13.00.62",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Chinook (king):",
+                    "Subentries": [
+                      {
+                        "HS Code": "0302.13.00.13",
+                        "Description": "Farmed",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.13.00.14",
+                        "Description": "Not farmed",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Coho (silver):",
+                    "Subentries": [
+                      {
+                        "HS Code": "0302.13.00.53",
+                        "Description": "Farmed",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.13.00.54",
+                        "Description": "Not farmed",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.14.00",
+                "Description": "Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.14.00.62",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Atlantic:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0302.14.00.03",
+                        "Description": "Farmed",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.14.00.04",
+                        "Description": "Not farmed",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae), excluding edible fish offal of subheadings 0302.91 to 0302.99:",
+            "Subentries": [
+              {
+                "HS Code": "0302.21.00",
+                "Description": "Halibut and Greenland turbot (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.21.00.10",
+                    "Description": "Atlantic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.21.00.20",
+                    "Description": "Pacific",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.21.00.90",
+                    "Description": "Other (including Greenland)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.22.00.00",
+                "Description": "Plaice (Pleuronectes platessa)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.23.00.00",
+                "Description": "Sole (Solea spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.24.00.00",
+                "Description": "Turbots (Psetta maxima)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.29.01",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.29.01.10",
+                    "Description": "Flounder",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.29.01.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Tunas (of the genus Thunnus), skipjack tuna (stripe-bellied bonito)(Katsuwonus pelamis), excluding edible fish offal of subheadings 0302.91 to 0302.99:",
+            "Subentries": [
+              {
+                "HS Code": "0302.31.00.00",
+                "Description": "Albacore or longfinned tunas (Thunnus alalunga)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.32.00.00",
+                "Description": "Yellowfin tunas (Thunnus albacares)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.33.00.00",
+                "Description": "Skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.34.00.00",
+                "Description": "Bigeye tunas (Thunnus obesus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.35.01.00",
+                "Description": "Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.36.00.00",
+                "Description": "Southern bluefin tunas (Thunnus maccoyii)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.39.02.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Herrings (Clupea harengus, Clupea pallasii), anchovies (Engraulis spp.), sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus), mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus), Indian mackerels (Rastrelliger spp.), seerfishes (Scomberomorus spp.), jack and horse mackerel (Trachurus spp.), jacks, crevalles (Caranx spp.), cobia (Rachycentron canadum), silver pomfrets (Pampus spp.), Pacific saury (Cololabis saira), scads (Decapterus spp.), capelin (Mallotus villosus), swordfish (Xiphias gladius), Kawakawa (Euthynnus affinis), bonitos (Sarda spp.), marlins, sailfishes, spearfish (Istiophoridae), excluding edible fish offal of subheadings 0302.91 to 0302.99:",
+            "Subentries": [
+              {
+                "HS Code": "0302.41.00.00",
+                "Description": "Herrings (Clupea harengus, Clupea pallasii)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.42.00.00",
+                "Description": "Anchovies (Engraulis spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.43.00.00",
+                "Description": "Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.44.00.00",
+                "Description": "Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.45",
+                "Description": "Jack and horse mackerel (Trachurus spp):",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.45.11.00",
+                    "Description": "Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.45.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.46",
+                "Description": "Cobia (Rachycentron canadum) :",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.46.11.00",
+                    "Description": "Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.46.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.47.00",
+                "Description": "Swordfish (Xiphias gladius)",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.47.00.10",
+                    "Description": "Steaks",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.47.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.49.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Fish of the families Bregmacerotidae, Euclichthyidae Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae, excluding edible fish offal of subheadings 0302.91 to 0302.99:",
+            "Subentries": [
+              {
+                "HS Code": "0302.51.00",
+                "Description": "Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.51.00.10",
+                    "Description": "Atlantic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.51.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.52.00.00",
+                "Description": "Haddock (Melanogrammus aeglefinus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.53.00.00",
+                "Description": "Coalfish (Pollachius virens)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.54",
+                "Description": "Hake (Merluccius spp., Urophycis spp.):",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.54.11.00",
+                    "Description": "Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.54.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.55",
+                "Description": "Alaska pollock (Theragra chalcogramma):",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.55.11.00",
+                    "Description": "Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.55.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.56",
+                "Description": "Blue whitings (Micromesistius poutassou, Micromesistius australis):",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.56.11.00",
+                    "Description": "Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.56.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.59",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.59.11.00",
+                    "Description": "Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.59.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0302.59.50.10",
+                        "Description": "Pollock",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.59.50.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.), excluding edible fish offal of subheadings 0302.91 to 0302.99:",
+            "Subentries": [
+              {
+                "HS Code": "0302.71",
+                "Description": "Tilapias (Oreochromis spp.):",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.71.11.00",
+                    "Description": "Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.71.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.72",
+                "Description": "Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.):",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.72.11.00",
+                    "Description": "Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.72.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0302.72.50.01",
+                        "Description": "Ictalurus spp.",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.72.50.04",
+                        "Description": "Pangasius spp. including basa and tra",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.72.50.34",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.73",
+                "Description": "Carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.):",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.73.11.00",
+                    "Description": "Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.73.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.74.00.00",
+                "Description": "Eels (Anguilla spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.79",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.79.11.00",
+                    "Description": "Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.79.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0302.79.50.25",
+                        "Description": "Nile perch",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.79.50.76",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other fish, excluding edible fish offal of subheadings 0302.91 to 0302.99:",
+            "Subentries": [
+              {
+                "HS Code": "0302.81.00",
+                "Description": "Dogfish and other sharks",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.81.00.11",
+                    "Description": "Dogfish (Squalus spp.)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.81.00.91",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.82.00.00",
+                "Description": "Rays and skates (Rajidae)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.83.00.00",
+                "Description": "Toothfish (Dissostichus spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.84",
+                "Description": "Seabass (Dicentrarchus spp.):",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.84.11.00",
+                    "Description": "Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.84.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.85",
+                "Description": "Seabream (Sparidae):",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.85.11.00",
+                    "Description": "Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.85.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.89",
+                "Description": "Other :",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.89.11",
+                    "Description": "Scaled (whether or not heads, viscera and/or fins have been processed), in immediate containers weighing with their contents 6.8 kg or less",
+                    "Subentries": [
+                      {
+                        "HS Code": "0302.89.11.20",
+                        "Description": "Sable fish (Anoplopoma fimbria)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.89.11.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0302.89.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0302.89.50.37",
+                        "Description": "Smelts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.89.50.40",
+                        "Description": "Cusk",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.89.50.49",
+                        "Description": "Shad and sturgeon",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.89.50.52",
+                        "Description": "Sable fish (Anoplopoma fimbria)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.89.50.55",
+                        "Description": "Ocean perch",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.89.50.58",
+                        "Description": "Snapper (Lutjanidae)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.89.50.61",
+                        "Description": "Grouper",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.89.50.64",
+                        "Description": "Lingcod (Ophiodon elongatus)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.89.50.67",
+                        "Description": "Monkfish (Lophius spp.)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.89.50.70",
+                        "Description": "Atka mackerel (Atkafish) (Pleurogrammus monopterygius)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.89.50.72",
+                        "Description": "Dolphin fish (mahi mahi) (Coryphaena spp.)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.89.50.77",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Fresh-water fish:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0302.89.50.07",
+                            "Description": "Pike",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0302.89.50.10",
+                            "Description": "Pickerel",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0302.89.50.28",
+                            "Description": "Bass",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0302.89.50.31",
+                            "Description": "Whitefish",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0302.89.50.34",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Perch:",
+                            "Subentries": [
+                              {
+                                "HS Code": "0302.89.50.13",
+                                "Description": "Pike perch (including yellow pike)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "0302.89.50.25",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Livers, roes, milt, fish fins, heads, tails, maws and other edible fish offal:",
+            "Subentries": [
+              {
+                "HS Code": "0302.91",
+                "Description": "Livers, roes and milt:",
+                "Subentries": [
+                  {
+                    "HS Code": "0302.91.20.00",
+                    "Description": "Sturgeon roe",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0302.91.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0302.91.40.10",
+                        "Description": "Mullet roe",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0302.91.40.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0302.92.00.00",
+                "Description": "Shark fins",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0302.99.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0303",
+        "Description": "Fish, frozen, excluding fish fillets and other fish meat of heading 0304:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Salmonidae, excluding edible fish offal of subheadings 0303.91 to 0303.99:",
+            "Subentries": [
+              {
+                "HS Code": "0303.11.00.00",
+                "Description": "Sockeye salmon (red salmon) (Oncorhynchus nerka)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.12.00",
+                "Description": "Other Pacific salmon (Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus)",
+                "Subentries": [
+                  {
+                    "HS Code": "0303.12.00.12",
+                    "Description": "Chinook (king)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.12.00.22",
+                    "Description": "Chum (dog)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.12.00.32",
+                    "Description": "Pink (humpie)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.12.00.52",
+                    "Description": "Coho (silver)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.12.00.62",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0303.13.00.00",
+                "Description": "Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.14.00.00",
+                "Description": "Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.19.01.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Tilapias(Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp.,Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodonidellus, Hypophthalmichthys spp.,Cirrhinus spp., Mylopharyngodon piceus, Catlacatla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.), excluding edible fishoffal of subheadings 0303.91 to 0303.99:",
+            "Subentries": [
+              {
+                "HS Code": "0303.23.00.00",
+                "Description": "Tilapias (Oreochromis spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.24.00",
+                "Description": "Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",
+                "Subentries": [
+                  {
+                    "HS Code": "0303.24.00.10",
+                    "Description": "Ictalurus spp.",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.24.00.20",
+                    "Description": "Pangasius spp. including basa and tra",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.24.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0303.25.01.00",
+                "Description": "Carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.26.00.00",
+                "Description": "Eels (Anguilla spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.29.01",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0303.29.01.10",
+                    "Description": "Nile perch",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.29.01.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae), excluding edible fish offal of subheadings 0303.91 to 0303.99:",
+            "Subentries": [
+              {
+                "HS Code": "0303.31.00",
+                "Description": "Halibut and Greenland turbot (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)",
+                "Subentries": [
+                  {
+                    "HS Code": "0303.31.00.10",
+                    "Description": "Atlantic halibut (Hippoglossus hippoglossus)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.31.00.20",
+                    "Description": "Pacific halibut (Hippoglossus stenolepis)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.31.00.30",
+                    "Description": "Greenland turbot (Greenland halibut) (Reinhardtius hippoglossoides)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0303.32.00.00",
+                "Description": "Plaice (Pleuronectes platessa)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.33.00.00",
+                "Description": "Sole (Solea spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.34.00.00",
+                "Description": "Turbots (Psetta maxima)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.39.01",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0303.39.01.10",
+                    "Description": "Flounder",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.39.01.20",
+                    "Description": "Rock sole (Pleuronectes bilineatus)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.39.01.30",
+                    "Description": "Yellowfin sole (Pleuronectes asper)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.39.01.95",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Tunas (of the genus Thunnus), skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis), excluding edible fish offal of subheadings 0303.91 to 0303.99:",
+            "Subentries": [
+              {
+                "HS Code": "0303.41.00.00",
+                "Description": "Albacore or longfinned tunas (Thunnus alalunga)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.42.00",
+                "Description": "Yellowfin tunas (Thunnus albacares)",
+                "Subentries": [
+                  {
+                    "HS Code": "0303.42.00.20",
+                    "Description": "Whole fish",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0303.42.00.40",
+                        "Description": "Head-on",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.42.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0303.43.00.00",
+                "Description": "Skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.44.00.00",
+                "Description": "Bigeye tunas (Thunnus obesus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.45.01",
+                "Description": "Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)",
+                "Subentries": [
+                  {
+                    "HS Code": "0303.45.01.10",
+                    "Description": "Thunnus thynnus",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.45.01.50",
+                    "Description": "Thunnus orientalis",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0303.46.00.00",
+                "Description": "Southern bluefin tunas (Thunnus maccoyii)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.49.02.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Herrings (Clupea harengus, Clupea pallasii), anchovies (Engraulis spp.), sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus), mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus), Indian mackerels (Rastrelliger spp.), seerfishes (Scomberomorus spp.), jack and horse mackerel (Trachurus spp.), jacks, crevalles (Caranx spp.), cobia (Rachycentron canadum), silver pomfrets (Pampus spp.), Pacific saury (Cololabis saira), scads (Decapterus spp.), capelin (Mallotus villosus), swordfish (Xiphias gladius), Kawakawa (Euthynnus affinis), bonitos (Sarda spp.), marlins, sailfishes, spearfish (Istiophoridae), excluding edible fish offal of subheadings 0303.91 to 0303.99:",
+            "Subentries": [
+              {
+                "HS Code": "0303.51.00.00",
+                "Description": "Herrings (Clupea harengus, Clupea pallasii)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.53.00.00",
+                "Description": "Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.54.00.00",
+                "Description": "Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.55.00.00",
+                "Description": "Jack and horse mackerel (Trachurus spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.56.00.00",
+                "Description": "Cobia (Rachycentron canadum)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.57.00",
+                "Description": "Swordfish (Xiphias gladius)",
+                "Subentries": [
+                  {
+                    "HS Code": "0303.57.00.10",
+                    "Description": "Steaks",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.57.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0303.59.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae, excluding edible fish offal of subheadings 0303.91 to 0303.99:",
+            "Subentries": [
+              {
+                "HS Code": "0303.63.00",
+                "Description": "Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",
+                "Subentries": [
+                  {
+                    "HS Code": "0303.63.00.10",
+                    "Description": "Atlantic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.63.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0303.64.00.00",
+                "Description": "Haddock (Melanogrammus aeglefinus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.65.00.00",
+                "Description": "Coalfish (Pollachius virens)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.66.00.00",
+                "Description": "Hake (Merluccius spp., Urophycis spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.67.00.00",
+                "Description": "Alaska pollock (Theragra chalcogramma)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.68.00.00",
+                "Description": "Blue whitings (Micromesistius poutassou, Micromesistius australis)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.69.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other fish, excluding edible fish offal of subheadings 0303.91 to 0303.99:",
+            "Subentries": [
+              {
+                "HS Code": "0303.81.00",
+                "Description": "Dogfish and other sharks",
+                "Subentries": [
+                  {
+                    "HS Code": "0303.81.00.11",
+                    "Description": "Dogfish (Squalus spp.)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.81.00.91",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0303.82.00.00",
+                "Description": "Rays and skates (Rajidae)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.83.00.00",
+                "Description": "Toothfish (Dissostichus spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.84.00.00",
+                "Description": "Sea Bass (Dicentrachus spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.89.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0303.89.00.10",
+                    "Description": "Cusk",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.89.00.13",
+                    "Description": "Shad and sturgeon",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.89.00.46",
+                    "Description": "Atka mackeral (Atkafish) (Pleurogrammus monopterygius)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.89.00.49",
+                    "Description": "Mullet",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.89.00.52",
+                    "Description": "Monkfish (Lophius spp.)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.89.00.55",
+                    "Description": "Butterfish",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.89.00.58",
+                    "Description": "Capelin",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.89.00.61",
+                    "Description": "Sable fish (Anoplopoma fimbria)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.89.00.64",
+                    "Description": "Ocean perch",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.89.00.67",
+                    "Description": "Snapper (Lutjanidae spp.)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.89.00.70",
+                    "Description": "Grouper",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.89.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Smelts:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0303.89.00.01",
+                        "Description": "Sea smelts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.89.00.04",
+                        "Description": "Other smelts",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Fresh-water fish:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0303.89.00.28",
+                        "Description": "Pike and pickerel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.89.00.31",
+                        "Description": "Perch and pike perch (including yellow pike)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.89.00.34",
+                        "Description": "Sauger",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.89.00.37",
+                        "Description": "Whitefish",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.89.00.40",
+                        "Description": "Tilapias, other than Oreochromis spp.",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.89.00.43",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Livers, roes, milt, fish fins, heads, tails, maws and other edible fish offal:",
+            "Subentries": [
+              {
+                "HS Code": "0303.91",
+                "Description": "Livers, roes and milt:",
+                "Subentries": [
+                  {
+                    "HS Code": "0303.91.20.00",
+                    "Description": "Sturgeon roe",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0303.91.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0303.91.40.20",
+                        "Description": "Herring roe",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.91.40.40",
+                        "Description": "Salmon roe",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.91.40.50",
+                        "Description": "Alaska pollock (Theragra chalcogramma) roe",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.91.40.60",
+                        "Description": "Mullet roe",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0303.91.40.95",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0303.92.00.00",
+                "Description": "Shark fins",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0303.99.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0304",
+        "Description": "Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Fresh or chilled fillets of tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.):",
+            "Subentries": [
+              {
+                "HS Code": "0304.31.00.00",
+                "Description": "Tilapias (Oreochromis spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.32.00",
+                "Description": "Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.32.00.10",
+                    "Description": "Ictalurus spp.",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.32.00.20",
+                    "Description": "Pangasius spp. including basa and tra",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.32.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.33.00.00",
+                "Description": "Nile perch (Lates niloticus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.39.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Fresh or chilled fillets of other fish:",
+            "Subentries": [
+              {
+                "HS Code": "0304.41.00",
+                "Description": "Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus) Atlantic Salmon (Salmo salar) and Danube salmon (Hucho hucho)",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.41.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Atlantic Salmon (Salmo salar):",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.41.00.10",
+                        "Description": "Farmed",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.41.00.20",
+                        "Description": "Not Farmed",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.42.00.00",
+                "Description": "Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae Oncorhynchus apache, and Oncorhynchus chrysogaster)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.43.00",
+                "Description": "Flat Fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae, and Citharidae)",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.43.00.10",
+                    "Description": "Sole",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.43.00.15",
+                    "Description": "Paice",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.43.00.20",
+                    "Description": "Flounder",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.43.00.25",
+                    "Description": "Greenland turbot (Greenland halibut), (Reinhardtius hippoglossoides)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.43.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.44.00",
+                "Description": "Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.44.00.20",
+                    "Description": "Haddock",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.44.00.25",
+                    "Description": "Pollock",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.44.00.30",
+                    "Description": "Hake",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.44.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Cod:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.44.00.10",
+                        "Description": "Atlantic Cod",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.44.00.15",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.45.00.00",
+                "Description": "Swordfish (Xiphias gladius)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.46.00.00",
+                "Description": "Toothfish (Dissostichus spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.47.00.00",
+                "Description": "Dogfish and other sharks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.48.00.00",
+                "Description": "Rays and skates (Rajidae)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.49.01",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.49.01.20",
+                    "Description": "Atlantic ocean perch",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.49.01.25",
+                    "Description": "Cusk",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.49.01.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Fresh-water fish:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.49.01.03",
+                        "Description": "Pike",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.49.01.06",
+                        "Description": "Pickerel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.49.01.09",
+                        "Description": "Whitefish",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.49.01.12",
+                        "Description": "Tilapia, other than Oreochromis spp.",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.49.01.15",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other, fresh or chilled:",
+            "Subentries": [
+              {
+                "HS Code": "0304.51.01",
+                "Description": "Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.51.01.10",
+                    "Description": "Ictalurus spp.",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.51.01.15",
+                    "Description": "Pangasius spp., including basa and tra",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.51.01.20",
+                    "Description": "Nile Perch",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.51.01.25",
+                    "Description": "Tilapias (Oreochromis spp.)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.51.01.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.52.00",
+                "Description": "Salmonidae",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.52.00.20",
+                    "Description": "Other salmon",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.52.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Atlantic salmon (Salmo salar):",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.52.00.10",
+                        "Description": "Farmed",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.52.00.15",
+                        "Description": "Not farmed",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.53.00",
+                "Description": "Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.53.00.20",
+                    "Description": "Haddock",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.53.00.25",
+                    "Description": "Pollock",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.53.00.30",
+                    "Description": "Hake",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.53.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Cod:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.53.00.10",
+                        "Description": "Atlantic Cod",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.53.00.15",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.54.00.00",
+                "Description": "Swordfish (Xiphias gladius)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.55.00.00",
+                "Description": "Toothfish (Dissostichus spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.56.00.00",
+                "Description": "Dogfish and other sharks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.57.00.00",
+                "Description": "Rays and skates (Rajidae)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.59.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.59.00.65",
+                    "Description": "Atlantic ocean perch",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.59.00.70",
+                    "Description": "Cusk",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.59.00.91",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Fresh-water fish:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.59.00.15",
+                        "Description": "Pike",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.59.00.20",
+                        "Description": "Pickerel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.59.00.25",
+                        "Description": "Whitefish",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.59.00.30",
+                        "Description": "Tilapia other than Oreochromis spp.",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.59.00.36",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Perch:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0304.59.00.03",
+                            "Description": "Yellow perch",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.59.00.06",
+                            "Description": "Pike perch (including yellow pike)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.59.00.09",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Flat Fish:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.59.00.40",
+                        "Description": "Sole",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.59.00.45",
+                        "Description": "Plaice",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.59.00.50",
+                        "Description": "Flounder",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.59.00.55",
+                        "Description": "Greenland turbot (Greenland halibut), (Reinhardtius hippoglossoides)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.59.00.61",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Frozen fillets of tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp.,  Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbushoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.):",
+            "Subentries": [
+              {
+                "HS Code": "0304.61.00.00",
+                "Description": "Tilapias (Oreochromis spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.62.00",
+                "Description": "Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.62.00.10",
+                    "Description": "Ictalurus spp.",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.62.00.20",
+                    "Description": "Pangasius spp. (including basa and tra)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.62.00.30",
+                    "Description": "Other Siluriformes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.62.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.63.00.00",
+                "Description": "Nile perch (Lates niloticus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.69.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Frozen fillets of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae:",
+            "Subentries": [
+              {
+                "HS Code": "0304.71",
+                "Description": "Cod (Gadus morhua, Gadus ogac,Gadus macrocephalus):",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.71.10.00",
+                    "Description": "Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.71.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.72",
+                "Description": "Haddock (Melanogrammus aeglefinus):",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.72.10.00",
+                    "Description": "Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.72.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.73",
+                "Description": "Coalfish (Pollachius virens):",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.73.10.00",
+                    "Description": "Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.73.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.74",
+                "Description": "Hake (Merluccius spp., Urophycis spp.):",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.74.10.00",
+                    "Description": "Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.74.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.75",
+                "Description": "Alaska pollock (Theragra chalcogramma):",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.75.10.00",
+                    "Description": "Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.75.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.79",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.79.10",
+                    "Description": "Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.79.10.10",
+                        "Description": "Pollock other than Alaska pollock",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.79.10.15",
+                        "Description": "Whiting (Merluccius spp.)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.79.10.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0304.79.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Frozen fillets of other fish:",
+            "Subentries": [
+              {
+                "HS Code": "0304.81",
+                "Description": "Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus) Atlantic Salmon (Salmo salar) and Danube salmon (Hucho hucho):",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.81.10.00",
+                    "Description": "Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.81.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.81.50.10",
+                        "Description": "Atlantic salmon (Salmo salar)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.81.50.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.82",
+                "Description": "Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae Oncorhynchus apache and Oncorhynchus chrysogaster):",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.82.10.00",
+                    "Description": "Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.82.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.83",
+                "Description": "Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae, and Citharidae):",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.83.10",
+                    "Description": "Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.83.10.10",
+                        "Description": "Greenland turbot (Greenland halibut) (Reinhardtius hippoglossoides)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.83.10.15",
+                        "Description": "Sole",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.83.10.20",
+                        "Description": "Flounder",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0304.83.10.25",
+                            "Description": "Halibut",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.83.10.30",
+                            "Description": "Turbot",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.83.10.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0304.83.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.83.50.10",
+                        "Description": "Greenland turbot (Greenland halibut) (Reinhardtius hippoglossoides)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.83.50.15",
+                        "Description": "Sole",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.83.50.20",
+                        "Description": "Flounder",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0304.83.50.25",
+                            "Description": "Halibut",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.83.50.30",
+                            "Description": "Turbot",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.83.50.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.84.00.00",
+                "Description": "Swordfish (Xiphias gladius)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.85.00.00",
+                "Description": "Toothfish (Dissostichus spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.86.00.00",
+                "Description": "Herrings (Clupea harengus, Clupea pallasii)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.87.00.00",
+                "Description": "Tunas (of the genus Thunnus), skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.88.00.00",
+                "Description": "Dogfish, other sharks, rays and skates (Rajidae)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.89",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.89.10",
+                    "Description": "Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.89.10.10",
+                        "Description": "Ocean catfish (wolf fish)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.89.10.15",
+                        "Description": "Pickerel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.89.10.20",
+                        "Description": "Sauger",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.89.10.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Perch:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0304.89.10.25",
+                            "Description": "Atlantic ocean perch",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.89.10.30",
+                            "Description": "Other ocean perch",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.89.10.35",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0304.89.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.89.50.35",
+                        "Description": "Atlantic ocean perch",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.89.50.40",
+                        "Description": "Other ocean perch",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.89.50.45",
+                        "Description": "Ocean catfish (wolf fish)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.89.50.50",
+                        "Description": "Orange roughy (Hoplostethus atlanticus)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.89.50.55",
+                        "Description": "Dolphin (Mahi mahi) (Coryphaena spp.)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.89.50.60",
+                        "Description": "Cusk",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.89.50.91",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Fresh-water fish:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0304.89.50.15",
+                            "Description": "Pickerel",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.89.50.20",
+                            "Description": "Pike",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.89.50.25",
+                            "Description": "Sauger",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.89.50.30",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Perch:",
+                            "Subentries": [
+                              {
+                                "HS Code": "0304.89.50.03",
+                                "Description": "Yellow perch",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "0304.89.50.06",
+                                "Description": "Pike perch (including yellow pike)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "0304.89.50.09",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other, frozen:",
+            "Subentries": [
+              {
+                "HS Code": "0304.91",
+                "Description": "Swordfish (Xiphias gladius):",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.91.10.00",
+                    "Description": "In bulk or in immediate containers weighing with their contents over 6.8 kg each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.91.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.92",
+                "Description": "Toothfish (Dissostichus spp.):",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.92.10.00",
+                    "Description": "In bulk or in immediate containers weighing with their contents over 6.8 kg each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0304.92.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.93",
+                "Description": "Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.):",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.93.10",
+                    "Description": "In bulk or in immediate containers weighing with their contents over 6.8 kg each",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.93.10.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Minced:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0304.93.10.05",
+                            "Description": "Surimi",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.93.10.10",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0304.93.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.94",
+                "Description": "Alaska pollock (Theragra chalcogramma):",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.94.10",
+                    "Description": "In bulk or in immediate containers weighing with their contents over 6.8 kg each",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.94.10.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Minced:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0304.94.10.05",
+                            "Description": "Surimi",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.94.10.10",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0304.94.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.95",
+                "Description": "Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae, other than Alaska Pollock (Theragra chalcogramma):",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.95.10",
+                    "Description": "In bulk or in immediate containers weighing with their contents over 6.8 kg each",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Minced:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0304.95.10.05",
+                            "Description": "Surimi",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "0304.95.10.10",
+                                "Description": "Cod",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "0304.95.10.15",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0304.95.10.20",
+                            "Description": "Cod",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.95.10.25",
+                            "Description": "Haddock",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.95.10.30",
+                            "Description": "Pollock",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.95.10.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0304.95.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0304.96.00.00",
+                "Description": "Dogfish and other sharks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.97.00.00",
+                "Description": "Rays and skates (Rajidae)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0304.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0304.99.11",
+                    "Description": "In bulk or in immediate containers weighing with their contents over 6.8 kg each",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Minced:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0304.99.11.04",
+                            "Description": "Surimi",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.99.11.09",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0304.99.11.50",
+                            "Description": "Sole",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.99.11.60",
+                            "Description": "Greenland turbot (Greenland halibut) (Reinhardtius hippoglossoides)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.99.11.70",
+                            "Description": "Ocean perch",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.99.11.82",
+                            "Description": "Pike",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0304.99.11.83",
+                            "Description": "Whitefish",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "0304.99.11.84",
+                                "Description": "Fresh-water",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "0304.99.11.90",
+                                "Description": "Tuna [of genus Thunnus and of fish of the genus Euthynnus(Katsuwonus) pelamis]",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "0304.99.11.94",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0304.99.91",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0304.99.91.90",
+                        "Description": "Ocean",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0304.99.91.92",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0305",
+        "Description": "Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process:",
+        "Subentries": [
+          {
+            "HS Code": "0305.20",
+            "Description": "Livers, roes and milt of fish, dried, smoked, salted or in brine:",
+            "Subentries": [
+              {
+                "HS Code": "0305.20.20.00",
+                "Description": "Sturgeon roe",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0305.20.40",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0305.20.40.20",
+                    "Description": "Salmon roe",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0305.20.40.40",
+                    "Description": "Herring roe",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0305.20.40.65",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Fish fillets, dried, salted or in brine, but not smoked:",
+            "Subentries": [
+              {
+                "HS Code": "0305.31.01.00",
+                "Description": "Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0305.32.00",
+                "Description": "Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae",
+                "Subentries": [
+                  {
+                    "HS Code": "0305.32.00.10",
+                    "Description": "Cod",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0305.32.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0305.39",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0305.39.20.00",
+                    "Description": "Herrings, in immediate containers weighing with their contents 6.8 kg or less each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0305.39.40.00",
+                    "Description": "Mackerel, in immediate containers weighing with their contents 6.8 kg or less each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0305.39.61",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0305.39.61.10",
+                        "Description": "Herring",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0305.39.61.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Smoked fish, including fillets, other than edible fish offal:",
+            "Subentries": [
+              {
+                "HS Code": "0305.41.00.00",
+                "Description": "Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus),Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0305.42.00",
+                "Description": "Herrings (Clupea harengus, Clupea pallasii)",
+                "Subentries": [
+                  {
+                    "HS Code": "0305.42.00.20",
+                    "Description": "Whole or beheaded but not otherwise processed",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0305.42.00.50",
+                        "Description": "Boneless",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0305.42.00.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0305.43.00.00",
+                "Description": "Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0305.44.01.00",
+                "Description": "Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0305.49",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0305.49.20.00",
+                    "Description": "Mackerel",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0305.49.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0305.49.40.20",
+                        "Description": "Cod, cusk, haddock, hake (Urophycis spp.) and pollock",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0305.49.40.45",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Dried fish, other than edible fish offal, whether or not salted but not smoked:",
+            "Subentries": [
+              {
+                "HS Code": "0305.51.00.00",
+                "Description": "Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0305.52.00.00",
+                "Description": "Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0305.53.00.00",
+                "Description": "Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae,Melanonidae, Merlucciidae, Moridae and Muraenolepididae, other than cod (Gadus morhua, Gadus ogac, Gadus macrocephalus).",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0305.54.00.00",
+                "Description": "Herrings (Clupea harengus, Clupea pallasii), anchovies (Engraulis spp.), sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus), mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus), Indian mackerels (Rastrelliger spp.), seerfishes (Scomberomorus spp.), jack and horse mackerel (Trachurus spp.), jacks, crevalles (Caranx spp.), cobia (Rachycentron canadum), silver pomfrets (Pampus spp.), Pacific saury (Cololabis saira), scads (Decapterus spp.), capelin (Mallotus villosus), swordfish (Xiphias gladius), Kawakawa (Euthynnus affinis), bonitos (Sarda spp.), marlins, sailfishes, spearfish (Istiophoridae)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0305.59.00.01",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Fish, salted but not dried or smoked and fish in brine, other than edible fish offal:",
+            "Subentries": [
+              {
+                "HS Code": "0305.61",
+                "Description": "Herrings (Clupea harengus, Clupea pallasii):",
+                "Subentries": [
+                  {
+                    "HS Code": "0305.61.20.00",
+                    "Description": "In immediate containers weighing with their contents 6.8 kg or less each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0305.61.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0305.62.00",
+                "Description": "Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Whole; or processed by removal of heads, fins, viscera, scales, vertebral columns or any combination thereof, but not otherwise processed:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0305.62.00.10",
+                        "Description": "Having a moisture content by weight over 50 percent",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0305.62.00.25",
+                        "Description": "Having a moisture content by weight over 45 percent but not over 50 percent",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0305.62.00.30",
+                        "Description": "Having a moisture content by weight over 43 percent but not over 45 percent",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0305.62.00.45",
+                        "Description": "Having a moisture content by weight not over 43 percent",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0305.62.00.50",
+                        "Description": "Having a moisture content by weight over 50 percent",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0305.62.00.60",
+                        "Description": "Having a moisture content by weight over 45 percent but not over 50 percent",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0305.62.00.70",
+                        "Description": "Having a moisture content by weight over 43 percent but not over 45 percent",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0305.62.00.80",
+                        "Description": "Having a moisture content by weight not over 43 percent",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0305.63",
+                "Description": "Anchovies (Engraulis spp.):",
+                "Subentries": [
+                  {
+                    "HS Code": "0305.63.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "In immediate containers weighing with their contents 6.8 kg or less each:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0305.63.20.00",
+                        "Description": "In airtight containers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0305.63.40.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0305.64",
+                "Description": "Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.):",
+                "Subentries": [
+                  {
+                    "HS Code": "0305.64.10.00",
+                    "Description": "In immediate containers weighing with their contents 6.8 kg or less each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0305.64.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0305.69",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0305.69.10",
+                    "Description": "Cusk, haddock, hake (Urophycis spp.) and pollock",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Whole; or processed by removal of heads, fins, viscera, scales, vertebral columns or any combination thereof, but not otherwise processed:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0305.69.10.21",
+                            "Description": "Hake",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0305.69.10.22",
+                            "Description": "Pollock",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0305.69.10.29",
+                            "Description": "Haddock and cusk",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0305.69.10.41",
+                            "Description": "Hake",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0305.69.10.42",
+                            "Description": "Pollock",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0305.69.10.49",
+                            "Description": "Haddock and cusk",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0305.69.40.00",
+                    "Description": "Salmon",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Mackerel:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0305.69.20.00",
+                        "Description": "In immediate containers weighing with their contents 6.8 kg or less each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0305.69.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0305.69.50.01",
+                        "Description": "In immediate containers weighing with their contents 6.8 kg or less each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0305.69.60.01",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Fish fins, heads, tails, maws and other edible fish offal:",
+            "Subentries": [
+              {
+                "HS Code": "0305.71.00.00",
+                "Description": "Shark fins",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0305.72.00.00",
+                "Description": "Fish heads, tails and maws",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0305.79.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0306",
+        "Description": "Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked crustaceans, whether in shell or not, whether or not cooked before or during the smoking process; crustaceans, in shell, cooked by steaming or by boiling in water, whether or not chilled, frozen, dried, salted or in brine:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Frozen:",
+            "Subentries": [
+              {
+                "HS Code": "0306.11.00",
+                "Description": "Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)",
+                "Subentries": [
+                  {
+                    "HS Code": "0306.11.00.10",
+                    "Description": "Carribbean spiny lobster (Panulirus argus)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0306.11.00.20",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.12.00",
+                "Description": "Lobsters (Homarus spp.)",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "In airtight containers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0306.12.00.10",
+                        "Description": "In brine",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.12.00.30",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0306.12.00.50",
+                        "Description": "In brine",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.12.00.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.14",
+                "Description": "Crabs:",
+                "Subentries": [
+                  {
+                    "HS Code": "0306.14.20.00",
+                    "Description": "Crabmeat",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0306.14.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0306.14.40.20",
+                        "Description": "Snow crab",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.14.40.30",
+                        "Description": "Dungeness crab",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.14.40.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "King crab:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0306.14.40.03",
+                            "Description": "Red king crab (Paralithodes camtschaticus)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.14.40.06",
+                            "Description": "Blue king crab (Paralithodes platypus)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.14.40.09",
+                            "Description": "Golden/brown king crab (Lithodes aequispinus)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.14.40.12",
+                            "Description": "Southern red santolla king crab (Lithodes santolla formerly L. antarcticus)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.14.40.15",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.15.00.00",
+                "Description": "Norway lobsters (Nephrops norvegicus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0306.16.00",
+                "Description": "Cold-water shrimps and prawns (Pandalus spp., Crangon crangon)",
+                "Subentries": [
+                  {
+                    "HS Code": "0306.16.00.40",
+                    "Description": "Peeled, imported in accordance with statistical note 1 to this chapter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Shell-on, imported in accordance with statistical note 1 to this chapter:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0306.16.00.03",
+                        "Description": "Count size (headless weight) less than 33 per kg (15s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.06",
+                        "Description": "Count size (headless weight) 33-45 per kg (15-20s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.09",
+                        "Description": "Count size (headless weight) 46-55 per kg (21-25s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.12",
+                        "Description": "Count size (headless weight) 56-66 per kg (26-30s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.15",
+                        "Description": "Count size (headless weight) 67-88 per kg (31-40s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.18",
+                        "Description": "Count size (headless weight) 89-110 per kg (41-50s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.21",
+                        "Description": "Count size (headless weight) 111-132 per kg (51-60s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.24",
+                        "Description": "Count size (headless weight) 133-154 per kg (61-70s)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.16.00.27",
+                        "Description": "Count size (headless weight) more than 154 per kg (70s)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.17.00",
+                "Description": "Other shrimps and prawns",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Shell-on, imported in accordance with statistical note 1 to this chapter:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Farmed:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0306.17.00.04",
+                            "Description": "Count size (headless weight) less than 33 per kg (15s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.05",
+                            "Description": "Count size (headless weight) 33-45 per kg (15-20s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.07",
+                            "Description": "Count size (headless weight) 46-55 per kg (21-25s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.08",
+                            "Description": "Count size (headless weight) 56-66 per kg (26-30s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.10",
+                            "Description": "Count size (headless weight) 67-88 per kg (31-40s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.11",
+                            "Description": "Count size (headless weight) 89-110 per kg (41-50s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.13",
+                            "Description": "Count size (headless weight) 111-132 per kg (51-60s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.14",
+                            "Description": "Count size (headless weight) 133-154 per kg (61-70s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.16",
+                            "Description": "Count size (headless weight) more than 154 per kg (70s)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Not farmed:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0306.17.00.17",
+                            "Description": "Count size (headless weight) less than 33 per kg (15s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.19",
+                            "Description": "Count size (headless weight) 33-45 per kg (15-20s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.20",
+                            "Description": "Count size (headless weight) 46-55 per kg (21-25s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.22",
+                            "Description": "Count size (headless weight) 56-66 per kg (26-30s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.23",
+                            "Description": "Count size (headless weight) 67-88 per kg (31-40s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.25",
+                            "Description": "Count size (headless weight) 89-110 per kg (41-50s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.26",
+                            "Description": "Count size (headless weight) 111-132 per kg (51-60s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.28",
+                            "Description": "Count size (headless weight) 133-154 per kg (61-70s)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0306.17.00.29",
+                            "Description": "Count size (headless weight) more than 154 per kg (70s)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Peeled, imported in accordance with statistical note 1 to this chapter:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0306.17.00.41",
+                        "Description": "Farmed",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0306.17.00.42",
+                        "Description": "Not farmed",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.19.01",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0306.19.01.10",
+                    "Description": "Freshwater crawfish",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0306.19.01.30",
+                    "Description": "Antarctic krill (Euphausia superba)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0306.19.01.61",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Live, fresh or chilled:",
+            "Subentries": [
+              {
+                "HS Code": "0306.31.00.00",
+                "Description": "Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0306.32.00",
+                "Description": "Lobsters (Homarus spp.)",
+                "Subentries": [
+                  {
+                    "HS Code": "0306.32.00.10",
+                    "Description": "Live",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0306.32.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.33",
+                "Description": "Crabs:",
+                "Subentries": [
+                  {
+                    "HS Code": "0306.33.20.00",
+                    "Description": "Crabmeat",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0306.33.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.34.00.00",
+                "Description": "Norway lobsters (Nephrops norvegicus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0306.35.00",
+                "Description": "Cold-water shrimps and prawns (Pandalus spp., Crangon crangon)",
+                "Subentries": [
+                  {
+                    "HS Code": "0306.35.00.20",
+                    "Description": "Shell-on, imported in accordance with statistical note 1 to this chapter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0306.35.00.40",
+                    "Description": "Peeled, imported in accordance with statistical note 1 to this chapter",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.36.00",
+                "Description": "Other shrimps and prawns",
+                "Subentries": [
+                  {
+                    "HS Code": "0306.36.00.20",
+                    "Description": "Shell-on, imported in accordance with statistical note 1 to this chapter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0306.36.00.40",
+                    "Description": "Peeled, imported in accordance with statistical note 1 to this chapter",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.39.01.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "0306.91.00.00",
+                "Description": "Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0306.92.00.00",
+                "Description": "Lobsters (Homarus spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0306.93",
+                "Description": "Crabs:",
+                "Subentries": [
+                  {
+                    "HS Code": "0306.93.20.00",
+                    "Description": "Crabmeat",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0306.93.40.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.94.00.00",
+                "Description": "Norway lobsters (Nephrops norvegicus)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0306.95.00",
+                "Description": "Shrimps and prawns",
+                "Subentries": [
+                  {
+                    "HS Code": "0306.95.00.20",
+                    "Description": "Shell-on, imported in accordance with statistical note 1 to this chapter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0306.95.00.40",
+                    "Description": "Peeled, imported in accordance with statistical note 1 to this chapter",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0306.99.01.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0307",
+        "Description": "Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process:",
+        "Subentries": [
+          {
+            "HS Code": "0307.60.00.00",
+            "Description": "Snails, other than sea snails",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Oysters:",
+            "Subentries": [
+              {
+                "HS Code": "0307.11.00",
+                "Description": "Live, fresh or chilled",
+                "Subentries": [
+                  {
+                    "HS Code": "0307.11.00.20",
+                    "Description": "Seed oysters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0307.11.00.60",
+                        "Description": "Farmed",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0307.11.00.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0307.12.00",
+                "Description": "Frozen",
+                "Subentries": [
+                  {
+                    "HS Code": "0307.12.00.60",
+                    "Description": "Farmed",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0307.12.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0307.19.01",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0307.19.01.60",
+                    "Description": "Farmed",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0307.19.01.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Scallops and other molluscs of the family Pectinidae:",
+            "Subentries": [
+              {
+                "HS Code": "0307.21.00.00",
+                "Description": "Live, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0307.22.00.00",
+                "Description": "Frozen",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0307.29.01.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Mussels (Mytilus spp., Perna spp.):",
+            "Subentries": [
+              {
+                "HS Code": "0307.31.00",
+                "Description": "Live, fresh or chilled",
+                "Subentries": [
+                  {
+                    "HS Code": "0307.31.00.10",
+                    "Description": "Farmed",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0307.31.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0307.32.00.00",
+                "Description": "Frozen",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0307.39.01.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Cuttle fish and squid:",
+            "Subentries": [
+              {
+                "HS Code": "0307.42.00",
+                "Description": "Live, fresh or chilled",
+                "Subentries": [
+                  {
+                    "HS Code": "0307.42.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Squid:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0307.42.00.20",
+                        "Description": "Loligo",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0307.42.00.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0307.43.00",
+                "Description": "Frozen",
+                "Subentries": [
+                  {
+                    "HS Code": "0307.43.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Squid:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0307.43.00.10",
+                        "Description": "Fillets",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0307.43.00.50",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Loligo:",
+                            "Subentries": [
+                              {
+                                "HS Code": "0307.43.00.22",
+                                "Description": "Loligo opalescens",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "0307.43.00.24",
+                                "Description": "Loligo pealei",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "0307.43.00.29",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0307.49.01",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0307.49.01.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Squid:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0307.49.01.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Loligo:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0307.49.01.22",
+                            "Description": "Loligo opalescens",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0307.49.01.24",
+                            "Description": "Loligo pealei",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0307.49.01.29",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Octopus (Octopus spp.):",
+            "Subentries": [
+              {
+                "HS Code": "0307.51.00.00",
+                "Description": "Live, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0307.52.00.00",
+                "Description": "Frozen",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0307.59.01.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Clams, cockles and ark shells (families Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae and Veneridae):",
+            "Subentries": [
+              {
+                "HS Code": "0307.71.00",
+                "Description": "Live, fresh or chilled",
+                "Subentries": [
+                  {
+                    "HS Code": "0307.71.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Clams:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0307.71.00.50",
+                        "Description": "Geoduck",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0307.71.00.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0307.72.00",
+                "Description": "Frozen",
+                "Subentries": [
+                  {
+                    "HS Code": "0307.72.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Clams:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0307.72.00.30",
+                        "Description": "Geoduck",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0307.72.00.51",
+                        "Description": "Stimson\u02bcs",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0307.72.00.55",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0307.79.01",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0307.79.01.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Clams:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0307.79.01.30",
+                        "Description": "Geoduck",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0307.79.01.51",
+                        "Description": "Stimson\u02bcs",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0307.79.01.55",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Abalone (Haliotis spp.) and stromboid conchs (Strombus spp.):",
+            "Subentries": [
+              {
+                "HS Code": "0307.81.00.00",
+                "Description": "Live, fresh or chilled abalone (Haliotis spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0307.82.00.00",
+                "Description": "Live, fresh or chilled stromboid conchs (Strombus spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0307.83.00.00",
+                "Description": "Frozen abalone (Haliotis spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0307.84.00.00",
+                "Description": "Frozen stromboid conchs (Strombus spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0307.87.00.00",
+                "Description": "Other abalone (Haliotis spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0307.88.00.00",
+                "Description": "Other stromboid conchs (Strombus spp.)",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "0307.91.03",
+                "Description": "Live, fresh or chilled",
+                "Subentries": [
+                  {
+                    "HS Code": "0307.91.03.30",
+                    "Description": "Conch",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0307.91.03.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0307.92.01",
+                "Description": "Frozen",
+                "Subentries": [
+                  {
+                    "HS Code": "0307.92.01.30",
+                    "Description": "Conch",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0307.92.01.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0307.99.03.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0308",
+        "Description": "Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process:",
+        "Subentries": [
+          {
+            "HS Code": "0308.30.00.00",
+            "Description": "Jellyfish (Rhopilema spp.)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "0308.90.01.00",
+            "Description": "Other",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Sea cucumbers (Stichopus japonicus, Holothuroidea):",
+            "Subentries": [
+              {
+                "HS Code": "0308.11.00.00",
+                "Description": "Live, fresh or chilled",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0308.12.00.00",
+                "Description": "Frozen",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0308.19.01.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Sea urchins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus esculentus):",
+            "Subentries": [
+              {
+                "HS Code": "0308.21.00",
+                "Description": "Live, fresh or chilled",
+                "Subentries": [
+                  {
+                    "HS Code": "0308.21.00.21",
+                    "Description": "Roe",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0308.21.00.29",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0308.22.00.00",
+                "Description": "Frozen",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0308.29.01.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0309",
+        "Description": "Flours, meals and pellets of fish, crustaceans, molluscs and other aquatic invertebrates, fit for human consumption:",
+        "Subentries": [
+          {
+            "HS Code": "0309.10",
+            "Description": "Of fish:",
+            "Subentries": [
+              {
+                "HS Code": "0309.10.05.00",
+                "Description": "In bulk or in immediate containers weighing with their contents over 6.8 kg each",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0309.10.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "0309.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "0309.90.90.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Of crustaceans:",
+                "Subentries": [
+                  {
+                    "HS Code": "0309.90.10",
+                    "Description": "Frozen",
+                    "Subentries": [
+                      {
+                        "HS Code": "0309.90.10.10",
+                        "Description": "Freshwater crawfish",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0309.90.10.30",
+                        "Description": "Antarctic Krill",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0309.90.10.61",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0309.90.20.00",
+                    "Description": "Live, fresh, or chilled",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0309.90.30.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Of molluscs:",
+                "Subentries": [
+                  {
+                    "HS Code": "0309.90.40",
+                    "Description": "Live, fresh or chilled",
+                    "Subentries": [
+                      {
+                        "HS Code": "0309.90.40.30",
+                        "Description": "Conch",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0309.90.40.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0309.90.50",
+                    "Description": "Frozen",
+                    "Subentries": [
+                      {
+                        "HS Code": "0309.90.50.30",
+                        "Description": "Conch",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0309.90.50.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0309.90.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8523",
+        "Description": "Discs, tapes, solid-state non-volatile storage devices, \"smart cards\" and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Semiconductor media:",
+            "Subentries": [
+              {
+                "HS Code": "8523.51.00.00",
+                "Description": "Solid-state non-volatile storage devices",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8523.52.00",
+                "Description": "\"Smart cards\"",
+                "Subentries": [
+                  {
+                    "HS Code": "8523.52.00.10",
+                    "Description": "Unrecorded",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8523.52.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8523.59.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

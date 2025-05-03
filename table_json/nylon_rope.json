@@ -1,0 +1,68 @@
+[
+  {
+    "HS Code": "56",
+    "Description": "Wadding, felt and nonwovens; special yarns, twine, cordage, ropes and cables and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "5607",
+        "Description": "Twine, cordage, ropes and cables, whether or not plaited or braided and whether or not impregnated, coated, covered or sheathed with rubber or plastics:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of polyethylene or polypropylene:",
+            "Subentries": [
+              {
+                "HS Code": "5607.41",
+                "Description": "Binder or baler twine:",
+                "Subentries": [
+                  {
+                    "HS Code": "5607.41.10.00",
+                    "Description": "Of wide nonfibrillated strip",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5607.41.30.00",
+                    "Description": "Other (201)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "5607.49",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "5607.49.10.00",
+                    "Description": "Of wide nonfibrillated strip",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5607.49.30.00",
+                    "Description": "Other (669)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other, not braided or plaited:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5607.49.15.00",
+                        "Description": "Measuring less than 4.8 mm in diameter (201)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5607.49.25.00",
+                        "Description": "Other (201)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

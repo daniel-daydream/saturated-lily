@@ -1,0 +1,363 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3923",
+        "Description": "Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other closures, of plastics:",
+        "Subentries": [
+          {
+            "HS Code": "3923.10",
+            "Description": "Boxes, cases, crates and similar articles:",
+            "Subentries": [
+              {
+                "HS Code": "3923.10.20.00",
+                "Description": "Specially shaped or fitted for the conveyance or packing of semiconductor wafers, masks or reticles of subheadings 3923.10 or 8486.90",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3923.10.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3923.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "3923.90.00.80",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Buckets and pails, with or without lids or other closures, having a capacity of:",
+                "Subentries": [
+                  {
+                    "HS Code": "3923.90.00.12",
+                    "Description": "Less than 11.36 liters (3 gallons)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3923.90.00.14",
+                    "Description": "11.36 liters (3 gallons) or more, but not more than 22.71 liters (6 gallons)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3923.90.00.16",
+                    "Description": "22.71 liters (6 gallons) or more",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "48",
+    "Description": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+    "Subentries": [
+      {
+        "HS Code": "4819",
+        "Description": "Cartons, boxes, cases, bags and other packing containers, of paper, paperboard, cellulose wadding or webs of cellulose fibers; box files, letter trays and similar articles, of paper or paperboard of a kind used in offices, shops or the like:",
+        "Subentries": [
+          {
+            "HS Code": "4819.50",
+            "Description": "Other packing containers, including record sleeves:",
+            "Subentries": [
+              {
+                "HS Code": "4819.50.20.00",
+                "Description": "Sanitary food and beverage containers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4819.50.30.00",
+                "Description": "Record sleeves",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4819.50.40",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "4819.50.40.20",
+                    "Description": "Fiber drums, cans, tubes and similar containers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4819.50.40.40",
+                        "Description": "Rigid boxes and cartons",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4819.50.40.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "73",
+    "Description": "Articles of iron or steel",
+    "Subentries": [
+      {
+        "HS Code": "7323",
+        "Description": "Table, kitchen or other household articles and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "7323.91",
+                "Description": "Of cast iron, not enameled:",
+                "Subentries": [
+                  {
+                    "HS Code": "7323.91.10.00",
+                    "Description": "Coated or plated with precious metal",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7323.91.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7323.91.50.20",
+                        "Description": "Bakeware (cookware not suitable for stove top use)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7323.91.50.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7323.92.00",
+                "Description": "Of cast iron, enameled",
+                "Subentries": [
+                  {
+                    "HS Code": "7323.92.00.20",
+                    "Description": "Bakeware (cookware not suitable for stove top use)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7323.92.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7323.93.00",
+                "Description": "Of stainless steel",
+                "Subentries": [
+                  {
+                    "HS Code": "7323.93.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Cooking and kitchen ware:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7323.93.00.15",
+                        "Description": "Teakettles",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7323.93.00.60",
+                            "Description": "Kitchen ware",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Cooking ware:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7323.93.00.35",
+                                "Description": "Bakeware (cookware not suitable for stove top use)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7323.93.00.45",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7323.94.00",
+                "Description": "Of iron (other than cast iron) or steel, enameled",
+                "Subentries": [
+                  {
+                    "HS Code": "7323.94.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Cooking and kitchen ware:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7323.94.00.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of steel:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7323.94.00.10",
+                            "Description": "Teakettles",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7323.94.00.30",
+                                "Description": "Kitchen ware",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Cooking ware:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "7323.94.00.21",
+                                    "Description": "Bakeware (cookware not suitable for stove top use)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7323.94.00.26",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7323.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Coated or plated with precious metal:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7323.99.10.00",
+                        "Description": "Coated or plated with silver",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7323.99.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Not coated or plated with precious metal:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7323.99.50",
+                        "Description": "Of tinplate",
+                        "Subentries": [
+                          {
+                            "HS Code": "7323.99.50.30",
+                            "Description": "Kitchen or tableware suitable for food or drink contact",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7323.99.50.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7323.99.70.00",
+                            "Description": "Cookingware",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7323.99.90",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "7323.99.90.30",
+                                "Description": "Kitchen or tableware suitable for food or drink contact",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7323.99.90.40",
+                                "Description": "Gates for confining children or pets",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7323.99.90.80",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

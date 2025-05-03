@@ -1,0 +1,57 @@
+[
+  {
+    "HS Code": "82",
+    "Description": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",
+    "Subentries": [
+      {
+        "HS Code": "8203",
+        "Description": "Files, rasps, pliers (including cutting pliers), pincers, tweezers, metal cutting shears, pipe cutters, bolt cutters, perforating punches and similar handtools, and base metal parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8203.20",
+            "Description": "Pliers (including cutting pliers), pincers, tweezers and similar tools, and parts thereof:",
+            "Subentries": [
+              {
+                "HS Code": "8203.20.20.00",
+                "Description": "Tweezers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8203.20.40.00",
+                    "Description": "Slip joint pliers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8203.20.60",
+                    "Description": "Other (except parts)",
+                    "Subentries": [
+                      {
+                        "HS Code": "8203.20.60.30",
+                        "Description": "Pliers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8203.20.60.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8203.20.80.00",
+                    "Description": "Parts",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

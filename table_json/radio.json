@@ -1,0 +1,171 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8527",
+        "Description": "Reception apparatus for radiobroadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Radiobroadcast receivers capable of operating without an external source of power:",
+            "Subentries": [
+              {
+                "HS Code": "8527.12.00.00",
+                "Description": "Pocket-size radio cassette players",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8527.13",
+                "Description": "Other apparatus combined with sound recording or reproducing apparatus:",
+                "Subentries": [
+                  {
+                    "HS Code": "8527.13.11.00",
+                    "Description": "Combinations incorporating tape players which are incapable of recording",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8527.13.20",
+                        "Description": "Radio-tape recorder combinations",
+                        "Subentries": [
+                          {
+                            "HS Code": "8527.13.20.15",
+                            "Description": "Cassette type",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8527.13.20.25",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8527.13.40.00",
+                        "Description": "Radio-phonograph combinations",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8527.13.60",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8527.13.60.40",
+                            "Description": "Incorporating optical disc (including compact disc) players or recorders",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8527.13.60.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8527.19",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8527.19.10.00",
+                    "Description": "Valued not over $40 each, incorporating a clock or clock-timer, not in combination with any other article, and not designed for motor vehicle installation",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8527.19.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8527.19.50.10",
+                        "Description": "FM only or AM/FM only",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8527.19.50.25",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8527.21",
+                "Description": "Combined with sound recording or reproducing apparatus:",
+                "Subentries": [
+                  {
+                    "HS Code": "8527.21.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8527.21.40.40",
+                        "Description": "Incorporating optical disc (including compact disc) players or recorders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8527.21.40.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Radio-tape player combinations:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8527.21.15.00",
+                        "Description": "Combined with sound recording or reproducing apparatus capable of receiving and decoding digital radio data system signals",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8527.21.25",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8527.21.25.10",
+                            "Description": "Incorporating optical disc (including compact disc) players or recorders",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8527.21.25.25",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8527.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8527.29.40.00",
+                    "Description": "FM only or AM/FM only",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8527.29.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

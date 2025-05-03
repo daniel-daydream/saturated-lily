@@ -1,0 +1,531 @@
+[
+  {
+    "HS Code": "16",
+    "Description": "Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates",
+    "Subentries": [
+      {
+        "HS Code": "1604",
+        "Description": "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Fish, whole or in pieces, but not minced:",
+            "Subentries": [
+              {
+                "HS Code": "1604.11",
+                "Description": "Salmon:",
+                "Subentries": [
+                  {
+                    "HS Code": "1604.11.20",
+                    "Description": "In oil, in airtight containers",
+                    "Subentries": [
+                      {
+                        "HS Code": "1604.11.20.20",
+                        "Description": "Pink (humpie)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1604.11.20.30",
+                        "Description": "Sockeye",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1604.11.20.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "1604.11.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "1604.11.40.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Canned:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1604.11.40.10",
+                            "Description": "Chum (dog)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1604.11.40.20",
+                            "Description": "Pink (humpie)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1604.11.40.30",
+                            "Description": "Sockeye",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1604.11.40.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1604.12",
+                "Description": "Herrings:",
+                "Subentries": [
+                  {
+                    "HS Code": "1604.12.20.00",
+                    "Description": "In oil, in airtight containers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1604.12.40.00",
+                        "Description": "In tomato sauce, smoked or kippered, and in immediate containers weighing with their contents over 0.45 kg each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1604.12.60",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Pickled:",
+                            "Subentries": [
+                              {
+                                "HS Code": "1604.12.60.10",
+                                "Description": "Fillets",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "1604.12.60.30",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "1604.12.60.50",
+                                "Description": "Kipper snacks",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "1604.12.60.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1604.13",
+                "Description": "Sardines, sardinella and brisling or sprats:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "In oil, in airtight containers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1604.13.10.00",
+                        "Description": "Smoked sardines, neither skinned nor boned, valued $1 or more per kg in tin- plate containers, or $1.10 or more per kg in other containers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1604.13.20.00",
+                            "Description": "Neither skinned nor boned",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1604.13.30.00",
+                            "Description": "Skinned or boned",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1604.13.40.00",
+                        "Description": "In immediate containers weighing with their contents under 225 grams each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1604.13.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1604.14",
+                "Description": "Tunas, skipjack tuna and bonito (Sarda spp.):",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Tunas and skipjack:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "In airtight containers:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1604.14.10",
+                            "Description": "In oil",
+                            "Subentries": [
+                              {
+                                "HS Code": "1604.14.10.10",
+                                "Description": "In foil or other flexible containers weighing with their contents not more than 6.8 kg each",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "1604.14.10.91",
+                                    "Description": "Albacore",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "1604.14.10.99",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Not in oil:",
+                            "Subentries": [
+                              {
+                                "HS Code": "1604.14.22",
+                                "Description": "In containers weighing with their contents not over 7 kg each, and not the product of any insular possession of the United States, for an aggregate quantity entered in any calendar year not to exceed 4.8 percent of apparent United States consumption of tuna in airtight containers during the immediately preceding year, as reported by the National Marine Fisheries Service",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Albacore (Thunnus alalunga):",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "1604.14.22.51",
+                                        "Description": "In foil or other flexible con- tainers weighing with their contents not more than 6.8 kg each",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "1604.14.22.59",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "1604.14.22.91",
+                                        "Description": "In foil or other flexible con- tainers weighing with their contents not more than 6.8 kg each",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "1604.14.22.99",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "1604.14.30",
+                                "Description": "Other",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Albacore (Thunnus alalunga):",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "1604.14.30.51",
+                                        "Description": "In foil or other flexible con- tainers weighing with their contents not more than 6.8 kg each",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "1604.14.30.59",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "1604.14.30.91",
+                                        "Description": "In foil or other flexible con- tainers weighing with their contents not more than 6.8 kg each",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "1604.14.30.99",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Not in airtight containers:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1604.14.40.00",
+                            "Description": "In bulk or in immediate containers weighing with their contents over 6.8 kg each, not in oil",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1604.14.50.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Bonito (Sarda spp.):",
+                    "Subentries": [
+                      {
+                        "HS Code": "1604.14.70.00",
+                        "Description": "In oil",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1604.14.80.00",
+                        "Description": "Not in oil",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1604.15.00.00",
+                "Description": "Mackerel",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1604.16",
+                "Description": "Anchovies:",
+                "Subentries": [
+                  {
+                    "HS Code": "1604.16.20.00",
+                    "Description": "In oil, in airtight containers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1604.16.40.00",
+                        "Description": "In immediate containers weighing with their contents 6.8 kg or less each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1604.16.60.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1604.17",
+                "Description": "Eels:",
+                "Subentries": [
+                  {
+                    "HS Code": "1604.17.10.00",
+                    "Description": "In airtight containers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Fish sticks and similar products of any size or shape, fillets or other portions of fish, if breaded, coated with batter or similarly prepared:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1604.17.40.00",
+                            "Description": "Neither cooked nor in oil",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1604.17.50.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1604.17.60.00",
+                            "Description": "In oil and in bulk or in immediate containers over 7 kg each",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1604.17.80.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "1604.18",
+                "Description": "Shark fins:",
+                "Subentries": [
+                  {
+                    "HS Code": "1604.18.10.00",
+                    "Description": "In airtight containers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1604.18.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "1604.19",
+                "Description": "Other (including yellowtail):",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "In airtight containers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Not in oil:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1604.19.10.00",
+                            "Description": "Bonito, yellowtail and pollock",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1604.19.22.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "In oil:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1604.19.25.00",
+                            "Description": "Bonito, yellowtail and pollock",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1604.19.32.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Fish sticks and similar products of any size or shape, fillets or other portions of fish, if breaded, coated with batter or similarly prepared:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1604.19.41.00",
+                            "Description": "Neither cooked nor in oil",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1604.19.51.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1604.19.61.00",
+                            "Description": "In oil and in bulk or in immediate containers weighing with their contents over 7 kg each",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1604.19.82.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

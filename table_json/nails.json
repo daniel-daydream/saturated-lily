@@ -1,0 +1,219 @@
+[
+  {
+    "HS Code": "73",
+    "Description": "Articles of iron or steel",
+    "Subentries": [
+      {
+        "HS Code": "7317.00",
+        "Description": "Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 8305) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper:",
+        "Subentries": [
+          {
+            "HS Code": "7317.00.10.00",
+            "Description": "Thumb tacks",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other, suitable for use in powder-actuated handtools:",
+            "Subentries": [
+              {
+                "HS Code": "7317.00.20.00",
+                "Description": "Not threaded",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7317.00.30.00",
+                "Description": "Threaded",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "7317.00.75.00",
+                "Description": "Of two or more pieces",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Of one piece construction:",
+                "Subentries": [
+                  {
+                    "HS Code": "7317.00.55",
+                    "Description": "Made of round wire",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Collated nails:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7317.00.55.01",
+                            "Description": "Collated roofing nails with a length of 20.6 mm to 46.1 mm, a head diameter of 8.3 mm to 10.6 mm, a shank diameter of 2.5 mm to 3.2 mm, whether or not galvanized",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7317.00.55.08",
+                                "Description": "Assembled in a paper strip",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7317.00.55.11",
+                                "Description": "Assembled in a wire strip",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7317.00.55.18",
+                                "Description": "Other",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Assembled in a wire coil:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "7317.00.55.02",
+                                    "Description": "Galvanized",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7317.00.55.03",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Assembled in a plastic strip:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "7317.00.55.05",
+                                    "Description": "Galvanized",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "7317.00.55.07",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7317.00.55.19",
+                            "Description": "With a length of less than 25.4 mm and with a diameter of less than 1.65 mm",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Smooth shank:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "7317.00.55.20",
+                                    "Description": "Not coated, plated or painted",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Coated, plated or painted:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "7317.00.55.30",
+                                        "Description": "Galvanized",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "7317.00.55.40",
+                                        "Description": "Vinyl, resin or cement coated",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "7317.00.55.50",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "7317.00.55.60",
+                                    "Description": "Not coated, plated or painted",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Coated, plated or painted:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "7317.00.55.70",
+                                        "Description": "Galvanized",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "7317.00.55.80",
+                                        "Description": "Vinyl, resin or cement coated",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "7317.00.55.90",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "7317.00.65",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7317.00.65.30",
+                        "Description": "Cut",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7317.00.65.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

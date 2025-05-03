@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "82",
+    "Description": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",
+    "Subentries": [
+      {
+        "HS Code": "8205",
+        "Description": "Handtools (including glass cutters) not elsewhere specified or included; blow torches and similar self-contained torches; vises, clamps and the like, other than accessories for and parts of machine tools or water-jet cutting machines; anvils; portable forges; hand- or pedal-operated grinding wheels with frameworks; base metal parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8205.20",
+            "Description": "Hammers and sledge hammers, and parts thereof:",
+            "Subentries": [
+              {
+                "HS Code": "8205.20.30.00",
+                "Description": "With heads not over 1.5 kg each",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8205.20.60.00",
+                "Description": "With heads over 1.5 kg each",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

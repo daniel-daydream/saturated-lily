@@ -1,0 +1,79 @@
+[
+  {
+    "HS Code": "93",
+    "Description": "Arms and ammunition; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9305",
+        "Description": "Parts and accessories of articles of headings 9301 to 9304:",
+        "Subentries": [
+          {
+            "HS Code": "9305.20",
+            "Description": "Of shotguns or rifles of heading 9303:",
+            "Subentries": [
+              {
+                "HS Code": "9305.20.05.00",
+                "Description": "Rifle stocks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9305.20.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "9305.20.80.20",
+                    "Description": "Other parts of muzzle-loading shotguns or rifles",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Shotgun barrels:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9305.20.80.04",
+                        "Description": "Of muzzle-loading shotguns",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9305.20.80.08",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9305.20.80.60",
+                        "Description": "Of rifles",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of shotguns, including shotgun-rifle combinations:",
+                        "Subentries": [
+                          {
+                            "HS Code": "9305.20.80.31",
+                            "Description": "Stocks",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "9305.20.80.33",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

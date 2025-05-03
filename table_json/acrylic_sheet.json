@@ -1,0 +1,74 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3920",
+        "Description": "Other plates, sheets, film, foil and strip, of plastics, noncellular and not reinforced, laminated, supported or similarly combined with other materials:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of acrylic polymers:",
+            "Subentries": [
+              {
+                "HS Code": "3920.51",
+                "Description": "Of poly(methyl methacrylate):",
+                "Subentries": [
+                  {
+                    "HS Code": "3920.51.10.00",
+                    "Description": "Flexible",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3920.51.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "3920.51.50.50",
+                        "Description": "Sheets, not flexible, containing flame retardant",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3920.51.50.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "3920.59",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "3920.59.10.00",
+                    "Description": "Flexible",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "3920.59.40.00",
+                        "Description": "Transparent sheeting containing 30 percent or more by weight of lead",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "3920.59.80.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "HS Code": "38",
+    "Description": "Miscellaneous chemical products",
+    "Subentries": [
+      {
+        "HS Code": "3819.00.00",
+        "Description": "Hydraulic brake fluids and other prepared liquids for hydraulic transmission, not containing or containing less than 70 percent by weight of petroleum oils or oils obtained from bituminous minerals",
+        "Subentries": [
+          {
+            "HS Code": "3819.00.00.10",
+            "Description": "Hydraulic brake fluids",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3819.00.00.90",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      },
+      {
+        "HS Code": "3820.00.00.00",
+        "Description": "Antifreezing preparations and prepared deicing fluids",
+        "Subentries": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "HS Code": "29",
+    "Description": "Organic chemicals",
+    "Subentries": [
+      {
+        "HS Code": "2914",
+        "Description": "Ketones and quinones, whether or not with other oxygen function, and their halogenated, sulfonated, nitrated, or nitrosated derivatives:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Acyclic ketones without other oxygen function:",
+            "Subentries": [
+              {
+                "HS Code": "2914.11",
+                "Description": "Acetone:",
+                "Subentries": [
+                  {
+                    "HS Code": "2914.11.10.00",
+                    "Description": "Derived in whole or in part from cumene",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2914.11.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "2914.12.00.00",
+                "Description": "Butanone (Methyl ethyl ketone)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2914.13.00.00",
+                "Description": "4-Methylpentan-2-one (Methyl isobutyl ketone)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2914.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

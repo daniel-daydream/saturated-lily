@@ -1,0 +1,108 @@
+[
+  {
+    "HS Code": "72",
+    "Description": "Iron and steel",
+    "Subentries": [
+      {
+        "HS Code": "7204",
+        "Description": "Ferrous waste and scrap; remelting scrap ingots of iron or steel:",
+        "Subentries": [
+          {
+            "HS Code": "7204.10.00.00",
+            "Description": "Waste and scrap of cast iron",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7204.30.00.00",
+            "Description": "Waste and scrap of tinned iron or steel",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7204.50.00.00",
+            "Description": "Remelting scrap ingots",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Waste and scrap of alloy steel:",
+            "Subentries": [
+              {
+                "HS Code": "7204.21.00.00",
+                "Description": "Of stainless steel",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7204.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7204.41.00",
+                "Description": "Turnings, shavings, chips, milling waste, sawdust, filings, trimmings and stampings, whether or not in bundles",
+                "Subentries": [
+                  {
+                    "HS Code": "7204.41.00.20",
+                    "Description": "No. 1 bundles",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7204.41.00.40",
+                    "Description": "No. 2 bundles",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7204.41.00.60",
+                    "Description": "Borings, shovelings and turnings",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7204.41.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7204.49.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "7204.49.00.20",
+                    "Description": "No. 1 heavy melting",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7204.49.00.40",
+                    "Description": "No. 2 heavy melting",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7204.49.00.60",
+                        "Description": "Cut plate and structural",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7204.49.00.70",
+                        "Description": "Shredded",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7204.49.00.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

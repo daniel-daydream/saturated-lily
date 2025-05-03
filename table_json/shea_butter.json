@@ -1,0 +1,46 @@
+[
+  {
+    "HS Code": "15",
+    "Description": "Animal or vegetable fats and oils and their cleavage products prepared edible fats; animal or vegetable waxes",
+    "Subentries": [
+      {
+        "HS Code": "1515",
+        "Description": "Other fixed vegetable or microbial fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified:",
+        "Subentries": [
+          {
+            "HS Code": "1515.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1515.90.21.00",
+                "Description": "Nut oils",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1515.90.60.00",
+                "Description": "Jojoba oil and its fractions",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1515.90.81",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1515.90.81.10",
+                    "Description": "Hemp oil",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1515.90.81.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

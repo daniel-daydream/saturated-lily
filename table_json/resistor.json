@@ -1,0 +1,88 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8533",
+        "Description": "Electrical resistors (including rheostats and potentiometers), other than heating resistors; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other fixed resistors:",
+            "Subentries": [
+              {
+                "HS Code": "8533.21.00",
+                "Description": "For a power handling capacity not exceeding 20 W",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8533.21.00.50",
+                        "Description": "Single-in-line",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8533.21.00.60",
+                        "Description": "Dual-in-line",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8533.21.00.70",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8533.21.00.80",
+                        "Description": "Wirewound",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8533.21.00.90",
+                        "Description": "Other (including metal film, metal oxide and thick cement film)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Having more than two terminals (resistor networks):",
+                        "Subentries": [
+                          {
+                            "HS Code": "8533.21.00.10",
+                            "Description": "Dual-in-line package",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8533.21.00.20",
+                            "Description": "Other (including flat packs)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8533.21.00.30",
+                            "Description": "Flat resistor chips",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8533.21.00.40",
+                            "Description": "Cylindrical leadless resistors (including metal film, metal oxide and thick cement film)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8533.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

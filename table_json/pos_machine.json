@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8470",
+        "Description": "Calculating machines and pocket-size data recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket-issuing machines and similar machines, incorporating a calculating device; cash registers:",
+        "Subentries": [
+          {
+            "HS Code": "8470.50.00",
+            "Description": "Cash registers",
+            "Subentries": [
+              {
+                "HS Code": "8470.50.00.20",
+                "Description": "Point-of-sale terminals",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8470.50.00.60",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

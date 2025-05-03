@@ -1,0 +1,305 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8479",
+        "Description": "Machines and mechanical appliances having individual functions, not specified or included elsewhere in this chapter; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other machines and mechanical appliances:",
+            "Subentries": [
+              {
+                "HS Code": "8479.81.00.00",
+                "Description": "For treating metal, including electric wire coil-winders",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8479.82.00",
+                "Description": "Mixing, kneading, crushing, grinding, screening, sifting, homogenizing, emulsifying or stirring machines",
+                "Subentries": [
+                  {
+                    "HS Code": "8479.82.00.40",
+                    "Description": "Mixing, kneading or stirring machines",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8479.82.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8479.83.00.00",
+                "Description": "Cold isostatic presses",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8479.89",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8479.89.70.00",
+                    "Description": "Carpet sweepers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8479.89.83.00",
+                    "Description": "Machines for the manufacturing of optical media",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8479.89.92.00",
+                    "Description": "Automated electronic component placement machines of a kind used solely or principally for the manufacture of printed circuit assemblies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8479.89.95",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8479.89.95.50",
+                        "Description": "Oil and gas field wireline and downhole equipment",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.95.60",
+                        "Description": "Automotive maintenance machines",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.95.65",
+                        "Description": "Hydraulic accumulators",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.95.85",
+                        "Description": "Ultrasonic cleaning devices",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.95.95",
+                        "Description": "Industrial vibrators",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.95.96",
+                        "Description": "Tow behind sweepers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.95.99",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Electromechanical appliances with self-contained electric motor:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8479.89.10.00",
+                        "Description": "Air humidifiers or dehumidifiers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.20.00",
+                        "Description": "Floor polishers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.55.00",
+                        "Description": "Trash compactors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.65.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8504",
+        "Description": "Electrical transformers, static converters (for example, rectifiers) and inductors; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8504.40",
+            "Description": "Static converters:",
+            "Subentries": [
+              {
+                "HS Code": "8504.40.40.00",
+                "Description": "Speed drive controllers for electric motors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8504.40.85.00",
+                "Description": "For telecommunication apparatus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8504.40.95",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8504.40.95.70",
+                    "Description": "Inverters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8504.40.95.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Rectifiers and rectifying apparatus:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8504.40.95.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Power supplies:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8504.40.95.10",
+                            "Description": "With a power output not exceeding 50 W",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.40.95.20",
+                            "Description": "With a power output exceeding 50 W but not exceeding 150 W",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.40.95.30",
+                            "Description": "With a power output exceeding 150 W but not exceeding 500 W",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8504.40.95.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Power supplies for automatic data processing machines or units thereof of heading 8471; power supplies for goods of subheading 8443.31 or 8443.32; power supplies for monitors of subheading 8528.42 or 8528.52 or projectors of subheading 8528.62:",
+                "Subentries": [
+                  {
+                    "HS Code": "8504.40.60",
+                    "Description": "Suitable for physical incorporation into automatic data processing machines or units thereof of heading 8471",
+                    "Subentries": [
+                      {
+                        "HS Code": "8504.40.60.01",
+                        "Description": "With a power output not exceeding 50 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.60.07",
+                        "Description": "With a power output exceeding 50 W but not exceeding 150 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.60.12",
+                        "Description": "With a power output exceeding 150 W but not exceeding 500 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.60.18",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8504.40.70",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8504.40.70.01",
+                        "Description": "With a power output not exceeding 50 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.70.07",
+                        "Description": "With a power output exceeding 50 W but not exceeding 150 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.70.12",
+                        "Description": "With a power output exceeding 150 W but not exceeding 500 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8504.40.70.18",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8509",
+        "Description": "Electromechanical domestic appliances, with self-contained electric motor, other than vacuum cleaners of heading 8508; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8509.40.00",
+            "Description": "Food grinders, processors and mixers; fruit or vegetable juice extractors",
+            "Subentries": [
+              {
+                "HS Code": "8509.40.00.15",
+                "Description": "Blenders",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8509.40.00.25",
+                "Description": "Other food mixers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8509.40.00.30",
+                "Description": "Juice extractors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8509.40.00.40",
+                "Description": "Food grinders and processors",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

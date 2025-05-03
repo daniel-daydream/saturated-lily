@@ -1,0 +1,94 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8537",
+        "Description": "Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 8535 or 8536, for electric control or the distribution of electricity, including those incorporating instruments or apparatus of chapter 90, and numerical control apparatus, other than switching apparatus of heading 8517:",
+        "Subentries": [
+          {
+            "HS Code": "8537.10",
+            "Description": "For a voltage not exceeding 1,000 V:",
+            "Subentries": [
+              {
+                "HS Code": "8537.10.30.00",
+                "Description": "Assembled with outer housing or supports, for the goods of headings 8421, 8422, 8450 or 8516",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8537.10.60.00",
+                "Description": "Motor control centers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8537.10.80.00",
+                    "Description": "Touch-sensitive data input devices (so-called \"touch screens\") without display capabilities, for incorporation into apparatus having a display, which function by detecting the presence and location of a touch within the display area (such sensing may be obtained by means of resistance, electrostatic capacity, acoustic pulse recognition, infra-red lights or other touch-sensitive technology)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8537.10.91",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8537.10.91.20",
+                        "Description": "Switchgear assemblies and switchboards",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8537.10.91.30",
+                        "Description": "Numerical controls for controlling machine tools",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8537.10.91.50",
+                            "Description": "Panel boards and distribution boards",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8537.10.91.60",
+                            "Description": "Programmable controllers",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8537.10.91.70",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8537.20.00",
+            "Description": "For a voltage exceeding 1,000 V",
+            "Subentries": [
+              {
+                "HS Code": "8537.20.00.20",
+                "Description": "Switchgear assemblies and switchboards",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8537.20.00.40",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

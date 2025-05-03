@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8470",
+        "Description": "Calculating machines and pocket-size data recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket-issuing machines and similar machines, incorporating a calculating device; cash registers:",
+        "Subentries": [
+          {
+            "HS Code": "8470.10.00",
+            "Description": "Electronic calculators capable of operation without an external source of electric power and pocket-size data recording, reproducing and displaying machines with calculating functions",
+            "Subentries": [
+              {
+                "HS Code": "8470.10.00.40",
+                "Description": "Display only",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8470.10.00.60",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

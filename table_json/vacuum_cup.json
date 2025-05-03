@@ -1,0 +1,40 @@
+[
+  {
+    "HS Code": "96",
+    "Description": "Miscellaneous manufactured articles",
+    "Subentries": [
+      {
+        "HS Code": "9617.00",
+        "Description": "Vacuum flasks and other vacuum vessels, complete; parts thereof other than glass inners:",
+        "Subentries": [
+          {
+            "HS Code": "9617.00.60.00",
+            "Description": "Parts",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Vessels:",
+            "Subentries": [
+              {
+                "HS Code": "9617.00.10.00",
+                "Description": "Having a capacity not exceeding 1 liter",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9617.00.30.00",
+                "Description": "Having a capacity exceeding 1 liter but not exceeding 2 liters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9617.00.40.00",
+                "Description": "Having a capacity exceeding 2 liters",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

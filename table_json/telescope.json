@@ -1,0 +1,62 @@
+[
+  {
+    "HS Code": "90",
+    "Description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9005",
+        "Description": "Binoculars, monoculars, other optical telescopes, and mountings therefor; other astronomical instruments and mountings therefor, but not including instruments for radio-astronomy; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9005.10.00",
+            "Description": "Binoculars",
+            "Subentries": [
+              {
+                "HS Code": "9005.10.00.20",
+                "Description": "Prism binoculars for use with infrared light",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9005.10.00.40",
+                "Description": "Other prism binoculars",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9005.10.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "9005.80",
+            "Description": "Other instruments:",
+            "Subentries": [
+              {
+                "HS Code": "9005.80.40",
+                "Description": "Optical telescopes",
+                "Subentries": [
+                  {
+                    "HS Code": "9005.80.40.20",
+                    "Description": "For use with infrared light",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9005.80.40.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9005.80.60.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

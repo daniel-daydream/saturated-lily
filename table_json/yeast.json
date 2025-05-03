@@ -1,0 +1,40 @@
+[
+  {
+    "HS Code": "21",
+    "Description": "Miscellaneous edible preparations",
+    "Subentries": [
+      {
+        "HS Code": "2102",
+        "Description": "Yeasts (active or inactive); other single-cell microorganisms, dead (but not including vaccines of heading 3002); prepared baking powders:",
+        "Subentries": [
+          {
+            "HS Code": "2102.10.00.00",
+            "Description": "Active yeasts",
+            "Subentries": []
+          },
+          {
+            "HS Code": "2102.20",
+            "Description": "Inactive yeasts; other single-cell microorganisms, dead:",
+            "Subentries": [
+              {
+                "HS Code": "2102.20.20.00",
+                "Description": "Yeasts (except dried brewers' yeast)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2102.20.40.00",
+                "Description": "Dried brewers' yeast, crude",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2102.20.60.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

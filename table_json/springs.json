@@ -1,0 +1,144 @@
+[
+  {
+    "HS Code": "73",
+    "Description": "Articles of iron or steel",
+    "Subentries": [
+      {
+        "HS Code": "7320",
+        "Description": "Springs and leaves for springs, of iron or steel:",
+        "Subentries": [
+          {
+            "HS Code": "7320.10",
+            "Description": "Leaf springs and leaves therefor:",
+            "Subentries": [
+              {
+                "HS Code": "7320.10.90",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "7320.10.90.15",
+                    "Description": "Leaf springs having individual leaves with a thickness of 1.6 mm or more and leaves therefor",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7320.10.90.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Suitable for motor vehicle suspension:",
+                "Subentries": [
+                  {
+                    "HS Code": "7320.10.30.00",
+                    "Description": "To be used in motor vehicles having a G.V.W. not exceeding 4 metric tons",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7320.10.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7320.10.60.15",
+                        "Description": "Leaf springs having individual leaves with a thickness of 1.6 mm or more and leaves therefor",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7320.10.60.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "7320.20",
+            "Description": "Helical springs:",
+            "Subentries": [
+              {
+                "HS Code": "7320.20.10.00",
+                "Description": "Suitable for motor-vehicle suspension",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7320.20.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "7320.20.50.45",
+                    "Description": "Helical springs, of wire having a cross-sectional dimension of 5.1 mm or more but less than 12.7 mm",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7320.20.50.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Helical springs, of wire having a cross-sectional dimension of less than 5.1 mm:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7320.20.50.10",
+                        "Description": "Suitable for use in mattress supports and mattresses of heading 9404",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7320.20.50.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "7320.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "7320.90.10.00",
+                "Description": "Hairsprings",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7320.90.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "7320.90.50.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of wire:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7320.90.50.10",
+                        "Description": "Suitable for use in mattress supports and mattresses of heading 9404",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7320.90.50.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

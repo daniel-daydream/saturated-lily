@@ -1,0 +1,96 @@
+[
+  {
+    "HS Code": "22",
+    "Description": "Beverages, spirits and vinegar",
+    "Subentries": [
+      {
+        "HS Code": "2208",
+        "Description": "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 percent vol.; spirits, liqueurs and other spirituous beverages:",
+        "Subentries": [
+          {
+            "HS Code": "2208.30",
+            "Description": "Whiskies:",
+            "Subentries": [
+              {
+                "HS Code": "2208.30.30",
+                "Description": "Irish and Scotch",
+                "Subentries": [
+                  {
+                    "HS Code": "2208.30.30.30",
+                    "Description": "In containers each holding not over 4 liters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2208.30.30.60",
+                    "Description": "In containers each holding over 4 liters",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "2208.30.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Bourbon:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2208.30.60.20",
+                        "Description": "In containers each holding not over 4 liters",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2208.30.60.40",
+                        "Description": "In containers each holding over 4 liters",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "In containers each holding not over 4 liters:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2208.30.60.55",
+                            "Description": "Rye",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2208.30.60.65",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "In containers each holding over 4 liters:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2208.30.60.75",
+                            "Description": "Rye",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2208.30.60.85",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "HS Code": "09",
+    "Description": "Coffee, tea, mat\u00e9 and spices",
+    "Subentries": [
+      {
+        "HS Code": "0910",
+        "Description": "Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other spices:",
+            "Subentries": [
+              {
+                "HS Code": "0910.91.00.00",
+                "Description": "Mixtures referred to in note 1(b) to this chapter",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0910.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0910.99.10.00",
+                    "Description": "Curry",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Thyme; bay leaves:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0910.99.05.00",
+                        "Description": "Crude or not manufactured",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0910.99.06.00",
+                            "Description": "Thyme",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0910.99.07.00",
+                            "Description": "Bay leaves",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Origanum (Lippia spp.):",
+                    "Subentries": [
+                      {
+                        "HS Code": "0910.99.20.00",
+                        "Description": "Crude or not manufactured",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0910.99.40.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0910.99.50.00",
+                        "Description": "Dill",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0910.99.60.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

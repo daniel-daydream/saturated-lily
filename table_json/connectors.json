@@ -1,0 +1,188 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8535",
+        "Description": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, fuses, lightning arresters, voltage limiters, surge suppressors, plugs and other connectors, junction boxes), for a voltage exceeding 1,000 V:",
+        "Subentries": [
+          {
+            "HS Code": "8535.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "8535.90.40.00",
+                "Description": "Motor starters and motor overload protectors",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8535.90.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8535.90.80.20",
+                    "Description": "Terminals, electrical splices and electrical couplings",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8535.90.80.40",
+                    "Description": "Other connectors",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8535.90.80.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8536",
+        "Description": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp-holders and other connectors, junction boxes), for a voltage not exceeding 1,000 V; connectors for optical fibers, optical fiber bundles or cables:",
+        "Subentries": [
+          {
+            "HS Code": "8536.90",
+            "Description": "Other apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "8536.90.40.00",
+                "Description": "Terminals, electrical splices and electrical couplings; wafer probers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8536.90.60.00",
+                "Description": "Battery clamps of a kind used in motor vehicles of heading 8702, 8703, 8704 or 8711",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8536.90.85",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8536.90.85.10",
+                    "Description": "Electrical distribution ducts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8536.90.85.30",
+                    "Description": "Junction boxes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8536.90.85.85",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8544",
+        "Description": "Insulated (including enameled or anodized) wire, cable (including coaxial cable) and other insulated electric conductors, whether or not fitted with connectors; optical fiber cables, made up of individually sheathed fibers, whether or not assembled with electric conductors or fitted with connectors:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other electric conductors, for a voltage not exceeding 1,000 V:",
+            "Subentries": [
+              {
+                "HS Code": "8544.42",
+                "Description": "Fitted with connectors:",
+                "Subentries": [
+                  {
+                    "HS Code": "8544.42.10.00",
+                    "Description": "Fitted with modular telephone connectors",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8544.42.20.00",
+                        "Description": "Of a kind used for telecommunications",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8544.42.90",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8544.42.90.10",
+                            "Description": "Extension cords as defined in statistical note 6 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8544.42.90.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8544.49",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "For a voltage not exceeding 80 V:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8544.49.10.00",
+                        "Description": "Of a kind used for telecommunications",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8544.49.20.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8544.49.30",
+                        "Description": "Of copper",
+                        "Subentries": [
+                          {
+                            "HS Code": "8544.49.30.40",
+                            "Description": "For a voltage exceeding 600 V",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8544.49.30.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8544.49.90.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

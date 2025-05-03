@@ -1,0 +1,82 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8408",
+        "Description": "Compression-ignition internal combustion piston engines (diesel or semi-diesel engines):",
+        "Subentries": [
+          {
+            "HS Code": "8408.10.00",
+            "Description": "Marine propulsion engines",
+            "Subentries": [
+              {
+                "HS Code": "8408.10.00.05",
+                "Description": "Not exceeding 111.9 kW",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.10.00.15",
+                "Description": "Exceeding 111.9 kW but not exceeding 149.2 kW",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.10.00.20",
+                "Description": "Exceeding 149.2 kW but not exceeding 223.8 kW",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.10.00.30",
+                "Description": "Exceeding 223.8 kW but not exceeding 373 kW",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.10.00.40",
+                "Description": "Exceeding 373 kW but not exceeding 746 kW",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.10.00.50",
+                "Description": "Exceeding 746 kW",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8408.20",
+            "Description": "Engines of a kind used for the propulsion of vehicles of chapter 87:",
+            "Subentries": [
+              {
+                "HS Code": "8408.20.10",
+                "Description": "To be installed in tractors suitable for agricultural use",
+                "Subentries": [
+                  {
+                    "HS Code": "8408.20.10.40",
+                    "Description": "Not exceeding 37.3 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8408.20.10.80",
+                    "Description": "Exceeding 37.3 kW",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8408.20.20.00",
+                "Description": "To be installed in vehicles of subheading 8701.21, 8701.22, 8701.23, 8701.24 or 8701.29, or heading 8702, 8703 or 8704",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8408.20.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

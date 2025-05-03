@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "09",
+    "Description": "Coffee, tea, mat\u00e9 and spices",
+    "Subentries": [
+      {
+        "HS Code": "0906",
+        "Description": "Cinnamon and cinnamon-tree flowers:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Neither crushed nor ground:",
+            "Subentries": [
+              {
+                "HS Code": "0906.11.00.00",
+                "Description": "Cinnamon (Cinnamomum zeylanicum Blume)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0906.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

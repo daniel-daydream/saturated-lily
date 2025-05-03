@@ -265,6 +265,11 @@
                     "Description": "Other",
                     "Subentries": [
                       {
+                        "HS Code": "8412.29.80.75",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "",
                         "Description": "Unlimited rotary acting:",
                         "Subentries": [
@@ -289,11 +294,6 @@
                             "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "8412.29.80.75",
-                        "Description": "Other",
-                        "Subentries": []
                       }
                     ]
                   }

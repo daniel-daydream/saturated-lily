@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "33",
+    "Description": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+    "Subentries": [
+      {
+        "HS Code": "3304",
+        "Description": "Beauty or make-up preparations and preparations for the care of the skin (other than medicaments), including sunscreen or sun tan preparations; manicure or pedicure preparations:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3304.91.00",
+                "Description": "Powders, whether or not compressed",
+                "Subentries": [
+                  {
+                    "HS Code": "3304.91.00.10",
+                    "Description": "Rouges",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3304.91.00.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "3304.99.10.00",
+                    "Description": "Petroleum jelly put up for retail sale",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3304.99.50.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

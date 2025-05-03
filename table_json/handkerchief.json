@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "62",
+    "Description": "Articles of apparel and clothing accessories, not knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6213",
+        "Description": "Handkerchiefs:",
+        "Subentries": [
+          {
+            "HS Code": "6213.20",
+            "Description": "Of cotton:",
+            "Subentries": [
+              {
+                "HS Code": "6213.20.10.00",
+                "Description": "Hemmed, not containing lace or embroidery (330)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6213.20.20.00",
+                "Description": "Other (330)",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

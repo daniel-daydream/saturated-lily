@@ -1,0 +1,823 @@
+[
+  {
+    "HS Code": "07",
+    "Description": "Edible vegetables and certain roots and tubers",
+    "Subentries": [
+      {
+        "HS Code": "0709",
+        "Description": "Other vegetables, fresh or chilled:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "0709.91.00.00",
+                "Description": "Globe artichokes",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0709.92.00.00",
+                "Description": "Olives",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0709.93",
+                "Description": "Pumpkins, squash and gourds (Cucurbita spp.):",
+                "Subentries": [
+                  {
+                    "HS Code": "0709.93.10.00",
+                    "Description": "Pumpkins",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0709.93.20",
+                    "Description": "Squash",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Certified organic:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0709.93.20.20",
+                            "Description": "Zucchini",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0709.93.20.22",
+                            "Description": "Butternut",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0709.93.20.25",
+                            "Description": "Grey",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0709.93.20.28",
+                            "Description": "Spaghetti",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0709.93.20.30",
+                            "Description": "Yellow straightneck",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0709.93.20.32",
+                            "Description": "Kabocha",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0709.93.20.35",
+                            "Description": "Acorn",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0709.93.20.38",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0709.93.20.55",
+                            "Description": "Zucchini",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0709.93.20.60",
+                            "Description": "Butternut",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0709.93.20.65",
+                            "Description": "Grey",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0709.93.20.70",
+                            "Description": "Spaghetti",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0709.93.20.75",
+                            "Description": "Yellow straightneck",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0709.93.20.80",
+                            "Description": "Kabocha",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0709.93.20.85",
+                            "Description": "Acorn",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0709.93.20.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0709.93.30.00",
+                    "Description": "Gourds (Cucurbita spp.)",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0709.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0709.99.05.00",
+                    "Description": "Jicamas, and breadfruit",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0709.99.10.00",
+                    "Description": "Chayote (Sechium edule)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0709.99.14.00",
+                    "Description": "Okra",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0709.99.30.00",
+                    "Description": "Fiddlehead greens",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0709.99.45.00",
+                    "Description": "Sweet corn",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0709.99.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "0709.99.90.05",
+                        "Description": "Bitter melon (Momordica charantia)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0709.99.90.10",
+                        "Description": "Cilantro",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0709.99.90.30",
+                        "Description": "Cactus leaves",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0709.99.90.85",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0710",
+        "Description": "Vegetables (uncooked or cooked by steaming or boiling in water), frozen:",
+        "Subentries": [
+          {
+            "HS Code": "0710.80",
+            "Description": "Other vegetables:",
+            "Subentries": [
+              {
+                "HS Code": "0710.80.15.00",
+                "Description": "Bamboo shoots and water chestnuts, other than Chinese water chestnuts",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0710.80.20.00",
+                "Description": "Mushrooms",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Tomatoes:",
+                "Subentries": [
+                  {
+                    "HS Code": "0710.80.40.00",
+                    "Description": "If entered during the period from March 1 to July 14, inclusive, or the period from September 1 to November 14, inclusive, in any year",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0710.80.45.00",
+                    "Description": "If entered during the period from July 15 to August 31, inclusive, in any year",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0710.80.50.00",
+                    "Description": "If entered during the period from November 15 in any year to the last day of the following February, inclusive",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Not reduced in size:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0710.80.60.00",
+                        "Description": "Fiddlehead greens",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0710.80.65.00",
+                        "Description": "Brussels sprouts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0710.80.70",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "0710.80.70.40",
+                            "Description": "Carrots",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0710.80.70.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Reduced in size:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0710.80.85.00",
+                        "Description": "Brussels sprouts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0710.80.93.00",
+                        "Description": "Okra",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0710.80.97",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "0710.80.97.10",
+                            "Description": "Asparagus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0710.80.97.30",
+                            "Description": "Cauliflower",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0710.80.97.55",
+                            "Description": "Garlic, reduced in size beyond the clove, whether or not individually quick frozen",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0710.80.97.65",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Broccoli:",
+                            "Subentries": [
+                              {
+                                "HS Code": "0710.80.97.22",
+                                "Description": "Spears",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "0710.80.97.24",
+                                    "Description": "In containers each holding more than 1.4 kg",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "0710.80.97.26",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0711",
+        "Description": "Vegetables provisionally preserved, but unsuitable in that state for immediate consumption:",
+        "Subentries": [
+          {
+            "HS Code": "0711.20",
+            "Description": "Olives:",
+            "Subentries": [
+              {
+                "HS Code": "0711.20.40.00",
+                "Description": "Pitted or stuffed",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Not pitted:",
+                "Subentries": [
+                  {
+                    "HS Code": "0711.20.38.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Green in color, in a saline solution, in containers each holding more than 8 kg, drained weight, certified by the importer to be used for repacking or sale as green olives:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0711.20.18.00",
+                        "Description": "Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0711.20.28.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "20",
+    "Description": "Preparations of vegetables, fruit, nuts or other parts of plants",
+    "Subentries": [
+      {
+        "HS Code": "2001",
+        "Description": "Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid:",
+        "Subentries": [
+          {
+            "HS Code": "2001.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Capers:",
+                "Subentries": [
+                  {
+                    "HS Code": "2001.90.10.00",
+                    "Description": "In immediate containers holding more than 3.4 kg",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2001.90.20.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "2001.90.42.00",
+                    "Description": "Chestnuts, other than Chinese water chestnuts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2001.90.45.00",
+                    "Description": "Mangoes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2001.90.48.00",
+                    "Description": "Chinese water chestnuts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2001.90.50.00",
+                    "Description": "Walnuts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2001.90.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Vegetables:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2001.90.25.00",
+                        "Description": "Artichokes",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2001.90.30.00",
+                        "Description": "Beans",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2001.90.33.00",
+                        "Description": "Nopalitos",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2001.90.34.00",
+                        "Description": "Onions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2001.90.35.00",
+                        "Description": "Pimientos (Capsicum anuum)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2001.90.38.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "2005",
+        "Description": "Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 2006:",
+        "Subentries": [
+          {
+            "HS Code": "2005.70",
+            "Description": "Olives:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "In a saline solution:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Green in color:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Not pitted:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Ripe, in containers each holding less than 13 kg, drained weight:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2005.70.02",
+                                "Description": "In an aggregate quantity not to exceed 730 metric tons entered in any calendar year",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2005.70.02.30",
+                                    "Description": "In containers each holding more than 8 kg, drained weight",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2005.70.02.60",
+                                    "Description": "In containers each holding 8 kg or less drained weight",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "2005.70.04",
+                                "Description": "Other",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2005.70.04.30",
+                                    "Description": "In containers each holding more than 8 kg, drained weight",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2005.70.04.60",
+                                    "Description": "In containers each holding 8 kg or less, drained weight",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2005.70.12.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "In containers each holding more than 8 kg, drained weight, certified by the importer to be used for repacking or sale as green olives:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2005.70.06.00",
+                                    "Description": "Described in additional U.S. note 4 to this chapter and entered pursuant to its provisions",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2005.70.08.00",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Pitted or stuffed:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2005.70.25",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "In containers each holding more than 8 kg, drained weight:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2005.70.25.10",
+                                    "Description": "Whole pitted",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2005.70.25.20",
+                                    "Description": "Whole stuffed",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2005.70.25.30",
+                                    "Description": "Other, including broken, sliced or salad style",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "In containers each holding 8 kg or less, drained weight:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2005.70.25.50",
+                                    "Description": "Whole stuffed",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Whole pitted:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "2005.70.25.42",
+                                        "Description": "Spanish style of a kind described in statistical note 1 to this chapter",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "2005.70.25.46",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other, including broken, sliced or salad style:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "2005.70.25.70",
+                                        "Description": "Spanish style of a kind described in statistical note 1 to this chapter",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "2005.70.25.80",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Place packed:",
+                            "Subentries": [
+                              {
+                                "HS Code": "2005.70.23.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Stuffed, in containers each holding not more than 1 kg, drained weight:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2005.70.16.00",
+                                    "Description": "In an aggregate quantity not to exceed 2,700 metric tons in any calendar year",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2005.70.18.00",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Not green in color:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Canned:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2005.70.50",
+                            "Description": "Not pitted",
+                            "Subentries": [
+                              {
+                                "HS Code": "2005.70.50.30",
+                                "Description": "In containers each holding more than 0.3 kg, drained weight",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2005.70.50.60",
+                                "Description": "In containers each holding 0.3 kg or less, drained weight",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "2005.70.60",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "2005.70.60.50",
+                                "Description": "Sliced",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2005.70.60.60",
+                                "Description": "Chopped or minced",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2005.70.60.70",
+                                "Description": "Other, including wedged or broken",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Whole pitted:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2005.70.60.20",
+                                    "Description": "In containers each holding more than 0.3 kg, drained weight",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2005.70.60.30",
+                                    "Description": "In containers each holding 0.3 kg or less, drained weight",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other than canned:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2005.70.70.00",
+                            "Description": "In airtight containers of glass or metal",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2005.70.75",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "2005.70.75.10",
+                                "Description": "Whole pitted",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2005.70.75.15",
+                                "Description": "Sliced",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2005.70.75.20",
+                                "Description": "Chopped or minced",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2005.70.75.25",
+                                "Description": "Other, including wedged or broken",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Otherwise prepared or preserved:",
+                "Subentries": [
+                  {
+                    "HS Code": "2005.70.97.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Green, in containers each holding less than 13 kg, drained weight:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2005.70.91.00",
+                        "Description": "In an aggregate quantity not to exceed 550 metric tons in any calendar year",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2005.70.93.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

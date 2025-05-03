@@ -1,22 +1,5 @@
 [
   {
-    "HS Code": "62",
-    "Description": "Articles of apparel and clothing accessories, not knitted or crocheted",
-    "Subentries": [
-      {
-        "HS Code": "6214",
-        "Description": "Shawls, scarves, mufflers, mantillas, veils and the like:",
-        "Subentries": [
-          {
-            "HS Code": "6214.20.00.00",
-            "Description": "Of wool or fine animal hair (459)",
-            "Subentries": []
-          }
-        ]
-      }
-    ]
-  },
-  {
     "HS Code": "61",
     "Description": "Articles of apparel and clothing accessories, knitted or crocheted",
     "Subentries": [
@@ -71,6 +54,23 @@
                 ]
               }
             ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "62",
+    "Description": "Articles of apparel and clothing accessories, not knitted or crocheted",
+    "Subentries": [
+      {
+        "HS Code": "6214",
+        "Description": "Shawls, scarves, mufflers, mantillas, veils and the like:",
+        "Subentries": [
+          {
+            "HS Code": "6214.20.00.00",
+            "Description": "Of wool or fine animal hair (459)",
+            "Subentries": []
           }
         ]
       }

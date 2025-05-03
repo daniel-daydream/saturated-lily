@@ -1,0 +1,69 @@
+[
+  {
+    "HS Code": "95",
+    "Description": "Toys, games and sports requisites; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9503.00.00",
+        "Description": "Tricycles, scooters, pedal cars and similar wheeled toys; dolls\u02bc carriages; dolls, other toys; reduced-scale (\u201cscale\u02ee) models and similar recreational models, working or not; puzzles of all kinds; parts and accessories thereof",
+        "Subentries": [
+          {
+            "HS Code": "9503.00.00.90",
+            "Description": "Other",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "\u201cChildren\u02bcs products\u02ee as defined in 15 U.S.C. \u00a7 2052:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Inflatable toy balls, balloons and punchballs, of rubber:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Labeled or determined by importer as intended for use by persons:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9503.00.00.11",
+                        "Description": "Under 3 years of age",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9503.00.00.13",
+                        "Description": "3 to 12 years of age",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Labeled or determined by importer as intended for use by persons:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9503.00.00.71",
+                        "Description": "Under 3 years of age",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9503.00.00.73",
+                        "Description": "3 to 12 years of age",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

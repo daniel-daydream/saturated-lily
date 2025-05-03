@@ -1,0 +1,180 @@
+[
+  {
+    "HS Code": "10",
+    "Description": "Cereals",
+    "Subentries": [
+      {
+        "HS Code": "1001",
+        "Description": "Wheat and meslin:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Durum wheat:",
+            "Subentries": [
+              {
+                "HS Code": "1001.11.00.00",
+                "Description": "Seed",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1001.19.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1001.19.00.25",
+                    "Description": "Certified Organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1001.19.00.51",
+                        "Description": "Grade 1",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1001.19.00.53",
+                        "Description": "Grade 2",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1001.19.00.69",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "1001.91.00.00",
+                "Description": "Seed",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1001.99.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "1001.99.00.05",
+                    "Description": "Canadian western extra strong hard red spring (CWES/HRS) wheat",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Certified organic:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1001.99.00.07",
+                            "Description": "Red spring wheat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1001.99.00.09",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1001.99.00.45",
+                            "Description": "White winter wheat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1001.99.00.55",
+                            "Description": "\"Canadian\" western red winter wheat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1001.99.00.65",
+                            "Description": "Soft white spring wheat",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "1001.99.00.97",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Red spring wheat:",
+                            "Subentries": [
+                              {
+                                "HS Code": "1001.99.00.36",
+                                "Description": "Other red spring wheat",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Grade 1:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "1001.99.00.10",
+                                    "Description": "Having a specified protein content not exceeding 12.9% by weight",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "1001.99.00.17",
+                                    "Description": "Having a specified protein content exceeding 12.9% but not exceeding 13.9% by weight.",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "1001.99.00.18",
+                                    "Description": "Having a specified protein content exceeding 13.9% by weight",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Grade 2:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "1001.99.00.27",
+                                    "Description": "Having a specified protein content not exceeding 12.9% by weight",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "1001.99.00.30",
+                                    "Description": "Having a specified protein content exceeding 12.9% but not exceeding 13.9% by weight.",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "1001.99.00.33",
+                                    "Description": "Having a specified protein content exceeding 13.9% by weight.",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

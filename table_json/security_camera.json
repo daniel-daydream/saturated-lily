@@ -1,0 +1,83 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8525",
+        "Description": "Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Television cameras, digital cameras and video camera recorders:",
+            "Subentries": [
+              {
+                "HS Code": "8525.81.00.00",
+                "Description": "High-speed goods as specified in subheading note 1 to this chapter",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8525.82.00.00",
+                "Description": "Other, radiation-hardened or radiation-tolerant goods as specified in subheading note 2 to this chapter",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8525.83.00.00",
+                "Description": "Other, night vision goods as specified in subheading note 3 to this chapter",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8525.89",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8525.89.40.00",
+                    "Description": "Digital still image video cameras",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8525.89.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8525.89.50.30",
+                        "Description": "Camcorders",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8525.89.50.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Television cameras:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8525.89.10.00",
+                        "Description": "Gyrostabilized television cameras",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8525.89.20.00",
+                        "Description": "Studio television cameras excluding shoulder-carried and other portable cameras",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8525.89.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

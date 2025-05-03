@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "90",
+    "Description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9004",
+        "Description": "Spectacles, goggles and the like, corrective, protective or other:",
+        "Subentries": [
+          {
+            "HS Code": "9004.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "9004.90.00.10",
+                "Description": "Safety glasses or safety goggles",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9004.90.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

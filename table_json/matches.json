@@ -1,0 +1,24 @@
+[
+  {
+    "HS Code": "36",
+    "Description": "Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations",
+    "Subentries": [
+      {
+        "HS Code": "3605.00.00",
+        "Description": "Matches, other than pyrotechnic articles of heading 3604",
+        "Subentries": [
+          {
+            "HS Code": "3605.00.00.30",
+            "Description": "Matches with natural wood stems",
+            "Subentries": []
+          },
+          {
+            "HS Code": "3605.00.00.60",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

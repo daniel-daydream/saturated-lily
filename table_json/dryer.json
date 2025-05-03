@@ -1,0 +1,79 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8421",
+        "Description": "Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus, for liquids or gases; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Centrifuges, including centrifugal dryers:",
+            "Subentries": [
+              {
+                "HS Code": "8421.11.00.00",
+                "Description": "Cream separators",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8421.12.00.00",
+                "Description": "Clothes-dryers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8421.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8451",
+        "Description": "Machinery (other than machines of heading 8450) for washing, cleaning, wringing, drying, ironing, pressing (including fusing presses), bleaching, dyeing, dressing, finishing, coating or impregnating textile yarns, fabrics or made up textile articles and machines for applying the paste to the base fabric or other support used in the manufacture of floor coverings such as linoleum; machines for reeling, unreeling, folding, cutting or pinking textile fabrics; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Drying machines:",
+            "Subentries": [
+              {
+                "HS Code": "8451.21.00",
+                "Description": "Each of a dry linen capacity not exceeding 10 kg",
+                "Subentries": [
+                  {
+                    "HS Code": "8451.21.00.10",
+                    "Description": "Coin operated",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8451.21.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8451.29.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8451.29.00.10",
+                    "Description": "For drying made up articles",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8451.29.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

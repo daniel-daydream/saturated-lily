@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "87",
+    "Description": "Vehicles other than railway or tramway rolling stock, and parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "8716",
+        "Description": "Trailers and semi-trailers; other vehicles, not mechanically propelled; and parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8716.80",
+            "Description": "Other vehicles:",
+            "Subentries": [
+              {
+                "HS Code": "8716.80.10.00",
+                "Description": "Farm wagons and carts",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8716.80.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8716.80.50.10",
+                    "Description": "Industrial hand trucks",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8716.80.50.20",
+                        "Description": "Portable luggage carts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8716.80.50.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "HS Code": "20",
+    "Description": "Preparations of vegetables, fruit, nuts or other parts of plants",
+    "Subentries": [
+      {
+        "HS Code": "2008",
+        "Description": "Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Nuts, peanuts (ground-nuts) and other seeds, whether or not mixed together:",
+            "Subentries": [
+              {
+                "HS Code": "2008.11",
+                "Description": "Peanuts (ground-nuts):",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Peanut butter and paste:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2008.11.02.00",
+                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2008.11.05.00",
+                        "Description": "Described in additional U.S. note 5 to this chapter and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2008.11.15.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2008.11.43.00",
+                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2008.11.46.00",
+                        "Description": "Described in additional U.S. note 2 to chapter 12 and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2008.11.61.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "2008.19",
+                "Description": "Other, including mixtures:",
+                "Subentries": [
+                  {
+                    "HS Code": "2008.19.10",
+                    "Description": "Brazil nuts and cashews",
+                    "Subentries": [
+                      {
+                        "HS Code": "2008.19.10.20",
+                        "Description": "Brazil nuts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2008.19.10.40",
+                        "Description": "Cashews",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "2008.19.15.00",
+                    "Description": "Coconuts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2008.19.20.00",
+                    "Description": "Filberts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2008.19.25.00",
+                    "Description": "Pecans",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2008.19.30",
+                    "Description": "Pignolia and pistachios",
+                    "Subentries": [
+                      {
+                        "HS Code": "2008.19.30.10",
+                        "Description": "Pignolia",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2008.19.30.20",
+                        "Description": "Pistachios",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "2008.19.40.00",
+                    "Description": "Almonds",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2008.19.50.00",
+                    "Description": "Watermelon seeds",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other, including mixtures:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2008.19.85.00",
+                        "Description": "Mixtures",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "2008.19.90",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "2008.19.90.10",
+                            "Description": "Macadamia nuts",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2008.19.90.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3925",
+        "Description": "Builders' ware of plastics, not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "3925.10.00.00",
+            "Description": "Reservoirs, tanks, vats and similar containers, of a capacity exceeding 300 liters",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "73",
+    "Description": "Articles of iron or steel",
+    "Subentries": [
+      {
+        "HS Code": "7309.00.00",
+        "Description": "Reservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 liters, whether or not lined or heat insulated, but not fitted with mechanical or thermal equipment",
+        "Subentries": [
+          {
+            "HS Code": "7309.00.00.30",
+            "Description": "Tanks",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7309.00.00.90",
+            "Description": "Other",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  }
+]

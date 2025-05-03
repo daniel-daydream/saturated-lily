@@ -1,0 +1,73 @@
+[
+  {
+    "HS Code": "83",
+    "Description": "Miscellaneous articles of base metal",
+    "Subentries": [
+      {
+        "HS Code": "8301",
+        "Description": "Padlocks and locks (key, combination or electrically operated), of base metal; clasps and frames with clasps, incorporating locks, of base metal; keys and parts of any of the foregoing articles, of base metal:",
+        "Subentries": [
+          {
+            "HS Code": "8301.20.00",
+            "Description": "Locks of a kind used on motor vehicles",
+            "Subentries": [
+              {
+                "HS Code": "8301.20.00.30",
+                "Description": "Non-integral steering wheel immobilizer devices",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8301.20.00.60",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8301.30.00",
+            "Description": "Locks of a kind used for furniture",
+            "Subentries": [
+              {
+                "HS Code": "8301.30.00.60",
+                "Description": "Cam locks and other locks suitable for use with chests, drawers and similar items",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8301.30.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8301.40",
+            "Description": "Other locks:",
+            "Subentries": [
+              {
+                "HS Code": "8301.40.30.00",
+                "Description": "Luggage locks",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8301.40.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8301.40.60.30",
+                    "Description": "Door locks, locksets and other locks suitable for use with interior or exterior doors (except garage, overhead or sliding doors)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8301.40.60.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "HS Code": "71",
+    "Description": "Natural or cultured pearls, precious or semi-precious stones,precious metals, metals clad with precious metal and articles thereof; imitation jewelry; coin",
+    "Subentries": [
+      {
+        "HS Code": "7113",
+        "Description": "Articles of jewelry and parts thereof, of precious metal or of metal clad with precious metal:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Of precious metal whether or not plated or clad with precious metal:",
+            "Subentries": [
+              {
+                "HS Code": "7113.11",
+                "Description": "Of silver, whether or not plated or clad with other precious metal:",
+                "Subentries": [
+                  {
+                    "HS Code": "7113.11.10.00",
+                    "Description": "Rope, curb, cable, chain and similar articles produced in continuous lengths, all the foregoing, whether or not cut to specific lengths and whether or not set with imitation pearls or imitation gemstones, suitable for use in the manufacture of articles provided for in this heading",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7113.11.20.00",
+                        "Description": "Valued not over $18 per dozen pieces or parts",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7113.11.50.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "7113.19",
+                "Description": "Of other precious metal, whether or not plated or clad with precious metal:",
+                "Subentries": [
+                  {
+                    "HS Code": "7113.19.10.00",
+                    "Description": "Rope, curb, cable, chain and similar articles produced in continuous lengths, all the foregoing, whether or not cut to specific lengths and whether or not set with imitation pearls or imitation gemstones, suitable for use in the manufacture of articles provided for in this heading",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7113.19.30.00",
+                        "Description": "Clasps and parts thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7113.19.50",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "7113.19.50.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Of ISO standard platinum:",
+                            "Subentries": [
+                              {
+                                "HS Code": "7113.19.50.21",
+                                "Description": "Necklaces and neck chains",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7113.19.50.25",
+                                "Description": "Rings",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7113.19.50.30",
+                                "Description": "Earrings",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "7113.19.50.45",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Necklaces and neck chains, of gold:",
+                        "Subentries": [
+                          {
+                            "HS Code": "7113.19.21.00",
+                            "Description": "Rope",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7113.19.25.00",
+                            "Description": "Mixed link",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7113.19.29.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

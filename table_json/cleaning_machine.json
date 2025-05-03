@@ -1,0 +1,259 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8424",
+        "Description": "Mechanical appliances (whether or not hand operated) for projecting, dispersing or spraying liquids or powders; fire extinguishers, whether or not charged; spray guns and similar appliances; steam or sand blasting machines and similar jet projecting machines; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other appliances:",
+            "Subentries": [
+              {
+                "HS Code": "8424.82.00",
+                "Description": "Agricultural or horticultural",
+                "Subentries": [
+                  {
+                    "HS Code": "8424.82.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Irrigation equipment:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8424.82.00.10",
+                        "Description": "Self-propelled, center pivot",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8424.82.00.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8424.89.10.00",
+                "Description": "Mechanical appliances for projecting, dispersing or spraying, of a kind used solely or principally for the manufacture of printed circuits or printed circuit assemblies",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8424.89.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "8479",
+        "Description": "Machines and mechanical appliances having individual functions, not specified or included elsewhere in this chapter; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other machines and mechanical appliances:",
+            "Subentries": [
+              {
+                "HS Code": "8479.81.00.00",
+                "Description": "For treating metal, including electric wire coil-winders",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8479.82.00",
+                "Description": "Mixing, kneading, crushing, grinding, screening, sifting, homogenizing, emulsifying or stirring machines",
+                "Subentries": [
+                  {
+                    "HS Code": "8479.82.00.40",
+                    "Description": "Mixing, kneading or stirring machines",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8479.82.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8479.83.00.00",
+                "Description": "Cold isostatic presses",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8479.89",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8479.89.70.00",
+                    "Description": "Carpet sweepers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8479.89.83.00",
+                    "Description": "Machines for the manufacturing of optical media",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8479.89.92.00",
+                    "Description": "Automated electronic component placement machines of a kind used solely or principally for the manufacture of printed circuit assemblies",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8479.89.95",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8479.89.95.50",
+                        "Description": "Oil and gas field wireline and downhole equipment",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.95.60",
+                        "Description": "Automotive maintenance machines",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.95.65",
+                        "Description": "Hydraulic accumulators",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.95.85",
+                        "Description": "Ultrasonic cleaning devices",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.95.95",
+                        "Description": "Industrial vibrators",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.95.96",
+                        "Description": "Tow behind sweepers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.95.99",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Electromechanical appliances with self-contained electric motor:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8479.89.10.00",
+                        "Description": "Air humidifiers or dehumidifiers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.20.00",
+                        "Description": "Floor polishers",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.55.00",
+                        "Description": "Trash compactors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8479.89.65.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8509",
+        "Description": "Electromechanical domestic appliances, with self-contained electric motor, other than vacuum cleaners of heading 8508; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8509.80",
+            "Description": "Other appliances:",
+            "Subentries": [
+              {
+                "HS Code": "8509.80.10.00",
+                "Description": "Floor polishers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8509.80.20.00",
+                "Description": "Kitchen waste disposers (disposals)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8509.80.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8509.80.50.40",
+                    "Description": "Can openers (including combination units)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8509.80.50.45",
+                    "Description": "Electric toothbrushes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8509.80.50.95",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Humidifiers:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8509.80.50.50",
+                        "Description": "Evaporative",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8509.80.50.70",
+                            "Description": "Ultrasonic",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8509.80.50.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

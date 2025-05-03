@@ -1,0 +1,106 @@
+[
+  {
+    "HS Code": "08",
+    "Description": "Edible fruit and nuts; peel of citrus fruit or melons",
+    "Subentries": [
+      {
+        "HS Code": "0804",
+        "Description": "Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried:",
+        "Subentries": [
+          {
+            "HS Code": "0804.50",
+            "Description": "Guavas, mangoes and mangosteens:",
+            "Subentries": [
+              {
+                "HS Code": "0804.50.80",
+                "Description": "Dried",
+                "Subentries": [
+                  {
+                    "HS Code": "0804.50.80.10",
+                    "Description": "Mangoes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0804.50.80.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Fresh:",
+                "Subentries": [
+                  {
+                    "HS Code": "0804.50.40",
+                    "Description": "If entered during the period from September 1, in any year, to the following May 31, inclusive",
+                    "Subentries": [
+                      {
+                        "HS Code": "0804.50.40.65",
+                        "Description": "Mangosteens",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0804.50.40.75",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Mangoes:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0804.50.40.45",
+                            "Description": "Certified organic",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0804.50.40.55",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0804.50.60",
+                    "Description": "If entered at any other time",
+                    "Subentries": [
+                      {
+                        "HS Code": "0804.50.60.65",
+                        "Description": "Mangosteens",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0804.50.60.75",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Mangoes:",
+                        "Subentries": [
+                          {
+                            "HS Code": "0804.50.60.45",
+                            "Description": "Certified organic",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "0804.50.60.55",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

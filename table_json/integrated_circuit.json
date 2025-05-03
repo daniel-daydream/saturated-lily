@@ -1,0 +1,201 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8542",
+        "Description": "Electronic integrated circuits; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Electronic integrated circuits:",
+            "Subentries": [
+              {
+                "HS Code": "8542.31.00",
+                "Description": "Processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",
+                "Subentries": [
+                  {
+                    "HS Code": "8542.31.00.70",
+                    "Description": "System on chip (SoCs)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8542.31.00.75",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Programmable logic devices (PLDs):",
+                    "Subentries": [
+                      {
+                        "HS Code": "8542.31.00.15",
+                        "Description": "8-bit",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.31.00.20",
+                        "Description": "16-bit",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.31.00.25",
+                        "Description": "32-bit",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.31.00.30",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.31.00.35",
+                        "Description": "Digital signal processors (DSPs)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.31.00.40",
+                        "Description": "Graphics processing units (GPUs)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.31.00.45",
+                        "Description": "Central processing units (CPUs)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.31.00.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.31.00.55",
+                        "Description": "Complex programmable logic devices (CPLDs)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.31.00.60",
+                        "Description": "Field programmable gate arrays (FPGAs)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.31.00.65",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8542.32.00",
+                "Description": "Memories",
+                "Subentries": [
+                  {
+                    "HS Code": "8542.32.00.41",
+                    "Description": "Static read-write random access (SRAM)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8542.32.00.51",
+                    "Description": "Electrically erasable programmable read-only memory (EEPROM)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8542.32.00.61",
+                    "Description": "Erasable (except electrically) programmable read-only memory (EPROM)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8542.32.00.71",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Dynamic read-write random access (DRAM):",
+                    "Subentries": [
+                      {
+                        "HS Code": "8542.32.00.02",
+                        "Description": "Not over 128 megabits",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.32.00.24",
+                        "Description": "Over 128 megabits but not over 256 megabits",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.32.00.28",
+                        "Description": "Over 256 megabits but not over 512 megabits",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.32.00.32",
+                        "Description": "Over 512 megabits but not over 1 gigabit",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.32.00.36",
+                        "Description": "Over 1 gigabit",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8542.33.00.01",
+                "Description": "Amplifiers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8542.39.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8542.39.00.10",
+                    "Description": "RF transceivers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8542.39.00.20",
+                    "Description": "Active filters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8542.39.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Data converters:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8542.39.00.30",
+                        "Description": "Analog to digital converters (ADCs)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.39.00.40",
+                        "Description": "Digital to analog converters (DACs)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8542.39.00.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

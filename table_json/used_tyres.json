@@ -1,0 +1,68 @@
+[
+  {
+    "HS Code": "40",
+    "Description": "Rubber and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "4012",
+        "Description": "Retreaded or used pneumatic tires of rubber; solid or cushion tires, tire treads and tire flaps, of rubber:",
+        "Subentries": [
+          {
+            "HS Code": "4012.20",
+            "Description": "Used pneumatic tires:",
+            "Subentries": [
+              {
+                "HS Code": "4012.20.10",
+                "Description": "Aircraft",
+                "Subentries": [
+                  {
+                    "HS Code": "4012.20.10.10",
+                    "Description": "For use in civil aircraft",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4012.20.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Designed for tractors provided for in subheadings 8701.91.10, 8701.92.10, 8701.93.10, 8701.94.10 or 8701.95.10 or for agricultural or horticultural machinery or implements provided for in chapter 84 or in subheading 8716.80.10:",
+                "Subentries": [
+                  {
+                    "HS Code": "4012.20.15.00",
+                    "Description": "Of a kind used on vehicles, including tractors, for the on-highway transport of passengers or goods",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4012.20.45.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "4012.20.60.00",
+                    "Description": "Of a kind used on vehicles, including tractors, for the on-highway transport of passengers or goods, or on vehicles of heading 8705",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4012.20.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8487",
+        "Description": "Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, and not specified or included elsewhere in this chapter:",
+        "Subentries": [
+          {
+            "HS Code": "8487.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "8487.90.00.40",
+                "Description": "Oil seals, other than those of chapter 40",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8487.90.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8536",
+        "Description": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp-holders and other connectors, junction boxes), for a voltage not exceeding 1,000 V; connectors for optical fibers, optical fiber bundles or cables:",
+        "Subentries": [
+          {
+            "HS Code": "8536.90",
+            "Description": "Other apparatus:",
+            "Subentries": [
+              {
+                "HS Code": "8536.90.40.00",
+                "Description": "Terminals, electrical splices and electrical couplings; wafer probers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8536.90.60.00",
+                "Description": "Battery clamps of a kind used in motor vehicles of heading 8702, 8703, 8704 or 8711",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8536.90.85",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8536.90.85.10",
+                    "Description": "Electrical distribution ducts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8536.90.85.30",
+                    "Description": "Junction boxes",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8536.90.85.85",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

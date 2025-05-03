@@ -1,0 +1,128 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8414",
+        "Description": "Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters; gas-tight biological safety cabinets, whether or not fitted with filters; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8414.90",
+            "Description": "Parts:",
+            "Subentries": [
+              {
+                "HS Code": "8414.90.10",
+                "Description": "Of fans (including blowers) and ventilating or recycling hoods",
+                "Subentries": [
+                  {
+                    "HS Code": "8414.90.10.40",
+                    "Description": "Of fans of subheading 8414.51",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8414.90.10.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8414.90.91",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8414.90.91.40",
+                    "Description": "Of vacuum pumps",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8414.90.91.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Of compressors:",
+                "Subentries": [
+                  {
+                    "HS Code": "8414.90.30.00",
+                    "Description": "Stators and rotors of goods of subheading 8414.30",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8414.90.41",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Of refrigerating and air conditioning compressors:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8414.90.41.20",
+                            "Description": "Compressor housings",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8414.90.41.40",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Of compressors of subheading 8414.40:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8414.90.41.45",
+                                "Description": "Compressor housings",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.90.41.55",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8414.90.41.65",
+                                "Description": "Compressor housings",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.90.41.80",
+                                "Description": "Impeller covers and hubs",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8414.90.41.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

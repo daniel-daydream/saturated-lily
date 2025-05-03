@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "19",
+    "Description": "Preparations of cereals, flour, starch or milk; bakers' wares",
+    "Subentries": [
+      {
+        "HS Code": "1904",
+        "Description": "Prepared foods obtained by the swelling or roasting of cereals or cereal products (for example, cornflakes); cereals (other than corn (maize)) in grain form or in the form of flakes or other worked grains (except flour, groats and meal), pre-cooked or otherwise prepared, not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "1904.10.00",
+            "Description": "Prepared foods obtained by the swelling or roasting of cereals or cereal products",
+            "Subentries": [
+              {
+                "HS Code": "1904.10.00.40",
+                "Description": "Containing cane and/or beet sugar",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1904.10.00.80",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

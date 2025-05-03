@@ -8,6 +8,11 @@
         "Description": "Cullet and other waste and scrap of glass, excluding glass from cathode-ray tubes or other activated glass of heading 8549; glass in the mass:",
         "Subentries": [
           {
+            "HS Code": "7001.00.51.00",
+            "Description": "Other",
+            "Subentries": []
+          },
+          {
             "HS Code": "",
             "Description": "Glass in the mass:",
             "Subentries": [
@@ -22,11 +27,6 @@
                 "Subentries": []
               }
             ]
-          },
-          {
-            "HS Code": "7001.00.51.00",
-            "Description": "Other",
-            "Subentries": []
           }
         ]
       },
@@ -105,6 +105,16 @@
         "Description": "Cast glass and rolled glass, in sheets or profiles, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked:",
         "Subentries": [
           {
+            "HS Code": "7003.20.00.00",
+            "Description": "Wired sheets",
+            "Subentries": []
+          },
+          {
+            "HS Code": "7003.30.00.00",
+            "Description": "Profiles",
+            "Subentries": []
+          },
+          {
             "HS Code": "",
             "Description": "Nonwired sheets:",
             "Subentries": [
@@ -119,16 +129,6 @@
                 "Subentries": []
               }
             ]
-          },
-          {
-            "HS Code": "7003.20.00.00",
-            "Description": "Wired sheets",
-            "Subentries": []
-          },
-          {
-            "HS Code": "7003.30.00.00",
-            "Description": "Profiles",
-            "Subentries": []
           }
         ]
       },
@@ -179,9 +179,35 @@
             "Description": "Other glass:",
             "Subentries": [
               {
+                "HS Code": "7004.90.50.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
                 "HS Code": "",
                 "Description": "In rectangular shape:",
                 "Subentries": [
+                  {
+                    "HS Code": "7004.90.25",
+                    "Description": "Measuring over 2 but not over 3.5 mm in thickness",
+                    "Subentries": [
+                      {
+                        "HS Code": "7004.90.25.10",
+                        "Description": "Measuring not over 0.26 m2 in area",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7004.90.25.20",
+                        "Description": "Measuring over 0.26 but not over 0.58 m2 in area",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7004.90.25.50",
+                        "Description": "Measuring over 0.58 m2 in area",
+                        "Subentries": []
+                      }
+                    ]
+                  },
                   {
                     "HS Code": "",
                     "Description": "Measuring not over 1.5 mm in thickness:",
@@ -215,27 +241,6 @@
                     ]
                   },
                   {
-                    "HS Code": "7004.90.25",
-                    "Description": "Measuring over 2 but not over 3.5 mm in thickness",
-                    "Subentries": [
-                      {
-                        "HS Code": "7004.90.25.10",
-                        "Description": "Measuring not over 0.26 m2 in area",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7004.90.25.20",
-                        "Description": "Measuring over 0.26 but not over 0.58 m2 in area",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7004.90.25.50",
-                        "Description": "Measuring over 0.58 m2 in area",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
                     "HS Code": "",
                     "Description": "Measuring over 3.5 mm in thickness:",
                     "Subentries": [
@@ -243,6 +248,11 @@
                         "HS Code": "7004.90.30",
                         "Description": "Measuring not over 0.65 m2 in area",
                         "Subentries": [
+                          {
+                            "HS Code": "7004.90.30.50",
+                            "Description": "Measuring over 0.26 but not over 0.65 m2 in area",
+                            "Subentries": []
+                          },
                           {
                             "HS Code": "",
                             "Description": "Measuring not over 0.26 m2 in area:",
@@ -258,11 +268,6 @@
                                 "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "7004.90.30.50",
-                            "Description": "Measuring over 0.26 but not over 0.65 m2 in area",
-                            "Subentries": []
                           }
                         ]
                       },
@@ -274,11 +279,6 @@
                     ]
                   }
                 ]
-              },
-              {
-                "HS Code": "7004.90.50.00",
-                "Description": "Other",
-                "Subentries": []
               }
             ]
           }
@@ -303,6 +303,11 @@
                 "Subentries": []
               }
             ]
+          },
+          {
+            "HS Code": "7005.30.00.00",
+            "Description": "Wired glass",
+            "Subentries": []
           },
           {
             "HS Code": "",
@@ -339,6 +344,11 @@
                 "HS Code": "7005.29",
                 "Description": "Other:",
                 "Subentries": [
+                  {
+                    "HS Code": "7005.29.25.00",
+                    "Description": "Measuring 10 mm or more in thickness",
+                    "Subentries": []
+                  },
                   {
                     "HS Code": "",
                     "Description": "Measuring less than 10 mm in thickness:",
@@ -420,20 +430,10 @@
                         ]
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "7005.29.25.00",
-                    "Description": "Measuring 10 mm or more in thickness",
-                    "Subentries": []
                   }
                 ]
               }
             ]
-          },
-          {
-            "HS Code": "7005.30.00.00",
-            "Description": "Wired glass",
-            "Subentries": []
           }
         ]
       },
@@ -722,67 +722,14 @@
                 ]
               },
               {
-                "HS Code": "",
-                "Description": "Containers (with or without their closures) of a kind used for the conveyance or packing of perfume or other toilet preparations; other containers if fitted with or designed for use with ground glass stoppers:",
-                "Subentries": [
-                  {
-                    "HS Code": "7010.90.20",
-                    "Description": "Produced by automatic machine",
-                    "Subentries": [
-                      {
-                        "HS Code": "7010.90.20.10",
-                        "Description": "Of a capacity exceeding 1 liter",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7010.90.20.20",
-                        "Description": "Of a capacity exceeding 0.33 liter but not exceeding 1 liter",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7010.90.20.30",
-                        "Description": "Of a capacity exceeding 0.15 liter but not exceeding 0.33 liter",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7010.90.20.40",
-                        "Description": "Of a capacity not exceeding 0.15 liter",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "7010.90.30",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "7010.90.30.10",
-                        "Description": "Of a capacity exceeding 1 liter",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7010.90.30.20",
-                        "Description": "Of a capacity exceeding 0.33 liter but not exceeding 1 liter",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7010.90.30.30",
-                        "Description": "Of a capacity exceeding 0.15 liter but not exceeding 0.33 liter",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7010.90.30.40",
-                        "Description": "Of a capacity not exceeding 0.15 liter",
-                        "Subentries": []
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
                 "HS Code": "7010.90.50",
                 "Description": "Other containers (with or without their closures)",
                 "Subentries": [
+                  {
+                    "HS Code": "7010.90.50.55",
+                    "Description": "Of a capacity not exceeding 0.118 liter",
+                    "Subentries": []
+                  },
                   {
                     "HS Code": "",
                     "Description": "Of a capacity exceeding 1 liter:",
@@ -862,11 +809,64 @@
                         "Subentries": []
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Containers (with or without their closures) of a kind used for the conveyance or packing of perfume or other toilet preparations; other containers if fitted with or designed for use with ground glass stoppers:",
+                "Subentries": [
+                  {
+                    "HS Code": "7010.90.20",
+                    "Description": "Produced by automatic machine",
+                    "Subentries": [
+                      {
+                        "HS Code": "7010.90.20.10",
+                        "Description": "Of a capacity exceeding 1 liter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7010.90.20.20",
+                        "Description": "Of a capacity exceeding 0.33 liter but not exceeding 1 liter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7010.90.20.30",
+                        "Description": "Of a capacity exceeding 0.15 liter but not exceeding 0.33 liter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7010.90.20.40",
+                        "Description": "Of a capacity not exceeding 0.15 liter",
+                        "Subentries": []
+                      }
+                    ]
                   },
                   {
-                    "HS Code": "7010.90.50.55",
-                    "Description": "Of a capacity not exceeding 0.118 liter",
-                    "Subentries": []
+                    "HS Code": "7010.90.30",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "7010.90.30.10",
+                        "Description": "Of a capacity exceeding 1 liter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7010.90.30.20",
+                        "Description": "Of a capacity exceeding 0.33 liter but not exceeding 1 liter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7010.90.30.30",
+                        "Description": "Of a capacity exceeding 0.15 liter but not exceeding 0.33 liter",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7010.90.30.40",
+                        "Description": "Of a capacity not exceeding 0.15 liter",
+                        "Subentries": []
+                      }
+                    ]
                   }
                 ]
               }
@@ -917,6 +917,11 @@
                     "Description": "Other",
                     "Subentries": [
                       {
+                        "HS Code": "7011.20.85.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "",
                         "Description": "Front panels for cathode-ray television picture tubes, including video monitor tubes, color, non-projection:",
                         "Subentries": [
@@ -931,11 +936,6 @@
                             "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "7011.20.85.40",
-                        "Description": "Other",
-                        "Subentries": []
                       }
                     ]
                   }
@@ -1614,6 +1614,11 @@
             "Description": "Other:",
             "Subentries": [
               {
+                "HS Code": "7015.90.50.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
                 "HS Code": "",
                 "Description": "Watch glasses:",
                 "Subentries": [
@@ -1628,11 +1633,6 @@
                     "Subentries": []
                   }
                 ]
-              },
-              {
-                "HS Code": "7015.90.50.00",
-                "Description": "Other",
-                "Subentries": []
               }
             ]
           }
@@ -1772,6 +1772,70 @@
         "Description": "Glass fibers (including glass wool) and articles thereof (for example, yarn, rovings, woven fabrics):",
         "Subentries": [
           {
+            "HS Code": "7019.80",
+            "Description": "Glass wool and articles of glass wool:",
+            "Subentries": [
+              {
+                "HS Code": "7019.80.10",
+                "Description": "Insulation products",
+                "Subentries": [
+                  {
+                    "HS Code": "7019.80.10.10",
+                    "Description": "Batts",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7019.80.10.20",
+                    "Description": "Pipe coverings",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7019.80.10.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "7019.80.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "7019.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "7019.90.11.00",
+                "Description": "Woven",
+                "Subentries": []
+              },
+              {
+                "HS Code": "7019.90.51",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "7019.90.51.20",
+                    "Description": "Glass fibers in bulk",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7019.90.51.40",
+                    "Description": "Glass fiber filters",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "7019.90.51.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "HS Code": "",
             "Description": "Slivers, rovings, yarn and chopped strands and mats thereof:",
             "Subentries": [
@@ -1800,6 +1864,11 @@
                 "HS Code": "7019.13",
                 "Description": "Other yarn, slivers:",
                 "Subentries": [
+                  {
+                    "HS Code": "7019.13.35.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
                   {
                     "HS Code": "",
                     "Description": "Yarns:",
@@ -1848,11 +1917,6 @@
                         ]
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "7019.13.35.00",
-                    "Description": "Other",
-                    "Subentries": []
                   }
                 ]
               },
@@ -2271,6 +2335,76 @@
                 ]
               },
               {
+                "HS Code": "7019.69",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Not colored:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7019.69.30.00",
+                        "Description": "Fiberglass tire cord fabric woven from electrically nonconductive continuous fiberglass filaments 9 microns in diameter to 11 microns in diameter and impregnated with resorcinol formaldehyde latex treatment for adhesion to polymeric compounds (622)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7019.69.40",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "7019.69.40.10",
+                            "Description": "Weighing 185 grams or less per square meter (622)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7019.69.40.21",
+                            "Description": "Weighing more than 215 grams per square meter, with a filament diameter of 7 to 13 microns (622)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7019.69.40.96",
+                            "Description": "Other (622)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Colored:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7019.69.70.00",
+                        "Description": "Fiberglass tire cord fabric woven from electrically nonconductive continuous fiberglass filaments 9 microns in diameter to 11 microns in diameter and impregnated with resorcinol formaldehyde latex treatment for adhesion to polymeric compounds (622)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "7019.69.90",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "7019.69.90.10",
+                            "Description": "Weighing 185 grams or less per square meter (622)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7019.69.90.21",
+                            "Description": "Weighing more than 215 grams per square meter, with a filament diameter of 7 to 13 microns (622)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "7019.69.90.60",
+                            "Description": "Other (622)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
                 "HS Code": "",
                 "Description": "Open woven fabrics of a width exceeding 30 cm:",
                 "Subentries": [
@@ -2339,76 +2473,6 @@
                                 "Subentries": []
                               }
                             ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "HS Code": "7019.69",
-                "Description": "Other:",
-                "Subentries": [
-                  {
-                    "HS Code": "",
-                    "Description": "Not colored:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7019.69.30.00",
-                        "Description": "Fiberglass tire cord fabric woven from electrically nonconductive continuous fiberglass filaments 9 microns in diameter to 11 microns in diameter and impregnated with resorcinol formaldehyde latex treatment for adhesion to polymeric compounds (622)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7019.69.40",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "7019.69.40.10",
-                            "Description": "Weighing 185 grams or less per square meter (622)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7019.69.40.21",
-                            "Description": "Weighing more than 215 grams per square meter, with a filament diameter of 7 to 13 microns (622)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7019.69.40.96",
-                            "Description": "Other (622)",
-                            "Subentries": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "",
-                    "Description": "Colored:",
-                    "Subentries": [
-                      {
-                        "HS Code": "7019.69.70.00",
-                        "Description": "Fiberglass tire cord fabric woven from electrically nonconductive continuous fiberglass filaments 9 microns in diameter to 11 microns in diameter and impregnated with resorcinol formaldehyde latex treatment for adhesion to polymeric compounds (622)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "7019.69.90",
-                        "Description": "Other",
-                        "Subentries": [
-                          {
-                            "HS Code": "7019.69.90.10",
-                            "Description": "Weighing 185 grams or less per square meter (622)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7019.69.90.21",
-                            "Description": "Weighing more than 215 grams per square meter, with a filament diameter of 7 to 13 microns (622)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "7019.69.90.60",
-                            "Description": "Other (622)",
-                            "Subentries": []
                           }
                         ]
                       }
@@ -2533,70 +2597,6 @@
                         "Subentries": []
                       }
                     ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "HS Code": "7019.80",
-            "Description": "Glass wool and articles of glass wool:",
-            "Subentries": [
-              {
-                "HS Code": "7019.80.10",
-                "Description": "Insulation products",
-                "Subentries": [
-                  {
-                    "HS Code": "7019.80.10.10",
-                    "Description": "Batts",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7019.80.10.20",
-                    "Description": "Pipe coverings",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7019.80.10.90",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
-              },
-              {
-                "HS Code": "7019.80.90.00",
-                "Description": "Other",
-                "Subentries": []
-              }
-            ]
-          },
-          {
-            "HS Code": "7019.90",
-            "Description": "Other:",
-            "Subentries": [
-              {
-                "HS Code": "7019.90.11.00",
-                "Description": "Woven",
-                "Subentries": []
-              },
-              {
-                "HS Code": "7019.90.51",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "7019.90.51.20",
-                    "Description": "Glass fibers in bulk",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7019.90.51.40",
-                    "Description": "Glass fiber filters",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "7019.90.51.50",
-                    "Description": "Other",
-                    "Subentries": []
                   }
                 ]
               }

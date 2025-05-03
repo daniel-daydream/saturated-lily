@@ -1,0 +1,240 @@
+[
+  {
+    "HS Code": "07",
+    "Description": "Edible vegetables and certain roots and tubers",
+    "Subentries": [
+      {
+        "HS Code": "0709",
+        "Description": "Other vegetables, fresh or chilled:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Mushrooms and truffles:",
+            "Subentries": [
+              {
+                "HS Code": "0709.51.01.00",
+                "Description": "Mushrooms of the genus Agaricus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0709.52.05.00",
+                "Description": "Mushrooms of the genus Boletus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0709.53.00.00",
+                "Description": "Mushrooms of the genus Cantharellus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0709.54.00.00",
+                "Description": "Shiitake (Lentinus edodes)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0709.55.00.00",
+                "Description": "Matsutake (Tricholoma matsutake, Tricholoma magnivelare, Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0709.56.00.00",
+                "Description": "Truffles (Tuber spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0709.59",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0709.59.11.00",
+                    "Description": "Truffles",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0709.59.91.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0711",
+        "Description": "Vegetables provisionally preserved, but unsuitable in that state for immediate consumption:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Mushrooms and truffles:",
+            "Subentries": [
+              {
+                "HS Code": "0711.51.00.00",
+                "Description": "Mushrooms of the genus Agaricus",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0711.59",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0711.59.10.00",
+                    "Description": "Mushrooms",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0711.59.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "0712",
+        "Description": "Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Mushrooms, wood ears (Auricularia spp.), jelly fungi (Tremella spp.) and truffles:",
+            "Subentries": [
+              {
+                "HS Code": "0712.31",
+                "Description": "Mushrooms of the genus Agaricus:",
+                "Subentries": [
+                  {
+                    "HS Code": "0712.31.10.00",
+                    "Description": "Air dried or sun dried",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.31.20.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0712.32.00.00",
+                "Description": "Wood ears (Auricularia spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0712.33.00.00",
+                "Description": "Jelly fungi (Tremella spp.)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0712.34",
+                "Description": "Shiitake (Lentinus edodes):",
+                "Subentries": [
+                  {
+                    "HS Code": "0712.34.10.00",
+                    "Description": "Air dried or sun dried",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0712.34.20.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "0712.39",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0712.39.40.00",
+                    "Description": "Truffles",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Mushrooms:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0712.39.11.00",
+                        "Description": "Air dried or sun dried",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0712.39.21.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "20",
+    "Description": "Preparations of vegetables, fruit, nuts or other parts of plants",
+    "Subentries": [
+      {
+        "HS Code": "2003",
+        "Description": "Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid:",
+        "Subentries": [
+          {
+            "HS Code": "2003.10.01",
+            "Description": "Mushrooms of the genus Agaricus",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "In containers each holding not more than 255 g:",
+                "Subentries": [
+                  {
+                    "HS Code": "2003.10.01.27",
+                    "Description": "Whole (including buttons)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2003.10.01.31",
+                    "Description": "Sliced",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2003.10.01.37",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "In containers each holding more than 255 g:",
+                "Subentries": [
+                  {
+                    "HS Code": "2003.10.01.43",
+                    "Description": "Whole (including buttons)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2003.10.01.47",
+                    "Description": "Sliced",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2003.10.01.53",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

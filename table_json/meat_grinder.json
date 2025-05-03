@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8438",
+        "Description": "Machinery, not specified or included elsewhere in this chapter, for the industrial preparation or manufacture of food or drink, other than machinery for the extraction or preparation of animal or fixed vegetable or microbial fats or oils; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8438.50.00",
+            "Description": "Machinery for the preparation of meat or poultry",
+            "Subentries": [
+              {
+                "HS Code": "8438.50.00.10",
+                "Description": "Meat- and poultry-packing plant machinery",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8438.50.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

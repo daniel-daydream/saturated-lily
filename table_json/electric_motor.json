@@ -1,0 +1,540 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8501",
+        "Description": "Electric motors and generators (excluding generating sets):",
+        "Subentries": [
+          {
+            "HS Code": "8501.10",
+            "Description": "Motors of an output not exceeding 37.5 W:",
+            "Subentries": [
+              {
+                "HS Code": "8501.10.60",
+                "Description": "Of 18.65 W or more but not exceeding 37.5 W",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.10.60.20",
+                    "Description": "AC",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8501.10.60.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "DC:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.10.60.40",
+                        "Description": "Brushless",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.10.60.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Of under 18.65 W:",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.10.20.00",
+                    "Description": "Synchronous, valued not over $4 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8501.10.40",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.10.40.20",
+                        "Description": "AC",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.10.40.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "DC:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8501.10.40.40",
+                            "Description": "Brushless",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8501.10.40.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "8501.20",
+            "Description": "Universal AC/DC motors of an output exceeding 37.5 W:",
+            "Subentries": [
+              {
+                "HS Code": "8501.20.20.00",
+                "Description": "Exceeding 37.5 W but not exceeding 74.6 W",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8501.20.40.00",
+                "Description": "Exceeding 74.6 W but not exceeding 735 W",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8501.20.50.00",
+                "Description": "Exceeding 735 W but under 746 W",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8501.20.60.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "8501.40",
+            "Description": "Other AC motors, single-phase:",
+            "Subentries": [
+              {
+                "HS Code": "8501.40.20",
+                "Description": "Of an output exceeding 37.5 W but not exceeding 74.6 W",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.40.20.20",
+                    "Description": "Gear motors",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8501.40.20.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8501.40.40",
+                "Description": "Of an output exceeding 74.6 W but not exceeding 735 W",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.40.40.20",
+                    "Description": "Gear motors",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8501.40.40.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8501.40.50",
+                "Description": "Of an output exceeding 735 W but under 746 W",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.40.50.20",
+                    "Description": "Gear motors",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8501.40.50.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8501.40.60",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.40.60.20",
+                    "Description": "Gear motors",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8501.40.60.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other DC motors; DC generators, other than photovoltaic generators:",
+            "Subentries": [
+              {
+                "HS Code": "8501.31",
+                "Description": "Of an output not exceeding 750 W:",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.31.81.00",
+                    "Description": "Generators",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Motors:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.31.20.00",
+                        "Description": "Exceeding 37.5 W but not exceeding 74.6 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.31.40.00",
+                        "Description": "Exceeding 74.6 W but not exceeding 735 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.31.50.00",
+                        "Description": "Exceeding 735 W but under 746 W",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.31.60.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8501.32",
+                "Description": "Of an output exceeding 750 W but not exceeding 75 kW:",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.32.61.00",
+                    "Description": "Generators",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Motors:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.32.20.00",
+                        "Description": "Exceeding 750 W but not exceeding 14.92 kW",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8501.32.45.00",
+                            "Description": "Electric motors of a kind used as the primary source of mechanical power for electrically powered vehicles of subheadings 8703.40, 8703.50, 8703.60, 8703.70 or 8703.80",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8501.32.55",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "8501.32.55.20",
+                                "Description": "For use in civil aircraft",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8501.32.55.40",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8501.33",
+                "Description": "Of an output exceeding 75 kW but not exceeding 375 kW:",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.33.61.00",
+                    "Description": "Generators",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Motors:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.33.20",
+                        "Description": "Exceeding 75 kW but under 149.2 kW",
+                        "Subentries": [
+                          {
+                            "HS Code": "8501.33.20.40",
+                            "Description": "For use in civil aircraft",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8501.33.20.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "8501.33.30.00",
+                        "Description": "149.2 kW or more but not exceeding 150 kW",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.33.40",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "8501.33.40.40",
+                            "Description": "Not exceeding 373 kW",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8501.33.40.60",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8501.34",
+                "Description": "Of an output exceeding 375 kW:",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.34.30.00",
+                    "Description": "Motors",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8501.34.61.00",
+                    "Description": "Generators",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8501.51",
+                "Description": "Of an output not exceeding 750 W:",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.51.20",
+                    "Description": "Exceeding 37.5 W but not exceeding 74.6 W",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.51.20.20",
+                        "Description": "Gear motors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.51.20.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8501.51.40",
+                    "Description": "Exceeding 74.6 W but not exceeding 735 W",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.51.40.20",
+                        "Description": "Gear motors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.51.40.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8501.51.50",
+                    "Description": "Exceeding 735 W but under 746 W",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.51.50.20",
+                        "Description": "Gear motors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.51.50.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8501.51.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.51.60.20",
+                        "Description": "Gear motors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.51.60.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8501.52",
+                "Description": "Of an output exceeding 750 W but not exceeding 75 kW:",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.52.40.00",
+                    "Description": "Exceeding 750 W but not exceeding 14.92 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8501.52.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.52.80.20",
+                        "Description": "For use in civil aircraft",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.52.80.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8501.53",
+                "Description": "Of an output exceeding 75 kW:",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.53.40",
+                    "Description": "Exceeding 75 kW but under 149.2 kW",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.53.40.40",
+                        "Description": "For use in civil aircraft",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.53.40.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8501.53.60.00",
+                    "Description": "149.2 kW or more but not exceeding 150 kW",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8501.53.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.53.80.40",
+                        "Description": "Not exceeding 373 kW",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.53.80.60",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8501.61.01.00",
+                "Description": "Of an output not exceeding 75 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8501.62.01.00",
+                "Description": "Of an output exceeding 75 kVA but not exceeding 375 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8501.63.01.00",
+                "Description": "Of an output exceeding 375 kVA but not exceeding 750 kVA",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8501.64.01",
+                "Description": "Of an output exceeding 750 kVA",
+                "Subentries": [
+                  {
+                    "HS Code": "8501.64.01.30",
+                    "Description": "Exceeding 10,000 kVA but not exceeding 40,000 kVA",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8501.64.01.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Exceeding 750 kVA but not exceeding 10,000 kVA:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8501.64.01.21",
+                        "Description": "For wind-powered generating sets classified within 8502.31.00",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8501.64.01.25",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

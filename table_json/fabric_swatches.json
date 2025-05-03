@@ -1,0 +1,939 @@
+[
+  {
+    "HS Code": "51",
+    "Description": "Wool, fine or coarse animal hair; horsehair yarn and woven fabric",
+    "Subentries": [
+      {
+        "HS Code": "5111",
+        "Description": "Woven fabrics of carded wool or of carded fine animal hair:",
+        "Subentries": [
+          {
+            "HS Code": "5111.20",
+            "Description": "Other, mixed mainly or solely with man-made filaments:",
+            "Subentries": [
+              {
+                "HS Code": "5111.20.05.00",
+                "Description": "Tapestry fabrics and upholstery fabrics of a weight exceeding 300 g/m2 (414)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5111.20.10.00",
+                "Description": "Tapestry fabrics and upholstery fabrics of a weight not exceeding 140 g/m2 (414)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5111.20.90.00",
+                "Description": "Other (410)",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "5112",
+        "Description": "Woven fabrics of combed wool or of combed fine animal hair:",
+        "Subentries": [
+          {
+            "HS Code": "5112.20",
+            "Description": "Other, mixed mainly or solely with man-made filaments:",
+            "Subentries": [
+              {
+                "HS Code": "5112.20.10.00",
+                "Description": "Tapestry fabrics and upholstery fabrics of a weight exceeding 300 g/m2 (414)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5112.20.20.00",
+                "Description": "Tapestry fabrics and upholstery fabrics of a weight not exceeding 140 g/m2 (414)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5112.20.30.00",
+                "Description": "Other (410)",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "52",
+    "Description": "Cotton",
+    "Subentries": [
+      {
+        "HS Code": "5208",
+        "Description": "Woven fabrics of cotton, containing 85 percent or more by weight of cotton, weighing not more than 200 g/m\u00b2:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Unbleached:",
+            "Subentries": [
+              {
+                "HS Code": "5208.11",
+                "Description": "Plain weave, weighing not more than 100 g/m\u00b2:",
+                "Subentries": [
+                  {
+                    "HS Code": "5208.11.20",
+                    "Description": "Of number 42 or lower number",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.11.20.20",
+                        "Description": "Poplin or broadcloth (314)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.11.20.40",
+                        "Description": "Sheeting (313)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.11.20.90",
+                        "Description": "Cheesecloth (226)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5208.11.40",
+                    "Description": "Of numbers 43 to 68",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.11.40.20",
+                        "Description": "Poplin or broadcloth (314)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.11.40.40",
+                        "Description": "Sheeting (313)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.11.40.60",
+                        "Description": "Printcloth (315)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.11.40.90",
+                        "Description": "Cheesecloth (226)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of number 69 or higher number:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.11.60.00",
+                        "Description": "Suitable for making typewriter ribbon, containing yarns the average number of which exceeds 85 but not 237, the total thread count (treating multiple (folded) or cabled yarns as single threads) per square centimeter is not less than 94 and not more than 134, and in which the thread count of either the warp or filling does not exceed 60 percent of the total thread count of the warp and filling (220)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.11.80",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "5208.11.80.20",
+                            "Description": "Poplin or broadcloth (314)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5208.11.80.90",
+                            "Description": "Cheesecloth; lawns, voiles or batistes (226)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "5208.12",
+                "Description": "Plain weave, weighing more than 100 g/m\u00b2:",
+                "Subentries": [
+                  {
+                    "HS Code": "5208.12.40",
+                    "Description": "Of number 42 or lower number",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.12.40.20",
+                        "Description": "Poplin or broadcloth (314)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.12.40.40",
+                        "Description": "Sheeting (313)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.12.40.90",
+                        "Description": "Cheesecloth (226)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5208.12.60",
+                    "Description": "Of numbers 43 to 68",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.12.60.20",
+                        "Description": "Poplin or broadcloth (314)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.12.60.40",
+                        "Description": "Sheeting (313)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.12.60.60",
+                        "Description": "Printcloth (315)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.12.60.90",
+                        "Description": "Cheesecloth (226)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5208.12.80",
+                    "Description": "Of number 69 or higher number",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.12.80.20",
+                        "Description": "Poplin or broadcloth (314)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.12.80.90",
+                        "Description": "Cheesecloth; lawns, voiles or batistes (226)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "5208.13.00.00",
+                "Description": "3-thread or 4-thread twill, including cross twill (317)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5208.19",
+                "Description": "Other fabrics:",
+                "Subentries": [
+                  {
+                    "HS Code": "5208.19.20",
+                    "Description": "Satin weave or twill weave",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.19.20.20",
+                        "Description": "Sateens (326)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.19.20.90",
+                        "Description": "Other (317)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.19.40",
+                        "Description": "Of number 42 or lower number",
+                        "Subentries": [
+                          {
+                            "HS Code": "5208.19.40.20",
+                            "Description": "Oxford cloth (227)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5208.19.40.90",
+                            "Description": "Other (220)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "5208.19.60",
+                        "Description": "Of numbers 43 to 68",
+                        "Subentries": [
+                          {
+                            "HS Code": "5208.19.60.20",
+                            "Description": "Oxford cloth (227)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5208.19.60.90",
+                            "Description": "Other (220)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "5208.19.80",
+                        "Description": "Of number 69 or higher number",
+                        "Subentries": [
+                          {
+                            "HS Code": "5208.19.80.20",
+                            "Description": "Oxford cloth (227)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5208.19.80.90",
+                            "Description": "Other (220)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "5208.21",
+                "Description": "Plain weave, weighing not more than 100 g/m\u00b2:",
+                "Subentries": [
+                  {
+                    "HS Code": "5208.21.20",
+                    "Description": "Of number 42 or lower number",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.21.20.20",
+                        "Description": "Poplin or broadcloth (314)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.21.20.40",
+                        "Description": "Sheeting (313)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.21.20.90",
+                        "Description": "Cheesecloth (226)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5208.21.40",
+                    "Description": "Of numbers 43 to 68",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.21.40.20",
+                        "Description": "Poplin or broadcloth (314)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.21.40.40",
+                        "Description": "Sheeting (313)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.21.40.60",
+                        "Description": "Printcloth (315)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.21.40.90",
+                        "Description": "Cheesecloth (226)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5208.21.60",
+                    "Description": "Of number 69 or higher number",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.21.60.20",
+                        "Description": "Poplin or broadcloth (314)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.21.60.90",
+                        "Description": "Cheesecloth; lawns, voiles or batistes (226)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "5208.22",
+                "Description": "Plain weave, weighing more than 100 g/m\u00b2:",
+                "Subentries": [
+                  {
+                    "HS Code": "5208.22.40",
+                    "Description": "Of number 42 or lower number",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.22.40.20",
+                        "Description": "Poplin or broadcloth (314)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.22.40.40",
+                        "Description": "Sheeting (313)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.22.40.90",
+                        "Description": "Cheesecloth (226)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5208.22.60",
+                    "Description": "Of numbers 43 to 68",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.22.60.20",
+                        "Description": "Poplin or broadcloth (314)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.22.60.40",
+                        "Description": "Sheeting (313)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.22.60.60",
+                        "Description": "Printcloth (315)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.22.60.90",
+                        "Description": "Cheesecloth (226)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5208.22.80",
+                    "Description": "Of number 69 or higher number",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.22.80.20",
+                        "Description": "Poplin or broadcloth (314)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.22.80.90",
+                        "Description": "Cheesecloth; lawns, voiles or batistes (226)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "5208.23.00.00",
+                "Description": "3-thread or 4-thread twill, including cross twill (317)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5208.29",
+                "Description": "Other fabrics:",
+                "Subentries": [
+                  {
+                    "HS Code": "5208.29.20",
+                    "Description": "Satin weave or twill weave",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.29.20.20",
+                        "Description": "Sateens (326)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5208.29.20.90",
+                        "Description": "Other (317)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5208.29.40",
+                        "Description": "Of number 42 or lower number",
+                        "Subentries": [
+                          {
+                            "HS Code": "5208.29.40.20",
+                            "Description": "Oxford cloth (227)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5208.29.40.90",
+                            "Description": "Other (220)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "5208.29.60",
+                        "Description": "Of numbers 43 to 68",
+                        "Subentries": [
+                          {
+                            "HS Code": "5208.29.60.20",
+                            "Description": "Oxford cloth (227)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5208.29.60.90",
+                            "Description": "Other (220)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "5208.29.80",
+                        "Description": "Of number 69 or higher number",
+                        "Subentries": [
+                          {
+                            "HS Code": "5208.29.80.20",
+                            "Description": "Oxford cloth (227)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5208.29.80.90",
+                            "Description": "Other (220)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "54",
+    "Description": "Man-made filaments",
+    "Subentries": [
+      {
+        "HS Code": "5407",
+        "Description": "Woven fabrics of synthetic filament yarn, including woven fabrics obtained from materials of heading 5404:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other woven fabrics, containing 85 percent or more by weight of polyester filaments:",
+            "Subentries": [
+              {
+                "HS Code": "5407.61",
+                "Description": "Containing 85 percent or more by weight of non textured polyester filaments:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Dyed, measuring less than 77 cm in width or less than 77 cm between selvages, the thread count of which per cm (treating multiple (folded) or cabled yarns as single threads) is over 69 but not over 142 in the warp and over 31 but not over 71 in the filling:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5407.61.11.00",
+                        "Description": "Wholly of polyester, of single yarns measuring not less than 75 decitex but not more than 80 decitex, having 24 filaments per yarn and with a twist of 900 or more turns per meter (619)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5407.61.19.00",
+                        "Description": "Other (619)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of yarns of different colors, the thread count of which per cm (treating multiple (folded) or cabled yarns as single threads) is over 69 but not over 142 in the warp and over 31 but not over 71 in the filling:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5407.61.21.00",
+                        "Description": "Wholly of polyester, of single yarns meas- uring not less than 75 decitex but not more than 80 decitex, having 24 filaments per yarn and with a twist of 900 or more turns per meter (619)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5407.61.29.00",
+                        "Description": "Other (619)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5407.61.91.00",
+                        "Description": "Wholly of polyester, of single yarns meas- uring not less than 75 decitex but not more than 80 decitex, having 24 filaments per yarn and with a twist of 900 or more turns per meter (619)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5407.61.99",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Unbleached or bleached:",
+                            "Subentries": [
+                              {
+                                "HS Code": "5407.61.99.15",
+                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Weighing not more than 170 g/m\u00b2:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "5407.61.99.05",
+                                    "Description": "Flat fabrics (619)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "5407.61.99.10",
+                                    "Description": "Other (619)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Dyed:",
+                            "Subentries": [
+                              {
+                                "HS Code": "5407.61.99.35",
+                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Weighing not more than 170 g/m\u00b2:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "5407.61.99.25",
+                                    "Description": "Flat fabrics (619)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "5407.61.99.30",
+                                    "Description": "Other (619)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Of yarns of different colors:",
+                            "Subentries": [
+                              {
+                                "HS Code": "5407.61.99.55",
+                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Weighing not more than 170 g/m\u00b2:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "5407.61.99.45",
+                                    "Description": "Flat fabrics (619)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "5407.61.99.50",
+                                    "Description": "Other (619)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Printed:",
+                            "Subentries": [
+                              {
+                                "HS Code": "5407.61.99.75",
+                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Weighing not more than 170 g/m\u00b2:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "5407.61.99.65",
+                                    "Description": "Flat fabrics (619)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "5407.61.99.70",
+                                    "Description": "Other (619)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "5407.69",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "5407.69.10",
+                    "Description": "Unbleached or bleached",
+                    "Subentries": [
+                      {
+                        "HS Code": "5407.69.10.10",
+                        "Description": "Weighing not more than 170 g/m\u00b2 (619)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5407.69.10.60",
+                        "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5407.69.20",
+                    "Description": "Dyed",
+                    "Subentries": [
+                      {
+                        "HS Code": "5407.69.20.10",
+                        "Description": "Weighing not more than 170 g/m\u00b2 (619)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5407.69.20.60",
+                        "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "5407.69.90",
+                    "Description": "Printed",
+                    "Subentries": [
+                      {
+                        "HS Code": "5407.69.90.10",
+                        "Description": "Weighing not more than 170 g/m\u00b2 (619)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5407.69.90.60",
+                        "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of yarns of different colors:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5407.69.30.00",
+                        "Description": "The thread count of which per cm (treating multiple (folded) or cabled yarns as single threads) is over 69 but not over 142 in the warp and over 31 but not over 71 in the filling (620)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5407.69.40",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "5407.69.40.10",
+                            "Description": "Weighing not more than 170 g/m\u00b2 (619)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5407.69.40.60",
+                            "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "55",
+    "Description": "Man-made staple fibers",
+    "Subentries": [
+      {
+        "HS Code": "5512",
+        "Description": "Woven fabrics of synthetic staple fibers, containing 85 percent or more by weight of synthetic staple fibers:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Containing 85 percent or more by weight of polyester staple fibers:",
+            "Subentries": [
+              {
+                "HS Code": "5512.11.00",
+                "Description": "Unbleached or bleached",
+                "Subentries": [
+                  {
+                    "HS Code": "5512.11.00.10",
+                    "Description": "Poplin or broadcloth (614)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5512.11.00.30",
+                    "Description": "Printcloth (615)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5512.11.00.40",
+                    "Description": "Cheesecloth; lawns, voiles or batistes (226)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5512.11.00.50",
+                    "Description": "Duck (219)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5512.11.00.60",
+                    "Description": "Satin weave or twill weave (617)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5512.11.00.70",
+                    "Description": "Oxford cloth (227)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5512.11.00.90",
+                    "Description": "Other (220)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Sheeting:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5512.11.00.22",
+                        "Description": "Of a width exceeding 254 cm (613)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5512.11.00.27",
+                        "Description": "Other (613)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "5512.19.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "5512.19.00.05",
+                    "Description": "Of yarns of different colors, except blue denim or jacquard weave (218)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5512.19.00.10",
+                    "Description": "Blue denim (225)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "5512.19.00.15",
+                        "Description": "Poplin or broadcloth (614)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5512.19.00.30",
+                        "Description": "Printcloth (615)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5512.19.00.35",
+                        "Description": "Cheesecloth; lawns, voiles or batistes (226)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5512.19.00.40",
+                        "Description": "Duck (219)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5512.19.00.45",
+                        "Description": "Satin weave or twill weave (617)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5512.19.00.50",
+                        "Description": "Oxford cloth (227)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5512.19.00.90",
+                        "Description": "Other (220)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Sheeting:",
+                        "Subentries": [
+                          {
+                            "HS Code": "5512.19.00.22",
+                            "Description": "Of a width exceeding 254 cm (613)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "5512.19.00.27",
+                            "Description": "Other (613)",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

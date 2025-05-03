@@ -1,0 +1,214 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8458",
+        "Description": "Lathes (including turning centers) for removing metal:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Horizontal lathes:",
+            "Subentries": [
+              {
+                "HS Code": "8458.11.00",
+                "Description": "Numerically controlled",
+                "Subentries": [
+                  {
+                    "HS Code": "8458.11.00.05",
+                    "Description": "Used or rebuilt",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8458.11.00.10",
+                        "Description": "Multiple spindle",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8458.11.00.30",
+                            "Description": "With a power rating of less than 18.65 kW",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8458.11.00.50",
+                            "Description": "With a power rating of 18.65 kW or greater but not exceeding 37.3 kW",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8458.11.00.90",
+                            "Description": "With a power rating exceeding 37.3 kW",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8458.19.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8458.19.00.10",
+                    "Description": "Used or rebuilt",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8458.19.00.20",
+                    "Description": "Other, valued under $3,025 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8458.19.00.30",
+                        "Description": "Engine or toolroom lathes",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8458.19.00.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Automatic bar and/or chucking machines:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8458.19.00.50",
+                            "Description": "Single spindle",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8458.19.00.70",
+                            "Description": "Multiple spindle",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8458.91",
+                "Description": "Numerically controlled:",
+                "Subentries": [
+                  {
+                    "HS Code": "8458.91.10",
+                    "Description": "Vertical turret lathes",
+                    "Subentries": [
+                      {
+                        "HS Code": "8458.91.10.40",
+                        "Description": "Used or rebuilt",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8458.91.10.60",
+                            "Description": "Multiple spindle",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8458.91.10.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8458.91.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8458.91.50.40",
+                        "Description": "Used or rebuilt",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8458.91.50.50",
+                            "Description": "Multiple spindle",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8458.91.50.70",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8458.99",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8458.99.10",
+                    "Description": "Vertical turret lathes",
+                    "Subentries": [
+                      {
+                        "HS Code": "8458.99.10.10",
+                        "Description": "Used or rebuilt",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8458.99.10.50",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8458.99.50",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8458.99.50.30",
+                        "Description": "Used or rebuilt",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8458.99.50.60",
+                        "Description": "Other, valued under $3,025 each",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8458.99.50.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

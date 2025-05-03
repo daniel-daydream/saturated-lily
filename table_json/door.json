@@ -1,5 +1,38 @@
 [
   {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3925",
+        "Description": "Builders' ware of plastics, not elsewhere specified or included:",
+        "Subentries": [
+          {
+            "HS Code": "3925.20.00",
+            "Description": "Doors, windows and their frames and thresholds for doors",
+            "Subentries": [
+              {
+                "HS Code": "3925.20.00.10",
+                "Description": "Doors and door frames",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3925.20.00.20",
+                "Description": "Windows and window frames",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3925.20.00.91",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "HS Code": "73",
     "Description": "Articles of iron or steel",
     "Subentries": [
@@ -96,39 +129,6 @@
                     ]
                   }
                 ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "HS Code": "39",
-    "Description": "Plastics and articles thereof",
-    "Subentries": [
-      {
-        "HS Code": "3925",
-        "Description": "Builders' ware of plastics, not elsewhere specified or included:",
-        "Subentries": [
-          {
-            "HS Code": "3925.20.00",
-            "Description": "Doors, windows and their frames and thresholds for doors",
-            "Subentries": [
-              {
-                "HS Code": "3925.20.00.10",
-                "Description": "Doors and door frames",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3925.20.00.20",
-                "Description": "Windows and window frames",
-                "Subentries": []
-              },
-              {
-                "HS Code": "3925.20.00.91",
-                "Description": "Other",
-                "Subentries": []
               }
             ]
           }

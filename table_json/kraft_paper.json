@@ -1,0 +1,137 @@
+[
+  {
+    "HS Code": "48",
+    "Description": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+    "Subentries": [
+      {
+        "HS Code": "4804",
+        "Description": "Uncoated kraft paper and paperboard, in rolls or sheets, other than that of heading 4802 or 4803:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Kraftliner:",
+            "Subentries": [
+              {
+                "HS Code": "4804.11.00.00",
+                "Description": "Unbleached",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4804.19.00.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4804.21.00.00",
+                "Description": "Unbleached",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4804.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4804.31",
+                "Description": "Unbleached:",
+                "Subentries": [
+                  {
+                    "HS Code": "4804.31.40",
+                    "Description": "Wrapping paper",
+                    "Subentries": [
+                      {
+                        "HS Code": "4804.31.40.20",
+                        "Description": "Bag or sack paper",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4804.31.40.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "4804.31.60.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Condenser paper:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4804.31.10.00",
+                        "Description": "Weighing over 15 g/m\u00b2 but not over 30 g/m\u00b2",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4804.31.20.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "4804.39",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "4804.39.20.00",
+                    "Description": "Condenser paper",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "4804.39.40",
+                    "Description": "Wrapping paper",
+                    "Subentries": [
+                      {
+                        "HS Code": "4804.39.40.20",
+                        "Description": "Bag or sack paper",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "4804.39.40.41",
+                            "Description": "Tissue paper having a basis weight not exceeding 29 g/m\u00b2, in sheets",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "4804.39.40.49",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "4804.39.60",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "4804.39.60.20",
+                        "Description": "Base stock for trays, dishes, plates, cups and the like",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "4804.39.60.40",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

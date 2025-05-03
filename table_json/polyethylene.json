@@ -1,0 +1,89 @@
+[
+  {
+    "HS Code": "39",
+    "Description": "Plastics and articles thereof",
+    "Subentries": [
+      {
+        "HS Code": "3901",
+        "Description": "Polymers of ethylene, in primary forms:",
+        "Subentries": [
+          {
+            "HS Code": "3901.10",
+            "Description": "Polyethylene having a specific gravity of less than 0.94:",
+            "Subentries": [
+              {
+                "HS Code": "3901.10.10.00",
+                "Description": "Having a relative viscosity of 1.44 or more",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3901.10.50",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "3901.10.50.10",
+                    "Description": "Linear low density polyethylene",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3901.10.50.20",
+                    "Description": "Low density polyethylene, except linear low density polyethylene",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3901.10.50.30",
+                    "Description": "Medium density polyethylene",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "3901.20",
+            "Description": "Polyethylene having a specific gravity of 0.94 or more:",
+            "Subentries": [
+              {
+                "HS Code": "3901.20.10.00",
+                "Description": "Having a relative viscosity of 1.44 or more",
+                "Subentries": []
+              },
+              {
+                "HS Code": "3901.20.50.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "3901.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "3901.90.10.00",
+                "Description": "Elastomeric",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "3901.90.55.01",
+                    "Description": "Ethylene copolymers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "3901.90.90.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "09",
+    "Description": "Coffee, tea, mat\u00e9 and spices",
+    "Subentries": [
+      {
+        "HS Code": "0909",
+        "Description": "Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Seeds of cumin:",
+            "Subentries": [
+              {
+                "HS Code": "0909.31.00.00",
+                "Description": "Neither crushed nor ground",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0909.32.00.00",
+                "Description": "Crushed or ground",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

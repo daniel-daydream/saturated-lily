@@ -8,6 +8,22 @@
         "Description": "Men's or boys' overcoats, carcoats, capes, cloaks, anoraks (including ski-jackets), windbreakers and similar articles, knitted or crocheted, other than those of heading 6103:",
         "Subentries": [
           {
+            "HS Code": "6101.20.00",
+            "Description": "Of cotton",
+            "Subentries": [
+              {
+                "HS Code": "6101.20.00.10",
+                "Description": "Men's (334)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6101.20.00.20",
+                "Description": "Boys' (334)",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "6101.30",
             "Description": "Of man-made fibers:",
             "Subentries": [
@@ -42,22 +58,6 @@
                     ]
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "HS Code": "6101.20.00",
-            "Description": "Of cotton",
-            "Subentries": [
-              {
-                "HS Code": "6101.20.00.10",
-                "Description": "Men's (334)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "6101.20.00.20",
-                "Description": "Boys' (334)",
-                "Subentries": []
               }
             ]
           },
@@ -110,6 +110,27 @@
         "Description": "Women's or girls' overcoats, carcoats, capes, cloaks, anoraks (including ski-jackets), windbreakers and similar articles, knitted or crocheted, other than those of heading 6104:",
         "Subentries": [
           {
+            "HS Code": "6102.10.00.00",
+            "Description": "Of wool or fine animal hair (435)",
+            "Subentries": []
+          },
+          {
+            "HS Code": "6102.20.00",
+            "Description": "Of cotton",
+            "Subentries": [
+              {
+                "HS Code": "6102.20.00.10",
+                "Description": "Women's (335)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "6102.20.00.20",
+                "Description": "Girls' (335)",
+                "Subentries": []
+              }
+            ]
+          },
+          {
             "HS Code": "6102.30",
             "Description": "Of man-made fibers:",
             "Subentries": [
@@ -144,27 +165,6 @@
                     ]
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "HS Code": "6102.10.00.00",
-            "Description": "Of wool or fine animal hair (435)",
-            "Subentries": []
-          },
-          {
-            "HS Code": "6102.20.00",
-            "Description": "Of cotton",
-            "Subentries": [
-              {
-                "HS Code": "6102.20.00.10",
-                "Description": "Women's (335)",
-                "Subentries": []
-              },
-              {
-                "HS Code": "6102.20.00.20",
-                "Description": "Girls' (335)",
-                "Subentries": []
               }
             ]
           },
@@ -217,233 +217,6 @@
         "HS Code": "6201",
         "Description": "Men's or boys' overcoats, carcoats, capes, cloaks, anoraks (including ski jackets), windbreakers and   similar articles (including padded, sleeveless jackets), other than those of heading 6203:",
         "Subentries": [
-          {
-            "HS Code": "6201.30",
-            "Description": "Of cotton:",
-            "Subentries": [
-              {
-                "HS Code": "",
-                "Description": "Anoraks (including ski-jackets), windbreakers and similar articles (including padded, sleeveless jackets):",
-                "Subentries": [
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "6201.30.60.00",
-                        "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35 percent or more by weight; containing 10 percent or more by weight of down (353)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "6201.30.70.00",
-                            "Description": "Water resistant (334)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6201.30.80",
-                            "Description": "Other",
-                            "Subentries": [
-                              {
-                                "HS Code": "",
-                                "Description": "Other:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6201.30.80.21",
-                                    "Description": "Corduroy (334)",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "",
-                                    "Description": "Other:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "6201.30.80.51",
-                                        "Description": "Men's (334)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6201.30.80.61",
-                                        "Description": "Boys' (334)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6201.30.80.31",
-                                        "Description": "Men's (334)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6201.30.80.41",
-                                        "Description": "Boys' (334)",
-                                        "Subentries": []
-                                      }
-                                    ]
-                                  },
-                                  {
-                                    "HS Code": "6201.30.80.05",
-                                    "Description": "With attachments for sleeves (334)",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6201.30.80.10",
-                                    "Description": "Other (359)",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "6201.30.40.00",
-                            "Description": "Water resistant (334)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6201.30.50",
-                            "Description": "Other",
-                            "Subentries": [
-                              {
-                                "HS Code": "",
-                                "Description": "Padded, sleeveless jackets:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6201.30.50.05",
-                                    "Description": "With attachments for sleeves (334)",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6201.30.50.10",
-                                    "Description": "Other (359)",
-                                    "Subentries": []
-                                  }
-                                ]
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Other:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6201.30.50.21",
-                                    "Description": "Corduroy (334)",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "",
-                                    "Description": "Blue denim:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "6201.30.50.31",
-                                        "Description": "Men's (334)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6201.30.50.41",
-                                        "Description": "Boys' (334)",
-                                        "Subentries": []
-                                      }
-                                    ]
-                                  },
-                                  {
-                                    "HS Code": "",
-                                    "Description": "Other:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "6201.30.50.51",
-                                        "Description": "Men's (334)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6201.30.50.61",
-                                        "Description": "Boys' (334)",
-                                        "Subentries": []
-                                      }
-                                    ]
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "6201.30.30.00",
-                        "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35 percent or more by weight; containing 10 percent or more by weight of down (353)",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "6201.30.12.00",
-                    "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35   percent or more by weight; containing 10 percent or more by weight of down (353)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "6201.30.20",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "",
-                        "Description": "Raincoats:",
-                        "Subentries": [
-                          {
-                            "HS Code": "6201.30.20.10",
-                            "Description": "Men's (334)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6201.30.20.20",
-                            "Description": "Boys' (334)",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "",
-                            "Description": "Corduroy:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6201.30.20.25",
-                                "Description": "Men's (334)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6201.30.20.35",
-                                "Description": "Boys' (334)",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Other:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6201.30.20.50",
-                                "Description": "Men's (334)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6201.30.20.60",
-                                "Description": "Boys' (334)",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
           {
             "HS Code": "6201.20",
             "Description": "Of wool or fine animal hair:",
@@ -517,6 +290,233 @@
                             "HS Code": "6201.20.40.21",
                             "Description": "Boys' (434)",
                             "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "6201.30",
+            "Description": "Of cotton:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Anoraks (including ski-jackets), windbreakers and similar articles (including padded, sleeveless jackets):",
+                "Subentries": [
+                  {
+                    "HS Code": "6201.30.12.00",
+                    "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35   percent or more by weight; containing 10 percent or more by weight of down (353)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6201.30.20",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Raincoats:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6201.30.20.10",
+                            "Description": "Men's (334)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6201.30.20.20",
+                            "Description": "Boys' (334)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Corduroy:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6201.30.20.25",
+                                "Description": "Men's (334)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6201.30.20.35",
+                                "Description": "Boys' (334)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6201.30.20.50",
+                                "Description": "Men's (334)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6201.30.20.60",
+                                "Description": "Boys' (334)",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6201.30.30.00",
+                        "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35 percent or more by weight; containing 10 percent or more by weight of down (353)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6201.30.60.00",
+                        "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35 percent or more by weight; containing 10 percent or more by weight of down (353)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6201.30.40.00",
+                            "Description": "Water resistant (334)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6201.30.50",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Padded, sleeveless jackets:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6201.30.50.05",
+                                    "Description": "With attachments for sleeves (334)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6201.30.50.10",
+                                    "Description": "Other (359)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6201.30.50.21",
+                                    "Description": "Corduroy (334)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Blue denim:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "6201.30.50.31",
+                                        "Description": "Men's (334)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6201.30.50.41",
+                                        "Description": "Boys' (334)",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "6201.30.50.51",
+                                        "Description": "Men's (334)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6201.30.50.61",
+                                        "Description": "Boys' (334)",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6201.30.70.00",
+                            "Description": "Water resistant (334)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6201.30.80",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6201.30.80.05",
+                                    "Description": "With attachments for sleeves (334)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6201.30.80.10",
+                                    "Description": "Other (359)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6201.30.80.21",
+                                    "Description": "Corduroy (334)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "6201.30.80.31",
+                                        "Description": "Men's (334)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6201.30.80.41",
+                                        "Description": "Boys' (334)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6201.30.80.51",
+                                        "Description": "Men's (334)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6201.30.80.61",
+                                        "Description": "Boys' (334)",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
                           }
                         ]
                       }
@@ -903,223 +903,6 @@
         "Description": "Women's or girls' overcoats, carcoats, capes, cloaks, anoraks (including ski jackets), windbreakers   and similar articles (including padded, sleeveless jackets), other than those of heading 6204:",
         "Subentries": [
           {
-            "HS Code": "6202.30",
-            "Description": "Of cotton:",
-            "Subentries": [
-              {
-                "HS Code": "",
-                "Description": "Anoraks (including ski-jackets), windbreakers and similar articles (including padded, sleeveless jackets):",
-                "Subentries": [
-                  {
-                    "HS Code": "",
-                    "Description": "Other:",
-                    "Subentries": [
-                      {
-                        "HS Code": "6202.30.60.00",
-                        "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35 percent or more by weight; containing 10 percent or more by weight of down (354)",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "6202.30.70.00",
-                            "Description": "Water resistant (335)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6202.30.80",
-                            "Description": "Other",
-                            "Subentries": [
-                              {
-                                "HS Code": "",
-                                "Description": "Other:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "",
-                                    "Description": "Other:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "6202.30.80.61",
-                                        "Description": "Women's (335)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6202.30.80.71",
-                                        "Description": "Girls' (335)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6202.30.80.26",
-                                        "Description": "Women's (335)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6202.30.80.31",
-                                        "Description": "Girls' (335)",
-                                        "Subentries": []
-                                      }
-                                    ]
-                                  },
-                                  {
-                                    "HS Code": "6202.30.80.10",
-                                    "Description": "With attachments for sleeves (335)",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6202.30.80.20",
-                                    "Description": "Other (359)",
-                                    "Subentries": []
-                                  }
-                                ]
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "6202.30.40.00",
-                            "Description": "Water resistant (335)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6202.30.50",
-                            "Description": "Other",
-                            "Subentries": [
-                              {
-                                "HS Code": "",
-                                "Description": "Padded, sleeveless jackets:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6202.30.50.10",
-                                    "Description": "With attachments for sleeves (335)",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6202.30.50.20",
-                                    "Description": "Other (359)",
-                                    "Subentries": []
-                                  }
-                                ]
-                              },
-                              {
-                                "HS Code": "",
-                                "Description": "Other:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "",
-                                    "Description": "Corduroy:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "6202.30.50.26",
-                                        "Description": "Women's (335)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6202.30.50.31",
-                                        "Description": "Girls' (335)",
-                                        "Subentries": []
-                                      }
-                                    ]
-                                  },
-                                  {
-                                    "HS Code": "",
-                                    "Description": "Other:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "6202.30.50.61",
-                                        "Description": "Women's (335)",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "6202.30.50.71",
-                                        "Description": "Girls' (335)",
-                                        "Subentries": []
-                                      }
-                                    ]
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "6202.30.30.00",
-                        "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35 percent or more by weight; containing 10 percent or more by weight of down (354)",
-                        "Subentries": []
-                      }
-                    ]
-                  },
-                  {
-                    "HS Code": "6202.30.12.00",
-                    "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35   percent or more by weight; containing 10 percent or more by weight of down (354)",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "6202.30.20",
-                    "Description": "Other",
-                    "Subentries": [
-                      {
-                        "HS Code": "",
-                        "Description": "Raincoats:",
-                        "Subentries": [
-                          {
-                            "HS Code": "6202.30.20.10",
-                            "Description": "Women's (335)",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6202.30.20.20",
-                            "Description": "Girls' (335)",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "",
-                        "Description": "Other:",
-                        "Subentries": [
-                          {
-                            "HS Code": "",
-                            "Description": "Corduroy:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6202.30.20.25",
-                                "Description": "Women's (335)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6202.30.20.35",
-                                "Description": "Girls' (335)",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "",
-                            "Description": "Other:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6202.30.20.50",
-                                "Description": "Women's (335)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6202.30.20.60",
-                                "Description": "Girls' (335)",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "HS Code": "6202.20",
             "Description": "Of wool or fine animal hair:",
             "Subentries": [
@@ -1192,6 +975,223 @@
                             "HS Code": "6202.20.40.21",
                             "Description": "Girls' (435)",
                             "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "6202.30",
+            "Description": "Of cotton:",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Anoraks (including ski-jackets), windbreakers and similar articles (including padded, sleeveless jackets):",
+                "Subentries": [
+                  {
+                    "HS Code": "6202.30.12.00",
+                    "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35   percent or more by weight; containing 10 percent or more by weight of down (354)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "6202.30.20",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Raincoats:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6202.30.20.10",
+                            "Description": "Women's (335)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6202.30.20.20",
+                            "Description": "Girls' (335)",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Corduroy:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6202.30.20.25",
+                                "Description": "Women's (335)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6202.30.20.35",
+                                "Description": "Girls' (335)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6202.30.20.50",
+                                "Description": "Women's (335)",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6202.30.20.60",
+                                "Description": "Girls' (335)",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6202.30.30.00",
+                        "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35 percent or more by weight; containing 10 percent or more by weight of down (354)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "6202.30.60.00",
+                        "Description": "Containing 15 percent or more by weight of down and waterfowl plumage and of which down comprises 35 percent or more by weight; containing 10 percent or more by weight of down (354)",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6202.30.40.00",
+                            "Description": "Water resistant (335)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6202.30.50",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Padded, sleeveless jackets:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6202.30.50.10",
+                                    "Description": "With attachments for sleeves (335)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6202.30.50.20",
+                                    "Description": "Other (359)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Corduroy:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "6202.30.50.26",
+                                        "Description": "Women's (335)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6202.30.50.31",
+                                        "Description": "Girls' (335)",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "6202.30.50.61",
+                                        "Description": "Women's (335)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6202.30.50.71",
+                                        "Description": "Girls' (335)",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6202.30.70.00",
+                            "Description": "Water resistant (335)",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6202.30.80",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6202.30.80.10",
+                                    "Description": "With attachments for sleeves (335)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6202.30.80.20",
+                                    "Description": "Other (359)",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "6202.30.80.26",
+                                        "Description": "Women's (335)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6202.30.80.31",
+                                        "Description": "Girls' (335)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6202.30.80.61",
+                                        "Description": "Women's (335)",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "6202.30.80.71",
+                                        "Description": "Girls' (335)",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
                           }
                         ]
                       }

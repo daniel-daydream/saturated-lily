@@ -237,6 +237,11 @@
                             "Description": "Other",
                             "Subentries": [
                               {
+                                "HS Code": "8528.72.72.90",
+                                "Description": "Other, including plasma-type",
+                                "Subentries": []
+                              },
+                              {
                                 "HS Code": "",
                                 "Description": "LCD-type (direct-view), with a video display diagonal:",
                                 "Subentries": [
@@ -261,11 +266,6 @@
                                     "Subentries": []
                                   }
                                 ]
-                              },
-                              {
-                                "HS Code": "8528.72.72.90",
-                                "Description": "Other, including plasma-type",
-                                "Subentries": []
                               }
                             ]
                           }

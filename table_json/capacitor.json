@@ -1,0 +1,211 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8532",
+        "Description": "Electrical capacitors, fixed, variable or adjustable (pre-set); parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other fixed capacitors:",
+            "Subentries": [
+              {
+                "HS Code": "8532.21.00",
+                "Description": "Tantalum",
+                "Subentries": [
+                  {
+                    "HS Code": "8532.21.00.20",
+                    "Description": "Metal case",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8532.21.00.40",
+                        "Description": "Dipped",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8532.21.00.50",
+                        "Description": "Designed for surface mounting (SMD) by contact",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8532.21.00.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8532.22.00",
+                "Description": "Aluminum electrolytic",
+                "Subentries": [
+                  {
+                    "HS Code": "8532.22.00.20",
+                    "Description": "Not exceeding 18 mm in diameter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8532.22.00.40",
+                    "Description": "Exceeding 18 mm but not exceeding 35 mm in diameter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8532.22.00.55",
+                    "Description": "Exceeding 35 mm but not exceeding 51 mm in diameter",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8532.22.00.85",
+                    "Description": "Exceeding 51 mm in diameter",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "8532.23.00",
+                "Description": "Ceramic dielectric, single layer",
+                "Subentries": [
+                  {
+                    "HS Code": "8532.23.00.20",
+                    "Description": "Chips",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8532.23.00.40",
+                        "Description": "Axial leads",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8532.23.00.60",
+                        "Description": "Radial leads",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8532.24.00",
+                "Description": "Ceramic dielectric, multilayer",
+                "Subentries": [
+                  {
+                    "HS Code": "8532.24.00.20",
+                    "Description": "Chips",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8532.24.00.40",
+                        "Description": "Axial leads",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8532.24.00.60",
+                        "Description": "Radial leads",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8532.25.00",
+                "Description": "Dielectric of paper or plastics",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8532.25.00.10",
+                        "Description": "Less than 300 V",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8532.25.00.20",
+                        "Description": "300 V or greater, but less than 600 V",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8532.25.00.30",
+                        "Description": "600 V or greater, but less than 1,000 V",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8532.25.00.40",
+                        "Description": "1,000 V or greater",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8532.25.00.60",
+                        "Description": "Axial leads",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8532.25.00.70",
+                        "Description": "Radial leads",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8532.25.00.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Leadless:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8532.25.00.45",
+                            "Description": "Designed for surface mounting (SMD) by contact",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8532.25.00.55",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8532.29.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8532.29.00.20",
+                    "Description": "Mica dielectric",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8532.29.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

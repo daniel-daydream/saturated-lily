@@ -12,6 +12,11 @@
             "Description": "Combined refrigerator-freezers, fitted with separate external doors or drawers, or combinations thereof",
             "Subentries": [
               {
+                "HS Code": "8418.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
                 "HS Code": "",
                 "Description": "Compression type:",
                 "Subentries": [
@@ -35,9 +40,19 @@
                     "Description": "Having a refrigerated volume of 382 liters and over:",
                     "Subentries": [
                       {
+                        "HS Code": "8418.10.00.75",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "",
                         "Description": "French door refrigerators with a bottom freezer compartment:",
                         "Subentries": [
+                          {
+                            "HS Code": "8418.10.00.65",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
                           {
                             "HS Code": "",
                             "Description": "Of a width exceeding 87 centimeters but not exceeding 95 centimeters:",
@@ -53,27 +68,12 @@
                                 "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "8418.10.00.65",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "8418.10.00.75",
-                        "Description": "Other",
-                        "Subentries": []
                       }
                     ]
                   }
                 ]
-              },
-              {
-                "HS Code": "8418.10.00.90",
-                "Description": "Other",
-                "Subentries": []
               }
             ]
           }

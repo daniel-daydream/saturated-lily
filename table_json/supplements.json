@@ -12,6 +12,11 @@
             "Description": "Other:",
             "Subentries": [
               {
+                "HS Code": "2106.90.39.00",
+                "Description": "Artificially sweetened cough drops",
+                "Subentries": []
+              },
+              {
                 "HS Code": "",
                 "Description": "Products derived from the dried milk, dried buttermilk or dried whey of subheadings 0402.10, 0402.21.05, 0402.21.25, 0402.21.30, 0402.21.50, 0403.90.41, 0403.90.45, 0404.10.50 or 0404.10.90, which contain not over 5.5 percent by weight of butterfat and which are mixed with other ingredients including, but not limited to sugar, if such mixtures contain over 16 percent milk solids by weight, are capable of being further processed or mixed with similar ingredients and are not prepared for marketing to the retail consumer in the identical form and package in which imported:",
                 "Subentries": [
@@ -62,6 +67,11 @@
                     "Description": "Containing over 10 percent by weight of milk solids:",
                     "Subentries": [
                       {
+                        "HS Code": "2106.90.28.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "",
                         "Description": "Butter substitutes containing over 45 percent by weight of butterfat:",
                         "Subentries": [
@@ -81,11 +91,6 @@
                             "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "2106.90.28.00",
-                        "Description": "Other",
-                        "Subentries": []
                       }
                     ]
                   },
@@ -93,6 +98,11 @@
                     "HS Code": "",
                     "Description": "Other:",
                     "Subentries": [
+                      {
+                        "HS Code": "2106.90.38.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
                       {
                         "HS Code": "",
                         "Description": "Butter substitutes containing over 45 percent by weight of butterfat:",
@@ -113,20 +123,10 @@
                             "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "2106.90.38.00",
-                        "Description": "Other",
-                        "Subentries": []
                       }
                     ]
                   }
                 ]
-              },
-              {
-                "HS Code": "2106.90.39.00",
-                "Description": "Artificially sweetened cough drops",
-                "Subentries": []
               },
               {
                 "HS Code": "",
@@ -252,6 +252,11 @@
                             "Description": "Other:",
                             "Subentries": [
                               {
+                                "HS Code": "2106.90.82.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              },
+                              {
                                 "HS Code": "",
                                 "Description": "Blended syrups described in additional U.S. note 4 to chapter 17:",
                                 "Subentries": [
@@ -298,11 +303,6 @@
                                     "Subentries": []
                                   }
                                 ]
-                              },
-                              {
-                                "HS Code": "2106.90.82.00",
-                                "Description": "Other",
-                                "Subentries": []
                               }
                             ]
                           }
@@ -337,6 +337,96 @@
                             "HS Code": "",
                             "Description": "Other:",
                             "Subentries": [
+                              {
+                                "HS Code": "2106.90.99",
+                                "Description": "Other",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "2106.90.99.75",
+                                    "Description": "Non-dairy coffee whiteners",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2106.90.99.80",
+                                    "Description": "Other cream or milk substitutes",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2106.90.99.85",
+                                    "Description": "Confectionery (including gum) containing synthetic sweetening agents (e.g., saccharin) instead of sugar",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2106.90.99.87",
+                                    "Description": "Herbal teas and herbal infusions comprising mixed herbs",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "2106.90.99.88",
+                                    "Description": "Flavored honey",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Preparations for the manufacture of beverages:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "2106.90.99.71",
+                                        "Description": "Containing high-intensity sweeteners (e.g., aspartame and/or saccharin",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "2106.90.99.72",
+                                        "Description": "Containing sugar derived from sugar cane and/or sugar beets",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "2106.90.99.73",
+                                        "Description": "Other",
+                                        "Subentries": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
+                                      {
+                                        "HS Code": "2106.90.99.90",
+                                        "Description": "Canned",
+                                        "Subentries": []
+                                      },
+                                      {
+                                        "HS Code": "",
+                                        "Description": "Other:",
+                                        "Subentries": [
+                                          {
+                                            "HS Code": "2106.90.99.95",
+                                            "Description": "Frozen",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "",
+                                            "Description": "Other:",
+                                            "Subentries": [
+                                              {
+                                                "HS Code": "2106.90.99.97",
+                                                "Description": "Containing sugar derived from sugar cane and/or sugar beets",
+                                                "Subentries": []
+                                              },
+                                              {
+                                                "HS Code": "2106.90.99.98",
+                                                "Description": "Other",
+                                                "Subentries": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
                               {
                                 "HS Code": "",
                                 "Description": "Blended syrups described in additional U.S. note 4 to chapter 17:",
@@ -382,96 +472,6 @@
                                     "HS Code": "2106.90.97.00",
                                     "Description": "Other",
                                     "Subentries": []
-                                  }
-                                ]
-                              },
-                              {
-                                "HS Code": "2106.90.99",
-                                "Description": "Other",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "",
-                                    "Description": "Preparations for the manufacture of beverages:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "2106.90.99.71",
-                                        "Description": "Containing high-intensity sweeteners (e.g., aspartame and/or saccharin",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "2106.90.99.72",
-                                        "Description": "Containing sugar derived from sugar cane and/or sugar beets",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "2106.90.99.73",
-                                        "Description": "Other",
-                                        "Subentries": []
-                                      }
-                                    ]
-                                  },
-                                  {
-                                    "HS Code": "2106.90.99.75",
-                                    "Description": "Non-dairy coffee whiteners",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "2106.90.99.80",
-                                    "Description": "Other cream or milk substitutes",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "2106.90.99.85",
-                                    "Description": "Confectionery (including gum) containing synthetic sweetening agents (e.g., saccharin) instead of sugar",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "2106.90.99.87",
-                                    "Description": "Herbal teas and herbal infusions comprising mixed herbs",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "2106.90.99.88",
-                                    "Description": "Flavored honey",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "",
-                                    "Description": "Other:",
-                                    "Subentries": [
-                                      {
-                                        "HS Code": "2106.90.99.90",
-                                        "Description": "Canned",
-                                        "Subentries": []
-                                      },
-                                      {
-                                        "HS Code": "",
-                                        "Description": "Other:",
-                                        "Subentries": [
-                                          {
-                                            "HS Code": "2106.90.99.95",
-                                            "Description": "Frozen",
-                                            "Subentries": []
-                                          },
-                                          {
-                                            "HS Code": "",
-                                            "Description": "Other:",
-                                            "Subentries": [
-                                              {
-                                                "HS Code": "2106.90.99.97",
-                                                "Description": "Containing sugar derived from sugar cane and/or sugar beets",
-                                                "Subentries": []
-                                              },
-                                              {
-                                                "HS Code": "2106.90.99.98",
-                                                "Description": "Other",
-                                                "Subentries": []
-                                              }
-                                            ]
-                                          }
-                                        ]
-                                      }
-                                    ]
                                   }
                                 ]
                               }

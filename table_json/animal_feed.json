@@ -1,0 +1,229 @@
+[
+  {
+    "HS Code": "23",
+    "Description": "Residues and waste from the food industries; prepared animal feed",
+    "Subentries": [
+      {
+        "HS Code": "2309",
+        "Description": "Preparations of a kind used in animal feeding:",
+        "Subentries": [
+          {
+            "HS Code": "2309.10.00",
+            "Description": "Dog or cat food, put up for retail sale",
+            "Subentries": [
+              {
+                "HS Code": "2309.10.00.10",
+                "Description": "In airtight containers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "2309.10.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "2309.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "2309.90.10",
+                "Description": "Mixed feeds or mixed feed ingredients",
+                "Subentries": [
+                  {
+                    "HS Code": "2309.90.10.05",
+                    "Description": "Bird seed",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2309.90.10.15",
+                    "Description": "Other pet food, put up for retail sale",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2309.90.10.20",
+                    "Description": "Poultry feeds, prepared",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2309.90.10.30",
+                    "Description": "Dairy cattle feed, prepared",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2309.90.10.32",
+                    "Description": "Other cattle feed, prepared",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2309.90.10.35",
+                    "Description": "Swine feed, prepared",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2309.90.10.45",
+                    "Description": "Other livestock feed, prepared",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "2309.90.10.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Animal feeds containing milk or milk derivatives:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Containing over 10 percent by weight of milk solids:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2309.90.22",
+                            "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                            "Subentries": [
+                              {
+                                "HS Code": "2309.90.22.10",
+                                "Description": "Milk replacer",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2309.90.22.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "2309.90.24",
+                            "Description": "Described in additional U.S. note 2 to this chapter and entered pursuant to its provisions",
+                            "Subentries": [
+                              {
+                                "HS Code": "2309.90.24.10",
+                                "Description": "Milk replacer",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2309.90.24.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "2309.90.28",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "2309.90.28.10",
+                                "Description": "Milk replacer",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2309.90.28.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2309.90.42",
+                            "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                            "Subentries": [
+                              {
+                                "HS Code": "2309.90.42.10",
+                                "Description": "Milk replacer",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2309.90.42.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "2309.90.44",
+                            "Description": "Described in additional U.S. note 2 to this chapter and entered pursuant to its provisions",
+                            "Subentries": [
+                              {
+                                "HS Code": "2309.90.44.10",
+                                "Description": "Milk replacer",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2309.90.44.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "2309.90.48",
+                            "Description": "Other",
+                            "Subentries": [
+                              {
+                                "HS Code": "2309.90.48.10",
+                                "Description": "Milk replacer",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "2309.90.48.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "2309.90.60.00",
+                        "Description": "Animal feeds containing egg",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "2309.90.70.00",
+                            "Description": "Preparations, with a basis of vitamin B12, for supplementing animal feed",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "2309.90.95.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

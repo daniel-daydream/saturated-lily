@@ -1,0 +1,123 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8419",
+        "Description": "Machinery, plant or laboratory equipment, whether or not electrically heated (excluding furnaces, ovens and other equipment of heading 8514), for the treatment of materials by a process involving a change of temperature such as heating, cooking, roasting, distilling, rectifying, sterilizing, pasteurizing, steaming, drying, evaporating, vaporizing, condensing or cooling, other than machinery or plant of a kind used for domestic purposes; instantaneous or storage water heaters, nonelectric; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other machinery, plant or equipment:",
+            "Subentries": [
+              {
+                "HS Code": "8419.81",
+                "Description": "For making hot drinks or for cooking or heating food:",
+                "Subentries": [
+                  {
+                    "HS Code": "8419.81.50",
+                    "Description": "Cooking stoves, ranges and ovens",
+                    "Subentries": [
+                      {
+                        "HS Code": "8419.81.50.40",
+                        "Description": "For use in civil aircraft",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8419.81.50.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "8419.81.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "8419.81.90.40",
+                        "Description": "Of a type used in restaurants, hotels or similar locations",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8419.81.90.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8419.89",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8419.89.10.00",
+                    "Description": "For making paper pulp, paper or paperboard",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8419.89.60.00",
+                        "Description": "Molten-salt-cooled acrylic acid reactors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8419.89.95",
+                        "Description": "Other",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Designed for cooling:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8419.89.95.20",
+                                "Description": "For food and beverages",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8419.89.95.40",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8419.89.95.60",
+                                "Description": "For food and beverages",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8419.89.95.80",
+                                "Description": "For rubber and plastics",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8419.89.95.85",
+                                "Description": "For other materials",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

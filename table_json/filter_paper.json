@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "48",
+    "Description": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+    "Subentries": [
+      {
+        "HS Code": "4823",
+        "Description": "Other paper, paperboard, cellulose wadding and webs of cellulose fibers, cut to size or shape; other articles of paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibers:",
+        "Subentries": [
+          {
+            "HS Code": "4823.20",
+            "Description": "Filter paper and paperboard:",
+            "Subentries": [
+              {
+                "HS Code": "4823.20.10.00",
+                "Description": "Paint filters and strainers",
+                "Subentries": []
+              },
+              {
+                "HS Code": "4823.20.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "HS Code": "08",
+    "Description": "Edible fruit and nuts; peel of citrus fruit or melons",
+    "Subentries": [
+      {
+        "HS Code": "0805",
+        "Description": "Citrus fruit, fresh or dried:",
+        "Subentries": [
+          {
+            "HS Code": "0805.10.00",
+            "Description": "Oranges",
+            "Subentries": [
+              {
+                "HS Code": "0805.10.00.20",
+                "Description": "Temple oranges",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "0805.10.00.50",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "0805.10.00.60",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

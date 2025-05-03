@@ -1,0 +1,62 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8413",
+        "Description": "Pumps for liquids, whether or not fitted with a measuring device; liquid elevators; part thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8413.60.00",
+            "Description": "Other rotary positive displacement pumps",
+            "Subentries": [
+              {
+                "HS Code": "",
+                "Description": "Hydraulic fluid power pumps:",
+                "Subentries": [
+                  {
+                    "HS Code": "8413.60.00.20",
+                    "Description": "Vane type",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8413.60.00.30",
+                    "Description": "Gear type",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8413.60.00.40",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8413.60.00.50",
+                    "Description": "Oil well and oil field pumps",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8413.60.00.70",
+                    "Description": "Roller pumps",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8413.60.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

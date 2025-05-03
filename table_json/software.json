@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8523",
+        "Description": "Discs, tapes, solid-state non-volatile storage devices, \"smart cards\" and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37:",
+        "Subentries": [
+          {
+            "HS Code": "8523.80",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "8523.80.10.00",
+                "Description": "Phonograph records",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8523.80.20.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

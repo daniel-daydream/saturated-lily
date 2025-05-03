@@ -1,0 +1,114 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8528",
+        "Description": "Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Projectors:",
+            "Subentries": [
+              {
+                "HS Code": "8528.62.00.00",
+                "Description": "Capable of directly connecting to and designed for use with an automatic data processing machine of heading 8471",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8528.69",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "8528.69.70.00",
+                    "Description": "Black and white or other monochrome",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Color:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8528.69.05.00",
+                            "Description": "Incorporating video recording or reproducing apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.69.10.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.69.15.00",
+                            "Description": "Incorporating video recording or reproducing apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.69.20.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.69.25.00",
+                            "Description": "Incorporating video recording or reproducing apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.69.30.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.69.55.00",
+                            "Description": "Incorporating video recording or reproducing apparatus",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8528.69.60.00",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Incorporating video recording or reproducing apparatus:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8528.69.35.00",
+                                "Description": "With a video display diagonal not exceeding 34.29 cm",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8528.69.40.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8528.69.45.00",
+                                "Description": "With a video display diagonal not exceeding 34.29 cm",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8528.69.50.00",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

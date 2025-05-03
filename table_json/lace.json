@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "58",
+    "Description": "Special woven fabrics; tufted textile fabrics; lace, tapestries; trimmings; embroidery",
+    "Subentries": [
+      {
+        "HS Code": "5804",
+        "Description": "Tulles and other net fabrics, not including woven, knitted or crocheted fabrics; lace in the piece, in strips or in motifs, other than fabrics of headings 6002 to 6006:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Mechanically made lace:",
+            "Subentries": [
+              {
+                "HS Code": "5804.21.00.00",
+                "Description": "Of man-made fibers (229)",
+                "Subentries": []
+              },
+              {
+                "HS Code": "5804.29",
+                "Description": "Of other textile materials:",
+                "Subentries": [
+                  {
+                    "HS Code": "5804.29.10.00",
+                    "Description": "Of cotton (229)",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "5804.29.90",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "5804.29.90.10",
+                        "Description": "Containing 85 percent or more by weight of silk or silk waste",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "5804.29.90.90",
+                        "Description": "Other (899)",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

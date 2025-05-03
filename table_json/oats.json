@@ -1,0 +1,35 @@
+[
+  {
+    "HS Code": "10",
+    "Description": "Cereals",
+    "Subentries": [
+      {
+        "HS Code": "1004",
+        "Description": "Oats:",
+        "Subentries": [
+          {
+            "HS Code": "1004.10.00.00",
+            "Description": "Seed",
+            "Subentries": []
+          },
+          {
+            "HS Code": "1004.90.00",
+            "Description": "Other",
+            "Subentries": [
+              {
+                "HS Code": "1004.90.00.10",
+                "Description": "Certified organic",
+                "Subentries": []
+              },
+              {
+                "HS Code": "1004.90.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

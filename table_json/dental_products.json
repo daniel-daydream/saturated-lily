@@ -1,0 +1,160 @@
+[
+  {
+    "HS Code": "33",
+    "Description": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+    "Subentries": [
+      {
+        "HS Code": "3306",
+        "Description": "Preparations for oral or dental hygiene, including denture fixative pastes and powders; yarn used to clean between the teeth (dental floss), in individual retail packages:",
+        "Subentries": [
+          {
+            "HS Code": "3306.10.00.00",
+            "Description": "Dentifrices",
+            "Subentries": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "HS Code": "90",
+    "Description": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+    "Subentries": [
+      {
+        "HS Code": "9018",
+        "Description": "Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9018.50.00.00",
+            "Description": "Other ophthalmic instruments and appliances and parts and accessories thereof",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other instruments and appliances, used in dental sciences, and parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "9018.41.00.00",
+                "Description": "Dental drill engines, whether or not combined on a single base with other dental equipment, and parts and accessories thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9018.49",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9018.49.40.00",
+                    "Description": "Dental burs",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9018.49.80",
+                    "Description": "Other",
+                    "Subentries": [
+                      {
+                        "HS Code": "9018.49.80.40",
+                        "Description": "Dental hand instruments and parts and accessories thereof",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9018.49.80.80",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "HS Code": "9021",
+        "Description": "Orthopedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability; parts and accessories thereof:",
+        "Subentries": [
+          {
+            "HS Code": "9021.40.00.00",
+            "Description": "Hearing aids, excluding parts and accessories thereof",
+            "Subentries": []
+          },
+          {
+            "HS Code": "9021.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9021.90.40",
+                "Description": "Parts and accessories for hearing aids and for pacemakers for stimulating heart muscles",
+                "Subentries": [
+                  {
+                    "HS Code": "9021.90.40.40",
+                    "Description": "For hearing aids",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9021.90.40.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9021.90.81.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Artificial teeth and dental fittings, and parts and accessories thereof:",
+            "Subentries": [
+              {
+                "HS Code": "9021.21",
+                "Description": "Artificial teeth and parts and accessories thereof:",
+                "Subentries": [
+                  {
+                    "HS Code": "9021.21.40.00",
+                    "Description": "Of plastics",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9021.21.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9021.29",
+                "Description": "Other:",
+                "Subentries": [
+                  {
+                    "HS Code": "9021.29.40.00",
+                    "Description": "Of plastics",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9021.29.80.00",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              },
+              {
+                "HS Code": "9021.31.00.00",
+                "Description": "Artificial joints and parts and accessories thereof",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9021.39.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

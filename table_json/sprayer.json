@@ -1,0 +1,57 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8424",
+        "Description": "Mechanical appliances (whether or not hand operated) for projecting, dispersing or spraying liquids or powders; fire extinguishers, whether or not charged; spray guns and similar appliances; steam or sand blasting machines and similar jet projecting machines; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other appliances:",
+            "Subentries": [
+              {
+                "HS Code": "8424.82.00",
+                "Description": "Agricultural or horticultural",
+                "Subentries": [
+                  {
+                    "HS Code": "8424.82.00.90",
+                    "Description": "Other",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Irrigation equipment:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8424.82.00.10",
+                        "Description": "Self-propelled, center pivot",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8424.82.00.20",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8424.89.10.00",
+                "Description": "Mechanical appliances for projecting, dispersing or spraying, of a kind used solely or principally for the manufacture of printed circuits or printed circuit assemblies",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8424.89.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

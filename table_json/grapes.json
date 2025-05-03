@@ -1,0 +1,174 @@
+[
+  {
+    "HS Code": "08",
+    "Description": "Edible fruit and nuts; peel of citrus fruit or melons",
+    "Subentries": [
+      {
+        "HS Code": "0806",
+        "Description": "Grapes, fresh or dried:",
+        "Subentries": [
+          {
+            "HS Code": "0806.10",
+            "Description": "Fresh:",
+            "Subentries": [
+              {
+                "HS Code": "0806.10.20",
+                "Description": "If entered during the period from February 15 to March 31, inclusive, in any year",
+                "Subentries": [
+                  {
+                    "HS Code": "0806.10.20.05",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0806.10.20.15",
+                        "Description": "Red varieties",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0806.10.20.25",
+                        "Description": "White varieties",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0806.10.20.35",
+                        "Description": "Black varieties",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0806.10.20.45",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0806.10.40",
+                "Description": "If entered during the period from April 1 to June 30, inclusive, in any year",
+                "Subentries": [
+                  {
+                    "HS Code": "0806.10.40.05",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0806.10.40.15",
+                        "Description": "Red varieties",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0806.10.40.25",
+                        "Description": "White varieties",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0806.10.40.35",
+                        "Description": "Black varieties",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0806.10.40.45",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "0806.10.60",
+                "Description": "If entered at any other time",
+                "Subentries": [
+                  {
+                    "HS Code": "0806.10.60.05",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0806.10.60.15",
+                        "Description": "Red varieties",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0806.10.60.25",
+                        "Description": "White varieties",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0806.10.60.35",
+                        "Description": "Black varieties",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0806.10.60.45",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "0806.20",
+            "Description": "Dried:",
+            "Subentries": [
+              {
+                "HS Code": "0806.20.90.00",
+                "Description": "Other dried grapes",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Raisins:",
+                "Subentries": [
+                  {
+                    "HS Code": "0806.20.10",
+                    "Description": "Made from seedless grapes",
+                    "Subentries": [
+                      {
+                        "HS Code": "0806.20.10.10",
+                        "Description": "Currants",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0806.20.10.20",
+                        "Description": "Sultanas",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0806.20.10.90",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "0806.20.20.00",
+                    "Description": "Other raisins",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

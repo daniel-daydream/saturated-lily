@@ -1,0 +1,30 @@
+[
+  {
+    "HS Code": "84",
+    "Description": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8424",
+        "Description": "Mechanical appliances (whether or not hand operated) for projecting, dispersing or spraying liquids or powders; fire extinguishers, whether or not charged; spray guns and similar appliances; steam or sand blasting machines and similar jet projecting machines; parts thereof:",
+        "Subentries": [
+          {
+            "HS Code": "8424.30",
+            "Description": "Steam or sand blasting machines and similar jet projecting machines:",
+            "Subentries": [
+              {
+                "HS Code": "8424.30.10.00",
+                "Description": "Sand blasting machines",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8424.30.90.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

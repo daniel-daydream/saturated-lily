@@ -1,0 +1,45 @@
+[
+  {
+    "HS Code": "88",
+    "Description": "Aircraft, spacecraft, and parts thereof",
+    "Subentries": [
+      {
+        "HS Code": "8806",
+        "Description": "Unmanned aircraft:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Other, for remote-controlled flight only:",
+            "Subentries": [
+              {
+                "HS Code": "8806.21.00.00",
+                "Description": "With maximum take-off weight not more than 250 g",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8806.22.00.00",
+                "Description": "With maximum take-off weight more than 250 g but not more than 7 kg",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8806.23.00.00",
+                "Description": "With maximum take-off weight more than 7 kg but not more than 25 kg",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8806.24.00.00",
+                "Description": "With maximum take-off weight more than 25 kg but not more than 150 kg",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8806.29.00.00",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

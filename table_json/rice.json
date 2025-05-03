@@ -37,6 +37,21 @@
                 "Description": "Other",
                 "Subentries": [
                   {
+                    "HS Code": "1006.20.40.40",
+                    "Description": "Medium grain",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1006.20.40.60",
+                    "Description": "Short grain",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "1006.20.40.80",
+                    "Description": "Mixtures of any of the above",
+                    "Subentries": []
+                  },
+                  {
                     "HS Code": "",
                     "Description": "Long grain:",
                     "Subentries": [
@@ -51,21 +66,6 @@
                         "Subentries": []
                       }
                     ]
-                  },
-                  {
-                    "HS Code": "1006.20.40.40",
-                    "Description": "Medium grain",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "1006.20.40.60",
-                    "Description": "Short grain",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "1006.20.40.80",
-                    "Description": "Mixtures of any of the above",
-                    "Subentries": []
                   }
                 ]
               }
@@ -105,6 +105,21 @@
                     "Description": "Other:",
                     "Subentries": [
                       {
+                        "HS Code": "1006.30.90.65",
+                        "Description": "Medium grain",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1006.30.90.75",
+                        "Description": "Short grain",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1006.30.90.85",
+                        "Description": "Mixtures of any of the above",
+                        "Subentries": []
+                      },
+                      {
                         "HS Code": "",
                         "Description": "Long grain:",
                         "Subentries": [
@@ -124,21 +139,6 @@
                             "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "1006.30.90.65",
-                        "Description": "Medium grain",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1006.30.90.75",
-                        "Description": "Short grain",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1006.30.90.85",
-                        "Description": "Mixtures of any of the above",
-                        "Subentries": []
                       }
                     ]
                   }

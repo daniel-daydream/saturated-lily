@@ -1,0 +1,117 @@
+[
+  {
+    "HS Code": "85",
+    "Description": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles",
+    "Subentries": [
+      {
+        "HS Code": "8536",
+        "Description": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp-holders and other connectors, junction boxes), for a voltage not exceeding 1,000 V; connectors for optical fibers, optical fiber bundles or cables:",
+        "Subentries": [
+          {
+            "HS Code": "",
+            "Description": "Relays:",
+            "Subentries": [
+              {
+                "HS Code": "8536.41.00",
+                "Description": "For a voltage not exceeding 60 V",
+                "Subentries": [
+                  {
+                    "HS Code": "8536.41.00.05",
+                    "Description": "Automotive signaling flashers",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8536.41.00.20",
+                            "Description": "Electromechanical",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8536.41.00.30",
+                            "Description": "Other",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8536.41.00.45",
+                            "Description": "Contactors",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "8536.41.00.50",
+                                "Description": "Electromechanical",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "8536.41.00.60",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "8536.49.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "8536.49.00.50",
+                        "Description": "Electromechanical",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.49.00.55",
+                        "Description": "Other",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "8536.49.00.65",
+                        "Description": "Contactors",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "8536.49.00.75",
+                            "Description": "Electromechanical",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "8536.49.00.80",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

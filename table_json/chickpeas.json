@@ -1,0 +1,52 @@
+[
+  {
+    "HS Code": "07",
+    "Description": "Edible vegetables and certain roots and tubers",
+    "Subentries": [
+      {
+        "HS Code": "0713",
+        "Description": "Dried leguminous vegetables, shelled, whether or not skinned or split:",
+        "Subentries": [
+          {
+            "HS Code": "0713.20",
+            "Description": "Chickpeas (garbanzos):",
+            "Subentries": [
+              {
+                "HS Code": "0713.20.10.00",
+                "Description": "Seeds of a kind used for sowing",
+                "Subentries": []
+              },
+              {
+                "HS Code": "0713.20.20",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "0713.20.20.15",
+                    "Description": "Certified organic",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "0713.20.20.25",
+                        "Description": "Kabuli chickpeas",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "0713.20.20.75",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

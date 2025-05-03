@@ -1,0 +1,121 @@
+[
+  {
+    "HS Code": "96",
+    "Description": "Miscellaneous manufactured articles",
+    "Subentries": [
+      {
+        "HS Code": "9603",
+        "Description": "Brooms, brushes (including brushes constituting parts of machines, appliances or vehicles), hand-operated mechanical floor sweepers, not motorized, mops and feather dusters; prepared knots and tufts for broom or brush making; paint pads and rollers; squeegees (other than roller squeegees):",
+        "Subentries": [
+          {
+            "HS Code": "9603.10",
+            "Description": "Brooms and brushes, consisting of twigs or other vegetable materials bound together, with or without handles:",
+            "Subentries": [
+              {
+                "HS Code": "9603.10.90.00",
+                "Description": "Other",
+                "Subentries": []
+              },
+              {
+                "HS Code": "",
+                "Description": "Whiskbrooms, wholly or in part of broom corn:",
+                "Subentries": [
+                  {
+                    "HS Code": "9603.10.35.00",
+                    "Description": "Valued over 96\u00a2 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Valued not over 96\u00a2 each:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9603.10.05.00",
+                        "Description": "In any calendar year prior to the entry, or withdrawal from warehouse for comsumption, of 61,655 dozen whiskbrooms classifiable under subheadings 9603.10.05 to 9603.10.35, inclusive",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9603.10.15.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "HS Code": "",
+                "Description": "Other brooms, wholly or in part of broom corn:",
+                "Subentries": [
+                  {
+                    "HS Code": "9603.10.60.00",
+                    "Description": "Valued over 96\u00a2 each",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Valued not over 96\u00a2 each:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9603.10.40.00",
+                        "Description": "In any calendar year prior to the entry, or withdrawal from warehouse for consumption, of 121,478 dozen brooms classifiable under subheadings 9603.10.40 to 9603.10.60, inclusive",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9603.10.50.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "HS Code": "9603.90",
+            "Description": "Other:",
+            "Subentries": [
+              {
+                "HS Code": "9603.90.40.00",
+                "Description": "Feather dusters",
+                "Subentries": []
+              },
+              {
+                "HS Code": "9603.90.80",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "9603.90.80.10",
+                    "Description": "Whiskbrooms",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9603.90.80.20",
+                    "Description": "Upright brooms",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9603.90.80.30",
+                    "Description": "Push brooms, 41 cm or less in width",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9603.90.80.40",
+                    "Description": "Other brooms",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "9603.90.80.50",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
