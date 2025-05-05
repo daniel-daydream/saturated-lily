@@ -78,7 +78,7 @@
                       },
                       {
                         "HS Code": "",
-                        "Description": "Other:",
+                        "Description": "Art and pictorial books:",
                         "Subentries": [
                           {
                             "HS Code": "4901.99.00.60",
@@ -89,7 +89,13 @@
                             "HS Code": "4901.99.00.65",
                             "Description": "Valued $5 or more each",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "4901.99.00.70",
                             "Description": "Hardbound books",

@@ -17,7 +17,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Arabica:",
                     "Subentries": [
                       {
                         "HS Code": "0901.11.00.15",
@@ -28,7 +28,13 @@
                         "HS Code": "0901.11.00.25",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "0901.11.00.45",
                         "Description": "Certified organic",
@@ -58,14 +64,20 @@
                     "Subentries": []
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Coffee, roasted:",
+            "Subentries": [
               {
                 "HS Code": "0901.21.00",
                 "Description": "Not decaffeinated",
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "In retail containers weighing 2 kg or less:",
                     "Subentries": [
                       {
                         "HS Code": "0901.21.00.35",
@@ -76,7 +88,13 @@
                         "HS Code": "0901.21.00.45",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "0901.21.00.55",
                         "Description": "Certified organic",

@@ -103,7 +103,7 @@
                             "Subentries": [
                               {
                                 "HS Code": "",
-                                "Description": "Of nylon:",
+                                "Description": "Of polyester:",
                                 "Subentries": [
                                   {
                                     "HS Code": "",
@@ -118,7 +118,24 @@
                                         "HS Code": "5806.32.10.30",
                                         "Description": "Other (229)",
                                         "Subentries": []
-                                      },
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "5806.32.10.40",
+                                    "Description": "Other (229)",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Of nylon:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "",
+                                    "Description": "With woven selvedge:",
+                                    "Subentries": [
                                       {
                                         "HS Code": "5806.32.10.50",
                                         "Description": "Containing wire in selvedge (229)",
@@ -130,11 +147,6 @@
                                         "Subentries": []
                                       }
                                     ]
-                                  },
-                                  {
-                                    "HS Code": "5806.32.10.40",
-                                    "Description": "Other (229)",
-                                    "Subentries": []
                                   },
                                   {
                                     "HS Code": "5806.32.10.70",

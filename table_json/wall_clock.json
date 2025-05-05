@@ -33,7 +33,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "With movement measuring not over 50 mm in width or diameter:",
                     "Subentries": [
                       {
                         "HS Code": "9105.29.10",
@@ -55,7 +55,13 @@
                             "Subentries": []
                           }
                         ]
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "9105.29.40.00",
                         "Description": "Valued not over $5 each",

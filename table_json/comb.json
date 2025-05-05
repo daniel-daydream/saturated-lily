@@ -17,7 +17,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Combs:",
                     "Subentries": [
                       {
                         "HS Code": "9615.11.10.00",
@@ -39,7 +39,13 @@
                             "Subentries": []
                           }
                         ]
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "9615.11.40.00",
                         "Description": "Not set with imitation pearls or imitation gemstones",

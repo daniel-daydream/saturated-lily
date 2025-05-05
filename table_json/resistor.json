@@ -17,7 +17,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Designed for surface mounting (SMD) by contact:",
                     "Subentries": [
                       {
                         "HS Code": "",
@@ -32,7 +32,13 @@
                             "HS Code": "8533.21.00.20",
                             "Description": "Other (including flat packs)",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Having two terminals:",
+                        "Subentries": [
                           {
                             "HS Code": "8533.21.00.30",
                             "Description": "Flat resistor chips",
@@ -44,7 +50,13 @@
                             "Subentries": []
                           }
                         ]
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Having more than two leads (resistor networks):",
+                    "Subentries": [
                       {
                         "HS Code": "8533.21.00.50",
                         "Description": "Single-in-line",
@@ -59,7 +71,13 @@
                         "HS Code": "8533.21.00.70",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "8533.21.00.80",
                         "Description": "Wirewound",

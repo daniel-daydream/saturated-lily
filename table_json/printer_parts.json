@@ -9,7 +9,7 @@
         "Subentries": [
           {
             "HS Code": "",
-            "Description": "Parts and accessories:",
+            "Description": "Other printers, copying machines and facsimile machines, whether or not combined:",
             "Subentries": [
               {
                 "HS Code": "8443.31.00.00",
@@ -142,7 +142,13 @@
                     "Subentries": []
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Parts and accessories:",
+            "Subentries": [
               {
                 "HS Code": "8443.91",
                 "Description": "Parts and accessories of printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442:",

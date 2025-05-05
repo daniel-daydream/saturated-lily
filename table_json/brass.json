@@ -17,7 +17,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Bars and rods:",
+                    "Description": "Profiles:",
                     "Subentries": [
                       {
                         "HS Code": "7407.21.15.00",
@@ -28,7 +28,13 @@
                         "HS Code": "7407.21.30.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Bars and rods:",
+                    "Subentries": [
                       {
                         "HS Code": "7407.21.50.00",
                         "Description": "Low fuming brazing rods",

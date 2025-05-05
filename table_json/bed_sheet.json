@@ -17,7 +17,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Containing any embroidery, lace, braid, edging, trimming, piping or applique work:",
                     "Subentries": [
                       {
                         "HS Code": "6302.21.30",
@@ -80,7 +80,13 @@
                             "Subentries": []
                           }
                         ]
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "6302.21.70",
                         "Description": "Napped",
@@ -157,7 +163,7 @@
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other:",
+                        "Description": "Pillowcases, other than bolster cases:",
                         "Subentries": [
                           {
                             "HS Code": "6302.22.10.10",
@@ -168,7 +174,13 @@
                             "HS Code": "6302.22.10.20",
                             "Description": "Not napped (666)",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Sheets:",
+                        "Subentries": [
                           {
                             "HS Code": "6302.22.10.30",
                             "Description": "Napped (666)",
@@ -178,7 +190,13 @@
                             "HS Code": "6302.22.10.40",
                             "Description": "Not napped (666)",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "6302.22.10.50",
                             "Description": "Bolster cases (666)",

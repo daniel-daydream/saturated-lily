@@ -17,11 +17,11 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Having no jewels or only one jewel in the movement:",
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other:",
+                        "Description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated",
                         "Subentries": [
                           {
                             "HS Code": "9102.11.10",
@@ -32,7 +32,13 @@
                             "HS Code": "9102.11.25",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "9102.11.30",
                             "Description": "With gold- or silver-plated case",
@@ -42,7 +48,19 @@
                             "HS Code": "9102.11.45",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "With strap, band or bracelet of textile material or of base metal, whether or not gold- or silver-plated",
+                        "Subentries": [
                           {
                             "HS Code": "9102.11.50",
                             "Description": "With gold- or silver-plated case",
@@ -52,7 +70,13 @@
                             "HS Code": "9102.11.65",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "9102.11.70",
                             "Description": "With gold- or silver-plated case",
@@ -102,7 +126,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Having no jewels or only one jewel in the movement:",
                     "Subentries": [
                       {
                         "HS Code": "9102.19.20",
@@ -113,7 +137,13 @@
                         "HS Code": "9102.19.40",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "9102.19.60",
                         "Description": "With strap, band or bracelet of textile material or of base metal, whether or not gold-or silver-plated",

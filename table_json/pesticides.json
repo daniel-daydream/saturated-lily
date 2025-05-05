@@ -60,7 +60,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Containing any aromatic or modified aromatic fungicide:",
                     "Subentries": [
                       {
                         "HS Code": "3808.92.05.00",
@@ -71,10 +71,16 @@
                         "HS Code": "3808.92.15.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other:",
+                        "Description": "Containing any fungicide which is a thioamide, thiocarbamate, dithiocarbamate, thiuram or isothiocyanate:",
                         "Subentries": [
                           {
                             "HS Code": "3808.92.24.00",
@@ -85,7 +91,13 @@
                             "HS Code": "3808.92.28.00",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "3808.92.30.00",
                             "Description": "Containing an inorganic substance",
@@ -119,7 +131,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Containing any aromatic or modified aromatic herbicide, anti-sprouting agent or plant-growth regulator:",
                     "Subentries": [
                       {
                         "HS Code": "3808.93.05.00",
@@ -130,7 +142,13 @@
                         "HS Code": "3808.93.15.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "3808.93.20.00",
                         "Description": "Containing an inorganic substance",
@@ -204,7 +222,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Containing any aromatic or modified aromatic pesticide:",
                     "Subentries": [
                       {
                         "HS Code": "3808.99.04.00",
@@ -215,7 +233,13 @@
                         "HS Code": "3808.99.08.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "3808.99.30.00",
                         "Description": "Formulated biocides based on 2-methyl-4-isothiazolin-3-one, or 2-n-octyl-4-isothiazolin-3-one, or 4,5-dichloro-2-n-octyl-4-isothiazolin-3-one, or mixtures of 5-chloro-2-methyl-4- isothiazolin-3-one and 2-methyl-4- isothiazolin-3-one; and Metaldehyde",

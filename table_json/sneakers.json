@@ -42,7 +42,7 @@
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Valued over $6.50 but not over $12/pair:",
+                        "Description": "Valued not over $3/pair:",
                         "Subentries": [
                           {
                             "HS Code": "",
@@ -73,7 +73,13 @@
                                 "HS Code": "6404.11.49.00",
                                 "Description": "Other",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "6404.11.51",
                                 "Description": "With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
@@ -99,7 +105,19 @@
                                 "HS Code": "6404.11.59.00",
                                 "Description": "Other",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Valued over $3 but not over $6.50/pair:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Having soles (or mid-soles, if any) of rubber or plastics which are affixed to the upper exclusively with an adhesive (any mid-soles also being affixed exclusively to one another and to the sole with an adhesive); the foregoing except footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear with soles which overlap the upper other than at the toe or heel:",
+                            "Subentries": [
                               {
                                 "HS Code": "6404.11.61",
                                 "Description": "With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
@@ -141,7 +159,13 @@
                                     "Subentries": []
                                   }
                                 ]
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "6404.11.71",
                                 "Description": "With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
@@ -206,7 +230,13 @@
                                 ]
                               }
                             ]
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Valued over $6.50 but not over $12/pair:",
+                        "Subentries": [
                           {
                             "HS Code": "6404.11.81",
                             "Description": "With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
@@ -278,7 +308,7 @@
                         "Subentries": [
                           {
                             "HS Code": "",
-                            "Description": "Other:",
+                            "Description": "For men:",
                             "Subentries": [
                               {
                                 "HS Code": "6404.11.90.10",
@@ -289,7 +319,13 @@
                                 "HS Code": "6404.11.90.20",
                                 "Description": "Other",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "For women:",
+                            "Subentries": [
                               {
                                 "HS Code": "6404.11.90.40",
                                 "Description": "Ski boots, cross country ski footwear and snowboard boots",
@@ -299,7 +335,13 @@
                                 "HS Code": "6404.11.90.50",
                                 "Description": "Other",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "6404.11.90.70",
                                 "Description": "Ski boots, cross country ski footwear and snowboard boots",
@@ -366,11 +408,11 @@
                   },
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Footwear with open toes or open heels; footwear of the slip-on type, that is held to the foot without the use of laces or buckles or other fasteners, the foregoing except footwear of subheading 6404.19.20 and except footwear having a foxing or foxing-like band wholly or almost wholly of rubber or plastics applied or molded at the sole and overlapping the upper:",
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Valued over $6.50 but not over $12/pair:",
+                        "Description": "Less than 10 percent by weight of rubber or plastics:",
                         "Subentries": [
                           {
                             "HS Code": "6404.19.25",
@@ -457,7 +499,13 @@
                                 ]
                               }
                             ]
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "6404.19.36",
                             "Description": "With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
@@ -542,7 +590,19 @@
                                 ]
                               }
                             ]
-                          },
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Valued not over $3/pair:",
+                        "Subentries": [
                           {
                             "HS Code": "",
                             "Description": "Having soles (or mid-soles, if any) of rubber or plastics which are affixed to the upper exclusively with an adhesive (any mid-soles also being affixed exclusively to one another and to the sole with an adhesive); the foregoing except footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear with soles which overlap the upper other than at the toe or heel:",
@@ -620,7 +680,13 @@
                                     "Subentries": []
                                   }
                                 ]
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "6404.19.52",
                                 "Description": "With uppers of vegetable fibers and having outer soles with textile textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
@@ -705,7 +771,19 @@
                                     ]
                                   }
                                 ]
-                              },
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Valued over $3 but not over $6.50/pair:",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "Having soles (or mid-soles, if any) of rubber or plastics which are affixed to the upper exclusively with an adhesive (any mid-soles also being affixed exclusively to one another and to the sole with an adhesive); the foregoing except footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear with soles which overlap the upper other than at the toe or heel:",
+                            "Subentries": [
                               {
                                 "HS Code": "6404.19.61",
                                 "Description": "With uppers of textile material other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
@@ -758,7 +836,13 @@
                                     "Subentries": []
                                   }
                                 ]
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "6404.19.72",
                                 "Description": "With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
@@ -845,7 +929,13 @@
                                 ]
                               }
                             ]
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Valued over $6.50 but not over $12/pair:",
+                        "Subentries": [
                           {
                             "HS Code": "6404.19.82",
                             "Description": "Wither uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",

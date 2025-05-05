@@ -130,7 +130,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Harness and saddlery or riding-bridle hardware, and parts thereof:",
                     "Subentries": [
                       {
                         "HS Code": "8302.49.20.00",
@@ -141,7 +141,13 @@
                         "HS Code": "8302.49.40.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "8302.49.60",
                         "Description": "Of iron or steel, of aluminum or of zinc",

@@ -22,7 +22,7 @@
                   },
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Riding mowers, other than electric:",
                     "Subentries": [
                       {
                         "HS Code": "8433.11.00.20",
@@ -38,7 +38,13 @@
                         "HS Code": "8433.11.00.40",
                         "Description": "7.46 kW and over",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "8433.11.00.50",
                         "Description": "Under 3.7 kW",

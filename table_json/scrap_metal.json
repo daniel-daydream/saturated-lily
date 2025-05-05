@@ -25,7 +25,18 @@
                 "HS Code": "7204.29.00.00",
                 "Description": "Other",
                 "Subentries": []
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "7204.30.00.00",
+            "Description": "Waste and scrap of tinned iron or steel",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other waste and scrap:",
+            "Subentries": [
               {
                 "HS Code": "7204.41.00",
                 "Description": "Turnings, shavings, chips, milling waste, sawdust, filings, trimmings and stampings, whether or not in bundles",
@@ -90,11 +101,6 @@
                 ]
               }
             ]
-          },
-          {
-            "HS Code": "7204.30.00.00",
-            "Description": "Waste and scrap of tinned iron or steel",
-            "Subentries": []
           },
           {
             "HS Code": "7204.50.00.00",

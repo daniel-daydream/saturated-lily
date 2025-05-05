@@ -17,7 +17,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Incorporating a protective metal toe-cap:",
                     "Subentries": [
                       {
                         "HS Code": "6402.91.05.00",
@@ -56,7 +56,137 @@
                                 "HS Code": "6402.91.30.00",
                                 "Description": "Valued over $12/pair",
                                 "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "6402.91.40",
+                        "Description": "Having uppers of which over 90 percent of the external surface area (including any accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is rubber or plastics except (1) footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and (2) except footwear (other than footwear having uppers which from a point 3 cm above the top of the outer sole are entirely of non- molded construction formed by sewing the parts together and having exposed on the outer surface a substantial portion of functional stitching) designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather",
+                        "Subentries": [
+                          {
+                            "HS Code": "",
+                            "Description": "For men:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6402.91.40.05",
+                                "Description": "Work footwear",
+                                "Subentries": []
                               },
+                              {
+                                "HS Code": "6402.91.40.10",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "For women:",
+                            "Subentries": [
+                              {
+                                "HS Code": "6402.91.40.40",
+                                "Description": "Work footwear",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6402.91.40.50",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6402.91.40.63",
+                            "Description": "For infants, as described in statistical note 2 to this chapter",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6402.91.40.67",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6402.91.42",
+                        "Description": "Protective active footwear (except footwear with waterproof molded bottoms, including bottoms comprising an outer sole and all or part of the upper and except footwear with insulation that provides protection against cold weather) whose height from the bottom of the outer sole to the top of the upper does not exceed 15.34 cm",
+                        "Subentries": [
+                          {
+                            "HS Code": "6402.91.42.30",
+                            "Description": "For men",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6402.91.42.60",
+                            "Description": "For women",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "6402.91.42.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6402.91.50",
+                            "Description": "Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "For men:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6402.91.50.10",
+                                    "Description": "Work footwear",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6402.91.50.20",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "For women:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6402.91.50.45",
+                                    "Description": "Work footwear",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6402.91.50.50",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "6402.91.50.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "6402.91.60",
                                 "Description": "Valued not over $3/pair",
@@ -114,7 +244,7 @@
                                     "Subentries": [
                                       {
                                         "HS Code": "",
-                                        "Description": "For women:",
+                                        "Description": "For men:",
                                         "Subentries": [
                                           {
                                             "HS Code": "6402.91.80.10",
@@ -125,7 +255,13 @@
                                             "HS Code": "6402.91.80.21",
                                             "Description": "Other",
                                             "Subentries": []
-                                          },
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "HS Code": "",
+                                        "Description": "For women:",
+                                        "Subentries": [
                                           {
                                             "HS Code": "6402.91.80.45",
                                             "Description": "Work footwear",
@@ -162,7 +298,7 @@
                                     "Subentries": [
                                       {
                                         "HS Code": "",
-                                        "Description": "For women:",
+                                        "Description": "For men:",
                                         "Subentries": [
                                           {
                                             "HS Code": "6402.91.90.10",
@@ -173,7 +309,13 @@
                                             "HS Code": "6402.91.90.35",
                                             "Description": "Other",
                                             "Subentries": []
-                                          },
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "HS Code": "",
+                                        "Description": "For women:",
+                                        "Subentries": [
                                           {
                                             "HS Code": "6402.91.90.45",
                                             "Description": "Work footwear",
@@ -196,106 +338,6 @@
                                 ]
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "6402.91.50",
-                            "Description": "Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather",
-                            "Subentries": [
-                              {
-                                "HS Code": "",
-                                "Description": "For women:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6402.91.50.10",
-                                    "Description": "Work footwear",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6402.91.50.20",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6402.91.50.45",
-                                    "Description": "Work footwear",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6402.91.50.50",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  }
-                                ]
-                              },
-                              {
-                                "HS Code": "6402.91.50.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "6402.91.40",
-                        "Description": "Having uppers of which over 90 percent of the external surface area (including any accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is rubber or plastics except (1) footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and (2) except footwear (other than footwear having uppers which from a point 3 cm above the top of the outer sole are entirely of non- molded construction formed by sewing the parts together and having exposed on the outer surface a substantial portion of functional stitching) designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather",
-                        "Subentries": [
-                          {
-                            "HS Code": "",
-                            "Description": "For women:",
-                            "Subentries": [
-                              {
-                                "HS Code": "6402.91.40.05",
-                                "Description": "Work footwear",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.91.40.10",
-                                "Description": "Other",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.91.40.40",
-                                "Description": "Work footwear",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.91.40.50",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "6402.91.40.63",
-                            "Description": "For infants, as described in statistical note 2 to this chapter",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6402.91.40.67",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "6402.91.42",
-                        "Description": "Protective active footwear (except footwear with waterproof molded bottoms, including bottoms comprising an outer sole and all or part of the upper and except footwear with insulation that provides protection against cold weather) whose height from the bottom of the outer sole to the top of the upper does not exceed 15.34 cm",
-                        "Subentries": [
-                          {
-                            "HS Code": "6402.91.42.30",
-                            "Description": "For men",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6402.91.42.60",
-                            "Description": "For women",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "6402.91.42.90",
-                            "Description": "Other",
-                            "Subentries": []
                           }
                         ]
                       }
@@ -309,7 +351,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Incorporating a protective metal toe-cap:",
                     "Subentries": [
                       {
                         "HS Code": "6402.99.04.00",
@@ -348,7 +390,67 @@
                                 "HS Code": "6402.99.21.00",
                                 "Description": "Valued over $12/pair",
                                 "Subentries": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Having uppers of which over 90 percent of the external surface area (including any accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is rubber or plastics (except footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather):",
+                        "Subentries": [
+                          {
+                            "HS Code": "6402.99.23",
+                            "Description": "Made on a base or platform of wood",
+                            "Subentries": [
+                              {
+                                "HS Code": "6402.99.23.30",
+                                "Description": "For men",
+                                "Subentries": []
                               },
+                              {
+                                "HS Code": "6402.99.23.60",
+                                "Description": "For women",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6402.99.23.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6402.99.25",
+                            "Description": "Made on a base or platform of cork",
+                            "Subentries": [
+                              {
+                                "HS Code": "6402.99.25.30",
+                                "Description": "For men",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6402.99.25.60",
+                                "Description": "For women",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6402.99.25.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "6402.99.27",
                                 "Description": "Sandals and similar footwear of plastics, produced in one piece by molding",
@@ -433,7 +535,83 @@
                                     ]
                                   }
                                 ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
+                          {
+                            "HS Code": "6402.99.32",
+                            "Description": "Protective active footwear",
+                            "Subentries": [
+                              {
+                                "HS Code": "6402.99.32.30",
+                                "Description": "For men",
+                                "Subentries": []
                               },
+                              {
+                                "HS Code": "6402.99.32.60",
+                                "Description": "For women",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "6402.99.32.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "6402.99.33",
+                            "Description": "Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "For men:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6402.99.33.10",
+                                    "Description": "Work footwear",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6402.99.33.20",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "For women:",
+                                "Subentries": [
+                                  {
+                                    "HS Code": "6402.99.33.45",
+                                    "Description": "Work footwear",
+                                    "Subentries": []
+                                  },
+                                  {
+                                    "HS Code": "6402.99.33.50",
+                                    "Description": "Other",
+                                    "Subentries": []
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "6402.99.33.90",
+                                "Description": "Other",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Footwear with open toes or open heels; footwear of the slip-on type, that is held to the foot without the use of laces or buckles or other fasteners, the foregoing except footwear of subheading 6402.99.33 and except footwear having a foxing or a foxing-like band wholly or almost wholly of rubber or plastics applied or molded at the sole and overlapping the upper:",
+                            "Subentries": [
                               {
                                 "HS Code": "6402.99.41.00",
                                 "Description": "Having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
@@ -470,10 +648,16 @@
                                     ]
                                   }
                                 ]
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "",
-                                "Description": "Valued over $3 but not over $6.50/pair:",
+                                "Description": "Valued not over $3/pair:",
                                 "Subentries": [
                                   {
                                     "HS Code": "6402.99.61.00",
@@ -511,7 +695,13 @@
                                         ]
                                       }
                                     ]
-                                  },
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Valued over $3 but not over $6.50/pair:",
+                                "Subentries": [
                                   {
                                     "HS Code": "6402.99.71.00",
                                     "Description": "Having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
@@ -616,106 +806,6 @@
                                 ]
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "6402.99.23",
-                            "Description": "Made on a base or platform of wood",
-                            "Subentries": [
-                              {
-                                "HS Code": "6402.99.23.30",
-                                "Description": "For men",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.99.23.60",
-                                "Description": "For women",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.99.23.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "6402.99.25",
-                            "Description": "Made on a base or platform of cork",
-                            "Subentries": [
-                              {
-                                "HS Code": "6402.99.25.30",
-                                "Description": "For men",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.99.25.60",
-                                "Description": "For women",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.99.25.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "6402.99.32",
-                            "Description": "Protective active footwear",
-                            "Subentries": [
-                              {
-                                "HS Code": "6402.99.32.30",
-                                "Description": "For men",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.99.32.60",
-                                "Description": "For women",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "6402.99.32.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
-                          },
-                          {
-                            "HS Code": "6402.99.33",
-                            "Description": "Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather",
-                            "Subentries": [
-                              {
-                                "HS Code": "",
-                                "Description": "For women:",
-                                "Subentries": [
-                                  {
-                                    "HS Code": "6402.99.33.10",
-                                    "Description": "Work footwear",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6402.99.33.20",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6402.99.33.45",
-                                    "Description": "Work footwear",
-                                    "Subentries": []
-                                  },
-                                  {
-                                    "HS Code": "6402.99.33.50",
-                                    "Description": "Other",
-                                    "Subentries": []
-                                  }
-                                ]
-                              },
-                              {
-                                "HS Code": "6402.99.33.90",
-                                "Description": "Other",
-                                "Subentries": []
-                              }
-                            ]
                           }
                         ]
                       }
@@ -733,7 +823,7 @@
         "Subentries": [
           {
             "HS Code": "",
-            "Description": "Other footwear:",
+            "Description": "Other footwear with outer soles of leather:",
             "Subentries": [
               {
                 "HS Code": "6403.51",
@@ -973,7 +1063,13 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other footwear:",
+            "Subentries": [
               {
                 "HS Code": "6403.91",
                 "Description": "Covering the ankle:",

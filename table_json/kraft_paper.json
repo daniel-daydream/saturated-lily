@@ -20,7 +20,13 @@
                 "HS Code": "4804.19.00.00",
                 "Description": "Other",
                 "Subentries": []
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Sack kraft paper:",
+            "Subentries": [
               {
                 "HS Code": "4804.21.00.00",
                 "Description": "Unbleached",
@@ -30,7 +36,13 @@
                 "HS Code": "4804.29.00.00",
                 "Description": "Other",
                 "Subentries": []
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other kraft paper and paperboard weighing 150 g/m\u00b2 or less:",
+            "Subentries": [
               {
                 "HS Code": "4804.31",
                 "Description": "Unbleached:",

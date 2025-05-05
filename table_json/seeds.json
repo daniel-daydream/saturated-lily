@@ -163,7 +163,7 @@
                       },
                       {
                         "HS Code": "",
-                        "Description": "Wheatgrass:",
+                        "Description": "Bermuda grass for sowing:",
                         "Subentries": [
                           {
                             "HS Code": "1209.29.91.25",
@@ -174,7 +174,18 @@
                             "HS Code": "1209.29.91.26",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "1209.29.91.30",
+                        "Description": "Birdsfoot trefoil",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Bromegrass:",
+                        "Subentries": [
                           {
                             "HS Code": "1209.29.91.36",
                             "Description": "Meadow",
@@ -189,7 +200,23 @@
                             "HS Code": "1209.29.91.38",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "1209.29.91.40",
+                        "Description": "Orchard grass",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "1209.29.91.60",
+                        "Description": "Sudan grass",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Wheatgrass:",
+                        "Subentries": [
                           {
                             "HS Code": "1209.29.91.71",
                             "Description": "Crested",
@@ -201,21 +228,6 @@
                             "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "1209.29.91.30",
-                        "Description": "Birdsfoot trefoil",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1209.29.91.40",
-                        "Description": "Orchard grass",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1209.29.91.60",
-                        "Description": "Sudan grass",
-                        "Subentries": []
                       },
                       {
                         "HS Code": "1209.29.91.76",
@@ -235,7 +247,29 @@
                     ]
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "HS Code": "1209.30.00",
+            "Description": "Seeds of herbaceous plants cultivated principally for their flowers",
+            "Subentries": [
+              {
+                "HS Code": "1209.30.00.10",
+                "Description": "Petunia",
+                "Subentries": []
               },
+              {
+                "HS Code": "1209.30.00.90",
+                "Description": "Other",
+                "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
               {
                 "HS Code": "1209.91",
                 "Description": "Vegetable seeds:",
@@ -396,22 +430,6 @@
                     ]
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "HS Code": "1209.30.00",
-            "Description": "Seeds of herbaceous plants cultivated principally for their flowers",
-            "Subentries": [
-              {
-                "HS Code": "1209.30.00.10",
-                "Description": "Petunia",
-                "Subentries": []
-              },
-              {
-                "HS Code": "1209.30.00.90",
-                "Description": "Other",
-                "Subentries": []
               }
             ]
           }

@@ -129,7 +129,7 @@
                         "Subentries": [
                           {
                             "HS Code": "",
-                            "Description": "Other:",
+                            "Description": "Work footwear:",
                             "Subentries": [
                               {
                                 "HS Code": "6403.91.30.10",
@@ -140,7 +140,13 @@
                                 "HS Code": "6403.91.30.25",
                                 "Description": "Other",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "",
                                 "Description": "For men:",
@@ -190,7 +196,7 @@
                                 "Subentries": [
                                   {
                                     "HS Code": "",
-                                    "Description": "Other:",
+                                    "Description": "Tennis shoes, basketball shoes, gym shoes, training shoes and the like, for men:",
                                     "Subentries": [
                                       {
                                         "HS Code": "6403.91.60.30",
@@ -201,7 +207,13 @@
                                         "HS Code": "6403.91.60.40",
                                         "Description": "Other",
                                         "Subentries": []
-                                      },
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other tennis shoes, basketball shoes, gym shoes, training shoes and the like:",
+                                    "Subentries": [
                                       {
                                         "HS Code": "6403.91.60.50",
                                         "Description": "With pigskin uppers",
@@ -211,7 +223,13 @@
                                         "HS Code": "6403.91.60.60",
                                         "Description": "Other",
                                         "Subentries": []
-                                      },
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
                                       {
                                         "HS Code": "",
                                         "Description": "For men:",
@@ -327,7 +345,7 @@
                             "Subentries": [
                               {
                                 "HS Code": "",
-                                "Description": "Other:",
+                                "Description": "Work footwear:",
                                 "Subentries": [
                                   {
                                     "HS Code": "6403.99.40.10",
@@ -338,7 +356,13 @@
                                     "HS Code": "6403.99.40.20",
                                     "Description": "Other",
                                     "Subentries": []
-                                  },
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
                                   {
                                     "HS Code": "",
                                     "Description": "For men:",
@@ -393,7 +417,7 @@
                                     "Subentries": [
                                       {
                                         "HS Code": "",
-                                        "Description": "Other:",
+                                        "Description": "Tennis shoes, basketball shoes, gym shoes, training shoes and the like, for men:",
                                         "Subentries": [
                                           {
                                             "HS Code": "6403.99.60.30",
@@ -404,7 +428,13 @@
                                             "HS Code": "6403.99.60.40",
                                             "Description": "Other",
                                             "Subentries": []
-                                          },
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "HS Code": "",
+                                        "Description": "Other tennis shoes, basketball shoes, gym shoes, training shoes and the like:",
+                                        "Subentries": [
                                           {
                                             "HS Code": "6403.99.60.50",
                                             "Description": "With pigskin uppers",
@@ -414,7 +444,13 @@
                                             "HS Code": "6403.99.60.60",
                                             "Description": "Other",
                                             "Subentries": []
-                                          },
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "HS Code": "",
+                                        "Description": "Other:",
+                                        "Subentries": [
                                           {
                                             "HS Code": "",
                                             "Description": "For men:",
@@ -504,7 +540,7 @@
                                         "Subentries": [
                                           {
                                             "HS Code": "",
-                                            "Description": "Other:",
+                                            "Description": "Tennis shoes, basketball shoes, and the like, for women:",
                                             "Subentries": [
                                               {
                                                 "HS Code": "6403.99.90.21",
@@ -515,7 +551,18 @@
                                                 "HS Code": "6403.99.90.31",
                                                 "Description": "Other",
                                                 "Subentries": []
-                                              },
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "HS Code": "6403.99.90.41",
+                                            "Description": "Other tennis shoes, basketball shoes, and the like",
+                                            "Subentries": []
+                                          },
+                                          {
+                                            "HS Code": "",
+                                            "Description": "Other:",
+                                            "Subentries": [
                                               {
                                                 "HS Code": "",
                                                 "Description": "For women:",
@@ -538,11 +585,6 @@
                                                 "Subentries": []
                                               }
                                             ]
-                                          },
-                                          {
-                                            "HS Code": "6403.99.90.41",
-                                            "Description": "Other tennis shoes, basketball shoes, and the like",
-                                            "Subentries": []
                                           }
                                         ]
                                       }

@@ -53,7 +53,7 @@
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other:",
+                        "Description": "Wholly or in part of braid:",
                         "Subentries": [
                           {
                             "HS Code": "4202.22.35.00",
@@ -91,10 +91,16 @@
                                 ]
                               }
                             ]
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "",
-                            "Description": "Other:",
+                            "Description": "Of vegetable fibers and not of pile or tufted construction:",
                             "Subentries": [
                               {
                                 "HS Code": "4202.22.45.00",
@@ -105,7 +111,13 @@
                                 "HS Code": "4202.22.60.00",
                                 "Description": "Other (871)",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "4202.22.70.00",
                                 "Description": "Containing 85 percent or more by weight of silk or silk waste",

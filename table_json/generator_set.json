@@ -36,27 +36,6 @@
                     "Subentries": []
                   }
                 ]
-              },
-              {
-                "HS Code": "8502.31.00.00",
-                "Description": "Wind-powered",
-                "Subentries": []
-              },
-              {
-                "HS Code": "8502.39.00",
-                "Description": "Other",
-                "Subentries": [
-                  {
-                    "HS Code": "8502.39.00.40",
-                    "Description": "Powered by steam turbine",
-                    "Subentries": []
-                  },
-                  {
-                    "HS Code": "8502.39.00.80",
-                    "Description": "Other",
-                    "Subentries": []
-                  }
-                ]
               }
             ]
           },
@@ -83,6 +62,33 @@
                 "HS Code": "8502.20.00.85",
                 "Description": "Of an output exceeding 75 kVA",
                 "Subentries": []
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other generating sets:",
+            "Subentries": [
+              {
+                "HS Code": "8502.31.00.00",
+                "Description": "Wind-powered",
+                "Subentries": []
+              },
+              {
+                "HS Code": "8502.39.00",
+                "Description": "Other",
+                "Subentries": [
+                  {
+                    "HS Code": "8502.39.00.40",
+                    "Description": "Powered by steam turbine",
+                    "Subentries": []
+                  },
+                  {
+                    "HS Code": "8502.39.00.80",
+                    "Description": "Other",
+                    "Subentries": []
+                  }
+                ]
               }
             ]
           }

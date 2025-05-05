@@ -33,7 +33,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Reclosable, with integral extruded closure:",
                     "Subentries": [
                       {
                         "HS Code": "3923.21.00.11",
@@ -49,7 +49,13 @@
                         "HS Code": "3923.21.00.30",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "3923.21.00.80",
                         "Description": "With no single side exceeding 75 mm in length",

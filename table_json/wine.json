@@ -26,7 +26,7 @@
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Of an alcoholic strength by volume over 14 percent vol.:",
+                        "Description": "Of an alcoholic strength by volume not over 14 percent vol.:",
                         "Subentries": [
                           {
                             "HS Code": "2204.21.30.00",
@@ -113,7 +113,13 @@
                                 ]
                               }
                             ]
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Of an alcoholic strength by volume over 14 percent vol.:",
+                        "Subentries": [
                           {
                             "HS Code": "2204.21.60.00",
                             "Description": "If entitled under regulations of the United States Internal Revenue Service to a type designation which includes the name \"Marsala\" and if so designated on the approved label",
@@ -147,7 +153,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "In containers holding over 4 liters but not over 10 liters:",
+                    "Description": "In containers holding more than 2 liters but not more than 4 liters:",
                     "Subentries": [
                       {
                         "HS Code": "2204.22.20",
@@ -201,7 +207,13 @@
                         "HS Code": "2204.22.40.00",
                         "Description": "Of an alcoholic strength by volume over 14 percent vol",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "In containers holding over 4 liters but not over 10 liters:",
+                    "Subentries": [
                       {
                         "HS Code": "2204.22.60.00",
                         "Description": "Of an alcoholic strength by volume not over 14 percent vol.",

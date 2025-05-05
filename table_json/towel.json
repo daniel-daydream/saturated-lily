@@ -44,7 +44,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Of pile or tufted construction:",
                     "Subentries": [
                       {
                         "HS Code": "",
@@ -59,7 +59,24 @@
                             "HS Code": "6302.91.00.15",
                             "Description": "Other (363)",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "6302.91.00.25",
+                        "Description": "Other (369)",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "",
+                        "Description": "Towels:",
+                        "Subentries": [
                           {
                             "HS Code": "6302.91.00.35",
                             "Description": "Jacquard figured (363)",
@@ -82,11 +99,6 @@
                             ]
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "6302.91.00.25",
-                        "Description": "Other (369)",
-                        "Subentries": []
                       },
                       {
                         "HS Code": "6302.91.00.60",

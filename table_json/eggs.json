@@ -20,7 +20,13 @@
                 "HS Code": "0407.19.00.00",
                 "Description": "Other",
                 "Subentries": []
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other fresh eggs:",
+            "Subentries": [
               {
                 "HS Code": "0407.21.00",
                 "Description": "Of fowls of the species Gallus domesticus",
@@ -63,7 +69,13 @@
                 "HS Code": "0408.19.00.00",
                 "Description": "Other",
                 "Subentries": []
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
               {
                 "HS Code": "0408.91.00.00",
                 "Description": "Dried",

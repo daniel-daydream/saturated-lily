@@ -25,7 +25,13 @@
                 "HS Code": "9401.59.00.00",
                 "Description": "Other",
                 "Subentries": []
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other seats, with wooden frames:",
+            "Subentries": [
               {
                 "HS Code": "9401.61",
                 "Description": "Upholstered:",
@@ -40,7 +46,7 @@
                         "Subentries": [
                           {
                             "HS Code": "",
-                            "Description": "Other:",
+                            "Description": "Household:",
                             "Subentries": [
                               {
                                 "HS Code": "9401.61.20.11",
@@ -51,7 +57,13 @@
                                 "HS Code": "9401.61.20.15",
                                 "Description": "Other",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "9401.61.20.31",
                                 "Description": "Of plantation-harvested teak",
@@ -151,7 +163,7 @@
                             "Subentries": [
                               {
                                 "HS Code": "",
-                                "Description": "Other:",
+                                "Description": "Household:",
                                 "Subentries": [
                                   {
                                     "HS Code": "9401.69.40.11",
@@ -162,7 +174,13 @@
                                     "HS Code": "9401.69.40.15",
                                     "Description": "Other",
                                     "Subentries": []
-                                  },
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
                                   {
                                     "HS Code": "9401.69.40.31",
                                     "Description": "Of plantation-harvested teak",
@@ -251,7 +269,13 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other seats, with metal frames:",
+            "Subentries": [
               {
                 "HS Code": "9401.71.00",
                 "Description": "Upholstered",
@@ -328,7 +352,7 @@
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other:",
+                        "Description": "Outdoor:",
                         "Subentries": [
                           {
                             "HS Code": "",
@@ -343,7 +367,13 @@
                                 "HS Code": "9401.79.00.15",
                                 "Description": "Other",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "9401.79.00.25",
                                 "Description": "Household",
@@ -355,7 +385,13 @@
                                 "Subentries": []
                               }
                             ]
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "9401.79.00.46",
                             "Description": "Household",

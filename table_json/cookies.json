@@ -17,7 +17,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Frozen:",
                     "Subentries": [
                       {
                         "HS Code": "1905.31.00.21",
@@ -28,7 +28,13 @@
                         "HS Code": "1905.31.00.29",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "1905.31.00.41",
                         "Description": "Containing peanuts or peanut products",
@@ -49,7 +55,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Frozen:",
                     "Subentries": [
                       {
                         "HS Code": "1905.32.00.21",
@@ -60,7 +66,13 @@
                         "HS Code": "1905.32.00.29",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "1905.32.00.41",
                         "Description": "Containing peanuts or peanut products",

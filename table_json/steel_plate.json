@@ -108,7 +108,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Of a width of less than 300 mm:",
                     "Subentries": [
                       {
                         "HS Code": "7211.19.15.00",
@@ -128,7 +128,24 @@
                             "HS Code": "7211.19.30.00",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "7211.19.45.00",
+                        "Description": "Of high-strength steel",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "7211.19.60.00",
                             "Description": "Pickled",
@@ -162,11 +179,6 @@
                             ]
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "7211.19.45.00",
-                        "Description": "Of high-strength steel",
-                        "Subentries": []
                       }
                     ]
                   }

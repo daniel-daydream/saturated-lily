@@ -26,7 +26,7 @@
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other:",
+                        "Description": "Incomplete or unfinished (including assemblies consisting of the parts specified in subdivisions (a), (b), (c) and (e) in additional U.S. note 9 to this chapter plus a power supply), presented without a display device:",
                         "Subentries": [
                           {
                             "HS Code": "8528.69.05.00",
@@ -37,7 +37,13 @@
                             "HS Code": "8528.69.10.00",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Non-high definition, with a cathode-ray tube:",
+                        "Subentries": [
                           {
                             "HS Code": "8528.69.15.00",
                             "Description": "Incorporating video recording or reproducing apparatus",
@@ -47,7 +53,13 @@
                             "HS Code": "8528.69.20.00",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "High definition, with a cathode-ray tube:",
+                        "Subentries": [
                           {
                             "HS Code": "8528.69.25.00",
                             "Description": "Incorporating video recording or reproducing apparatus",
@@ -57,7 +69,13 @@
                             "HS Code": "8528.69.30.00",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "With a flat panel screen:",
+                        "Subentries": [
                           {
                             "HS Code": "",
                             "Description": "Incorporating video recording or reproducing apparatus:",
@@ -71,7 +89,13 @@
                                 "HS Code": "8528.69.40.00",
                                 "Description": "Other",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "8528.69.45.00",
                                 "Description": "With a video display diagonal not exceeding 34.29 cm",
@@ -83,7 +107,13 @@
                                 "Subentries": []
                               }
                             ]
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "8528.69.55.00",
                             "Description": "Incorporating video recording or reproducing apparatus",

@@ -94,7 +94,7 @@
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other photocopying apparatus:",
+                        "Description": "Electrostatic photocopying apparatus:",
                         "Subentries": [
                           {
                             "HS Code": "8443.39.10.00",
@@ -105,7 +105,13 @@
                             "HS Code": "8443.39.20.00",
                             "Description": "Operating by reproducing the original image via an intermediate onto the copy (indirect process)",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other photocopying apparatus:",
+                        "Subentries": [
                           {
                             "HS Code": "8443.39.30.00",
                             "Description": "Incorporating an optical system",

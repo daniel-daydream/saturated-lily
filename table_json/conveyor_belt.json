@@ -167,7 +167,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Of trapezoidal cross section (V-belts and belting):",
                     "Subentries": [
                       {
                         "HS Code": "4010.39.10.00",
@@ -178,7 +178,13 @@
                         "HS Code": "4010.39.20.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "",
                         "Description": "Combined with textile materials:",

@@ -38,7 +38,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Of high-strength steel:",
                     "Subentries": [
                       {
                         "HS Code": "7210.49.00.40",
@@ -49,7 +49,13 @@
                         "HS Code": "7210.49.00.45",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "7210.49.00.91",
                         "Description": "Of a thickness of 0.4 mm or more",

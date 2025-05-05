@@ -59,7 +59,7 @@
                   },
                   {
                     "HS Code": "",
-                    "Description": "Sleds, bobsleds, toboggans and the like and parts and accessories thereof:",
+                    "Description": "Badminton articles and equipment, except rackets, and parts and accessories thereof:",
                     "Subentries": [
                       {
                         "HS Code": "9506.99.08.00",
@@ -69,16 +69,6 @@
                       {
                         "HS Code": "9506.99.12.00",
                         "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9506.99.40.00",
-                        "Description": "Toboggans; bobsleds and luges of a kind used in international competition",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "9506.99.45.00",
-                        "Description": "Other, including parts and accessories",
                         "Subentries": []
                       }
                     ]
@@ -123,6 +113,22 @@
                     "HS Code": "9506.99.35.00",
                     "Description": "Skeet targets",
                     "Subentries": []
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Sleds, bobsleds, toboggans and the like and parts and accessories thereof:",
+                    "Subentries": [
+                      {
+                        "HS Code": "9506.99.40.00",
+                        "Description": "Toboggans; bobsleds and luges of a kind used in international competition",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "9506.99.45.00",
+                        "Description": "Other, including parts and accessories",
+                        "Subentries": []
+                      }
+                    ]
                   },
                   {
                     "HS Code": "9506.99.50.00",

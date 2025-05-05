@@ -100,7 +100,13 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
               {
                 "HS Code": "5603.91.00",
                 "Description": "Weighing not more than 25 g/m2",

@@ -134,7 +134,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Of a fat content, by weight, not exceeding 3 percent:",
                     "Subentries": [
                       {
                         "HS Code": "0402.21.02.00",
@@ -150,7 +150,13 @@
                         "HS Code": "0402.21.25.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of a fat content, by weight, exceeding 3 percent but not exceeding 35 percent:",
+                    "Subentries": [
                       {
                         "HS Code": "0402.21.27.00",
                         "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
@@ -165,7 +171,13 @@
                         "HS Code": "0402.21.50.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "0402.21.73.00",
                         "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
@@ -205,14 +217,20 @@
                     "Subentries": []
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
               {
                 "HS Code": "0402.91",
                 "Description": "Not containing added sugar or other sweetening matter:",
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions:",
                     "Subentries": [
                       {
                         "HS Code": "0402.91.03.00",
@@ -223,7 +241,13 @@
                         "HS Code": "0402.91.06.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Described in additional U.S. note 11 to this chapter and entered pursuant to its provisions:",
+                    "Subentries": [
                       {
                         "HS Code": "0402.91.10.00",
                         "Description": "In airtight containers",
@@ -233,7 +257,13 @@
                         "HS Code": "0402.91.30.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "0402.91.70.00",
                         "Description": "In airtight containers",
@@ -254,7 +284,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Condensed milk:",
                     "Subentries": [
                       {
                         "HS Code": "",
@@ -269,7 +299,13 @@
                             "HS Code": "0402.99.06.00",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Described in additional U.S. note 11 to this chapter and entered pursuant to its provisions:",
+                        "Subentries": [
                           {
                             "HS Code": "0402.99.10.00",
                             "Description": "In airtight containers",
@@ -279,7 +315,13 @@
                             "HS Code": "0402.99.30.00",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "0402.99.45.00",
                             "Description": "In airtight containers",
@@ -291,7 +333,13 @@
                             "Subentries": []
                           }
                         ]
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "0402.99.68.00",
                         "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",

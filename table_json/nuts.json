@@ -20,7 +20,13 @@
                 "HS Code": "0801.22.00.00",
                 "Description": "Shelled",
                 "Subentries": []
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Cashew nuts:",
+            "Subentries": [
               {
                 "HS Code": "0801.31.00.00",
                 "Description": "In shell",
@@ -63,7 +69,13 @@
                     "Subentries": []
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Walnuts:",
+            "Subentries": [
               {
                 "HS Code": "0802.31.00.00",
                 "Description": "In shell",
@@ -73,7 +85,13 @@
                 "HS Code": "0802.32.00.00",
                 "Description": "Shelled",
                 "Subentries": []
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Pistachios:",
+            "Subentries": [
               {
                 "HS Code": "0802.51.00.00",
                 "Description": "In shell",
@@ -83,7 +101,13 @@
                 "HS Code": "0802.52.00.00",
                 "Description": "Shelled",
                 "Subentries": []
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Macadamia nuts:",
+            "Subentries": [
               {
                 "HS Code": "0802.61.00.00",
                 "Description": "In shell",

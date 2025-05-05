@@ -76,7 +76,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Portable:",
                     "Subentries": [
                       {
                         "HS Code": "7321.19.00.20",
@@ -87,7 +87,13 @@
                         "HS Code": "7321.19.00.40",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "7321.19.00.60",
                         "Description": "Of cast iron",
@@ -101,7 +107,13 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other appliances:",
+            "Subentries": [
               {
                 "HS Code": "7321.81",
                 "Description": "For gas fuel or for both gas and other fuels:",

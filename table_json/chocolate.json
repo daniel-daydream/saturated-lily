@@ -440,11 +440,11 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Preparations consisting wholly of ground cocoa beans, with or without added cocoa fat, flavoring or emulsifying agents, and containing not more than 32 percent by weight of butterfat or other milk solids and not more than 60 percent by weight of sugar:",
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other, dairy products described in additional U.S. note 1 to chapter 4:",
+                        "Description": "Containing butterfat or other milk solids (excluding articles for consumption at retail as candy or confection):",
                         "Subentries": [
                           {
                             "HS Code": "1806.32.01.00",
@@ -453,7 +453,7 @@
                           },
                           {
                             "HS Code": "",
-                            "Description": "Other:",
+                            "Description": "Other, containing over 5.5 percent by weight of butterfat:",
                             "Subentries": [
                               {
                                 "HS Code": "1806.32.04.00",
@@ -473,7 +473,24 @@
                                     "HS Code": "1806.32.08.00",
                                     "Description": "Other",
                                     "Subentries": []
-                                  },
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
+                              {
+                                "HS Code": "1806.32.14.00",
+                                "Description": "Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions",
+                                "Subentries": []
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
                                   {
                                     "HS Code": "1806.32.16.00",
                                     "Description": "Containing less than 21 percent by weight of milk solids",
@@ -485,12 +502,40 @@
                                     "Subentries": []
                                   }
                                 ]
-                              },
-                              {
-                                "HS Code": "1806.32.14.00",
-                                "Description": "Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions",
-                                "Subentries": []
-                              },
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "1806.32.30.00",
+                        "Description": "Other",
+                        "Subentries": []
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "1806.32.55.00",
+                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other, dairy products described in additional U.S. note 1 to chapter 4:",
+                        "Subentries": [
+                          {
+                            "HS Code": "1806.32.60.00",
+                            "Description": "Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions",
+                            "Subentries": []
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "1806.32.70.00",
                                 "Description": "Containing less than 21 percent by weight of milk solids",
@@ -502,23 +547,8 @@
                                 "Subentries": []
                               }
                             ]
-                          },
-                          {
-                            "HS Code": "1806.32.60.00",
-                            "Description": "Described in additional U.S. note 10 to chapter 4 and entered pursuant to its provisions",
-                            "Subentries": []
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "1806.32.30.00",
-                        "Description": "Other",
-                        "Subentries": []
-                      },
-                      {
-                        "HS Code": "1806.32.55.00",
-                        "Description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
-                        "Subentries": []
                       },
                       {
                         "HS Code": "1806.32.90.00",

@@ -33,7 +33,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "With outer surface of textile materials:",
+                    "Description": "With outer surface of sheeting of plastics:",
                     "Subentries": [
                       {
                         "HS Code": "4202.32.10.00",
@@ -44,10 +44,16 @@
                         "HS Code": "4202.32.20.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "With outer surface of textile materials:",
+                    "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other:",
+                        "Description": "Of vegetable fibers and not of pile or tufted construction:",
                         "Subentries": [
                           {
                             "HS Code": "4202.32.40.00",
@@ -58,7 +64,13 @@
                             "HS Code": "4202.32.80.00",
                             "Description": "Other (871)",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "4202.32.85.00",
                             "Description": "Containing 85 percent or more by weight of silk or silk waste",

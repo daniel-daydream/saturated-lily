@@ -17,7 +17,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "In retail containers weighing 2 kg or less:",
                     "Subentries": [
                       {
                         "HS Code": "0901.21.00.35",
@@ -28,7 +28,13 @@
                         "HS Code": "0901.21.00.45",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "0901.21.00.55",
                         "Description": "Certified organic",

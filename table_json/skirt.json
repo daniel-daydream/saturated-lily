@@ -42,7 +42,7 @@
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other:",
+                        "Description": "Corduroy:",
                         "Subentries": [
                           {
                             "HS Code": "6204.52.20.10",
@@ -53,7 +53,13 @@
                             "HS Code": "6204.52.20.20",
                             "Description": "Girls' (342)",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Blue denim:",
+                        "Subentries": [
                           {
                             "HS Code": "6204.52.20.30",
                             "Description": "Women's (342)",
@@ -63,7 +69,13 @@
                             "HS Code": "6204.52.20.40",
                             "Description": "Girls' (342)",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "6204.52.20.70",
                             "Description": "Women's (342)",

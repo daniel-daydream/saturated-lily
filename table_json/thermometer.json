@@ -42,7 +42,7 @@
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other",
+                        "Description": "Clinical",
                         "Subentries": [
                           {
                             "HS Code": "9025.19.80.10",
@@ -53,7 +53,13 @@
                             "HS Code": "9025.19.80.20",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other",
+                        "Subentries": [
                           {
                             "HS Code": "9025.19.80.60",
                             "Description": "Infrared thermometers",

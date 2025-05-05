@@ -17,7 +17,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Dyed, measuring less than 77 cm in width or less than 77 cm between selvages, the thread count of which per cm (treating multiple (folded) or cabled yarns as single threads) is over 69 but not over 142 in the warp and over 31 but not over 71 in the filling:",
                     "Subentries": [
                       {
                         "HS Code": "5407.61.11.00",
@@ -28,7 +28,13 @@
                         "HS Code": "5407.61.19.00",
                         "Description": "Other (619)",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Of yarns of different colors, the thread count of which per cm (treating multiple (folded) or cabled yarns as single threads) is over 69 but not over 142 in the warp and over 31 but not over 71 in the filling:",
+                    "Subentries": [
                       {
                         "HS Code": "5407.61.21.00",
                         "Description": "Wholly of polyester, of single yarns meas- uring not less than 75 decitex but not more than 80 decitex, having 24 filaments per yarn and with a twist of 900 or more turns per meter (619)",
@@ -38,7 +44,13 @@
                         "HS Code": "5407.61.29.00",
                         "Description": "Other (619)",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "5407.61.91.00",
                         "Description": "Wholly of polyester, of single yarns meas- uring not less than 75 decitex but not more than 80 decitex, having 24 filaments per yarn and with a twist of 900 or more turns per meter (619)",
@@ -50,7 +62,7 @@
                         "Subentries": [
                           {
                             "HS Code": "",
-                            "Description": "Printed:",
+                            "Description": "Unbleached or bleached:",
                             "Subentries": [
                               {
                                 "HS Code": "",
@@ -65,7 +77,24 @@
                                     "HS Code": "5407.61.99.10",
                                     "Description": "Other (619)",
                                     "Subentries": []
-                                  },
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "5407.61.99.15",
+                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Dyed:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Weighing not more than 170 g/m\u00b2:",
+                                "Subentries": [
                                   {
                                     "HS Code": "5407.61.99.25",
                                     "Description": "Flat fabrics (619)",
@@ -75,7 +104,24 @@
                                     "HS Code": "5407.61.99.30",
                                     "Description": "Other (619)",
                                     "Subentries": []
-                                  },
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "5407.61.99.35",
+                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Of yarns of different colors:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Weighing not more than 170 g/m\u00b2:",
+                                "Subentries": [
                                   {
                                     "HS Code": "5407.61.99.45",
                                     "Description": "Flat fabrics (619)",
@@ -85,7 +131,24 @@
                                     "HS Code": "5407.61.99.50",
                                     "Description": "Other (619)",
                                     "Subentries": []
-                                  },
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "5407.61.99.55",
+                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
+                                "Subentries": []
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Printed:",
+                            "Subentries": [
+                              {
+                                "HS Code": "",
+                                "Description": "Weighing not more than 170 g/m\u00b2:",
+                                "Subentries": [
                                   {
                                     "HS Code": "5407.61.99.65",
                                     "Description": "Flat fabrics (619)",
@@ -97,21 +160,6 @@
                                     "Subentries": []
                                   }
                                 ]
-                              },
-                              {
-                                "HS Code": "5407.61.99.15",
-                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "5407.61.99.35",
-                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                                "Subentries": []
-                              },
-                              {
-                                "HS Code": "5407.61.99.55",
-                                "Description": "Weighing more than 170 g/m\u00b2 (620)",
-                                "Subentries": []
                               },
                               {
                                 "HS Code": "5407.61.99.75",
@@ -354,7 +402,13 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Containing 85 percent of more by weight of acrylic or modacrylic staple fibers:",
+            "Subentries": [
               {
                 "HS Code": "5512.21.00",
                 "Description": "Unbleached or bleached",
@@ -567,7 +621,13 @@
                     "Subentries": []
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Dyed:",
+            "Subentries": [
               {
                 "HS Code": "5513.21.00",
                 "Description": "Of polyester staple fibers, plain weave",
@@ -773,7 +833,13 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Dyed:",
+            "Subentries": [
               {
                 "HS Code": "5514.21.00",
                 "Description": "Of polyester staple fibers, plain weave",

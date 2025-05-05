@@ -197,7 +197,13 @@
                     "Subentries": []
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other worked grains (for example, hulled, pearled, sliced or kibbled):",
+            "Subentries": [
               {
                 "HS Code": "1104.22.00.00",
                 "Description": "Of oats",

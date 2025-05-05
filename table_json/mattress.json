@@ -63,7 +63,7 @@
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other:",
+                        "Description": "Uncovered innerspring units:",
                         "Subentries": [
                           {
                             "HS Code": "9404.29.90.05",
@@ -79,7 +79,13 @@
                             "HS Code": "9404.29.90.50",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "9404.29.90.85",
                             "Description": "For use in a crib or toddler bed",

@@ -17,7 +17,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Containing 30 percent or more by weight of silk or silk waste:",
                     "Subentries": [
                       {
                         "HS Code": "6203.11.15.00",
@@ -28,7 +28,13 @@
                         "HS Code": "6203.11.30.00",
                         "Description": "Other (443)",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "6203.11.60.00",
                         "Description": "Of worsted wool fabric, made of wool yarn having an average fiber diameter of 18.5 microns or less   (443)",

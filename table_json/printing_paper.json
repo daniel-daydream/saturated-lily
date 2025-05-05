@@ -17,7 +17,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "In strips or rolls of a width exceeding 15 cm or in rectangular (including square) sheets with one side exceeding 36 cm and the other side exceeding 15 cm in the unfolded state:",
                     "Subentries": [
                       {
                         "HS Code": "4802.54.10.00",
@@ -33,7 +33,13 @@
                         "HS Code": "4802.54.31.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "4802.54.50.00",
                         "Description": "Basic paper to be sensitized for use in photography",
@@ -54,7 +60,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Of a width exceeding 15 cm:",
                     "Subentries": [
                       {
                         "HS Code": "4802.55.10.00",
@@ -75,7 +81,13 @@
                         "HS Code": "4802.55.40.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "4802.55.60.00",
                         "Description": "Basic paper to be sensitized for use in photography",
@@ -107,7 +119,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "With one side exceeding 360 mm and the other side exceeding 150 mm in the unfolded state:",
                     "Subentries": [
                       {
                         "HS Code": "4802.56.10.00",
@@ -128,7 +140,13 @@
                         "HS Code": "4802.56.40.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "4802.56.60.00",
                         "Description": "Basic paper to be sensitized for use in photography",
@@ -219,7 +237,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "In strips or rolls of a width exceeding 15 cm or in rectangular (including square) sheets with one side exceeding 36 cm and the other side exceeding 15 cm in the unfolded state:",
                     "Subentries": [
                       {
                         "HS Code": "4802.58.10.00",
@@ -246,7 +264,13 @@
                             "Subentries": []
                           }
                         ]
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "4802.58.50.00",
                         "Description": "Basic paper to be sensitized for use in photography",
@@ -271,14 +295,20 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other paper and paperboard, of which more than 10 percent by weight of the total fiber content consists of fibers obtained by a mechanical or chemi-mechanical process:",
+            "Subentries": [
               {
                 "HS Code": "4802.61",
                 "Description": "In rolls:",
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Of a width exceeding 15 cm:",
                     "Subentries": [
                       {
                         "HS Code": "4802.61.10.00",
@@ -316,7 +346,13 @@
                             ]
                           }
                         ]
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "4802.61.50.00",
                         "Description": "Basic paper to be sensitized for use in photography",
@@ -348,7 +384,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "With one side exceeding 360 mm and the other side exceeding 150 mm in the unfolded state:",
                     "Subentries": [
                       {
                         "HS Code": "4802.62.10.00",
@@ -364,7 +400,13 @@
                         "HS Code": "4802.62.30.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "4802.62.50.00",
                         "Description": "Basic paper to be sensitized for use in photography",

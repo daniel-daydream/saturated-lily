@@ -92,7 +92,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Dehumidifiers:",
+                    "Description": "Self-contained machines and remote condenser type air conditioners other than year-round units:",
                     "Subentries": [
                       {
                         "HS Code": "8415.82.01.05",
@@ -103,7 +103,13 @@
                         "HS Code": "8415.82.01.10",
                         "Description": "Exceeding 17.58 kW per hour",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Year-round units (heating and cooling):",
+                    "Subentries": [
                       {
                         "HS Code": "8415.82.01.15",
                         "Description": "Not exceeding 17.58 kW per hour",
@@ -113,7 +119,13 @@
                         "HS Code": "8415.82.01.20",
                         "Description": "Exceeding 17.58 kW per hour",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Room or central station air conditioning units for use with water chillers:",
+                    "Subentries": [
                       {
                         "HS Code": "8415.82.01.30",
                         "Description": "Room fan coil units",
@@ -128,7 +140,13 @@
                         "HS Code": "8415.82.01.40",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Dehumidifiers:",
+                    "Subentries": [
                       {
                         "HS Code": "8415.82.01.55",
                         "Description": "With a rated water removal capacity of less than 35 liters over a 24 hour period",

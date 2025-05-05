@@ -113,7 +113,13 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Briefs and panties:",
+            "Subentries": [
               {
                 "HS Code": "6108.21.00",
                 "Description": "Of cotton",
@@ -172,14 +178,20 @@
                     "Subentries": []
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
               {
                 "HS Code": "6108.91.00",
                 "Description": "Of cotton",
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Underwear:",
                     "Subentries": [
                       {
                         "HS Code": "6108.91.00.05",
@@ -201,7 +213,13 @@
                             "Subentries": []
                           }
                         ]
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "6108.91.00.30",
                         "Description": "Women's (350)",
@@ -222,7 +240,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Underwear:",
                     "Subentries": [
                       {
                         "HS Code": "6108.92.00.05",
@@ -244,7 +262,13 @@
                             "Subentries": []
                           }
                         ]
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "6108.92.00.30",
                         "Description": "Women's (650)",
@@ -397,7 +421,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Bathrobes, dressing gowns and similar articles:",
                     "Subentries": [
                       {
                         "HS Code": "6208.92.00.10",
@@ -408,7 +432,13 @@
                         "HS Code": "6208.92.00.20",
                         "Description": "Girls' (650)",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "6208.92.00.30",
                         "Description": "Women's (652)",

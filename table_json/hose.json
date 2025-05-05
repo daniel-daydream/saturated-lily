@@ -80,7 +80,13 @@
                     "Subentries": []
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Reinforced or otherwise combined only with metal:",
+            "Subentries": [
               {
                 "HS Code": "4009.21.00.00",
                 "Description": "Without fittings",

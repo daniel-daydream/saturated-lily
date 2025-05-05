@@ -9,7 +9,7 @@
         "Subentries": [
           {
             "HS Code": "",
-            "Description": "Of polyethylene or polypropylene:",
+            "Description": "Of sisal or other textile fibers of the genus Agave:",
             "Subentries": [
               {
                 "HS Code": "5607.21.00.00",
@@ -20,7 +20,13 @@
                 "HS Code": "5607.29.00.00",
                 "Description": "Other",
                 "Subentries": []
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Of polyethylene or polypropylene:",
+            "Subentries": [
               {
                 "HS Code": "5607.41",
                 "Description": "Binder or baler twine:",

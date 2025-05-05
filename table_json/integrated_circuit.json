@@ -17,7 +17,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Programmable logic devices (PLDs):",
+                    "Description": "Controllers (including microcontrollers):",
                     "Subentries": [
                       {
                         "HS Code": "8542.31.00.15",
@@ -38,7 +38,13 @@
                         "HS Code": "8542.31.00.30",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Processors (including microprocessors):",
+                    "Subentries": [
                       {
                         "HS Code": "8542.31.00.35",
                         "Description": "Digital signal processors (DSPs)",
@@ -58,7 +64,13 @@
                         "HS Code": "8542.31.00.50",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Programmable logic devices (PLDs):",
+                    "Subentries": [
                       {
                         "HS Code": "8542.31.00.55",
                         "Description": "Complex programmable logic devices (CPLDs)",

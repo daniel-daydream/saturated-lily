@@ -17,7 +17,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "In strips or rolls of a width exceeding 15 cm or in rectangular (including square) sheets with one side exceeding 36 cm and the other side exceeding 15 cm in the unfolded state:",
                     "Subentries": [
                       {
                         "HS Code": "4802.54.10.00",
@@ -33,7 +33,13 @@
                         "HS Code": "4802.54.31.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "4802.54.50.00",
                         "Description": "Basic paper to be sensitized for use in photography",
@@ -54,7 +60,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Of a width exceeding 15 cm:",
                     "Subentries": [
                       {
                         "HS Code": "4802.55.10.00",
@@ -75,7 +81,13 @@
                         "HS Code": "4802.55.40.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "4802.55.60.00",
                         "Description": "Basic paper to be sensitized for use in photography",
@@ -107,7 +119,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "With one side exceeding 360 mm and the other side exceeding 150 mm in the unfolded state:",
                     "Subentries": [
                       {
                         "HS Code": "4802.56.10.00",
@@ -128,7 +140,13 @@
                         "HS Code": "4802.56.40.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "4802.56.60.00",
                         "Description": "Basic paper to be sensitized for use in photography",
@@ -219,7 +237,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "In strips or rolls of a width exceeding 15 cm or in rectangular (including square) sheets with one side exceeding 36 cm and the other side exceeding 15 cm in the unfolded state:",
                     "Subentries": [
                       {
                         "HS Code": "4802.58.10.00",
@@ -246,7 +264,13 @@
                             "Subentries": []
                           }
                         ]
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "4802.58.50.00",
                         "Description": "Basic paper to be sensitized for use in photography",
@@ -271,14 +295,20 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other paper and paperboard, of which more than 10 percent by weight of the total fiber content consists of fibers obtained by a mechanical or chemi-mechanical process:",
+            "Subentries": [
               {
                 "HS Code": "4802.61",
                 "Description": "In rolls:",
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Of a width exceeding 15 cm:",
                     "Subentries": [
                       {
                         "HS Code": "4802.61.10.00",
@@ -316,7 +346,13 @@
                             ]
                           }
                         ]
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "4802.61.50.00",
                         "Description": "Basic paper to be sensitized for use in photography",
@@ -348,7 +384,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "With one side exceeding 360 mm and the other side exceeding 150 mm in the unfolded state:",
                     "Subentries": [
                       {
                         "HS Code": "4802.62.10.00",
@@ -364,7 +400,13 @@
                         "HS Code": "4802.62.30.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "4802.62.50.00",
                         "Description": "Basic paper to be sensitized for use in photography",
@@ -432,7 +474,13 @@
                 "HS Code": "4804.19.00.00",
                 "Description": "Other",
                 "Subentries": []
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Sack kraft paper:",
+            "Subentries": [
               {
                 "HS Code": "4804.21.00.00",
                 "Description": "Unbleached",
@@ -491,7 +539,13 @@
                     "Subentries": []
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Testliner (recycled liner board):",
+            "Subentries": [
               {
                 "HS Code": "4805.24",
                 "Description": "Weighing 150 g/m\u00b2 or less:",
@@ -517,7 +571,23 @@
                 "HS Code": "4805.25.00.00",
                 "Description": "Weighing more than 150 g/m\u00b2",
                 "Subentries": []
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "4805.30.00.00",
+            "Description": "Sulfite wrapping paper",
+            "Subentries": []
+          },
+          {
+            "HS Code": "4805.40.00.00",
+            "Description": "Filter paper and paperboard",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
               {
                 "HS Code": "4805.91",
                 "Description": "Weighing 150 g/m\u00b2 or less:",
@@ -651,16 +721,6 @@
                 ]
               }
             ]
-          },
-          {
-            "HS Code": "4805.30.00.00",
-            "Description": "Sulfite wrapping paper",
-            "Subentries": []
-          },
-          {
-            "HS Code": "4805.40.00.00",
-            "Description": "Filter paper and paperboard",
-            "Subentries": []
           }
         ]
       },
@@ -726,11 +786,11 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Of a width exceeding 15 cm:",
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other:",
+                        "Description": "Weighing not more than 150 g/m\u00b2:",
                         "Subentries": [
                           {
                             "HS Code": "4810.13.11",
@@ -757,7 +817,40 @@
                             "HS Code": "4810.13.19.00",
                             "Description": "Other",
                             "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "4810.13.20",
+                        "Description": "Weighing more than 150 g/m\u00b2",
+                        "Subentries": [
+                          {
+                            "HS Code": "4810.13.20.10",
+                            "Description": "Coated on one side only",
+                            "Subentries": []
                           },
+                          {
+                            "HS Code": "4810.13.20.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4810.13.50.00",
+                        "Description": "Printed, embossed or perforated",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "4810.13.60.00",
                             "Description": "Basic paper to be sensitized for use in photography",
@@ -780,27 +873,6 @@
                             ]
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "4810.13.20",
-                        "Description": "Weighing more than 150 g/m\u00b2",
-                        "Subentries": [
-                          {
-                            "HS Code": "4810.13.20.10",
-                            "Description": "Coated on one side only",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "4810.13.20.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "4810.13.50.00",
-                        "Description": "Printed, embossed or perforated",
-                        "Subentries": []
                       }
                     ]
                   }
@@ -812,11 +884,11 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "With one side exceeding 360 mm and the other side exceeding 150 mm in the unfolded state:",
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other:",
+                        "Description": "Weighing not more than 150 g/m\u00b2:",
                         "Subentries": [
                           {
                             "HS Code": "4810.14.11",
@@ -843,7 +915,40 @@
                             "HS Code": "4810.14.19.00",
                             "Description": "Other",
                             "Subentries": []
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "4810.14.20",
+                        "Description": "Weighing more than 150 g/m\u00b2",
+                        "Subentries": [
+                          {
+                            "HS Code": "4810.14.20.10",
+                            "Description": "Coated on one side only",
+                            "Subentries": []
                           },
+                          {
+                            "HS Code": "4810.14.20.90",
+                            "Description": "Other",
+                            "Subentries": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4810.14.50.00",
+                        "Description": "Printed, embossed or perforated",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "4810.14.60.00",
                             "Description": "Basic paper to be sensitized for use in photography",
@@ -866,27 +971,6 @@
                             ]
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "4810.14.20",
-                        "Description": "Weighing more than 150 g/m\u00b2",
-                        "Subentries": [
-                          {
-                            "HS Code": "4810.14.20.10",
-                            "Description": "Coated on one side only",
-                            "Subentries": []
-                          },
-                          {
-                            "HS Code": "4810.14.20.90",
-                            "Description": "Other",
-                            "Subentries": []
-                          }
-                        ]
-                      },
-                      {
-                        "HS Code": "4810.14.50.00",
-                        "Description": "Printed, embossed or perforated",
-                        "Subentries": []
                       }
                     ]
                   }
@@ -934,7 +1018,13 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Paper and paperboard of a kind used for writing, printing or other graphic purposes, of which more than 10 percent by weight of the total fiber content consists of fibers obtained by a mechanical or chemi-mechanical process:",
+            "Subentries": [
               {
                 "HS Code": "4810.22",
                 "Description": "Light-weight coated paper:",
@@ -1065,7 +1155,13 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Kraft paper and paperboard, other than that of a kind used for writing, printing or other graphic purposes:",
+            "Subentries": [
               {
                 "HS Code": "4810.31",
                 "Description": "Bleached uniformly throughout the mass and of which more than 95 percent by weight of the total fiber content consists of wood fibers obtained by a chemical process and weighing 150 g/m\u00b2 or less:",
@@ -1169,7 +1265,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "In strips or rolls of a width exceeding 15 cm or in rectangular (including square) sheets with one side exceeding 36 cm and the other side exceeding 15 cm in the unfolded state:",
                     "Subentries": [
                       {
                         "HS Code": "4810.39.12.00",
@@ -1180,7 +1276,13 @@
                         "HS Code": "4810.39.14.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "4810.39.30.00",
                         "Description": "Cards, not punched, for punchcard machines, whether or not in strips",
@@ -1194,14 +1296,20 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other paper and paperboard:",
+            "Subentries": [
               {
                 "HS Code": "4810.92",
                 "Description": "Multi-ply:",
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "In strips or rolls of a width exceeding 15 cm or in rectangular (including square) sheets with one side exceeding 36 cm and the other side exceeding 15 cm in the unfolded state:",
                     "Subentries": [
                       {
                         "HS Code": "4810.92.12",
@@ -1234,7 +1342,13 @@
                             "Subentries": []
                           }
                         ]
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "4810.92.30.00",
                         "Description": "Cards, not punched, for punch card machines, whether or not in strips",
@@ -1384,7 +1498,13 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Paper and paperboard, coated, impregnated or covered with plastics (excluding adhesives):",
+            "Subentries": [
               {
                 "HS Code": "4811.51",
                 "Description": "Bleached, weighing more than 150 g/m\u00b2:",

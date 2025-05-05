@@ -31,7 +31,7 @@
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other:",
+                        "Description": "With handles containing nickel or containing over 10 percent by weight of manganese:",
                         "Subentries": [
                           {
                             "HS Code": "8211.91.20.00",
@@ -42,7 +42,13 @@
                             "HS Code": "8211.91.25.00",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "8211.91.30.00",
                             "Description": "Valued under 25\u00a2 each, not over 25.9 cm in overall length",
@@ -97,7 +103,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "With rubber or plastic handles:",
                     "Subentries": [
                       {
                         "HS Code": "8211.92.20.00",
@@ -119,7 +125,13 @@
                             "Subentries": []
                           }
                         ]
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "8211.92.60.00",
                         "Description": "Hunting knives with wood handles",

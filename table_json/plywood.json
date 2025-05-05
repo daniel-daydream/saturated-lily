@@ -17,7 +17,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Not surface covered, or surface covered with a clear or transparent material which does not obscure the grain, texture or markings of the face ply:",
                     "Subentries": [
                       {
                         "HS Code": "4412.31.06",
@@ -95,7 +95,7 @@
                                     "Subentries": [
                                       {
                                         "HS Code": "",
-                                        "Description": "Other:",
+                                        "Description": "Not surface covered:",
                                         "Subentries": [
                                           {
                                             "HS Code": "4412.31.48.60",
@@ -116,7 +116,13 @@
                                             "HS Code": "4412.31.48.69",
                                             "Description": "Other",
                                             "Subentries": []
-                                          },
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "HS Code": "",
+                                        "Description": "Other:",
+                                        "Subentries": [
                                           {
                                             "HS Code": "4412.31.48.75",
                                             "Description": "Wood flooring",
@@ -216,7 +222,13 @@
                             ]
                           }
                         ]
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "4412.31.61.00",
                         "Description": "With at least one outer ply of the following tropical woods: Dark Red Meranti, Light Red Meranti, White Lauan, Sipo, Limba, Okoum\u00e9, Obeche, Acajou d'Afrique, Sapelli, Virola, Mahogany, Palissandre de Para, Palissandre de Rio or Palissandre de Rose",
@@ -456,7 +468,7 @@
                         "Subentries": [
                           {
                             "HS Code": "",
-                            "Description": "Other:",
+                            "Description": "With at least one outer ply of Douglas fir (Pseudotsuga menziesii):",
                             "Subentries": [
                               {
                                 "HS Code": "4412.39.40.11",
@@ -472,7 +484,13 @@
                                 "HS Code": "4412.39.40.19",
                                 "Description": "Other",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "With at least one outer ply of long leaf pine (Pinus palustris), short leaf pine (Pinus echinata), southern yellow pine (loblolly pine)(Pinus taeda), slash pine (Pinus elliotti), pitch pine (Pinus rigida) or Virginia pine (Pinus virginiana):",
+                            "Subentries": [
                               {
                                 "HS Code": "4412.39.40.31",
                                 "Description": "Rough, or touch sanded for sizing purposes, but not further processed",
@@ -487,7 +505,13 @@
                                 "HS Code": "4412.39.40.39",
                                 "Description": "Other",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "With at least one outer ply of Agathis spp.:",
+                            "Subentries": [
                               {
                                 "HS Code": "4412.39.40.51",
                                 "Description": "Rough, or touch sanded for sizing purposes, but not further processed",
@@ -502,7 +526,13 @@
                                 "HS Code": "4412.39.40.59",
                                 "Description": "Other",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "4412.39.40.61",
                                 "Description": "Rough, or touch sanded for sizing purposes, but not further processed",

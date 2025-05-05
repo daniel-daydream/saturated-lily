@@ -17,7 +17,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Ski or snowmobile gloves, mittens and mitts:",
+                    "Description": "Baseball and softball gloves and mitts (including batting gloves):",
                     "Subentries": [
                       {
                         "HS Code": "4203.21.20.00",
@@ -28,7 +28,13 @@
                         "HS Code": "4203.21.40.00",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Ski or snowmobile gloves, mittens and mitts:",
+                    "Subentries": [
                       {
                         "HS Code": "4203.21.55.00",
                         "Description": "Cross-country ski gloves, mittens and mitts",
@@ -70,11 +76,11 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Gloves of horsehide or cowhide (except calfskin) leather:",
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "Other:",
+                        "Description": "Wholly of leather:",
                         "Subentries": [
                           {
                             "HS Code": "4203.29.05.00",
@@ -85,7 +91,13 @@
                             "HS Code": "4203.29.08.00",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "4203.29.15.00",
                             "Description": "With fourchettes or sidewalls which, at a minimum, extend from fingertip to fingertip between each of the four fingers",
@@ -95,7 +107,24 @@
                             "HS Code": "4203.29.18.00",
                             "Description": "Other",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
+                      {
+                        "HS Code": "4203.29.20.00",
+                        "Description": "Not seamed",
+                        "Subentries": []
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "Other:",
+                        "Subentries": [
                           {
                             "HS Code": "4203.29.30",
                             "Description": "Men's",
@@ -129,11 +158,6 @@
                             ]
                           }
                         ]
-                      },
-                      {
-                        "HS Code": "4203.29.20.00",
-                        "Description": "Not seamed",
-                        "Subentries": []
                       }
                     ]
                   }

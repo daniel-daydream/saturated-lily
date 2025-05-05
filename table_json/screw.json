@@ -104,7 +104,7 @@
                           },
                           {
                             "HS Code": "",
-                            "Description": "Other:",
+                            "Description": "Bent bolts:",
                             "Subentries": [
                               {
                                 "HS Code": "7318.15.20.41",
@@ -115,10 +115,16 @@
                                 "HS Code": "7318.15.20.46",
                                 "Description": "Other",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "",
-                                "Description": "Other:",
+                                "Description": "With round heads:",
                                 "Subentries": [
                                   {
                                     "HS Code": "7318.15.20.51",
@@ -129,7 +135,13 @@
                                     "HS Code": "7318.15.20.55",
                                     "Description": "Other",
                                     "Subentries": []
-                                  },
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "With hexagonal heads:",
+                                "Subentries": [
                                   {
                                     "HS Code": "7318.15.20.61",
                                     "Description": "Of stainless steel",
@@ -139,7 +151,13 @@
                                     "HS Code": "7318.15.20.65",
                                     "Description": "Other",
                                     "Subentries": []
-                                  },
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
                                   {
                                     "HS Code": "7318.15.20.91",
                                     "Description": "Of stainless steel",
@@ -211,7 +229,7 @@
                         "Subentries": [
                           {
                             "HS Code": "",
-                            "Description": "Other:",
+                            "Description": "Socket screws:",
                             "Subentries": [
                               {
                                 "HS Code": "7318.15.60.10",
@@ -222,7 +240,13 @@
                                 "HS Code": "7318.15.60.40",
                                 "Description": "Other",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "7318.15.60.70",
                                 "Description": "Of stainless steel",
@@ -252,7 +276,7 @@
                             "Subentries": [
                               {
                                 "HS Code": "",
-                                "Description": "Other:",
+                                "Description": "Socket screws:",
                                 "Subentries": [
                                   {
                                     "HS Code": "7318.15.80.30",
@@ -263,10 +287,16 @@
                                     "HS Code": "7318.15.80.45",
                                     "Description": "Other",
                                     "Subentries": []
-                                  },
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
                                   {
                                     "HS Code": "",
-                                    "Description": "Other:",
+                                    "Description": "With hexagonal heads:",
                                     "Subentries": [
                                       {
                                         "HS Code": "7318.15.80.55",
@@ -288,7 +318,13 @@
                                             "Subentries": []
                                           }
                                         ]
-                                      },
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "HS Code": "",
+                                    "Description": "Other:",
+                                    "Subentries": [
                                       {
                                         "HS Code": "7318.15.80.82",
                                         "Description": "Of stainless steel",
@@ -317,7 +353,7 @@
                 "Subentries": [
                   {
                     "HS Code": "",
-                    "Description": "Other:",
+                    "Description": "Lugnuts:",
                     "Subentries": [
                       {
                         "HS Code": "7318.16.00.15",
@@ -333,7 +369,13 @@
                         "HS Code": "7318.16.00.45",
                         "Description": "Other",
                         "Subentries": []
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "HS Code": "",
+                    "Description": "Other:",
+                    "Subentries": [
                       {
                         "HS Code": "7318.16.00.60",
                         "Description": "Of stainless steel",

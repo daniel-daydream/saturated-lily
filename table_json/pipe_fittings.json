@@ -113,7 +113,13 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other, of stainless steel:",
+            "Subentries": [
               {
                 "HS Code": "7307.21",
                 "Description": "Flanges:",
@@ -177,7 +183,13 @@
                     "Subentries": []
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "",
+            "Description": "Other:",
+            "Subentries": [
               {
                 "HS Code": "7307.91",
                 "Description": "Flanges:",
@@ -204,7 +216,7 @@
                     "Subentries": [
                       {
                         "HS Code": "",
-                        "Description": "With an inside diameter of 360 mm or more:",
+                        "Description": "With an inside diameter of less than 360 mm:",
                         "Subentries": [
                           {
                             "HS Code": "7307.91.50.10",
@@ -215,7 +227,13 @@
                             "HS Code": "7307.91.50.30",
                             "Description": "Of alloy steel (except stainless steel)",
                             "Subentries": []
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "HS Code": "",
+                        "Description": "With an inside diameter of 360 mm or more:",
+                        "Subentries": [
                           {
                             "HS Code": "7307.91.50.50",
                             "Description": "Of iron or nonalloy steel",

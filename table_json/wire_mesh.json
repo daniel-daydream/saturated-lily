@@ -101,7 +101,18 @@
                 "HS Code": "7314.19.01.00",
                 "Description": "Other",
                 "Subentries": []
-              },
+              }
+            ]
+          },
+          {
+            "HS Code": "7314.20.00.00",
+            "Description": "Grill, netting and fencing, welded at the intersection, of wire with a maximum cross-sectional dimension of 3 mm or more and having a mesh size of 100 cm2 or more",
+            "Subentries": []
+          },
+          {
+            "HS Code": "",
+            "Description": "Other grill, netting and fencing, welded at the intersection:",
+            "Subentries": [
               {
                 "HS Code": "7314.31",
                 "Description": "Plated or coated with zinc:",
@@ -135,11 +146,6 @@
                 "Subentries": []
               }
             ]
-          },
-          {
-            "HS Code": "7314.20.00.00",
-            "Description": "Grill, netting and fencing, welded at the intersection, of wire with a maximum cross-sectional dimension of 3 mm or more and having a mesh size of 100 cm2 or more",
-            "Subentries": []
           }
         ]
       }

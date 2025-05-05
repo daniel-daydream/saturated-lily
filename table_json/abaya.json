@@ -62,7 +62,7 @@
                         "Subentries": [
                           {
                             "HS Code": "",
-                            "Description": "Other:",
+                            "Description": "Corduroy:",
                             "Subentries": [
                               {
                                 "HS Code": "6204.42.30.10",
@@ -73,10 +73,16 @@
                                 "HS Code": "6204.42.30.20",
                                 "Description": "Girls' (336)",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "",
-                                "Description": "Other:",
+                                "Description": "With two or more colors in the warp and/or the filling:",
                                 "Subentries": [
                                   {
                                     "HS Code": "6204.42.30.30",
@@ -87,7 +93,13 @@
                                     "HS Code": "6204.42.30.40",
                                     "Description": "Girls' (336)",
                                     "Subentries": []
-                                  },
+                                  }
+                                ]
+                              },
+                              {
+                                "HS Code": "",
+                                "Description": "Other:",
+                                "Subentries": [
                                   {
                                     "HS Code": "6204.42.30.50",
                                     "Description": "Women's (336)",
@@ -148,7 +160,7 @@
                         "Subentries": [
                           {
                             "HS Code": "",
-                            "Description": "Other:",
+                            "Description": "With two or more colors in the warp and/or the filling:",
                             "Subentries": [
                               {
                                 "HS Code": "6204.43.40.10",
@@ -159,7 +171,13 @@
                                 "HS Code": "6204.43.40.20",
                                 "Description": "Girls' (636)",
                                 "Subentries": []
-                              },
+                              }
+                            ]
+                          },
+                          {
+                            "HS Code": "",
+                            "Description": "Other:",
+                            "Subentries": [
                               {
                                 "HS Code": "6204.43.40.30",
                                 "Description": "Women's (636)",
